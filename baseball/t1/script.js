@@ -36,7 +36,7 @@ fetch("baseballtier1standings.json")
       let lastModified = res.headers.get("last-modified");
       if (lastModified) {
         document.getElementById("last-updated").textContent =
-          "Last updated: " + new Date(lastModified).toLocaleString();
+          "Standings last updated: " + new Date(lastModified).toLocaleString();
       }
     });
   })
@@ -44,15 +44,20 @@ fetch("baseballtier1standings.json")
 
 // ------------------ Schedule ------------------
 fetch("schedule.json")
-  .then((response) => response.json())
-  .then((data) => {
+  .then(async (response) => {
+    // Try to read last-modified right away
+    const lastModified = response.headers.get("last-modified");
+    const data = await response.json();
+    return { data, lastModified };
+  })
+  .then(({ data, lastModified }) => {
     let placeholder = document.querySelector("#schedule-output");
     let out = "";
 
     if (data.schedule && data.schedule.length > 0) {
       for (let game of data.schedule) {
         if (!game.home_team && !game.away_team) {
-          // Case 5: No games scheduled
+          // No games scheduled for this date
           out += `
             <tr>
               <td>${game.date}</td>
@@ -73,6 +78,26 @@ fetch("schedule.json")
         }
       }
       placeholder.innerHTML = out;
+    }
+
+    // Show Last updated under the schedule table
+    const el = document.getElementById("schedule-last-updated");
+    if (el) {
+      if (lastModified) {
+        el.textContent =
+          "Schedule last updated: " + new Date(lastModified).toLocaleString();
+      } else {
+        // Fallback: try a HEAD request if the first response lacked the header
+        fetch("schedule.json", { method: "HEAD" })
+          .then((res) => {
+            const lm = res.headers.get("last-modified");
+            if (lm) {
+              el.textContent =
+                "Schedule last updated: " + new Date(lm).toLocaleString();
+            }
+          })
+          .catch(() => {});
+      }
     }
   })
   .catch((error) => console.error("Error loading schedule:", error));
