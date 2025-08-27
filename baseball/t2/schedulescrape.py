@@ -1,0 +1,120 @@
+#Tier 2 Varsity Boys Baseball Schedule
+import requests
+from bs4 import BeautifulSoup
+import json
+import re
+
+def clean_text(text: str) -> str:
+    """Remove weird whitespace and return clean string"""
+    return re.sub(r"\s+", " ", text).strip()
+
+def scrape_schedule():
+    url = "http://www.yraa.com/src/schedule.php?division=101"  # Schedule over next 7 days
+    headers = {"User-Agent": "Mozilla/5.0"}
+    resp = requests.get(url, headers=headers, timeout=10)
+    resp.raise_for_status()
+
+    soup = BeautifulSoup(resp.text, "html.parser")
+
+    schedule = []
+    current_date = None
+    seen_games = set()
+    date_with_game = set()
+    all_dates = []
+
+    for row in soup.find_all("tr"):
+        cells = [clean_text(c.get_text()) for c in row.find_all("td")]
+        if not cells:
+            continue
+
+        # Detect date row
+        if len(cells) == 1 and any(month in cells[0] for month in [
+            "January","February","March","April","May","June",
+            "July","August","September","October","November","December"
+        ]):
+            current_date = cells[0]
+            all_dates.append(current_date)
+            continue
+
+        # Skip headers
+        if cells[0].upper() in ["TEAMS", "TIME", "LOCATION"]:
+            continue
+
+        if len(cells) >= 3 and current_date:
+            raw_teams = clean_text(cells[0])
+            time = clean_text(cells[1])
+            location = clean_text(cells[2])
+
+            if not raw_teams or "No games" in raw_teams:
+                continue
+
+            game_played = any(ch.isdigit() for ch in raw_teams)
+
+            home_team, away_team, final_score = None, None, None
+
+            # Case 1: at HomeTeam Score, AwayTeam Score
+            match1 = re.match(r"at\s+(.+?)\s+(\d+),\s*(.+?)\s+(\d+)", raw_teams)
+            # Case 2: AwayTeam Score, at HomeTeam Score
+            match2 = re.match(r"(.+?)\s+(\d+),\s*at\s+(.+?)\s+(\d+)", raw_teams)
+            # Case 3: at HomeTeam, AwayTeam (no scores)
+            match3 = re.match(r"at\s+(.+?),\s*(.+)", raw_teams)
+            # Case 4: AwayTeam, at HomeTeam (no scores)
+            match4 = re.match(r"(.+?),\s*at\s+(.+)", raw_teams)
+
+            if match1:
+                home_team = match1.group(1)
+                away_team = match1.group(3)
+                final_score = f"{home_team} {match1.group(2)}, {away_team} {match1.group(4)}"
+            elif match2:
+                away_team = match2.group(1)
+                home_team = match2.group(3)
+                final_score = f"{home_team} {match2.group(4)}, {away_team} {match2.group(2)}"
+            elif match3:
+                home_team = match3.group(1)
+                away_team = match3.group(2)
+                game_played = False
+            elif match4:
+                away_team = match4.group(1)
+                home_team = match4.group(2)
+                game_played = False
+
+            if not home_team or not away_team:
+                continue
+
+            date_with_game.add(current_date)
+            game_key = (current_date, home_team, away_team, time, location)
+            if game_key in seen_games:
+                continue
+            seen_games.add(game_key)
+
+            schedule.append({
+                "date": current_date,
+                "home_team": clean_text(home_team),
+                "away_team": clean_text(away_team),
+                "time": time,
+                "location": location,
+                "game_played": game_played,
+                "final_score": final_score
+            })
+
+    # Case 5: Dates with no games
+    for date in all_dates:
+        if date not in date_with_game:
+            schedule.append({
+                "date": date,
+                "home_team": None,
+                "away_team": None,
+                "time": None,
+                "location": None,
+                "game_played": False,
+                "final_score": None
+            })
+
+    # Save JSON
+    with open("baseball/t2/schedule.json", "w", encoding="utf-8") as f:
+        json.dump({"schedule": schedule}, f, indent=4, ensure_ascii=False)
+
+    print(f"Saved {len(schedule)} entries to baseball/t2/schedule.json")
+
+if __name__ == "__main__":
+    scrape_schedule()

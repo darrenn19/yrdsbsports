@@ -1,4 +1,4 @@
-#Tier 1 Boys Baseball
+##Tier 1 Varsity Boys Baseball Standings
 import requests
 from bs4 import BeautifulSoup
 import json
