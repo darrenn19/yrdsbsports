@@ -1,10 +1,10 @@
-#Tier 1 Boys Baseball
+#Tier 2 Boys Baseball
 import requests
 from bs4 import BeautifulSoup
 import json
 
 # URL of the standings page
-url = "http://yraa.com/src/standings.php?division=100"
+url = "http://yraa.com/src/standings.php?division=101"
 
 # Send a GET request to fetch the HTML content of the page
 response = requests.get(url)
@@ -58,9 +58,9 @@ if response.status_code == 200:
     }
 
     # Write the data to a JSON file
-    with open("baseball/t1/baseballtier1standings.json", "w") as json_file:
+    with open("baseball/t2/baseballtier2standings.json", "w") as json_file:
         json.dump(json_data, json_file, indent=4)
 
-    print("Data successfully saved to baseballtier1standings.json")
+    print("Data successfully saved to baseballtier2standings.json")
 else:
     print("Failed to retrieve the page. Status code:", response.status_code)
