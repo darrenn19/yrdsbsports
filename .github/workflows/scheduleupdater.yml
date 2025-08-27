@@ -1,0 +1,46 @@
+name: Update All Schedules
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Run every 12 hours
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-schedules:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run all schedule scrapers
+        run: |
+          for file in $(find . -type f -name "schedulescrape.py"); do
+            echo "Running $file..."
+            python "$file"
+          done
+
+      - name: Commit and push updated JSON if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet; then
+            echo "No changes detected — nothing to commit."
+          else
+            git add **/schedule.json
+            git commit -m "Automated update: schedules"
+            git push
+          fi
