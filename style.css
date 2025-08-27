@@ -2,14 +2,14 @@
 .division-row {
   font-weight: bold;
   background-color: #f0f0f0; /* Light gray background */
-  color: #333; /* Dark text color */
+  color: #333;
 }
 
 .division-row td {
   background-color: #d3d3d3; /* Slightly darker background for each cell in the division row */
 }
 
-/* Optional: Style header to make it more noticeable */
+/* Style header to make it more noticeable */
 th {
   background-color: #4caf50;
   color: white;
