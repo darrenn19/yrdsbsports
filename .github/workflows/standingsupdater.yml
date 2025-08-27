@@ -1,0 +1,49 @@
+name: Update All Standings
+
+on:
+  schedule:
+    - cron: "*/15 * * * *" # every 15 minutes
+  workflow_dispatch: # allow manual run
+
+permissions:
+  contents: write #Allows github action bot to push code automatically
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.13"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run all scrapers
+        run: |
+          echo "🔎 Looking for standingsscrape.py files..."
+          find . -type f -name "standingsscrape.py"
+
+          # Run every standingsscrape.py found
+          for file in $(find . -type f -name "standingsscrape.py"); do
+            echo "➡ Running $file"
+            python "$file"
+          done
+
+      - name: Commit and push updated JSONs if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet; then
+            echo "No changes — nothing to commit"
+          else
+            git add .
+            git commit -m "Update standings"
+            git push
+          fi
