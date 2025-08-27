@@ -13,7 +13,7 @@ name: Update Standings
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "*/15 * * * *" #Done every 15 minutes
   workflow_dispatch:
 
 permissions:
