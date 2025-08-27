@@ -2,11 +2,11 @@ name: Update Tier 1 Baseball Standings
 
 on:
   schedule:
-    - cron: "*/15 * * * *" #Action done every 15 minutes
+    - cron: "*/15 * * * *" # Action done every 15 minutes
   workflow_dispatch:
 
 permissions:
-  contents: write #Allows github action bot to push code
+  contents: write # Allows github action bot to push code
 
 jobs:
   scrape:
@@ -25,17 +25,17 @@ jobs:
         run: pip install requests beautifulsoup4
 
       - name: Run scraper
-        run: python scrape.py
+        run: python baseball/t1/scrape.py
 
       - name: Commit and push updated JSON if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          if git diff --quiet baseballtier1standings.json; then
+          if git diff --quiet baseball/t1/baseballtier1standings.json; then
             echo "No changes in standings — nothing to commit"
           else
-            git add baseballtier1standings.json
+            git add baseball/t1/baseballtier1standings.json
             git commit -m "Update Baseball Tier 1 standings"
             git push
           fi

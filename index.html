@@ -3,31 +3,41 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>YRDSB Sports Hub</title>
     <link rel="stylesheet" href="style.css" />
-    <title>Baseball Standings</title>
   </head>
   <body>
-    <h1>Boys Tier 1 Baseball Team Standings</h1>
-    <table border="1">
-      <thead>
-        <tr>
-          <th>Team</th>
-          <th>Wins</th>
-          <th>Losses</th>
-          <th>Ties</th>
-          <th>Points</th>
-          <th>Runs For</th>
-          <th>Runs Against</th>
-          <th>Run Differential</th>
-        </tr>
-      </thead>
-      <tbody id="data-output">
-        <!-- Data will be inserted here -->
-      </tbody>
-    </table>
-    <p id="last-updated"></p>
+    <header>
+      <h1>YRDSB Sports Hub</h1>
+      <p>Teams, Standings, Schedules, and Results</p>
+    </header>
 
-    <!-- Include the JavaScript file -->
-    <script src="script.js"></script>
+    <main>
+      <section class="sports-grid">
+        <a href="baseball/t1/" class="card">
+          <h2>⚾ Baseball</h2>
+          <p>View standings & schedules</p>
+        </a>
+
+        <a href="basketball/index.html" class="card">
+          <h2>🏀 Basketball</h2>
+          <p>View standings & schedules</p>
+        </a>
+
+        <a href="volleyball/index.html" class="card">
+          <h2>🏐 Volleyball</h2>
+          <p>View standings & schedules</p>
+        </a>
+
+        <a href="soccer/index.html" class="card">
+          <h2>⚽ Soccer</h2>
+          <p>View standings & schedules</p>
+        </a>
+      </section>
+    </main>
+
+    <footer>
+      <p>Data auto-updated every 15 minutes</p>
+    </footer>
   </body>
 </html>

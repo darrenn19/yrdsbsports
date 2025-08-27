@@ -1,31 +1,74 @@
-/* Style the division rows to make them stand out */
-.division-row {
-  font-weight: bold;
-  background-color: #f0f0f0; /* Light gray background */
-  color: #333; /* Dark text color */
+/* General Reset */
+body {
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: #f7f9fc;
+  color: #222;
 }
 
-.division-row td {
-  background-color: #d3d3d3; /* Slightly darker background for each cell in the division row */
-}
-
-/* Optional: Style header to make it more noticeable */
-th {
-  background-color: #4caf50;
+/* Header */
+header {
+  text-align: center;
+  padding: 2rem;
+  background: #004080;
   color: white;
-  padding: 8px;
-  text-align: center;
 }
 
-td {
-  padding: 8px;
-  text-align: center;
+header h1 {
+  margin: 0;
+  font-size: 2.5rem;
 }
 
-#last-updated {
+header p {
+  margin-top: 0.5rem;
+  font-size: 1.2rem;
+  opacity: 0.9;
+}
+
+/* Grid Layout for Sports */
+.sports-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+  padding: 2rem;
+  max-width: 1000px;
+  margin: auto;
+}
+
+/* Sport Cards */
+.card {
+  display: block;
+  text-decoration: none;
+  background: white;
+  padding: 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s, box-shadow 0.2s;
+  color: inherit;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.card h2 {
+  margin-top: 0;
+  font-size: 1.5rem;
+}
+
+.card p {
+  margin: 0.5rem 0 0;
+  font-size: 1rem;
+  color: #555;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 1rem;
+  margin-top: 2rem;
+  background: #e9ecef;
   font-size: 0.9rem;
   color: #555;
-  margin-top: 10px;
-  font-style: italic;
-  text-align: left;
 }

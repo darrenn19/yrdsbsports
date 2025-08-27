@@ -1,3 +1,4 @@
+#Tier 1 Boys Baseball
 import requests
 from bs4 import BeautifulSoup
 import json
@@ -57,7 +58,7 @@ if response.status_code == 200:
     }
 
     # Write the data to a JSON file
-    with open("baseballtier1standings.json", "w") as json_file:
+    with open("baseball/t1/baseballtier1standings.json", "w") as json_file:
         json.dump(json_data, json_file, indent=4)
 
     print("Data successfully saved to baeballtier1standings.json")
