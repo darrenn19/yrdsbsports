@@ -1,15 +1,20 @@
-name: Update Baseball Tier 1 Standings
+name: Update Standings
 
 on:
   schedule:
-    - cron: "*/15 * * * *" # does process every 15 minutes
-  workflow_dispatch: # allow manual run too
+    - cron: "*/15 * * * *" #Done every 15 minutes
+  workflow_dispatch:
+
+permissions:
+  contents: write # Allows for github-actions[bot] to push code
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          persist-credentials: true # ensures the token is kept
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -24,8 +29,8 @@ jobs:
 
       - name: Commit and push updated JSON
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add baseballtier1standings.json
           git commit -m "Update standings" || echo "No changes to commit"
           git push
