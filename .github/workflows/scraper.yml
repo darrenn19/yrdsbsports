@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 name: Update Tier 1 Baseball Standings
 
 on:
@@ -7,6 +8,17 @@ on:
 
 permissions:
   contents: write #Allows github action bot to push code
+=======
+name: Update Standings
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write # Allows for github-actions[bot] to push code
+>>>>>>> f1d9409 (Allow github bot permission to push code)
 
 jobs:
   scrape:
@@ -14,7 +26,11 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
+<<<<<<< HEAD
           persist-credentials: true
+=======
+          persist-credentials: true # ensures the token is kept
+>>>>>>> f1d9409 (Allow github bot permission to push code)
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -31,6 +47,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+<<<<<<< HEAD
 
           if git diff --quiet baseballtier1standings.json; then
             echo "No changes in standings — nothing to commit"
@@ -39,3 +56,8 @@ jobs:
             git commit -m "Update Baseball Tier 1 standings"
             git push
           fi
+=======
+          git add baseballtier1standings.json
+          git commit -m "Update standings" || echo "No changes to commit"
+          git push
+>>>>>>> f1d9409 (Allow github bot permission to push code)
