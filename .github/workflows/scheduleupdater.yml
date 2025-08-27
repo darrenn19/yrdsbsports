@@ -2,7 +2,7 @@ name: Update All Schedules
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Run every 12 hours
+    - cron: "0 */15 * * *" # Run every 12 hours CHANGE ONCE SEASONS START
   workflow_dispatch: # Allow manual trigger
 
 permissions:

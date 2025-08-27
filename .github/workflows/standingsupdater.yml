@@ -2,7 +2,7 @@ name: Update All Standings
 
 on:
   schedule:
-    - cron: "*/15 * * * *" # every 15 minutes
+    - cron: "0 */15 * * *" # Runs every 15 minutes CHANGE WHEN SEASONS START
   workflow_dispatch: # allow manual run
 
 permissions:
