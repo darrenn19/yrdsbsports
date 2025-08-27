@@ -21,3 +21,11 @@ td {
   padding: 8px;
   text-align: center;
 }
+
+#last-updated {
+  font-size: 0.9rem; /* slightly smaller text */
+  color: #555; /* muted gray */
+  margin-top: 10px; /* space above it */
+  font-style: italic; /* makes it look like metadata */
+  text-align: right; /* align to the right of the page */
+}
