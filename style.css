@@ -72,3 +72,17 @@ footer {
   font-size: 0.9rem;
   color: #555;
 }
+
+.search-container {
+  text-align: center;
+  margin: 1rem 0 2rem;
+}
+
+#searchBar {
+  width: 60%;
+  max-width: 400px;
+  padding: 0.6rem;
+  font-size: 1rem;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+}
