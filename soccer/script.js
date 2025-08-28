@@ -1,5 +1,4 @@
 //JUNIOR BOYS TIER 1
-//JUNIOR BOYS
 // ------------------ Standings ------------------
 fetch("soccerjb1standings.json")
   .then((response) => response.json())
@@ -13,6 +12,7 @@ fetch("soccerjb1standings.json")
           team.Team === "Central" ||
           team.Team === "East" ||
           team.Team === "North" ||
+          team.Team === "Central 1" ||
           team.Team === "West";
 
         const divisionClass = isDivision ? "division-row" : "";
@@ -87,6 +87,738 @@ fetch("jb1schedule.json")
           "Schedule last updated: " + new Date(lastModified).toLocaleString();
       } else {
         fetch("jb1schedule.json", { method: "HEAD" })
+          .then((res) => {
+            const lm = res.headers.get("last-modified");
+            if (lm) {
+              el.textContent =
+                "Schedule last updated: " + new Date(lm).toLocaleString();
+            }
+          })
+          .catch(() => {});
+      }
+    }
+  })
+  .catch((error) => console.error("Error loading schedule:", error));
+
+//JUNIOR BOYS TIER 2
+
+// ------------------ Standings ------------------
+fetch("soccerjb2standings.json")
+  .then((response) => response.json())
+  .then((data) => {
+    const placeholder = document.querySelector("#data-output");
+    let out = "";
+
+    if (data.standings && data.standings.length > 0) {
+      for (const team of data.standings) {
+        const isDivision =
+          team.Team === "Central" ||
+          team.Team === "East" ||
+          team.Team === "North" ||
+          team.Team === "Central-West" ||
+          team.Team === "West";
+
+        const divisionClass = isDivision ? "division-row" : "";
+
+        out += `
+                <tr class="${divisionClass}">
+                  <td>${team.Team ?? ""}</td>
+                  <td>${team.W ?? ""}</td>
+                  <td>${team.L ?? ""}</td>
+                  <td>${team.T ?? ""}</td>
+                  <td>${team.PTS ?? ""}</td>
+                  <td>${team.GF ?? team.PF ?? ""}</td>
+                  <td>${team.GA ?? team.PA ?? ""}</td>
+                  <td>${team.DIFF ?? ""}</td>
+                </tr>
+              `;
+      }
+      placeholder.innerHTML = out;
+    }
+
+    // Last updated (standings)
+    fetch("soccerjb2standings.json", { method: "HEAD" }).then((res) => {
+      const lastModified = res.headers.get("last-modified");
+      if (lastModified) {
+        document.getElementById("last-updated").textContent =
+          "Standings last updated: " + new Date(lastModified).toLocaleString();
+      }
+    });
+  })
+  .catch((error) => console.error("Error loading standings:", error));
+
+// ------------------ Schedule ------------------
+fetch("jb2schedule.json")
+  .then(async (response) => {
+    const lastModified = response.headers.get("last-modified");
+    const data = await response.json();
+    return { data, lastModified };
+  })
+  .then(({ data, lastModified }) => {
+    const placeholder = document.querySelector("#schedule-output");
+    let out = "";
+
+    if (data.schedule && data.schedule.length > 0) {
+      for (const game of data.schedule) {
+        if (!game.home_team && !game.away_team) {
+          out += `
+                  <tr>
+                    <td>${game.date}</td>
+                    <td colspan="5">No games scheduled</td>
+                  </tr>
+                `;
+        } else {
+          out += `
+                  <tr>
+                    <td>${game.date}</td>
+                    <td>${game.home_team ?? ""}</td>
+                    <td>${game.away_team ?? ""}</td>
+                    <td>${game.time || "-"}</td>
+                    <td>${game.location || "-"}</td>
+                    <td>${game.final_score ? game.final_score : "-"}</td>
+                  </tr>
+                `;
+        }
+      }
+      placeholder.innerHTML = out;
+    }
+
+    const el = document.getElementById("schedule-last-updated");
+    if (el) {
+      if (lastModified) {
+        el.textContent =
+          "Schedule last updated: " + new Date(lastModified).toLocaleString();
+      } else {
+        fetch("jb2schedule.json", { method: "HEAD" })
+          .then((res) => {
+            const lm = res.headers.get("last-modified");
+            if (lm) {
+              el.textContent =
+                "Schedule last updated: " + new Date(lm).toLocaleString();
+            }
+          })
+          .catch(() => {});
+      }
+    }
+  })
+  .catch((error) => console.error("Error loading schedule:", error));
+
+//JUNIOR GIRLS TIER 1
+
+// ------------------ Standings ------------------
+fetch("soccerjg1standings.json")
+  .then((response) => response.json())
+  .then((data) => {
+    const placeholder = document.querySelector("#data-output");
+    let out = "";
+
+    if (data.standings && data.standings.length > 0) {
+      for (const team of data.standings) {
+        const isDivision =
+          team.Team === "Central" ||
+          team.Team === "East" ||
+          team.Team === "North" ||
+          team.Team === "Central 1" ||
+          team.Team === "West";
+
+        const divisionClass = isDivision ? "division-row" : "";
+
+        out += `
+                <tr class="${divisionClass}">
+                  <td>${team.Team ?? ""}</td>
+                  <td>${team.W ?? ""}</td>
+                  <td>${team.L ?? ""}</td>
+                  <td>${team.T ?? ""}</td>
+                  <td>${team.PTS ?? ""}</td>
+                  <td>${team.GF ?? team.PF ?? ""}</td>
+                  <td>${team.GA ?? team.PA ?? ""}</td>
+                  <td>${team.DIFF ?? ""}</td>
+                </tr>
+              `;
+      }
+      placeholder.innerHTML = out;
+    }
+
+    // Last updated (standings)
+    fetch("soccerjg1standings.json", { method: "HEAD" }).then((res) => {
+      const lastModified = res.headers.get("last-modified");
+      if (lastModified) {
+        document.getElementById("last-updated").textContent =
+          "Standings last updated: " + new Date(lastModified).toLocaleString();
+      }
+    });
+  })
+  .catch((error) => console.error("Error loading standings:", error));
+
+// ------------------ Schedule ------------------
+fetch("jg1schedule.json")
+  .then(async (response) => {
+    const lastModified = response.headers.get("last-modified");
+    const data = await response.json();
+    return { data, lastModified };
+  })
+  .then(({ data, lastModified }) => {
+    const placeholder = document.querySelector("#schedule-output");
+    let out = "";
+
+    if (data.schedule && data.schedule.length > 0) {
+      for (const game of data.schedule) {
+        if (!game.home_team && !game.away_team) {
+          out += `
+                  <tr>
+                    <td>${game.date}</td>
+                    <td colspan="5">No games scheduled</td>
+                  </tr>
+                `;
+        } else {
+          out += `
+                  <tr>
+                    <td>${game.date}</td>
+                    <td>${game.home_team ?? ""}</td>
+                    <td>${game.away_team ?? ""}</td>
+                    <td>${game.time || "-"}</td>
+                    <td>${game.location || "-"}</td>
+                    <td>${game.final_score ? game.final_score : "-"}</td>
+                  </tr>
+                `;
+        }
+      }
+      placeholder.innerHTML = out;
+    }
+
+    const el = document.getElementById("schedule-last-updated");
+    if (el) {
+      if (lastModified) {
+        el.textContent =
+          "Schedule last updated: " + new Date(lastModified).toLocaleString();
+      } else {
+        fetch("jg1schedule.json", { method: "HEAD" })
+          .then((res) => {
+            const lm = res.headers.get("last-modified");
+            if (lm) {
+              el.textContent =
+                "Schedule last updated: " + new Date(lm).toLocaleString();
+            }
+          })
+          .catch(() => {});
+      }
+    }
+  })
+  .catch((error) => console.error("Error loading schedule:", error));
+
+//JUNIOR GIRLS TIER 2
+
+// ------------------ Standings ------------------
+fetch("soccerjg2standings.json")
+  .then((response) => response.json())
+  .then((data) => {
+    const placeholder = document.querySelector("#data-output");
+    let out = "";
+
+    if (data.standings && data.standings.length > 0) {
+      for (const team of data.standings) {
+        const isDivision =
+          team.Team === "Central" ||
+          team.Team === "East" ||
+          team.Team === "North" ||
+          team.Team === "Central 1" ||
+          team.Team === "West";
+
+        const divisionClass = isDivision ? "division-row" : "";
+
+        out += `
+                <tr class="${divisionClass}">
+                  <td>${team.Team ?? ""}</td>
+                  <td>${team.W ?? ""}</td>
+                  <td>${team.L ?? ""}</td>
+                  <td>${team.T ?? ""}</td>
+                  <td>${team.PTS ?? ""}</td>
+                  <td>${team.GF ?? team.PF ?? ""}</td>
+                  <td>${team.GA ?? team.PA ?? ""}</td>
+                  <td>${team.DIFF ?? ""}</td>
+                </tr>
+              `;
+      }
+      placeholder.innerHTML = out;
+    }
+
+    // Last updated (standings)
+    fetch("soccerjg2standings.json", { method: "HEAD" }).then((res) => {
+      const lastModified = res.headers.get("last-modified");
+      if (lastModified) {
+        document.getElementById("last-updated").textContent =
+          "Standings last updated: " + new Date(lastModified).toLocaleString();
+      }
+    });
+  })
+  .catch((error) => console.error("Error loading standings:", error));
+
+// ------------------ Schedule ------------------
+fetch("jg2schedule.json")
+  .then(async (response) => {
+    const lastModified = response.headers.get("last-modified");
+    const data = await response.json();
+    return { data, lastModified };
+  })
+  .then(({ data, lastModified }) => {
+    const placeholder = document.querySelector("#schedule-output");
+    let out = "";
+
+    if (data.schedule && data.schedule.length > 0) {
+      for (const game of data.schedule) {
+        if (!game.home_team && !game.away_team) {
+          out += `
+                  <tr>
+                    <td>${game.date}</td>
+                    <td colspan="5">No games scheduled</td>
+                  </tr>
+                `;
+        } else {
+          out += `
+                  <tr>
+                    <td>${game.date}</td>
+                    <td>${game.home_team ?? ""}</td>
+                    <td>${game.away_team ?? ""}</td>
+                    <td>${game.time || "-"}</td>
+                    <td>${game.location || "-"}</td>
+                    <td>${game.final_score ? game.final_score : "-"}</td>
+                  </tr>
+                `;
+        }
+      }
+      placeholder.innerHTML = out;
+    }
+
+    const el = document.getElementById("schedule-last-updated");
+    if (el) {
+      if (lastModified) {
+        el.textContent =
+          "Schedule last updated: " + new Date(lastModified).toLocaleString();
+      } else {
+        fetch("jg2schedule.json", { method: "HEAD" })
+          .then((res) => {
+            const lm = res.headers.get("last-modified");
+            if (lm) {
+              el.textContent =
+                "Schedule last updated: " + new Date(lm).toLocaleString();
+            }
+          })
+          .catch(() => {});
+      }
+    }
+  })
+  .catch((error) => console.error("Error loading schedule:", error));
+
+//SENIOR GIRLS TIER 1
+
+// ------------------ Standings ------------------
+fetch("soccersg1standings.json")
+  .then((response) => response.json())
+  .then((data) => {
+    const placeholder = document.querySelector("#data-output");
+    let out = "";
+
+    if (data.standings && data.standings.length > 0) {
+      for (const team of data.standings) {
+        const isDivision =
+          team.Team === "Central" ||
+          team.Team === "East" ||
+          team.Team === "North" ||
+          team.Team === "Central 1" ||
+          team.Team === "North 1" ||
+          team.Team === "North-East" ||
+          team.Team === "West";
+
+        const divisionClass = isDivision ? "division-row" : "";
+
+        out += `
+                <tr class="${divisionClass}">
+                  <td>${team.Team ?? ""}</td>
+                  <td>${team.W ?? ""}</td>
+                  <td>${team.L ?? ""}</td>
+                  <td>${team.T ?? ""}</td>
+                  <td>${team.PTS ?? ""}</td>
+                  <td>${team.GF ?? team.PF ?? ""}</td>
+                  <td>${team.GA ?? team.PA ?? ""}</td>
+                  <td>${team.DIFF ?? ""}</td>
+                </tr>
+              `;
+      }
+      placeholder.innerHTML = out;
+    }
+
+    // Last updated (standings)
+    fetch("soccersg1standings.json", { method: "HEAD" }).then((res) => {
+      const lastModified = res.headers.get("last-modified");
+      if (lastModified) {
+        document.getElementById("last-updated").textContent =
+          "Standings last updated: " + new Date(lastModified).toLocaleString();
+      }
+    });
+  })
+  .catch((error) => console.error("Error loading standings:", error));
+
+// ------------------ Schedule ------------------
+fetch("sg1schedule.json")
+  .then(async (response) => {
+    const lastModified = response.headers.get("last-modified");
+    const data = await response.json();
+    return { data, lastModified };
+  })
+  .then(({ data, lastModified }) => {
+    const placeholder = document.querySelector("#schedule-output");
+    let out = "";
+
+    if (data.schedule && data.schedule.length > 0) {
+      for (const game of data.schedule) {
+        if (!game.home_team && !game.away_team) {
+          out += `
+                  <tr>
+                    <td>${game.date}</td>
+                    <td colspan="5">No games scheduled</td>
+                  </tr>
+                `;
+        } else {
+          out += `
+                  <tr>
+                    <td>${game.date}</td>
+                    <td>${game.home_team ?? ""}</td>
+                    <td>${game.away_team ?? ""}</td>
+                    <td>${game.time || "-"}</td>
+                    <td>${game.location || "-"}</td>
+                    <td>${game.final_score ? game.final_score : "-"}</td>
+                  </tr>
+                `;
+        }
+      }
+      placeholder.innerHTML = out;
+    }
+
+    const el = document.getElementById("schedule-last-updated");
+    if (el) {
+      if (lastModified) {
+        el.textContent =
+          "Schedule last updated: " + new Date(lastModified).toLocaleString();
+      } else {
+        fetch("sg1schedule.json", { method: "HEAD" })
+          .then((res) => {
+            const lm = res.headers.get("last-modified");
+            if (lm) {
+              el.textContent =
+                "Schedule last updated: " + new Date(lm).toLocaleString();
+            }
+          })
+          .catch(() => {});
+      }
+    }
+  })
+  .catch((error) => console.error("Error loading schedule:", error));
+
+//SENIOR GIRLS TIER 2
+
+// ------------------ Standings ------------------
+fetch("soccersg2standings.json")
+  .then((response) => response.json())
+  .then((data) => {
+    const placeholder = document.querySelector("#data-output");
+    let out = "";
+
+    if (data.standings && data.standings.length > 0) {
+      for (const team of data.standings) {
+        const isDivision =
+          team.Team === "Central" ||
+          team.Team === "East" ||
+          team.Team === "North" ||
+          team.Team === "Central 1" ||
+          team.Team === "East 1" ||
+          team.Team === "East 2" ||
+          team.Team === "Central 1" ||
+          team.Team === "West";
+
+        const divisionClass = isDivision ? "division-row" : "";
+
+        out += `
+                <tr class="${divisionClass}">
+                  <td>${team.Team ?? ""}</td>
+                  <td>${team.W ?? ""}</td>
+                  <td>${team.L ?? ""}</td>
+                  <td>${team.T ?? ""}</td>
+                  <td>${team.PTS ?? ""}</td>
+                  <td>${team.GF ?? team.PF ?? ""}</td>
+                  <td>${team.GA ?? team.PA ?? ""}</td>
+                  <td>${team.DIFF ?? ""}</td>
+                </tr>
+              `;
+      }
+      placeholder.innerHTML = out;
+    }
+
+    // Last updated (standings)
+    fetch("soccersg2standings.json", { method: "HEAD" }).then((res) => {
+      const lastModified = res.headers.get("last-modified");
+      if (lastModified) {
+        document.getElementById("last-updated").textContent =
+          "Standings last updated: " + new Date(lastModified).toLocaleString();
+      }
+    });
+  })
+  .catch((error) => console.error("Error loading standings:", error));
+
+// ------------------ Schedule ------------------
+fetch("sg2schedule.json")
+  .then(async (response) => {
+    const lastModified = response.headers.get("last-modified");
+    const data = await response.json();
+    return { data, lastModified };
+  })
+  .then(({ data, lastModified }) => {
+    const placeholder = document.querySelector("#schedule-output");
+    let out = "";
+
+    if (data.schedule && data.schedule.length > 0) {
+      for (const game of data.schedule) {
+        if (!game.home_team && !game.away_team) {
+          out += `
+                  <tr>
+                    <td>${game.date}</td>
+                    <td colspan="5">No games scheduled</td>
+                  </tr>
+                `;
+        } else {
+          out += `
+                  <tr>
+                    <td>${game.date}</td>
+                    <td>${game.home_team ?? ""}</td>
+                    <td>${game.away_team ?? ""}</td>
+                    <td>${game.time || "-"}</td>
+                    <td>${game.location || "-"}</td>
+                    <td>${game.final_score ? game.final_score : "-"}</td>
+                  </tr>
+                `;
+        }
+      }
+      placeholder.innerHTML = out;
+    }
+
+    const el = document.getElementById("schedule-last-updated");
+    if (el) {
+      if (lastModified) {
+        el.textContent =
+          "Schedule last updated: " + new Date(lastModified).toLocaleString();
+      } else {
+        fetch("sg2schedule.json", { method: "HEAD" })
+          .then((res) => {
+            const lm = res.headers.get("last-modified");
+            if (lm) {
+              el.textContent =
+                "Schedule last updated: " + new Date(lm).toLocaleString();
+            }
+          })
+          .catch(() => {});
+      }
+    }
+  })
+  .catch((error) => console.error("Error loading schedule:", error));
+
+//SENIOR BOYS TIER 1
+
+// ------------------ Standings ------------------
+fetch("soccersb1standings.json")
+  .then((response) => response.json())
+  .then((data) => {
+    const placeholder = document.querySelector("#data-output");
+    let out = "";
+
+    if (data.standings && data.standings.length > 0) {
+      for (const team of data.standings) {
+        const isDivision =
+          team.Team === "Central" ||
+          team.Team === "East" ||
+          team.Team === "North" ||
+          team.Team === "Central 1" ||
+          team.Team === "East 1" ||
+          team.Team === "East 2" ||
+          team.Team === "Central 1" ||
+          team.Team === "West";
+
+        const divisionClass = isDivision ? "division-row" : "";
+
+        out += `
+                <tr class="${divisionClass}">
+                  <td>${team.Team ?? ""}</td>
+                  <td>${team.W ?? ""}</td>
+                  <td>${team.L ?? ""}</td>
+                  <td>${team.T ?? ""}</td>
+                  <td>${team.PTS ?? ""}</td>
+                  <td>${team.GF ?? team.PF ?? ""}</td>
+                  <td>${team.GA ?? team.PA ?? ""}</td>
+                  <td>${team.DIFF ?? ""}</td>
+                </tr>
+              `;
+      }
+      placeholder.innerHTML = out;
+    }
+
+    // Last updated (standings)
+    fetch("soccersb1standings.json", { method: "HEAD" }).then((res) => {
+      const lastModified = res.headers.get("last-modified");
+      if (lastModified) {
+        document.getElementById("last-updated").textContent =
+          "Standings last updated: " + new Date(lastModified).toLocaleString();
+      }
+    });
+  })
+  .catch((error) => console.error("Error loading standings:", error));
+
+// ------------------ Schedule ------------------
+fetch("sb1schedule.json")
+  .then(async (response) => {
+    const lastModified = response.headers.get("last-modified");
+    const data = await response.json();
+    return { data, lastModified };
+  })
+  .then(({ data, lastModified }) => {
+    const placeholder = document.querySelector("#schedule-output");
+    let out = "";
+
+    if (data.schedule && data.schedule.length > 0) {
+      for (const game of data.schedule) {
+        if (!game.home_team && !game.away_team) {
+          out += `
+                  <tr>
+                    <td>${game.date}</td>
+                    <td colspan="5">No games scheduled</td>
+                  </tr>
+                `;
+        } else {
+          out += `
+                  <tr>
+                    <td>${game.date}</td>
+                    <td>${game.home_team ?? ""}</td>
+                    <td>${game.away_team ?? ""}</td>
+                    <td>${game.time || "-"}</td>
+                    <td>${game.location || "-"}</td>
+                    <td>${game.final_score ? game.final_score : "-"}</td>
+                  </tr>
+                `;
+        }
+      }
+      placeholder.innerHTML = out;
+    }
+
+    const el = document.getElementById("schedule-last-updated");
+    if (el) {
+      if (lastModified) {
+        el.textContent =
+          "Schedule last updated: " + new Date(lastModified).toLocaleString();
+      } else {
+        fetch("sb1schedule.json", { method: "HEAD" })
+          .then((res) => {
+            const lm = res.headers.get("last-modified");
+            if (lm) {
+              el.textContent =
+                "Schedule last updated: " + new Date(lm).toLocaleString();
+            }
+          })
+          .catch(() => {});
+      }
+    }
+  })
+  .catch((error) => console.error("Error loading schedule:", error));
+
+//SENIOR BOYS TIER 2
+
+// ------------------ Standings ------------------
+fetch("soccersb2standings.json")
+  .then((response) => response.json())
+  .then((data) => {
+    const placeholder = document.querySelector("#data-output");
+    let out = "";
+
+    if (data.standings && data.standings.length > 0) {
+      for (const team of data.standings) {
+        const isDivision =
+          team.Team === "Central" ||
+          team.Team === "East" ||
+          team.Team === "North" ||
+          team.Team === "Central 1" ||
+          team.Team === "East 1" ||
+          team.Team === "East 2" ||
+          team.Team === "Central 1" ||
+          team.Team === "West";
+
+        const divisionClass = isDivision ? "division-row" : "";
+
+        out += `
+                <tr class="${divisionClass}">
+                  <td>${team.Team ?? ""}</td>
+                  <td>${team.W ?? ""}</td>
+                  <td>${team.L ?? ""}</td>
+                  <td>${team.T ?? ""}</td>
+                  <td>${team.PTS ?? ""}</td>
+                  <td>${team.GF ?? team.PF ?? ""}</td>
+                  <td>${team.GA ?? team.PA ?? ""}</td>
+                  <td>${team.DIFF ?? ""}</td>
+                </tr>
+              `;
+      }
+      placeholder.innerHTML = out;
+    }
+
+    // Last updated (standings)
+    fetch("soccersb2standings.json", { method: "HEAD" }).then((res) => {
+      const lastModified = res.headers.get("last-modified");
+      if (lastModified) {
+        document.getElementById("last-updated").textContent =
+          "Standings last updated: " + new Date(lastModified).toLocaleString();
+      }
+    });
+  })
+  .catch((error) => console.error("Error loading standings:", error));
+
+// ------------------ Schedule ------------------
+fetch("sb2schedule.json")
+  .then(async (response) => {
+    const lastModified = response.headers.get("last-modified");
+    const data = await response.json();
+    return { data, lastModified };
+  })
+  .then(({ data, lastModified }) => {
+    const placeholder = document.querySelector("#schedule-output");
+    let out = "";
+
+    if (data.schedule && data.schedule.length > 0) {
+      for (const game of data.schedule) {
+        if (!game.home_team && !game.away_team) {
+          out += `
+                  <tr>
+                    <td>${game.date}</td>
+                    <td colspan="5">No games scheduled</td>
+                  </tr>
+                `;
+        } else {
+          out += `
+                  <tr>
+                    <td>${game.date}</td>
+                    <td>${game.home_team ?? ""}</td>
+                    <td>${game.away_team ?? ""}</td>
+                    <td>${game.time || "-"}</td>
+                    <td>${game.location || "-"}</td>
+                    <td>${game.final_score ? game.final_score : "-"}</td>
+                  </tr>
+                `;
+        }
+      }
+      placeholder.innerHTML = out;
+    }
+
+    const el = document.getElementById("schedule-last-updated");
+    if (el) {
+      if (lastModified) {
+        el.textContent =
+          "Schedule last updated: " + new Date(lastModified).toLocaleString();
+      } else {
+        fetch("sb2schedule.json", { method: "HEAD" })
           .then((res) => {
             const lm = res.headers.get("last-modified");
             if (lm) {
