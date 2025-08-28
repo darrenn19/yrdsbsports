@@ -1,0 +1,394 @@
+{
+    "standings": [
+        {
+            "Team": "Central",
+            "W": "GP",
+            "L": "W",
+            "T": "L",
+            "PTS": "T",
+            "PF": "PTS",
+            "PA": "PF",
+            "DIFF": "PA"
+        },
+        {
+            "Team": "Bayview SS",
+            "W": "8",
+            "L": "6",
+            "T": "2",
+            "PTS": "0",
+            "PF": "12",
+            "PA": "493",
+            "DIFF": "429"
+        },
+        {
+            "Team": "Richmond Green SS",
+            "W": "8",
+            "L": "6",
+            "T": "2",
+            "PTS": "0",
+            "PF": "12",
+            "PA": "504",
+            "DIFF": "442"
+        },
+        {
+            "Team": "St. Theresa Of Lisieux",
+            "W": "8",
+            "L": "5",
+            "T": "3",
+            "PTS": "0",
+            "PF": "10",
+            "PA": "458",
+            "DIFF": "419"
+        },
+        {
+            "Team": "Thornlea SS",
+            "W": "8",
+            "L": "5",
+            "T": "3",
+            "PTS": "0",
+            "PF": "10",
+            "PA": "488",
+            "DIFF": "437"
+        },
+        {
+            "Team": "Richmond Hill HS",
+            "W": "8",
+            "L": "4",
+            "T": "4",
+            "PTS": "0",
+            "PF": "8",
+            "PA": "457",
+            "DIFF": "420"
+        },
+        {
+            "Team": "St. Augustine",
+            "W": "7",
+            "L": "3",
+            "T": "4",
+            "PTS": "0",
+            "PF": "6",
+            "PA": "353",
+            "DIFF": "380"
+        },
+        {
+            "Team": "Alexander Mackenzie",
+            "W": "8",
+            "L": "2",
+            "T": "6",
+            "PTS": "0",
+            "PF": "4",
+            "PA": "378",
+            "DIFF": "448"
+        },
+        {
+            "Team": "St. Robert",
+            "W": "7",
+            "L": "0",
+            "T": "7",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "349",
+            "DIFF": "505"
+        },
+        {
+            "Team": "East",
+            "W": "GP",
+            "L": "W",
+            "T": "L",
+            "PTS": "T",
+            "PF": "PTS",
+            "PA": "PF",
+            "DIFF": "PA"
+        },
+        {
+            "Team": "Stouffville",
+            "W": "8",
+            "L": "8",
+            "T": "0",
+            "PTS": "0",
+            "PF": "16",
+            "PA": "445",
+            "DIFF": "359"
+        },
+        {
+            "Team": "Bur Oak SS",
+            "W": "8",
+            "L": "6",
+            "T": "2",
+            "PTS": "0",
+            "PF": "12",
+            "PA": "447",
+            "DIFF": "369"
+        },
+        {
+            "Team": "Markham District",
+            "W": "8",
+            "L": "6",
+            "T": "2",
+            "PTS": "0",
+            "PF": "12",
+            "PA": "465",
+            "DIFF": "396"
+        },
+        {
+            "Team": "Pierre Elliott Trudeau",
+            "W": "8",
+            "L": "6",
+            "T": "2",
+            "PTS": "0",
+            "PF": "12",
+            "PA": "482",
+            "DIFF": "394"
+        },
+        {
+            "Team": "Unionville HS",
+            "W": "8",
+            "L": "4",
+            "T": "4",
+            "PTS": "0",
+            "PF": "8",
+            "PA": "441",
+            "DIFF": "474"
+        },
+        {
+            "Team": "St. Katharine Drexel",
+            "W": "8",
+            "L": "4",
+            "T": "4",
+            "PTS": "0",
+            "PF": "8",
+            "PA": "446",
+            "DIFF": "496"
+        },
+        {
+            "Team": "St. Brother Andre",
+            "W": "8",
+            "L": "3",
+            "T": "5",
+            "PTS": "0",
+            "PF": "6",
+            "PA": "475",
+            "DIFF": "470"
+        },
+        {
+            "Team": "Middlefield",
+            "W": "8",
+            "L": "2",
+            "T": "6",
+            "PTS": "0",
+            "PF": "4",
+            "PA": "414",
+            "DIFF": "419"
+        },
+        {
+            "Team": "Milliken Mills",
+            "W": "8",
+            "L": "1",
+            "T": "7",
+            "PTS": "0",
+            "PF": "2",
+            "PA": "336",
+            "DIFF": "453"
+        },
+        {
+            "Team": "Father McGivney",
+            "W": "8",
+            "L": "0",
+            "T": "8",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "308",
+            "DIFF": "429"
+        },
+        {
+            "Team": "North",
+            "W": "GP",
+            "L": "W",
+            "T": "L",
+            "PTS": "T",
+            "PF": "PTS",
+            "PA": "PF",
+            "DIFF": "PA"
+        },
+        {
+            "Team": "Renaissance ESC",
+            "W": "8",
+            "L": "7",
+            "T": "1",
+            "PTS": "0",
+            "PF": "14",
+            "PA": "444",
+            "DIFF": "352"
+        },
+        {
+            "Team": "Keswick High School",
+            "W": "8",
+            "L": "6",
+            "T": "2",
+            "PTS": "0",
+            "PF": "12",
+            "PA": "542",
+            "DIFF": "435"
+        },
+        {
+            "Team": "Sacred Heart",
+            "W": "8",
+            "L": "6",
+            "T": "2",
+            "PTS": "0",
+            "PF": "12",
+            "PA": "497",
+            "DIFF": "374"
+        },
+        {
+            "Team": "Dr. G.W. Williams",
+            "W": "8",
+            "L": "6",
+            "T": "2",
+            "PTS": "0",
+            "PF": "12",
+            "PA": "538",
+            "DIFF": "420"
+        },
+        {
+            "Team": "King City SS",
+            "W": "8",
+            "L": "4",
+            "T": "4",
+            "PTS": "0",
+            "PF": "8",
+            "PA": "452",
+            "DIFF": "426"
+        },
+        {
+            "Team": "Aurora HS",
+            "W": "8",
+            "L": "3",
+            "T": "5",
+            "PTS": "0",
+            "PF": "6",
+            "PA": "403",
+            "DIFF": "467"
+        },
+        {
+            "Team": "Newmarket HS",
+            "W": "8",
+            "L": "3",
+            "T": "5",
+            "PTS": "0",
+            "PF": "6",
+            "PA": "401",
+            "DIFF": "445"
+        },
+        {
+            "Team": "Cardinal Carter",
+            "W": "8",
+            "L": "1",
+            "T": "7",
+            "PTS": "0",
+            "PF": "2",
+            "PA": "348",
+            "DIFF": "485"
+        },
+        {
+            "Team": "Huron Heights",
+            "W": "8",
+            "L": "0",
+            "T": "8",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "313",
+            "DIFF": "534"
+        },
+        {
+            "Team": "West",
+            "W": "GP",
+            "L": "W",
+            "T": "L",
+            "PTS": "T",
+            "PF": "PTS",
+            "PA": "PF",
+            "DIFF": "PA"
+        },
+        {
+            "Team": "Tommy Douglas SS",
+            "W": "8",
+            "L": "7",
+            "T": "1",
+            "PTS": "0",
+            "PF": "14",
+            "PA": "637",
+            "DIFF": "454"
+        },
+        {
+            "Team": "Holy Cross",
+            "W": "8",
+            "L": "7",
+            "T": "1",
+            "PTS": "0",
+            "PF": "14",
+            "PA": "521",
+            "DIFF": "417"
+        },
+        {
+            "Team": "Maple High School",
+            "W": "8",
+            "L": "6",
+            "T": "2",
+            "PTS": "0",
+            "PF": "12",
+            "PA": "577",
+            "DIFF": "443"
+        },
+        {
+            "Team": "Father Bressani",
+            "W": "8",
+            "L": "4",
+            "T": "4",
+            "PTS": "0",
+            "PF": "8",
+            "PA": "435",
+            "DIFF": "515"
+        },
+        {
+            "Team": "Woodbridge College",
+            "W": "8",
+            "L": "3",
+            "T": "5",
+            "PTS": "0",
+            "PF": "6",
+            "PA": "405",
+            "DIFF": "407"
+        },
+        {
+            "Team": "Toronto District Christian",
+            "W": "8",
+            "L": "2",
+            "T": "6",
+            "PTS": "0",
+            "PF": "4",
+            "PA": "388",
+            "DIFF": "491"
+        },
+        {
+            "Team": "St. Elizabeth",
+            "W": "8",
+            "L": "2",
+            "T": "6",
+            "PTS": "0",
+            "PF": "4",
+            "PA": "381",
+            "DIFF": "499"
+        },
+        {
+            "Team": "St. Joan Of Arc",
+            "W": "8",
+            "L": "1",
+            "T": "7",
+            "PTS": "0",
+            "PF": "2",
+            "PA": "317",
+            "DIFF": "435"
+        }
+    ]
+}
