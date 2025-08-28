@@ -1,15 +1,15 @@
-# Tier 2 Varsity Boys Baseball Schedule
+# Tier 1 Senior Boys Basketball Schedule
 import requests
 from bs4 import BeautifulSoup
 import json
 import re
 
 def clean_text(text: str) -> str:
-    """Remove weird whitespace and return clean string"""
+    """Remove whitespace and return clean string"""
     return re.sub(r"\s+", " ", text).strip()
 
 def scrape_schedule():
-    url = "http://www.yraa.com/src/schedule.php?division=101"  # Schedule over next 7 days
+    url = "http://yraa.com/src/schedule.php?division=78"  # Schedule over next 7 days
     headers = {"User-Agent": "Mozilla/5.0"}
     resp = requests.get(url, headers=headers, timeout=10)
     resp.raise_for_status()
@@ -30,7 +30,7 @@ def scrape_schedule():
             "January","February","March","April","May","June",
             "July","August","September","October","November","December"
         ]):
-            # Add placeholder row for this date (assume no games first)
+            # If we hit a new date, add a placeholder for “no games”
             current_date = cells[0]
             schedule.append({
                 "date": current_date,
@@ -93,12 +93,11 @@ def scrape_schedule():
                 continue
             seen_games.add(game_key)
 
-            # If last entry was the “no games” placeholder for this date → remove it
-            if (schedule and schedule[-1]["date"] == current_date
+            # Replace placeholder “no games” row for this date with actual game(s)
+            if (schedule and schedule[-1]["date"] == current_date 
                 and schedule[-1]["home_team"] is None):
                 schedule.pop()
 
-            # Add actual game entry
             schedule.append({
                 "date": current_date,
                 "home_team": clean_text(home_team),
@@ -110,10 +109,10 @@ def scrape_schedule():
             })
 
     # Save JSON
-    with open("baseball/t2/schedule.json", "w", encoding="utf-8") as f:
+    with open("basketball/sb/schedule.json", "w", encoding="utf-8") as f:
         json.dump({"schedule": schedule}, f, indent=4, ensure_ascii=False)
 
-    print(f"Saved {len(schedule)} entries to baseball/t2/schedule.json")
+    print(f"Saved {len(schedule)} entries to basketball/sb/schedule.json")
 
 if __name__ == "__main__":
     scrape_schedule()

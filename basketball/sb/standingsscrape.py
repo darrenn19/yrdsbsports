@@ -1,10 +1,10 @@
-#Tier 1 Varsity Boys Baseball Standings
+#Tier 1 Senior Boys Basketball Standings
 import requests
 from bs4 import BeautifulSoup
 import json
 
 # URL of the standings page
-url = "http://yraa.com/src/standings.php?division=100"
+url = "http://yraa.com/src/standings.php?division=78"
 
 # Send a GET request to fetch the HTML content of the page
 response = requests.get(url)
@@ -21,7 +21,7 @@ if response.status_code == 200:
     standings = []
     
     # Headers for columns (use this to match with each row)
-    headers = ["Team", "W", "L", "T", "PTS", "RF", "RA", "DIFF"]
+    headers = ["Team", "W", "L", "T", "PTS", "PF", "PA", "DIFF"]
 
     # Iterate through each row in the table (skip header rows)
     for row in rows:
@@ -45,8 +45,8 @@ if response.status_code == 200:
                     "L": data[3],
                     "T": data[4],
                     "PTS": data[5],
-                    "RF": data[6],
-                    "RA": data[7],
+                    "PF": data[6],
+                    "PA": data[7],
                     "DIFF": data[8]
                 }
                 # Append this dictionary to the standings list
@@ -58,9 +58,9 @@ if response.status_code == 200:
     }
 
     # Write the data to a JSON file
-    with open("baseball/t1/baseballtier1standings.json", "w") as json_file:
+    with open("basketball/sb/basketballsbstandings.json", "w") as json_file:
         json.dump(json_data, json_file, indent=4)
 
-    print("Data successfully saved to baseballtier1standings.json")
+    print("Data successfully saved to basketballsbstandings.json")
 else:
     print("Failed to retrieve the page. Status code:", response.status_code)

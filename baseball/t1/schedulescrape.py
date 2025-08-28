@@ -1,4 +1,4 @@
-#Tier 1 Varsity Boys Baseball Schedule
+# Tier 1 Varsity Boys Baseball Schedule
 import requests
 from bs4 import BeautifulSoup
 import json
@@ -19,8 +19,6 @@ def scrape_schedule():
     schedule = []
     current_date = None
     seen_games = set()
-    date_with_game = set()
-    all_dates = []
 
     for row in soup.find_all("tr"):
         cells = [clean_text(c.get_text()) for c in row.find_all("td")]
@@ -32,8 +30,17 @@ def scrape_schedule():
             "January","February","March","April","May","June",
             "July","August","September","October","November","December"
         ]):
+            # Add placeholder row for this date (assume no games first)
             current_date = cells[0]
-            all_dates.append(current_date)
+            schedule.append({
+                "date": current_date,
+                "home_team": None,
+                "away_team": None,
+                "time": None,
+                "location": None,
+                "game_played": False,
+                "final_score": None
+            })
             continue
 
         # Skip headers
@@ -81,12 +88,17 @@ def scrape_schedule():
             if not home_team or not away_team:
                 continue
 
-            date_with_game.add(current_date)
             game_key = (current_date, home_team, away_team, time, location)
             if game_key in seen_games:
                 continue
             seen_games.add(game_key)
 
+            # If last entry was the “no games” placeholder for this date → remove it
+            if (schedule and schedule[-1]["date"] == current_date
+                and schedule[-1]["home_team"] is None):
+                schedule.pop()
+
+            # Add actual game entry
             schedule.append({
                 "date": current_date,
                 "home_team": clean_text(home_team),
@@ -95,19 +107,6 @@ def scrape_schedule():
                 "location": location,
                 "game_played": game_played,
                 "final_score": final_score
-            })
-
-    # Case 5: Dates with no games
-    for date in all_dates:
-        if date not in date_with_game:
-            schedule.append({
-                "date": date,
-                "home_team": None,
-                "away_team": None,
-                "time": None,
-                "location": None,
-                "game_played": False,
-                "final_score": None
             })
 
     # Save JSON

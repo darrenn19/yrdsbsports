@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Senior Boys Basketball</title>
+    <link rel="icon" type="image/x-icon" href="../basketball.png" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <center>
+      <h1>Senior Boys Tier 1 Basketball</h1>
+    </center>
+
+    <div class="tables-container">
+      <!-- Standings -->
+      <div class="table-box">
+        <h2>Standings</h2>
+        <table border="1">
+          <thead>
+            <tr>
+              <th>Team</th>
+              <th>Wins</th>
+              <th>Losses</th>
+              <th>Ties</th>
+              <th>Points</th>
+              <th>Points For</th>
+              <th>Points Against</th>
+              <th>Point Differential</th>
+            </tr>
+          </thead>
+          <tbody id="data-output">
+            <!-- Standings inserted here -->
+          </tbody>
+        </table>
+        <p id="last-updated"></p>
+      </div>
+
+      <!-- Schedule -->
+      <div class="table-box">
+        <h2>Schedule Over Next 7 Days</h2>
+        <table border="1">
+          <thead>
+            <tr>
+              <th>Date</th>
+              <th>Home</th>
+              <th>Away</th>
+              <th>Time</th>
+              <th>Location</th>
+              <th>Final Score</th>
+            </tr>
+          </thead>
+          <tbody id="schedule-output">
+            <!-- Schedule inserted here -->
+          </tbody>
+        </table>
+        <p id="schedule-last-updated" class="last-updated"></p>
+      </div>
+    </div>
+
+    <footer>
+      <div class="footer-links">
+        <a href="../../basketball" class="btn-link">⬅ Back to Basketball</a>
+        <a href="../../" class="btn-link">⬅ Back to Sports Board</a>
+        <a href="links/" class="btn-link">🔗 More Links</a>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
