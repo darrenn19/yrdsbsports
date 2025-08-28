@@ -63,3 +63,25 @@ td {
   font-style: italic;
   text-align: right;
 }
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #e9ecef;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+footer center {
+  display: block;
+  margin-bottom: 100px;
+}
+
+.footer-links {
+  text-align: center;
+}
+
+.back {
+  display: block;
+  margin-bottom: 4px;
+}
