@@ -89,14 +89,12 @@ footer center {
   gap: 3px;
 }
 
-.footer-links a:hover {
-  background: #ddd;
-}
-
 .back {
   display: inline-block;
   margin-bottom: 4px;
 }
+
+/* Responsiveness */
 
 /* Tablet (<= 900px) */
 @media (max-width: 900px) {
@@ -120,4 +118,30 @@ footer center {
     flex-direction: column;
     gap: 0.5rem;
   }
+}
+
+/* Back Buttons */
+
+.footer-links {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin: 2rem 0;
+}
+
+.btn-link {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background: #004aad; /* dark blue */
+  color: white;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background 0.2s, transform 0.2s;
+}
+
+.btn-link:hover {
+  background: #0066ff; /* lighter blue on hover */
+  transform: translateY(-3px);
 }

@@ -6,31 +6,6 @@
     <title>Baseball Hub</title>
     <link rel="icon" type="image/x-icon" href="baseballfavicon.png" />
     <link rel="stylesheet" href="../style.css" />
-    <!-- reuse global styles -->
-    <style>
-      .tiers {
-        display: flex;
-        justify-content: center;
-        gap: 2rem;
-        margin-top: 3rem;
-      }
-      .tier-card {
-        text-decoration: none;
-        padding: 2rem;
-        border-radius: 12px;
-        background: white;
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-        text-align: center;
-        font-size: 1.2rem;
-        color: #222;
-        transition: transform 0.2s, box-shadow 0.2s;
-        width: 180px;
-      }
-      .tier-card:hover {
-        transform: translateY(-5px);
-        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
-      }
-    </style>
   </head>
   <body>
     <header>
@@ -44,20 +19,21 @@
           <h2>⚾ Varsity Boys Tier 1</h2>
         </a>
         <a href="t2/" class="tier-card">
-          <h2>⚾ Varisty Boys Tier 2</h2>
+          <h2>⚾ Varsity Boys Tier 2</h2>
         </a>
       </div>
-      <br />
-      <center>
+
+      <center style="margin-top: 2rem">
         <a
           href="http://yraa.com/documents/playingregs/Baseball%20Playing%20Regs.pdf"
-          >Playing Regulations</a
         >
+          Playing Regulations
+        </a>
       </center>
     </main>
 
-    <footer>
-      <p><a href="../">⬅ Back to Sports Hub</a></p>
+    <footer style="text-align: center">
+      <a href="../" class="back-btn">⬅ Back to Sports Hub</a>
     </footer>
   </body>
 </html>
