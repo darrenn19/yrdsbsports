@@ -1,4 +1,4 @@
-# Tier 1 Junior Girls Basketball Schedule
+# Tier 2 Junior Boys Volleyball Schedule
 import requests
 from bs4 import BeautifulSoup
 import json
@@ -9,7 +9,7 @@ def clean_text(text: str) -> str:
     return re.sub(r"\s+", " ", text).strip()
 
 def scrape_schedule():
-    url = "http://yraa.com/src/schedule.php?division=47"  # Schedule over next 7 days
+    url = "http://yraa.com/src/schedule.php?division=56"  # Schedule over next 7 days
     headers = {"User-Agent": "Mozilla/5.0"}
     resp = requests.get(url, headers=headers, timeout=10)
     resp.raise_for_status()
@@ -109,10 +109,10 @@ def scrape_schedule():
             })
 
     # Save JSON
-    with open("basketball/jg/jgschedule.json", "w", encoding="utf-8") as f:
+    with open("volleyball/jb2/jb2schedule.json", "w", encoding="utf-8") as f:
         json.dump({"schedule": schedule}, f, indent=4, ensure_ascii=False)
 
-    print(f"Saved {len(schedule)} entries to basketball/jg/jgschedule.json")
+    print(f"Saved {len(schedule)} entries to volleyball/jb2/jb2schedule.json")
 
 if __name__ == "__main__":
     scrape_schedule()

@@ -45,7 +45,7 @@ fetch("baseballtier1standings.json")
   .catch((error) => console.error("Error loading standings:", error));
 
 // ------------------ Schedule ------------------
-fetch("schedule.json")
+fetch("t1schedule.json")
   .then(async (response) => {
     // Try to read last-modified right away
     const lastModified = response.headers.get("last-modified");
@@ -90,7 +90,7 @@ fetch("schedule.json")
           "Schedule last updated: " + new Date(lastModified).toLocaleString();
       } else {
         // Fallback: try a HEAD request if the first response lacked the header
-        fetch("schedule.json", { method: "HEAD" })
+        fetch("t1schedule.json", { method: "HEAD" })
           .then((res) => {
             const lm = res.headers.get("last-modified");
             if (lm) {
@@ -160,7 +160,7 @@ fetch("baseballtier2standings.json")
   });
 
 // ------------------ Schedule ------------------
-fetch("schedule.json")
+fetch("t2schedule.json")
   .then(async (response) => {
     const lastModified = response.headers.get("last-modified");
     const data = await response.json();
@@ -204,7 +204,7 @@ fetch("schedule.json")
           "Schedule last updated: " + new Date(lastModified).toLocaleString();
       } else {
         // Fallback: HEAD request if no header
-        fetch("schedule.json", { method: "HEAD" })
+        fetch("t2schedule.json", { method: "HEAD" })
           .then((res) => {
             const lm = res.headers.get("last-modified");
             if (lm) {

@@ -109,10 +109,10 @@ def scrape_schedule():
             })
 
     # Save JSON
-    with open("basketball/sb/schedule.json", "w", encoding="utf-8") as f:
+    with open("basketball/sb/sbschedule.json", "w", encoding="utf-8") as f:
         json.dump({"schedule": schedule}, f, indent=4, ensure_ascii=False)
 
-    print(f"Saved {len(schedule)} entries to basketball/sb/schedule.json")
+    print(f"Saved {len(schedule)} entries to basketball/sb/sbschedule.json")
 
 if __name__ == "__main__":
     scrape_schedule()

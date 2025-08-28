@@ -44,7 +44,7 @@ fetch("basketballjbstandings.json")
   .catch((error) => console.error("Error loading standings:", error));
 
 // ------------------ Schedule ------------------
-fetch("schedule.json")
+fetch("jbschedule.json")
   .then(async (response) => {
     const lastModified = response.headers.get("last-modified");
     const data = await response.json();
@@ -85,7 +85,7 @@ fetch("schedule.json")
         el.textContent =
           "Schedule last updated: " + new Date(lastModified).toLocaleString();
       } else {
-        fetch("schedule.json", { method: "HEAD" })
+        fetch("jbschedule.json", { method: "HEAD" })
           .then((res) => {
             const lm = res.headers.get("last-modified");
             if (lm) {
@@ -146,7 +146,7 @@ fetch("basketballjgstandings.json")
   .catch((error) => console.error("Error loading standings:", error));
 
 // ------------------ Schedule ------------------
-fetch("schedule.json")
+fetch("jgschedule.json")
   .then(async (response) => {
     const lastModified = response.headers.get("last-modified");
     const data = await response.json();
@@ -187,7 +187,7 @@ fetch("schedule.json")
         el.textContent =
           "Schedule last updated: " + new Date(lastModified).toLocaleString();
       } else {
-        fetch("schedule.json", { method: "HEAD" })
+        fetch("jgschedule.json", { method: "HEAD" })
           .then((res) => {
             const lm = res.headers.get("last-modified");
             if (lm) {
@@ -248,7 +248,7 @@ fetch("basketballsbstandings.json")
   .catch((error) => console.error("Error loading standings:", error));
 
 // ------------------ Schedule ------------------
-fetch("schedule.json")
+fetch("sbschedule.json")
   .then(async (response) => {
     const lastModified = response.headers.get("last-modified");
     const data = await response.json();
@@ -289,7 +289,7 @@ fetch("schedule.json")
         el.textContent =
           "Schedule last updated: " + new Date(lastModified).toLocaleString();
       } else {
-        fetch("schedule.json", { method: "HEAD" })
+        fetch("sbschedule.json", { method: "HEAD" })
           .then((res) => {
             const lm = res.headers.get("last-modified");
             if (lm) {
@@ -350,7 +350,7 @@ fetch("basketballsgstandings.json")
   .catch((error) => console.error("Error loading standings:", error));
 
 // ------------------ Schedule ------------------
-fetch("schedule.json")
+fetch("sgschedule.json")
   .then(async (response) => {
     const lastModified = response.headers.get("last-modified");
     const data = await response.json();
@@ -391,7 +391,7 @@ fetch("schedule.json")
         el.textContent =
           "Schedule last updated: " + new Date(lastModified).toLocaleString();
       } else {
-        fetch("schedule.json", { method: "HEAD" })
+        fetch("sgschedule.json", { method: "HEAD" })
           .then((res) => {
             const lm = res.headers.get("last-modified");
             if (lm) {
