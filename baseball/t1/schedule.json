@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, August 26, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
-        },
-        {
             "date": "Wednesday, August 27, 2025",
             "home_team": null,
             "away_team": null,
@@ -56,6 +47,15 @@
         },
         {
             "date": "Monday, September 1, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, September 2, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
