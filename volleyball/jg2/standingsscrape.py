@@ -1,10 +1,10 @@
-#Tier 1 Junior Girls Volleyball Standings
+#Tier 2 Junior Girls Volleyball Standings
 import requests
 from bs4 import BeautifulSoup
 import json
 
 # URL of the standings page
-url = "http://yraa.com/src/standings.php?division=80"
+url = "http://yraa.com/src/standings.php?division=81"
 
 # Send a GET request to fetch the HTML content of the page
 response = requests.get(url)
@@ -60,9 +60,9 @@ if response.status_code == 200:
     }
 
     # Write the data to a JSON file
-    with open("volleyball/jg1/volleyballjg1standings.json", "w") as json_file:
+    with open("volleyball/jg2/volleyballjg2standings.json", "w") as json_file:
         json.dump(json_data, json_file, indent=4)
 
-    print("Data successfully saved to volleyballjg1standings.json")
+    print("Data successfully saved to volleyballjg2standings.json")
 else:
     print("Failed to retrieve the page. Status code:", response.status_code)
