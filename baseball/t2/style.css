@@ -78,10 +78,41 @@ footer center {
 }
 
 .footer-links {
-  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3px;
+}
+
+.footer-links a:hover {
+  background: #ddd;
 }
 
 .back {
-  display: block;
+  display: inline-block;
   margin-bottom: 4px;
+}
+
+/* Tablet (<= 900px) */
+@media (max-width: 900px) {
+  .tables-container {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+/* Mobile (<= 600px) */
+@media (max-width: 600px) {
+  .table-box {
+    width: 100%;
+  }
+
+  .table-box table {
+    font-size: 0.85rem;
+  }
+
+  .footer-links {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
 }
