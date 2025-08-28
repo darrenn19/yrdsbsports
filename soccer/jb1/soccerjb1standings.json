@@ -1,0 +1,224 @@
+{
+    "standings": [
+        {
+            "Team": "Central 1",
+            "W": "W",
+            "L": "L",
+            "T": "T",
+            "PTS": "PTS",
+            "GF": "GF",
+            "GA": "GA",
+            "DIFF": "DIFF"
+        },
+        {
+            "Team": "Dr. J.M. Denison",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Sacred Heart",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Bill Hogarth SS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Bur Oak SS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Middlefield",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Richmond Hill HS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Our Lady Queen Of The World",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Keswick High School",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "East",
+            "W": "W",
+            "L": "L",
+            "T": "T",
+            "PTS": "PTS",
+            "GF": "GF",
+            "GA": "GA",
+            "DIFF": "DIFF"
+        },
+        {
+            "Team": "Cardinal Carter",
+            "W": "6",
+            "L": "0",
+            "T": "0",
+            "PTS": "18",
+            "GF": "30",
+            "GA": "6",
+            "DIFF": "20"
+        },
+        {
+            "Team": "St. Brother Andre",
+            "W": "4",
+            "L": "2",
+            "T": "0",
+            "PTS": "12",
+            "GF": "18",
+            "GA": "10",
+            "DIFF": "8"
+        },
+        {
+            "Team": "Markham District",
+            "W": "3",
+            "L": "2",
+            "T": "1",
+            "PTS": "10",
+            "GF": "14",
+            "GA": "11",
+            "DIFF": "3"
+        },
+        {
+            "Team": "St. Augustine",
+            "W": "2",
+            "L": "3",
+            "T": "1",
+            "PTS": "7",
+            "GF": "17",
+            "GA": "16",
+            "DIFF": "-1"
+        },
+        {
+            "Team": "St. Robert",
+            "W": "2",
+            "L": "4",
+            "T": "0",
+            "PTS": "6",
+            "GF": "11",
+            "GA": "25",
+            "DIFF": "-8"
+        },
+        {
+            "Team": "Bill Crothers SS",
+            "W": "0",
+            "L": "6",
+            "T": "0",
+            "PTS": "0",
+            "GF": "2",
+            "GA": "24",
+            "DIFF": "-22"
+        },
+        {
+            "Team": "West",
+            "W": "W",
+            "L": "L",
+            "T": "T",
+            "PTS": "PTS",
+            "GF": "GF",
+            "GA": "GA",
+            "DIFF": "DIFF"
+        },
+        {
+            "Team": "St. Jean De Brebeuf CHS",
+            "W": "5",
+            "L": "1",
+            "T": "0",
+            "PTS": "15",
+            "GF": "17",
+            "GA": "9",
+            "DIFF": "8"
+        },
+        {
+            "Team": "St. Theresa Of Lisieux",
+            "W": "3",
+            "L": "2",
+            "T": "1",
+            "PTS": "10",
+            "GF": "10",
+            "GA": "7",
+            "DIFF": "3"
+        },
+        {
+            "Team": "Holy Cross",
+            "W": "3",
+            "L": "3",
+            "T": "0",
+            "PTS": "9",
+            "GF": "13",
+            "GA": "10",
+            "DIFF": "2"
+        },
+        {
+            "Team": "St. Joan Of Arc",
+            "W": "2",
+            "L": "4",
+            "T": "0",
+            "PTS": "6",
+            "GF": "12",
+            "GA": "17",
+            "DIFF": "-5"
+        },
+        {
+            "Team": "Father Bressani",
+            "W": "1",
+            "L": "4",
+            "T": "1",
+            "PTS": "4",
+            "GF": "8",
+            "GA": "17",
+            "DIFF": "-8"
+        }
+    ]
+}
