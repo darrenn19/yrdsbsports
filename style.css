@@ -176,3 +176,25 @@ a:hover {
   background: #0066ff; /* lighter blue on hover */
   transform: translateY(-3px);
 }
+
+.reg-box {
+  display: block;
+  margin: 2rem auto;
+  padding: 1.5rem 2rem;
+  max-width: 400px;
+  text-align: center;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  color: #004aad;
+  font-weight: bold;
+  font-size: 1.1rem;
+  text-decoration: none;
+  transition: transform 0.2s, box-shadow 0.2s, background 0.2s;
+}
+
+.reg-box:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+  background: #f9f9f9;
+}
