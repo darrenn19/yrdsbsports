@@ -19,6 +19,7 @@ fetch("basketballjbstandings.json")
         out += `
                 <tr class="${divisionClass}">
                   <td>${team.Team ?? ""}</td>
+                  <td>${team.GP ?? ""}</td>
                   <td>${team.W ?? ""}</td>
                   <td>${team.L ?? ""}</td>
                   <td>${team.T ?? ""}</td>
@@ -121,6 +122,7 @@ fetch("basketballjgstandings.json")
         out += `
                 <tr class="${divisionClass}">
                   <td>${team.Team ?? ""}</td>
+                  <td>${team.GP ?? ""}</td>
                   <td>${team.W ?? ""}</td>
                   <td>${team.L ?? ""}</td>
                   <td>${team.T ?? ""}</td>
@@ -223,6 +225,7 @@ fetch("basketballsbstandings.json")
         out += `
                 <tr class="${divisionClass}">
                   <td>${team.Team ?? ""}</td>
+                  <td>${team.GP ?? ""}</td>
                   <td>${team.W ?? ""}</td>
                   <td>${team.L ?? ""}</td>
                   <td>${team.T ?? ""}</td>
@@ -325,6 +328,7 @@ fetch("basketballsgstandings.json")
         out += `
                 <tr class="${divisionClass}">
                   <td>${team.Team ?? ""}</td>
+                  <td>${team.GP ?? ""}</td>
                   <td>${team.W ?? ""}</td>
                   <td>${team.L ?? ""}</td>
                   <td>${team.T ?? ""}</td>

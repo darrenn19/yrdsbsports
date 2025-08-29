@@ -41,14 +41,16 @@ if response.status_code == 200:
                 # Build a dictionary for the team stats
                 team_data = {
                     "Team": data[1],  # The team name is in the second column
-                    "W": data[2],
-                    "L": data[3],
-                    "T": data[4],
-                    "PTS": data[5],
-                    "PF": data[6],
-                    "PA": data[7],
-                    "DIFF": data[8]
+                    "GP": data[2],
+                    "W": data[3],
+                    "L": data[4],
+                    "T": data[5],
+                    "PTS": data[6],
+                    "PF": data[7],
+                    "PA": data[8],
+                    "DIFF": data[9]
                 }
+                # 
                 # Append this dictionary to the standings list
                 standings.append(team_data)
     
