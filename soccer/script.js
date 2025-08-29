@@ -12,17 +12,29 @@ fetch("soccerjb1standings.json")
       return isNaN(n) ? 0 : n;
     }
 
-    // Auto-detect divisions
+    //  Auto-detect divisions (rows with Team exactly equal to "Central", "East", etc.)
     let divisions = [];
     for (const team of standings) {
       if (
         team.Team &&
-        ["Central", "East", "North", "West"].includes(team.Team)
+        [
+          "Central",
+          "East",
+          "North",
+          "West",
+          "Central 1",
+          "North-Central",
+          "North 1",
+          "North-East",
+          "Central-West",
+          "South-Central",
+          "East 1",
+          "East 2",
+        ].includes(team.Team)
       ) {
         divisions.push(team.Team);
       }
     }
-
     // Group teams under divisions
     let grouped = {};
     for (const div of divisions) grouped[div] = [];
@@ -218,12 +230,25 @@ fetch("soccerjb2standings.json")
       return isNaN(n) ? 0 : n;
     }
 
-    // Auto-detect divisions
+    //  Auto-detect divisions (rows with Team exactly equal to "Central", "East", etc.)
     let divisions = [];
     for (const team of standings) {
       if (
         team.Team &&
-        ["Central", "East", "North", "West"].includes(team.Team)
+        [
+          "Central",
+          "East",
+          "North",
+          "West",
+          "Central 1",
+          "North-Central",
+          "North 1",
+          "North-East",
+          "Central-West",
+          "South-Central",
+          "East 1",
+          "East 2",
+        ].includes(team.Team)
       ) {
         divisions.push(team.Team);
       }
@@ -424,12 +449,25 @@ fetch("soccerjg1standings.json")
       return isNaN(n) ? 0 : n;
     }
 
-    // Auto-detect divisions
+    //  Auto-detect divisions (rows with Team exactly equal to "Central", "East", etc.)
     let divisions = [];
     for (const team of standings) {
       if (
         team.Team &&
-        ["Central", "East", "North", "West", "Central 1"].includes(team.Team)
+        [
+          "Central",
+          "East",
+          "North",
+          "West",
+          "Central 1",
+          "North-Central",
+          "North 1",
+          "North-East",
+          "Central-West",
+          "South-Central",
+          "East 1",
+          "East 2",
+        ].includes(team.Team)
       ) {
         divisions.push(team.Team);
       }
@@ -630,12 +668,25 @@ fetch("soccerjg2standings.json")
       return isNaN(n) ? 0 : n;
     }
 
-    // Auto-detect divisions
+    //  Auto-detect divisions (rows with Team exactly equal to "Central", "East", etc.)
     let divisions = [];
     for (const team of standings) {
       if (
         team.Team &&
-        ["Central", "East", "North", "West"].includes(team.Team)
+        [
+          "Central",
+          "East",
+          "North",
+          "West",
+          "Central 1",
+          "North-Central",
+          "North 1",
+          "North-East",
+          "Central-West",
+          "South-Central",
+          "East 1",
+          "East 2",
+        ].includes(team.Team)
       ) {
         divisions.push(team.Team);
       }
@@ -836,12 +887,25 @@ fetch("soccersg1standings.json")
       return isNaN(n) ? 0 : n;
     }
 
-    // Auto-detect divisions
+    //  Auto-detect divisions (rows with Team exactly equal to "Central", "East", etc.)
     let divisions = [];
     for (const team of standings) {
       if (
         team.Team &&
-        ["Central", "East", "North", "West"].includes(team.Team)
+        [
+          "Central",
+          "East",
+          "North",
+          "West",
+          "Central 1",
+          "North-Central",
+          "North 1",
+          "North-East",
+          "Central-West",
+          "South-Central",
+          "East 1",
+          "East 2",
+        ].includes(team.Team)
       ) {
         divisions.push(team.Team);
       }
@@ -1042,7 +1106,7 @@ fetch("soccersg2standings.json")
       return isNaN(n) ? 0 : n;
     }
 
-    // Auto-detect divisions
+    //  Auto-detect divisions (rows with Team exactly equal to "Central", "East", etc.)
     let divisions = [];
     for (const team of standings) {
       if (
@@ -1053,6 +1117,11 @@ fetch("soccersg2standings.json")
           "North",
           "West",
           "Central 1",
+          "North-Central",
+          "North 1",
+          "North-East",
+          "Central-West",
+          "South-Central",
           "East 1",
           "East 2",
         ].includes(team.Team)
@@ -1256,7 +1325,7 @@ fetch("soccersb1standings.json")
       return isNaN(n) ? 0 : n;
     }
 
-    // Auto-detect divisions
+    //  Auto-detect divisions (rows with Team exactly equal to "Central", "East", etc.)
     let divisions = [];
     for (const team of standings) {
       if (
@@ -1267,6 +1336,11 @@ fetch("soccersb1standings.json")
           "North",
           "West",
           "Central 1",
+          "North-Central",
+          "North 1",
+          "North-East",
+          "Central-West",
+          "South-Central",
           "East 1",
           "East 2",
         ].includes(team.Team)
@@ -1470,7 +1544,7 @@ fetch("soccersb2standings.json")
       return isNaN(n) ? 0 : n;
     }
 
-    // Auto-detect divisions
+    //  Auto-detect divisions (rows with Team exactly equal to "Central", "East", etc.)
     let divisions = [];
     for (const team of standings) {
       if (
@@ -1481,6 +1555,11 @@ fetch("soccersb2standings.json")
           "North",
           "West",
           "Central 1",
+          "North-Central",
+          "North 1",
+          "North-East",
+          "Central-West",
+          "South-Central",
           "East 1",
           "East 2",
         ].includes(team.Team)

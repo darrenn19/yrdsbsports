@@ -13,14 +13,25 @@ fetch("curlingb1standings.json")
       return isNaN(n) ? 0 : n;
     }
 
-    // Auto-detect divisions
+    //  Auto-detect divisions (rows with Team exactly equal to "Central", "East", etc.)
     let divisions = [];
     for (const team of standings) {
       if (
         team.Team &&
-        ["Central", "East", "North", "West", "North-Central"].includes(
-          team.Team
-        )
+        [
+          "Central",
+          "East",
+          "North",
+          "West",
+          "Central 1",
+          "North-Central",
+          "North 1",
+          "North-East",
+          "Central-West",
+          "South-Central",
+          "East 1",
+          "East 2",
+        ].includes(team.Team)
       ) {
         divisions.push(team.Team);
       }
@@ -231,14 +242,25 @@ fetch("curlingg1standings.json")
       return isNaN(n) ? 0 : n;
     }
 
-    // Auto-detect divisions
+    //  Auto-detect divisions (rows with Team exactly equal to "Central", "East", etc.)
     let divisions = [];
     for (const team of standings) {
       if (
         team.Team &&
-        ["Central", "East", "North", "West", "North-Central"].includes(
-          team.Team
-        )
+        [
+          "Central",
+          "East",
+          "North",
+          "West",
+          "Central 1",
+          "North-Central",
+          "North 1",
+          "North-East",
+          "Central-West",
+          "South-Central",
+          "East 1",
+          "East 2",
+        ].includes(team.Team)
       ) {
         divisions.push(team.Team);
       }

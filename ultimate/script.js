@@ -14,12 +14,25 @@ fetch("ultimatet1standings.json")
       return m ? Number(m[0]) : 0;
     }
 
-    // Auto-detect divisions (rows with Team exactly equal to "Central", "East", etc.)
+    //  Auto-detect divisions (rows with Team exactly equal to "Central", "East", etc.)
     let divisions = [];
     for (const team of standings) {
       if (
         team.Team &&
-        ["Central", "East", "North", "West"].includes(team.Team)
+        [
+          "Central",
+          "East",
+          "North",
+          "West",
+          "Central 1",
+          "North-Central",
+          "North 1",
+          "North-East",
+          "Central-West",
+          "South-Central",
+          "East 1",
+          "East 2",
+        ].includes(team.Team)
       ) {
         divisions.push(team.Team);
       }
@@ -233,12 +246,25 @@ fetch("ultimatet2standings.json")
       return m ? Number(m[0]) : 0;
     }
 
-    //Auto-detect divisions (rows with Team exactly equal to "Central", "East", etc.)
+    //  Auto-detect divisions (rows with Team exactly equal to "Central", "East", etc.)
     let divisions = [];
     for (const team of standings) {
       if (
         team.Team &&
-        ["Central", "East", "North", "West"].includes(team.Team)
+        [
+          "Central",
+          "East",
+          "North",
+          "West",
+          "Central 1",
+          "North-Central",
+          "North 1",
+          "North-East",
+          "Central-West",
+          "South-Central",
+          "East 1",
+          "East 2",
+        ].includes(team.Team)
       ) {
         divisions.push(team.Team);
       }
