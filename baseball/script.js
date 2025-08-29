@@ -4,38 +4,130 @@
 fetch("baseballtier1standings.json")
   .then((response) => response.json())
   .then((data) => {
-    let placeholder = document.querySelector("#data-output");
-    let out = "";
+    const placeholder = document.querySelector("#data-output");
+    let standings = data.standings || [];
 
-    if (data.standings && data.standings.length > 0) {
-      for (let team of data.standings) {
-        let isDivision =
-          team.Team === "Central" ||
-          team.Team === "East" ||
-          team.Team === "North" ||
-          team.Team === "West";
-
-        let divisionClass = isDivision ? "division-row" : "";
-
-        out += `
-          <tr class="${divisionClass}">
-            <td>${team.Team}</td>
-            <td>${team.W}</td>
-            <td>${team.L}</td>
-            <td>${team.T}</td>
-            <td>${team.PTS}</td>
-            <td>${team.RF}</td>
-            <td>${team.RA}</td>
-            <td>${team.DIFF}</td>
-          </tr>
-        `;
-      }
-      placeholder.innerHTML = out;
+    function parseNumber(v) {
+      if (v === undefined || v === null) return 0;
+      const n = Number(v);
+      return isNaN(n) ? 0 : n;
     }
 
-    // Last updated (standings)
+    // Auto-detect divisions
+    let divisions = [];
+    for (const team of standings) {
+      if (
+        team.Team &&
+        ["Central", "East", "North", "West"].includes(team.Team)
+      ) {
+        divisions.push(team.Team);
+      }
+    }
+
+    // Group teams under divisions
+    let grouped = {};
+    for (const div of divisions) grouped[div] = [];
+
+    for (let i = 0; i < standings.length; i++) {
+      const team = standings[i];
+      if (divisions.includes(team.Team)) continue; // skip header rows
+      let div = null;
+      for (let j = i; j >= 0; j--) {
+        if (divisions.includes(standings[j].Team)) {
+          div = standings[j].Team;
+          break;
+        }
+      }
+      if (div) grouped[div].push(team);
+    }
+
+    function render(sortColumn = "PTS", ascending = false) {
+      let out = "";
+
+      for (const div of divisions) {
+        // Division header row
+        out += `
+          <tr class="division-row">
+            <td>${div}</td>
+            <td>W</td>
+            <td>L</td>
+            <td>T</td>
+            <td>PTS</td>
+            <td>RF</td>
+            <td>RA</td>
+            <td>DIFF</td>
+          </tr>
+        `;
+
+        // Sort teams (skip division headers)
+        grouped[div].sort((a, b) => {
+          let valA = parseNumber(a[sortColumn]);
+          let valB = parseNumber(b[sortColumn]);
+          return ascending ? valA - valB : valB - valA;
+        });
+
+        // Render rows
+        for (const team of grouped[div]) {
+          out += `
+            <tr>
+              <td>${team.Team ?? ""}</td>
+              <td class="${sortColumn === "W" ? "active-col" : ""}">${
+            team.W ?? ""
+          }</td>
+              <td class="${sortColumn === "L" ? "active-col" : ""}">${
+            team.L ?? ""
+          }</td>
+              <td class="${sortColumn === "T" ? "active-col" : ""}">${
+            team.T ?? ""
+          }</td>
+              <td class="${sortColumn === "PTS" ? "active-col" : ""}">${
+            team.PTS ?? ""
+          }</td>
+              <td class="${sortColumn === "RF" ? "active-col" : ""}">${
+            team.RF ?? ""
+          }</td>
+              <td class="${sortColumn === "RA" ? "active-col" : ""}">${
+            team.RA ?? ""
+          }</td>
+              <td class="${sortColumn === "DIFF" ? "active-col" : ""}">${
+            team.DIFF ?? ""
+          }</td>
+            </tr>
+          `;
+        }
+      }
+
+      placeholder.innerHTML = out;
+
+      // Update header arrows
+      document.querySelectorAll("th[data-column]").forEach((th) => {
+        th.textContent = th.dataset.column; // reset
+        if (th.dataset.column === sortColumn) {
+          th.textContent += ascending ? " ▲" : " ▼";
+        }
+      });
+    }
+
+    let currentSort = { column: "Team", ascending: false };
+    render(currentSort.column, currentSort.ascending);
+
+    // Clickable headers
+    document.querySelectorAll("th[data-column]").forEach((th) => {
+      th.style.cursor = "pointer";
+      th.addEventListener("click", () => {
+        const col = th.dataset.column;
+        if (currentSort.column === col) {
+          currentSort.ascending = !currentSort.ascending;
+        } else {
+          currentSort.column = col;
+          currentSort.ascending = false;
+        }
+        render(currentSort.column, currentSort.ascending);
+      });
+    });
+
     fetch("baseballtier1standings.json", { method: "HEAD" }).then((res) => {
-      let lastModified = res.headers.get("last-modified");
+      const lastModified = res.headers.get("last-modified");
       if (lastModified) {
         document.getElementById("last-updated").textContent =
           "Standings last updated: " + new Date(lastModified).toLocaleString();
@@ -110,54 +202,137 @@ fetch("t1schedule.json")
 fetch("baseballtier2standings.json")
   .then((response) => response.json())
   .then((data) => {
-    let placeholder = document.querySelector("#data-output");
-    let out = "";
+    const placeholder = document.querySelector("#data-output");
+    let standings = data.standings || [];
 
-    if (data.standings && data.standings.length > 0) {
-      for (let team of data.standings) {
-        let isDivision =
-          team.Team === "Central" ||
-          team.Team === "East" ||
-          team.Team === "North" ||
-          team.Team === "West";
-
-        let divisionClass = isDivision ? "division-row" : "";
-
-        out += `
-          <tr class="${divisionClass}">
-            <td>${team.Team}</td>
-            <td>${team.W}</td>
-            <td>${team.L}</td>
-            <td>${team.T}</td>
-            <td>${team.PTS}</td>
-            <td>${team.RF}</td>
-            <td>${team.RA}</td>
-            <td>${team.DIFF}</td>
-          </tr>
-        `;
-      }
-      placeholder.innerHTML = out;
-    } else {
-      console.error("No standings data found.");
+    function parseNumber(v) {
+      if (v === undefined || v === null) return 0;
+      const n = Number(v);
+      return isNaN(n) ? 0 : n;
     }
 
-    // Last updated timestamp for standings
-    fetch("baseballtier2standings.json", { method: "HEAD" })
-      .then((res) => {
-        let lastModified = res.headers.get("last-modified");
-        if (lastModified) {
-          document.getElementById("last-updated").textContent =
-            "Standings last updated: " +
-            new Date(lastModified).toLocaleString();
+    // Auto-detect divisions
+    let divisions = [];
+    for (const team of standings) {
+      if (
+        team.Team &&
+        ["Central", "East", "North", "West"].includes(team.Team)
+      ) {
+        divisions.push(team.Team);
+      }
+    }
+
+    // Group teams under divisions
+    let grouped = {};
+    for (const div of divisions) grouped[div] = [];
+
+    for (let i = 0; i < standings.length; i++) {
+      const team = standings[i];
+      if (divisions.includes(team.Team)) continue; // skip header rows
+      let div = null;
+      for (let j = i; j >= 0; j--) {
+        if (divisions.includes(standings[j].Team)) {
+          div = standings[j].Team;
+          break;
         }
-      })
-      .catch((err) =>
-        console.error("Error fetching last-modified header:", err)
-      );
+      }
+      if (div) grouped[div].push(team);
+    }
+
+    function render(sortColumn = "PTS", ascending = false) {
+      let out = "";
+
+      for (const div of divisions) {
+        // Division header row
+        out += `
+          <tr class="division-row">
+            <td>${div}</td>
+            <td>W</td>
+            <td>L</td>
+            <td>T</td>
+            <td>PTS</td>
+            <td>RF</td>
+            <td>RA</td>
+            <td>DIFF</td>
+          </tr>
+        `;
+
+        // Sort teams (skip division headers)
+        grouped[div].sort((a, b) => {
+          let valA = parseNumber(a[sortColumn]);
+          let valB = parseNumber(b[sortColumn]);
+          return ascending ? valA - valB : valB - valA;
+        });
+
+        // Render rows
+        for (const team of grouped[div]) {
+          out += `
+            <tr>
+              <td>${team.Team ?? ""}</td>
+              <td class="${sortColumn === "W" ? "active-col" : ""}">${
+            team.W ?? ""
+          }</td>
+              <td class="${sortColumn === "L" ? "active-col" : ""}">${
+            team.L ?? ""
+          }</td>
+              <td class="${sortColumn === "T" ? "active-col" : ""}">${
+            team.T ?? ""
+          }</td>
+              <td class="${sortColumn === "PTS" ? "active-col" : ""}">${
+            team.PTS ?? ""
+          }</td>
+              <td class="${sortColumn === "RF" ? "active-col" : ""}">${
+            team.RF ?? ""
+          }</td>
+              <td class="${sortColumn === "RA" ? "active-col" : ""}">${
+            team.RA ?? ""
+          }</td>
+              <td class="${sortColumn === "DIFF" ? "active-col" : ""}">${
+            team.DIFF ?? ""
+          }</td>
+            </tr>
+          `;
+        }
+      }
+
+      placeholder.innerHTML = out;
+
+      // Update header arrows
+      document.querySelectorAll("th[data-column]").forEach((th) => {
+        th.textContent = th.dataset.column; // reset
+        if (th.dataset.column === sortColumn) {
+          th.textContent += ascending ? " ▲" : " ▼";
+        }
+      });
+    }
+
+    let currentSort = { column: "Team", ascending: false };
+    render(currentSort.column, currentSort.ascending);
+
+    // Clickable headers
+    document.querySelectorAll("th[data-column]").forEach((th) => {
+      th.style.cursor = "pointer";
+      th.addEventListener("click", () => {
+        const col = th.dataset.column;
+        if (currentSort.column === col) {
+          currentSort.ascending = !currentSort.ascending;
+        } else {
+          currentSort.column = col;
+          currentSort.ascending = false;
+        }
+        render(currentSort.column, currentSort.ascending);
+      });
+    });
+
+    fetch("baseballtier2standings.json", { method: "HEAD" }).then((res) => {
+      const lastModified = res.headers.get("last-modified");
+      if (lastModified) {
+        document.getElementById("last-updated").textContent =
+          "Standings last updated: " + new Date(lastModified).toLocaleString();
+      }
+    });
   })
-  .catch((error) => {
-    console.error("Error loading standings:", error);
-  });
+  .catch((error) => console.error("Error loading standings:", error));
 
 // ------------------ Schedule ------------------
 fetch("t2schedule.json")
