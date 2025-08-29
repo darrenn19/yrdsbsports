@@ -4,36 +4,139 @@ fetch("soccerjb1standings.json")
   .then((response) => response.json())
   .then((data) => {
     const placeholder = document.querySelector("#data-output");
-    let out = "";
+    let standings = data.standings || [];
 
-    if (data.standings && data.standings.length > 0) {
-      for (const team of data.standings) {
-        const isDivision =
-          team.Team === "Central" ||
-          team.Team === "East" ||
-          team.Team === "North" ||
-          team.Team === "Central 1" ||
-          team.Team === "West";
-
-        const divisionClass = isDivision ? "division-row" : "";
-
-        out += `
-                <tr class="${divisionClass}">
-                  <td>${team.Team ?? ""}</td>
-                  <td>${team.W ?? ""}</td>
-                  <td>${team.L ?? ""}</td>
-                  <td>${team.T ?? ""}</td>
-                  <td>${team.PTS ?? ""}</td>
-                  <td>${team.GF ?? team.PF ?? ""}</td>
-                  <td>${team.GA ?? team.PA ?? ""}</td>
-                  <td>${team.DIFF ?? ""}</td>
-                </tr>
-              `;
-      }
-      placeholder.innerHTML = out;
+    function parseNumber(v) {
+      if (v === undefined || v === null) return 0;
+      const n = Number(v);
+      return isNaN(n) ? 0 : n;
     }
 
-    // Last updated (standings)
+    // Auto-detect divisions
+    let divisions = [];
+    for (const team of standings) {
+      if (
+        team.Team &&
+        ["Central", "East", "North", "West"].includes(team.Team)
+      ) {
+        divisions.push(team.Team);
+      }
+    }
+
+    // Group teams under divisions
+    let grouped = {};
+    for (const div of divisions) grouped[div] = [];
+
+    for (let i = 0; i < standings.length; i++) {
+      const team = standings[i];
+      if (divisions.includes(team.Team)) continue; // skip header rows
+      let div = null;
+      for (let j = i; j >= 0; j--) {
+        if (divisions.includes(standings[j].Team)) {
+          div = standings[j].Team;
+          break;
+        }
+      }
+      if (div) grouped[div].push(team);
+    }
+
+    function render(sortColumn = "PTS", ascending = false) {
+      let out = "";
+
+      for (const div of divisions) {
+        // Division header row
+        out += `
+          <tr class="division-row">
+            <td>${div}</td>
+            <td>W</td>
+            <td>L</td>
+            <td>T</td>
+            <td>PTS</td>
+            <td>GF</td>
+            <td>GA</td>
+            <td>DIFF</td>
+          </tr>
+        `;
+
+        // Sort teams (skip division headers)
+        grouped[div].sort((a, b) => {
+          let valA = parseNumber(a[sortColumn]);
+          let valB = parseNumber(b[sortColumn]);
+          return ascending ? valA - valB : valB - valA;
+        });
+
+        // Render rows
+        for (const team of grouped[div]) {
+          out += `
+            <tr>
+              <td>${team.Team ?? ""}</td>
+              <td class="${sortColumn === "W" ? "active-col" : ""}">${
+            team.W ?? ""
+          }</td>
+              <td class="${sortColumn === "L" ? "active-col" : ""}">${
+            team.L ?? ""
+          }</td>
+              <td class="${sortColumn === "T" ? "active-col" : ""}">${
+            team.T ?? ""
+          }</td>
+              <td class="${sortColumn === "PTS" ? "active-col" : ""}">${
+            team.PTS ?? ""
+          }</td>
+              <td class="${sortColumn === "GF" ? "active-col" : ""}">${
+            team.GF ?? ""
+          }</td>
+              <td class="${sortColumn === "GA" ? "active-col" : ""}">${
+            team.GA ?? ""
+          }</td>
+              <td class="${sortColumn === "DIFF" ? "active-col" : ""}">${
+            team.DIFF ?? ""
+          }</td>
+            </tr>
+          `;
+        }
+      }
+
+      placeholder.innerHTML = out;
+
+      const headerNames = {
+        Team: "Team",
+        W: "Wins",
+        L: "Losses",
+        T: "Ties",
+        PTS: "Points",
+        GF: "Goals For",
+        GA: "Goals Against",
+        DIFF: "Goal Differential",
+      };
+
+      // Update header arrows
+      document.querySelectorAll("th[data-column]").forEach((th) => {
+        const col = th.dataset.column;
+        th.textContent = headerNames[col]; // Use full name
+        if (col === sortColumn) {
+          th.textContent += ascending ? " ▲" : " ▼";
+        }
+      });
+    }
+
+    let currentSort = { column: "Team", ascending: false };
+    render(currentSort.column, currentSort.ascending);
+
+    // Clickable headers
+    document.querySelectorAll("th[data-column]").forEach((th) => {
+      th.style.cursor = "pointer";
+      th.addEventListener("click", () => {
+        const col = th.dataset.column;
+        if (currentSort.column === col) {
+          currentSort.ascending = !currentSort.ascending;
+        } else {
+          currentSort.column = col;
+          currentSort.ascending = false;
+        }
+        render(currentSort.column, currentSort.ascending);
+      });
+    });
+
     fetch("soccerjb1standings.json", { method: "HEAD" }).then((res) => {
       const lastModified = res.headers.get("last-modified");
       if (lastModified) {
@@ -107,36 +210,139 @@ fetch("soccerjb2standings.json")
   .then((response) => response.json())
   .then((data) => {
     const placeholder = document.querySelector("#data-output");
-    let out = "";
+    let standings = data.standings || [];
 
-    if (data.standings && data.standings.length > 0) {
-      for (const team of data.standings) {
-        const isDivision =
-          team.Team === "Central" ||
-          team.Team === "East" ||
-          team.Team === "North" ||
-          team.Team === "Central-West" ||
-          team.Team === "West";
-
-        const divisionClass = isDivision ? "division-row" : "";
-
-        out += `
-                <tr class="${divisionClass}">
-                  <td>${team.Team ?? ""}</td>
-                  <td>${team.W ?? ""}</td>
-                  <td>${team.L ?? ""}</td>
-                  <td>${team.T ?? ""}</td>
-                  <td>${team.PTS ?? ""}</td>
-                  <td>${team.GF ?? team.PF ?? ""}</td>
-                  <td>${team.GA ?? team.PA ?? ""}</td>
-                  <td>${team.DIFF ?? ""}</td>
-                </tr>
-              `;
-      }
-      placeholder.innerHTML = out;
+    function parseNumber(v) {
+      if (v === undefined || v === null) return 0;
+      const n = Number(v);
+      return isNaN(n) ? 0 : n;
     }
 
-    // Last updated (standings)
+    // Auto-detect divisions
+    let divisions = [];
+    for (const team of standings) {
+      if (
+        team.Team &&
+        ["Central", "East", "North", "West"].includes(team.Team)
+      ) {
+        divisions.push(team.Team);
+      }
+    }
+
+    // Group teams under divisions
+    let grouped = {};
+    for (const div of divisions) grouped[div] = [];
+
+    for (let i = 0; i < standings.length; i++) {
+      const team = standings[i];
+      if (divisions.includes(team.Team)) continue; // skip header rows
+      let div = null;
+      for (let j = i; j >= 0; j--) {
+        if (divisions.includes(standings[j].Team)) {
+          div = standings[j].Team;
+          break;
+        }
+      }
+      if (div) grouped[div].push(team);
+    }
+
+    function render(sortColumn = "PTS", ascending = false) {
+      let out = "";
+
+      for (const div of divisions) {
+        // Division header row
+        out += `
+          <tr class="division-row">
+            <td>${div}</td>
+            <td>W</td>
+            <td>L</td>
+            <td>T</td>
+            <td>PTS</td>
+            <td>GF</td>
+            <td>GA</td>
+            <td>DIFF</td>
+          </tr>
+        `;
+
+        // Sort teams (skip division headers)
+        grouped[div].sort((a, b) => {
+          let valA = parseNumber(a[sortColumn]);
+          let valB = parseNumber(b[sortColumn]);
+          return ascending ? valA - valB : valB - valA;
+        });
+
+        // Render rows
+        for (const team of grouped[div]) {
+          out += `
+            <tr>
+              <td>${team.Team ?? ""}</td>
+              <td class="${sortColumn === "W" ? "active-col" : ""}">${
+            team.W ?? ""
+          }</td>
+              <td class="${sortColumn === "L" ? "active-col" : ""}">${
+            team.L ?? ""
+          }</td>
+              <td class="${sortColumn === "T" ? "active-col" : ""}">${
+            team.T ?? ""
+          }</td>
+              <td class="${sortColumn === "PTS" ? "active-col" : ""}">${
+            team.PTS ?? ""
+          }</td>
+              <td class="${sortColumn === "GF" ? "active-col" : ""}">${
+            team.GF ?? ""
+          }</td>
+              <td class="${sortColumn === "GA" ? "active-col" : ""}">${
+            team.GA ?? ""
+          }</td>
+              <td class="${sortColumn === "DIFF" ? "active-col" : ""}">${
+            team.DIFF ?? ""
+          }</td>
+            </tr>
+          `;
+        }
+      }
+
+      placeholder.innerHTML = out;
+
+      const headerNames = {
+        Team: "Team",
+        W: "Wins",
+        L: "Losses",
+        T: "Ties",
+        PTS: "Points",
+        GF: "Goals For",
+        GA: "Goals Against",
+        DIFF: "Goal Differential",
+      };
+
+      // Update header arrows
+      document.querySelectorAll("th[data-column]").forEach((th) => {
+        const col = th.dataset.column;
+        th.textContent = headerNames[col]; // Use full name
+        if (col === sortColumn) {
+          th.textContent += ascending ? " ▲" : " ▼";
+        }
+      });
+    }
+
+    let currentSort = { column: "Team", ascending: false };
+    render(currentSort.column, currentSort.ascending);
+
+    // Clickable headers
+    document.querySelectorAll("th[data-column]").forEach((th) => {
+      th.style.cursor = "pointer";
+      th.addEventListener("click", () => {
+        const col = th.dataset.column;
+        if (currentSort.column === col) {
+          currentSort.ascending = !currentSort.ascending;
+        } else {
+          currentSort.column = col;
+          currentSort.ascending = false;
+        }
+        render(currentSort.column, currentSort.ascending);
+      });
+    });
+
     fetch("soccerjb2standings.json", { method: "HEAD" }).then((res) => {
       const lastModified = res.headers.get("last-modified");
       if (lastModified) {
@@ -210,36 +416,139 @@ fetch("soccerjg1standings.json")
   .then((response) => response.json())
   .then((data) => {
     const placeholder = document.querySelector("#data-output");
-    let out = "";
+    let standings = data.standings || [];
 
-    if (data.standings && data.standings.length > 0) {
-      for (const team of data.standings) {
-        const isDivision =
-          team.Team === "Central" ||
-          team.Team === "East" ||
-          team.Team === "North" ||
-          team.Team === "Central 1" ||
-          team.Team === "West";
-
-        const divisionClass = isDivision ? "division-row" : "";
-
-        out += `
-                <tr class="${divisionClass}">
-                  <td>${team.Team ?? ""}</td>
-                  <td>${team.W ?? ""}</td>
-                  <td>${team.L ?? ""}</td>
-                  <td>${team.T ?? ""}</td>
-                  <td>${team.PTS ?? ""}</td>
-                  <td>${team.GF ?? team.PF ?? ""}</td>
-                  <td>${team.GA ?? team.PA ?? ""}</td>
-                  <td>${team.DIFF ?? ""}</td>
-                </tr>
-              `;
-      }
-      placeholder.innerHTML = out;
+    function parseNumber(v) {
+      if (v === undefined || v === null) return 0;
+      const n = Number(v);
+      return isNaN(n) ? 0 : n;
     }
 
-    // Last updated (standings)
+    // Auto-detect divisions
+    let divisions = [];
+    for (const team of standings) {
+      if (
+        team.Team &&
+        ["Central", "East", "North", "West", "Central 1"].includes(team.Team)
+      ) {
+        divisions.push(team.Team);
+      }
+    }
+
+    // Group teams under divisions
+    let grouped = {};
+    for (const div of divisions) grouped[div] = [];
+
+    for (let i = 0; i < standings.length; i++) {
+      const team = standings[i];
+      if (divisions.includes(team.Team)) continue; // skip header rows
+      let div = null;
+      for (let j = i; j >= 0; j--) {
+        if (divisions.includes(standings[j].Team)) {
+          div = standings[j].Team;
+          break;
+        }
+      }
+      if (div) grouped[div].push(team);
+    }
+
+    function render(sortColumn = "PTS", ascending = false) {
+      let out = "";
+
+      for (const div of divisions) {
+        // Division header row
+        out += `
+          <tr class="division-row">
+            <td>${div}</td>
+            <td>W</td>
+            <td>L</td>
+            <td>T</td>
+            <td>PTS</td>
+            <td>GF</td>
+            <td>GA</td>
+            <td>DIFF</td>
+          </tr>
+        `;
+
+        // Sort teams (skip division headers)
+        grouped[div].sort((a, b) => {
+          let valA = parseNumber(a[sortColumn]);
+          let valB = parseNumber(b[sortColumn]);
+          return ascending ? valA - valB : valB - valA;
+        });
+
+        // Render rows
+        for (const team of grouped[div]) {
+          out += `
+            <tr>
+              <td>${team.Team ?? ""}</td>
+              <td class="${sortColumn === "W" ? "active-col" : ""}">${
+            team.W ?? ""
+          }</td>
+              <td class="${sortColumn === "L" ? "active-col" : ""}">${
+            team.L ?? ""
+          }</td>
+              <td class="${sortColumn === "T" ? "active-col" : ""}">${
+            team.T ?? ""
+          }</td>
+              <td class="${sortColumn === "PTS" ? "active-col" : ""}">${
+            team.PTS ?? ""
+          }</td>
+              <td class="${sortColumn === "GF" ? "active-col" : ""}">${
+            team.GF ?? ""
+          }</td>
+              <td class="${sortColumn === "GA" ? "active-col" : ""}">${
+            team.GA ?? ""
+          }</td>
+              <td class="${sortColumn === "DIFF" ? "active-col" : ""}">${
+            team.DIFF ?? ""
+          }</td>
+            </tr>
+          `;
+        }
+      }
+
+      placeholder.innerHTML = out;
+
+      const headerNames = {
+        Team: "Team",
+        W: "Wins",
+        L: "Losses",
+        T: "Ties",
+        PTS: "Points",
+        GF: "Goals For",
+        GA: "Goals Against",
+        DIFF: "Goal Differential",
+      };
+
+      // Update header arrows
+      document.querySelectorAll("th[data-column]").forEach((th) => {
+        const col = th.dataset.column;
+        th.textContent = headerNames[col]; // Use full name
+        if (col === sortColumn) {
+          th.textContent += ascending ? " ▲" : " ▼";
+        }
+      });
+    }
+
+    let currentSort = { column: "Team", ascending: false };
+    render(currentSort.column, currentSort.ascending);
+
+    // Clickable headers
+    document.querySelectorAll("th[data-column]").forEach((th) => {
+      th.style.cursor = "pointer";
+      th.addEventListener("click", () => {
+        const col = th.dataset.column;
+        if (currentSort.column === col) {
+          currentSort.ascending = !currentSort.ascending;
+        } else {
+          currentSort.column = col;
+          currentSort.ascending = false;
+        }
+        render(currentSort.column, currentSort.ascending);
+      });
+    });
+
     fetch("soccerjg1standings.json", { method: "HEAD" }).then((res) => {
       const lastModified = res.headers.get("last-modified");
       if (lastModified) {
@@ -313,36 +622,139 @@ fetch("soccerjg2standings.json")
   .then((response) => response.json())
   .then((data) => {
     const placeholder = document.querySelector("#data-output");
-    let out = "";
+    let standings = data.standings || [];
 
-    if (data.standings && data.standings.length > 0) {
-      for (const team of data.standings) {
-        const isDivision =
-          team.Team === "Central" ||
-          team.Team === "East" ||
-          team.Team === "North" ||
-          team.Team === "Central 1" ||
-          team.Team === "West";
-
-        const divisionClass = isDivision ? "division-row" : "";
-
-        out += `
-                <tr class="${divisionClass}">
-                  <td>${team.Team ?? ""}</td>
-                  <td>${team.W ?? ""}</td>
-                  <td>${team.L ?? ""}</td>
-                  <td>${team.T ?? ""}</td>
-                  <td>${team.PTS ?? ""}</td>
-                  <td>${team.GF ?? team.PF ?? ""}</td>
-                  <td>${team.GA ?? team.PA ?? ""}</td>
-                  <td>${team.DIFF ?? ""}</td>
-                </tr>
-              `;
-      }
-      placeholder.innerHTML = out;
+    function parseNumber(v) {
+      if (v === undefined || v === null) return 0;
+      const n = Number(v);
+      return isNaN(n) ? 0 : n;
     }
 
-    // Last updated (standings)
+    // Auto-detect divisions
+    let divisions = [];
+    for (const team of standings) {
+      if (
+        team.Team &&
+        ["Central", "East", "North", "West"].includes(team.Team)
+      ) {
+        divisions.push(team.Team);
+      }
+    }
+
+    // Group teams under divisions
+    let grouped = {};
+    for (const div of divisions) grouped[div] = [];
+
+    for (let i = 0; i < standings.length; i++) {
+      const team = standings[i];
+      if (divisions.includes(team.Team)) continue; // skip header rows
+      let div = null;
+      for (let j = i; j >= 0; j--) {
+        if (divisions.includes(standings[j].Team)) {
+          div = standings[j].Team;
+          break;
+        }
+      }
+      if (div) grouped[div].push(team);
+    }
+
+    function render(sortColumn = "PTS", ascending = false) {
+      let out = "";
+
+      for (const div of divisions) {
+        // Division header row
+        out += `
+          <tr class="division-row">
+            <td>${div}</td>
+            <td>W</td>
+            <td>L</td>
+            <td>T</td>
+            <td>PTS</td>
+            <td>GF</td>
+            <td>GA</td>
+            <td>DIFF</td>
+          </tr>
+        `;
+
+        // Sort teams (skip division headers)
+        grouped[div].sort((a, b) => {
+          let valA = parseNumber(a[sortColumn]);
+          let valB = parseNumber(b[sortColumn]);
+          return ascending ? valA - valB : valB - valA;
+        });
+
+        // Render rows
+        for (const team of grouped[div]) {
+          out += `
+            <tr>
+              <td>${team.Team ?? ""}</td>
+              <td class="${sortColumn === "W" ? "active-col" : ""}">${
+            team.W ?? ""
+          }</td>
+              <td class="${sortColumn === "L" ? "active-col" : ""}">${
+            team.L ?? ""
+          }</td>
+              <td class="${sortColumn === "T" ? "active-col" : ""}">${
+            team.T ?? ""
+          }</td>
+              <td class="${sortColumn === "PTS" ? "active-col" : ""}">${
+            team.PTS ?? ""
+          }</td>
+              <td class="${sortColumn === "GF" ? "active-col" : ""}">${
+            team.GF ?? ""
+          }</td>
+              <td class="${sortColumn === "GA" ? "active-col" : ""}">${
+            team.GA ?? ""
+          }</td>
+              <td class="${sortColumn === "DIFF" ? "active-col" : ""}">${
+            team.DIFF ?? ""
+          }</td>
+            </tr>
+          `;
+        }
+      }
+
+      placeholder.innerHTML = out;
+
+      const headerNames = {
+        Team: "Team",
+        W: "Wins",
+        L: "Losses",
+        T: "Ties",
+        PTS: "Points",
+        GF: "Goals For",
+        GA: "Goals Against",
+        DIFF: "Goal Differential",
+      };
+
+      // Update header arrows
+      document.querySelectorAll("th[data-column]").forEach((th) => {
+        const col = th.dataset.column;
+        th.textContent = headerNames[col]; // Use full name
+        if (col === sortColumn) {
+          th.textContent += ascending ? " ▲" : " ▼";
+        }
+      });
+    }
+
+    let currentSort = { column: "Team", ascending: false };
+    render(currentSort.column, currentSort.ascending);
+
+    // Clickable headers
+    document.querySelectorAll("th[data-column]").forEach((th) => {
+      th.style.cursor = "pointer";
+      th.addEventListener("click", () => {
+        const col = th.dataset.column;
+        if (currentSort.column === col) {
+          currentSort.ascending = !currentSort.ascending;
+        } else {
+          currentSort.column = col;
+          currentSort.ascending = false;
+        }
+        render(currentSort.column, currentSort.ascending);
+      });
+    });
+
     fetch("soccerjg2standings.json", { method: "HEAD" }).then((res) => {
       const lastModified = res.headers.get("last-modified");
       if (lastModified) {
@@ -416,38 +828,139 @@ fetch("soccersg1standings.json")
   .then((response) => response.json())
   .then((data) => {
     const placeholder = document.querySelector("#data-output");
-    let out = "";
+    let standings = data.standings || [];
 
-    if (data.standings && data.standings.length > 0) {
-      for (const team of data.standings) {
-        const isDivision =
-          team.Team === "Central" ||
-          team.Team === "East" ||
-          team.Team === "North" ||
-          team.Team === "Central 1" ||
-          team.Team === "North 1" ||
-          team.Team === "North-East" ||
-          team.Team === "West";
-
-        const divisionClass = isDivision ? "division-row" : "";
-
-        out += `
-                <tr class="${divisionClass}">
-                  <td>${team.Team ?? ""}</td>
-                  <td>${team.W ?? ""}</td>
-                  <td>${team.L ?? ""}</td>
-                  <td>${team.T ?? ""}</td>
-                  <td>${team.PTS ?? ""}</td>
-                  <td>${team.GF ?? team.PF ?? ""}</td>
-                  <td>${team.GA ?? team.PA ?? ""}</td>
-                  <td>${team.DIFF ?? ""}</td>
-                </tr>
-              `;
-      }
-      placeholder.innerHTML = out;
+    function parseNumber(v) {
+      if (v === undefined || v === null) return 0;
+      const n = Number(v);
+      return isNaN(n) ? 0 : n;
     }
 
-    // Last updated (standings)
+    // Auto-detect divisions
+    let divisions = [];
+    for (const team of standings) {
+      if (
+        team.Team &&
+        ["Central", "East", "North", "West"].includes(team.Team)
+      ) {
+        divisions.push(team.Team);
+      }
+    }
+
+    // Group teams under divisions
+    let grouped = {};
+    for (const div of divisions) grouped[div] = [];
+
+    for (let i = 0; i < standings.length; i++) {
+      const team = standings[i];
+      if (divisions.includes(team.Team)) continue; // skip header rows
+      let div = null;
+      for (let j = i; j >= 0; j--) {
+        if (divisions.includes(standings[j].Team)) {
+          div = standings[j].Team;
+          break;
+        }
+      }
+      if (div) grouped[div].push(team);
+    }
+
+    function render(sortColumn = "PTS", ascending = false) {
+      let out = "";
+
+      for (const div of divisions) {
+        // Division header row
+        out += `
+          <tr class="division-row">
+            <td>${div}</td>
+            <td>W</td>
+            <td>L</td>
+            <td>T</td>
+            <td>PTS</td>
+            <td>GF</td>
+            <td>GA</td>
+            <td>DIFF</td>
+          </tr>
+        `;
+
+        // Sort teams (skip division headers)
+        grouped[div].sort((a, b) => {
+          let valA = parseNumber(a[sortColumn]);
+          let valB = parseNumber(b[sortColumn]);
+          return ascending ? valA - valB : valB - valA;
+        });
+
+        // Render rows
+        for (const team of grouped[div]) {
+          out += `
+            <tr>
+              <td>${team.Team ?? ""}</td>
+              <td class="${sortColumn === "W" ? "active-col" : ""}">${
+            team.W ?? ""
+          }</td>
+              <td class="${sortColumn === "L" ? "active-col" : ""}">${
+            team.L ?? ""
+          }</td>
+              <td class="${sortColumn === "T" ? "active-col" : ""}">${
+            team.T ?? ""
+          }</td>
+              <td class="${sortColumn === "PTS" ? "active-col" : ""}">${
+            team.PTS ?? ""
+          }</td>
+              <td class="${sortColumn === "GF" ? "active-col" : ""}">${
+            team.GF ?? ""
+          }</td>
+              <td class="${sortColumn === "GA" ? "active-col" : ""}">${
+            team.GA ?? ""
+          }</td>
+              <td class="${sortColumn === "DIFF" ? "active-col" : ""}">${
+            team.DIFF ?? ""
+          }</td>
+            </tr>
+          `;
+        }
+      }
+
+      placeholder.innerHTML = out;
+
+      const headerNames = {
+        Team: "Team",
+        W: "Wins",
+        L: "Losses",
+        T: "Ties",
+        PTS: "Points",
+        GF: "Goals For",
+        GA: "Goals Against",
+        DIFF: "Goal Differential",
+      };
+
+      // Update header arrows
+      document.querySelectorAll("th[data-column]").forEach((th) => {
+        const col = th.dataset.column;
+        th.textContent = headerNames[col]; // Use full name
+        if (col === sortColumn) {
+          th.textContent += ascending ? " ▲" : " ▼";
+        }
+      });
+    }
+
+    let currentSort = { column: "Team", ascending: false };
+    render(currentSort.column, currentSort.ascending);
+
+    // Clickable headers
+    document.querySelectorAll("th[data-column]").forEach((th) => {
+      th.style.cursor = "pointer";
+      th.addEventListener("click", () => {
+        const col = th.dataset.column;
+        if (currentSort.column === col) {
+          currentSort.ascending = !currentSort.ascending;
+        } else {
+          currentSort.column = col;
+          currentSort.ascending = false;
+        }
+        render(currentSort.column, currentSort.ascending);
+      });
+    });
+
     fetch("soccersg1standings.json", { method: "HEAD" }).then((res) => {
       const lastModified = res.headers.get("last-modified");
       if (lastModified) {
@@ -521,39 +1034,147 @@ fetch("soccersg2standings.json")
   .then((response) => response.json())
   .then((data) => {
     const placeholder = document.querySelector("#data-output");
-    let out = "";
+    let standings = data.standings || [];
 
-    if (data.standings && data.standings.length > 0) {
-      for (const team of data.standings) {
-        const isDivision =
-          team.Team === "Central" ||
-          team.Team === "East" ||
-          team.Team === "North" ||
-          team.Team === "Central 1" ||
-          team.Team === "East 1" ||
-          team.Team === "East 2" ||
-          team.Team === "Central 1" ||
-          team.Team === "West";
-
-        const divisionClass = isDivision ? "division-row" : "";
-
-        out += `
-                <tr class="${divisionClass}">
-                  <td>${team.Team ?? ""}</td>
-                  <td>${team.W ?? ""}</td>
-                  <td>${team.L ?? ""}</td>
-                  <td>${team.T ?? ""}</td>
-                  <td>${team.PTS ?? ""}</td>
-                  <td>${team.GF ?? team.PF ?? ""}</td>
-                  <td>${team.GA ?? team.PA ?? ""}</td>
-                  <td>${team.DIFF ?? ""}</td>
-                </tr>
-              `;
-      }
-      placeholder.innerHTML = out;
+    function parseNumber(v) {
+      if (v === undefined || v === null) return 0;
+      const n = Number(v);
+      return isNaN(n) ? 0 : n;
     }
 
-    // Last updated (standings)
+    // Auto-detect divisions
+    let divisions = [];
+    for (const team of standings) {
+      if (
+        team.Team &&
+        [
+          "Central",
+          "East",
+          "North",
+          "West",
+          "Central 1",
+          "East 1",
+          "East 2",
+        ].includes(team.Team)
+      ) {
+        divisions.push(team.Team);
+      }
+    }
+
+    // Group teams under divisions
+    let grouped = {};
+    for (const div of divisions) grouped[div] = [];
+
+    for (let i = 0; i < standings.length; i++) {
+      const team = standings[i];
+      if (divisions.includes(team.Team)) continue; // skip header rows
+      let div = null;
+      for (let j = i; j >= 0; j--) {
+        if (divisions.includes(standings[j].Team)) {
+          div = standings[j].Team;
+          break;
+        }
+      }
+      if (div) grouped[div].push(team);
+    }
+
+    function render(sortColumn = "PTS", ascending = false) {
+      let out = "";
+
+      for (const div of divisions) {
+        // Division header row
+        out += `
+          <tr class="division-row">
+            <td>${div}</td>
+            <td>W</td>
+            <td>L</td>
+            <td>T</td>
+            <td>PTS</td>
+            <td>GF</td>
+            <td>GA</td>
+            <td>DIFF</td>
+          </tr>
+        `;
+
+        // Sort teams (skip division headers)
+        grouped[div].sort((a, b) => {
+          let valA = parseNumber(a[sortColumn]);
+          let valB = parseNumber(b[sortColumn]);
+          return ascending ? valA - valB : valB - valA;
+        });
+
+        // Render rows
+        for (const team of grouped[div]) {
+          out += `
+            <tr>
+              <td>${team.Team ?? ""}</td>
+              <td class="${sortColumn === "W" ? "active-col" : ""}">${
+            team.W ?? ""
+          }</td>
+              <td class="${sortColumn === "L" ? "active-col" : ""}">${
+            team.L ?? ""
+          }</td>
+              <td class="${sortColumn === "T" ? "active-col" : ""}">${
+            team.T ?? ""
+          }</td>
+              <td class="${sortColumn === "PTS" ? "active-col" : ""}">${
+            team.PTS ?? ""
+          }</td>
+              <td class="${sortColumn === "GF" ? "active-col" : ""}">${
+            team.GF ?? ""
+          }</td>
+              <td class="${sortColumn === "GA" ? "active-col" : ""}">${
+            team.GA ?? ""
+          }</td>
+              <td class="${sortColumn === "DIFF" ? "active-col" : ""}">${
+            team.DIFF ?? ""
+          }</td>
+            </tr>
+          `;
+        }
+      }
+
+      placeholder.innerHTML = out;
+
+      const headerNames = {
+        Team: "Team",
+        W: "Wins",
+        L: "Losses",
+        T: "Ties",
+        PTS: "Points",
+        GF: "Goals For",
+        GA: "Goals Against",
+        DIFF: "Goal Differential",
+      };
+
+      // Update header arrows
+      document.querySelectorAll("th[data-column]").forEach((th) => {
+        const col = th.dataset.column;
+        th.textContent = headerNames[col]; // Use full name
+        if (col === sortColumn) {
+          th.textContent += ascending ? " ▲" : " ▼";
+        }
+      });
+    }
+
+    let currentSort = { column: "Team", ascending: false };
+    render(currentSort.column, currentSort.ascending);
+
+    // Clickable headers
+    document.querySelectorAll("th[data-column]").forEach((th) => {
+      th.style.cursor = "pointer";
+      th.addEventListener("click", () => {
+        const col = th.dataset.column;
+        if (currentSort.column === col) {
+          currentSort.ascending = !currentSort.ascending;
+        } else {
+          currentSort.column = col;
+          currentSort.ascending = false;
+        }
+        render(currentSort.column, currentSort.ascending);
+      });
+    });
+
     fetch("soccersg2standings.json", { method: "HEAD" }).then((res) => {
       const lastModified = res.headers.get("last-modified");
       if (lastModified) {
@@ -627,39 +1248,147 @@ fetch("soccersb1standings.json")
   .then((response) => response.json())
   .then((data) => {
     const placeholder = document.querySelector("#data-output");
-    let out = "";
+    let standings = data.standings || [];
 
-    if (data.standings && data.standings.length > 0) {
-      for (const team of data.standings) {
-        const isDivision =
-          team.Team === "Central" ||
-          team.Team === "East" ||
-          team.Team === "North" ||
-          team.Team === "Central 1" ||
-          team.Team === "East 1" ||
-          team.Team === "East 2" ||
-          team.Team === "Central 1" ||
-          team.Team === "West";
-
-        const divisionClass = isDivision ? "division-row" : "";
-
-        out += `
-                <tr class="${divisionClass}">
-                  <td>${team.Team ?? ""}</td>
-                  <td>${team.W ?? ""}</td>
-                  <td>${team.L ?? ""}</td>
-                  <td>${team.T ?? ""}</td>
-                  <td>${team.PTS ?? ""}</td>
-                  <td>${team.GF ?? team.PF ?? ""}</td>
-                  <td>${team.GA ?? team.PA ?? ""}</td>
-                  <td>${team.DIFF ?? ""}</td>
-                </tr>
-              `;
-      }
-      placeholder.innerHTML = out;
+    function parseNumber(v) {
+      if (v === undefined || v === null) return 0;
+      const n = Number(v);
+      return isNaN(n) ? 0 : n;
     }
 
-    // Last updated (standings)
+    // Auto-detect divisions
+    let divisions = [];
+    for (const team of standings) {
+      if (
+        team.Team &&
+        [
+          "Central",
+          "East",
+          "North",
+          "West",
+          "Central 1",
+          "East 1",
+          "East 2",
+        ].includes(team.Team)
+      ) {
+        divisions.push(team.Team);
+      }
+    }
+
+    // Group teams under divisions
+    let grouped = {};
+    for (const div of divisions) grouped[div] = [];
+
+    for (let i = 0; i < standings.length; i++) {
+      const team = standings[i];
+      if (divisions.includes(team.Team)) continue; // skip header rows
+      let div = null;
+      for (let j = i; j >= 0; j--) {
+        if (divisions.includes(standings[j].Team)) {
+          div = standings[j].Team;
+          break;
+        }
+      }
+      if (div) grouped[div].push(team);
+    }
+
+    function render(sortColumn = "PTS", ascending = false) {
+      let out = "";
+
+      for (const div of divisions) {
+        // Division header row
+        out += `
+          <tr class="division-row">
+            <td>${div}</td>
+            <td>W</td>
+            <td>L</td>
+            <td>T</td>
+            <td>PTS</td>
+            <td>GF</td>
+            <td>GA</td>
+            <td>DIFF</td>
+          </tr>
+        `;
+
+        // Sort teams (skip division headers)
+        grouped[div].sort((a, b) => {
+          let valA = parseNumber(a[sortColumn]);
+          let valB = parseNumber(b[sortColumn]);
+          return ascending ? valA - valB : valB - valA;
+        });
+
+        // Render rows
+        for (const team of grouped[div]) {
+          out += `
+            <tr>
+              <td>${team.Team ?? ""}</td>
+              <td class="${sortColumn === "W" ? "active-col" : ""}">${
+            team.W ?? ""
+          }</td>
+              <td class="${sortColumn === "L" ? "active-col" : ""}">${
+            team.L ?? ""
+          }</td>
+              <td class="${sortColumn === "T" ? "active-col" : ""}">${
+            team.T ?? ""
+          }</td>
+              <td class="${sortColumn === "PTS" ? "active-col" : ""}">${
+            team.PTS ?? ""
+          }</td>
+              <td class="${sortColumn === "GF" ? "active-col" : ""}">${
+            team.GF ?? ""
+          }</td>
+              <td class="${sortColumn === "GA" ? "active-col" : ""}">${
+            team.GA ?? ""
+          }</td>
+              <td class="${sortColumn === "DIFF" ? "active-col" : ""}">${
+            team.DIFF ?? ""
+          }</td>
+            </tr>
+          `;
+        }
+      }
+
+      placeholder.innerHTML = out;
+
+      const headerNames = {
+        Team: "Team",
+        W: "Wins",
+        L: "Losses",
+        T: "Ties",
+        PTS: "Points",
+        GF: "Goals For",
+        GA: "Goals Against",
+        DIFF: "Goal Differential",
+      };
+
+      // Update header arrows
+      document.querySelectorAll("th[data-column]").forEach((th) => {
+        const col = th.dataset.column;
+        th.textContent = headerNames[col]; // Use full name
+        if (col === sortColumn) {
+          th.textContent += ascending ? " ▲" : " ▼";
+        }
+      });
+    }
+
+    let currentSort = { column: "Team", ascending: false };
+    render(currentSort.column, currentSort.ascending);
+
+    // Clickable headers
+    document.querySelectorAll("th[data-column]").forEach((th) => {
+      th.style.cursor = "pointer";
+      th.addEventListener("click", () => {
+        const col = th.dataset.column;
+        if (currentSort.column === col) {
+          currentSort.ascending = !currentSort.ascending;
+        } else {
+          currentSort.column = col;
+          currentSort.ascending = false;
+        }
+        render(currentSort.column, currentSort.ascending);
+      });
+    });
+
     fetch("soccersb1standings.json", { method: "HEAD" }).then((res) => {
       const lastModified = res.headers.get("last-modified");
       if (lastModified) {
@@ -733,39 +1462,147 @@ fetch("soccersb2standings.json")
   .then((response) => response.json())
   .then((data) => {
     const placeholder = document.querySelector("#data-output");
-    let out = "";
+    let standings = data.standings || [];
 
-    if (data.standings && data.standings.length > 0) {
-      for (const team of data.standings) {
-        const isDivision =
-          team.Team === "Central" ||
-          team.Team === "East" ||
-          team.Team === "North" ||
-          team.Team === "Central 1" ||
-          team.Team === "East 1" ||
-          team.Team === "East 2" ||
-          team.Team === "Central 1" ||
-          team.Team === "West";
-
-        const divisionClass = isDivision ? "division-row" : "";
-
-        out += `
-                <tr class="${divisionClass}">
-                  <td>${team.Team ?? ""}</td>
-                  <td>${team.W ?? ""}</td>
-                  <td>${team.L ?? ""}</td>
-                  <td>${team.T ?? ""}</td>
-                  <td>${team.PTS ?? ""}</td>
-                  <td>${team.GF ?? team.PF ?? ""}</td>
-                  <td>${team.GA ?? team.PA ?? ""}</td>
-                  <td>${team.DIFF ?? ""}</td>
-                </tr>
-              `;
-      }
-      placeholder.innerHTML = out;
+    function parseNumber(v) {
+      if (v === undefined || v === null) return 0;
+      const n = Number(v);
+      return isNaN(n) ? 0 : n;
     }
 
-    // Last updated (standings)
+    // Auto-detect divisions
+    let divisions = [];
+    for (const team of standings) {
+      if (
+        team.Team &&
+        [
+          "Central",
+          "East",
+          "North",
+          "West",
+          "Central 1",
+          "East 1",
+          "East 2",
+        ].includes(team.Team)
+      ) {
+        divisions.push(team.Team);
+      }
+    }
+
+    // Group teams under divisions
+    let grouped = {};
+    for (const div of divisions) grouped[div] = [];
+
+    for (let i = 0; i < standings.length; i++) {
+      const team = standings[i];
+      if (divisions.includes(team.Team)) continue; // skip header rows
+      let div = null;
+      for (let j = i; j >= 0; j--) {
+        if (divisions.includes(standings[j].Team)) {
+          div = standings[j].Team;
+          break;
+        }
+      }
+      if (div) grouped[div].push(team);
+    }
+
+    function render(sortColumn = "PTS", ascending = false) {
+      let out = "";
+
+      for (const div of divisions) {
+        // Division header row
+        out += `
+          <tr class="division-row">
+            <td>${div}</td>
+            <td>W</td>
+            <td>L</td>
+            <td>T</td>
+            <td>PTS</td>
+            <td>GF</td>
+            <td>GA</td>
+            <td>DIFF</td>
+          </tr>
+        `;
+
+        // Sort teams (skip division headers)
+        grouped[div].sort((a, b) => {
+          let valA = parseNumber(a[sortColumn]);
+          let valB = parseNumber(b[sortColumn]);
+          return ascending ? valA - valB : valB - valA;
+        });
+
+        // Render rows
+        for (const team of grouped[div]) {
+          out += `
+            <tr>
+              <td>${team.Team ?? ""}</td>
+              <td class="${sortColumn === "W" ? "active-col" : ""}">${
+            team.W ?? ""
+          }</td>
+              <td class="${sortColumn === "L" ? "active-col" : ""}">${
+            team.L ?? ""
+          }</td>
+              <td class="${sortColumn === "T" ? "active-col" : ""}">${
+            team.T ?? ""
+          }</td>
+              <td class="${sortColumn === "PTS" ? "active-col" : ""}">${
+            team.PTS ?? ""
+          }</td>
+              <td class="${sortColumn === "GF" ? "active-col" : ""}">${
+            team.GF ?? ""
+          }</td>
+              <td class="${sortColumn === "GA" ? "active-col" : ""}">${
+            team.GA ?? ""
+          }</td>
+              <td class="${sortColumn === "DIFF" ? "active-col" : ""}">${
+            team.DIFF ?? ""
+          }</td>
+            </tr>
+          `;
+        }
+      }
+
+      placeholder.innerHTML = out;
+
+      const headerNames = {
+        Team: "Team",
+        W: "Wins",
+        L: "Losses",
+        T: "Ties",
+        PTS: "Points",
+        GF: "Goals For",
+        GA: "Goals Against",
+        DIFF: "Goal Differential",
+      };
+
+      // Update header arrows
+      document.querySelectorAll("th[data-column]").forEach((th) => {
+        const col = th.dataset.column;
+        th.textContent = headerNames[col]; // Use full name
+        if (col === sortColumn) {
+          th.textContent += ascending ? " ▲" : " ▼";
+        }
+      });
+    }
+
+    let currentSort = { column: "Team", ascending: false };
+    render(currentSort.column, currentSort.ascending);
+
+    // Clickable headers
+    document.querySelectorAll("th[data-column]").forEach((th) => {
+      th.style.cursor = "pointer";
+      th.addEventListener("click", () => {
+        const col = th.dataset.column;
+        if (currentSort.column === col) {
+          currentSort.ascending = !currentSort.ascending;
+        } else {
+          currentSort.column = col;
+          currentSort.ascending = false;
+        }
+        render(currentSort.column, currentSort.ascending);
+      });
+    });
+
     fetch("soccersb2standings.json", { method: "HEAD" }).then((res) => {
       const lastModified = res.headers.get("last-modified");
       if (lastModified) {
