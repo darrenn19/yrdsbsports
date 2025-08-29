@@ -1,0 +1,67 @@
+{
+    "standings": [
+        {
+            "Team": "Central",
+            "W": "W",
+            "L": "L",
+            "T": "T",
+            "PTS": "PTS",
+            "PF": "PF",
+            "PA": "PA"
+        },
+        {
+            "Team": "Huron Heights",
+            "W": "5",
+            "L": "0",
+            "T": "0",
+            "PTS": "10",
+            "PF": "35",
+            "PA": "12"
+        },
+        {
+            "Team": "Bill Crothers SS",
+            "W": "4",
+            "L": "1",
+            "T": "0",
+            "PTS": "8",
+            "PF": "30",
+            "PA": "16"
+        },
+        {
+            "Team": "Sutton District",
+            "W": "3",
+            "L": "2",
+            "T": "0",
+            "PTS": "6",
+            "PF": "18",
+            "PA": "18"
+        },
+        {
+            "Team": "Aurora HS",
+            "W": "2",
+            "L": "3",
+            "T": "0",
+            "PTS": "4",
+            "PF": "26",
+            "PA": "21"
+        },
+        {
+            "Team": "Keswick High School",
+            "W": "1",
+            "L": "4",
+            "T": "0",
+            "PTS": "2",
+            "PF": "18",
+            "PA": "21"
+        },
+        {
+            "Team": "Sir William Mulock",
+            "W": "0",
+            "L": "5",
+            "T": "0",
+            "PTS": "0",
+            "PF": "4",
+            "PA": "43"
+        }
+    ]
+}
