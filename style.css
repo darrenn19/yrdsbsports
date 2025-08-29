@@ -6,7 +6,121 @@ body {
   color: #222;
 }
 
-/* Header */
+.baseball-header {
+  text-align: center;
+  padding: 3rem 2rem;
+  background: linear-gradient(rgba(0, 64, 128, 0.9), rgba(0, 64, 128, 0.9)),
+    url("baseball/baseballbg.webp") center/cover no-repeat;
+  color: white;
+  background-blend-mode: multiply; /* deeper blend */
+}
+
+.basketball-header {
+  text-align: center;
+  padding: 3rem 2rem;
+  background: linear-gradient(rgba(0, 64, 128, 0.9), rgba(0, 64, 128, 0.9)),
+    url("basketball/basketballbg.avif") center/cover no-repeat;
+  color: white;
+  background-blend-mode: multiply; /* deeper blend */
+}
+
+.volleyball-header {
+  text-align: center;
+  padding: 3rem 2rem;
+  background: linear-gradient(rgba(0, 64, 128, 0.9), rgba(0, 64, 128, 0.9)),
+    url("volleyball/volleyballbg.webp") center/cover no-repeat;
+  color: white;
+  background-blend-mode: multiply; /* deeper blend */
+}
+
+.soccer-header {
+  text-align: center;
+  padding: 3rem 2rem;
+  background: linear-gradient(rgba(0, 64, 128, 0.9), rgba(0, 64, 128, 0.9)),
+    url("soccer/soccerbg.webp") center/cover no-repeat;
+  color: white;
+  background-blend-mode: multiply; /* deeper blend */
+}
+
+.ultimate-header {
+  text-align: center;
+  padding: 3rem 2rem;
+  background: linear-gradient(rgba(0, 64, 128, 0.9), rgba(0, 64, 128, 0.9)),
+    url("ultimate/ultimatebg.webp") center/cover no-repeat;
+  color: white;
+  background-blend-mode: multiply; /* deeper blend */
+}
+
+.flagfootball-header {
+  text-align: center;
+  padding: 3rem 2rem;
+  background: linear-gradient(rgba(0, 64, 128, 0.9), rgba(0, 64, 128, 0.9)),
+    url("flag-football/flagfootballbg.jpg") center 30% / cover no-repeat;
+  background-size: 90%;
+  color: white;
+  background-blend-mode: multiply; /* deeper blend */
+}
+
+.rugby-header {
+  text-align: center;
+  padding: 3rem 2rem;
+  background: linear-gradient(rgba(0, 64, 128, 0.9), rgba(0, 64, 128, 0.9)),
+    url("rugby-10/rugbybg.jpeg") center 75% / cover no-repeat;
+  background-size: 90%;
+  color: white;
+  background-blend-mode: multiply; /* deeper blend */
+}
+
+.slopitch-header {
+  text-align: center;
+  padding: 3rem 2rem;
+  background: linear-gradient(rgba(0, 64, 128, 0.9), rgba(0, 64, 128, 0.9)),
+    url("slo-pitch/slopitchbg.jpg") center 60% / cover no-repeat;
+  background-size: 90%;
+  color: white;
+  background-blend-mode: multiply; /* deeper blend */
+}
+
+.cricket-header {
+  text-align: center;
+  padding: 3rem 2rem;
+  background: linear-gradient(rgba(0, 64, 128, 0.9), rgba(0, 64, 128, 0.9)),
+    url("cricket/cricketbg.jpg") center 60% / cover no-repeat;
+  background-size: 90%;
+  color: white;
+  background-blend-mode: multiply; /* deeper blend */
+}
+
+.curling-header {
+  text-align: center;
+  padding: 3rem 2rem;
+  background: linear-gradient(rgba(0, 64, 128, 0.9), rgba(0, 64, 128, 0.9)),
+    url("curling/curlingbg.jpg") center 65% / cover no-repeat;
+  background-size: 90%;
+  color: white;
+  background-blend-mode: multiply; /* deeper blend */
+}
+
+.icehockey-header {
+  text-align: center;
+  padding: 3rem 2rem;
+  background: linear-gradient(rgba(0, 64, 128, 0.9), rgba(0, 64, 128, 0.9)),
+    url("ice-hockey/icehockeybg.jpg") center / cover no-repeat;
+  background-size: 90%;
+  color: white;
+  background-blend-mode: multiply; /* deeper blend */
+}
+
+.lacrosse-header {
+  text-align: center;
+  padding: 3rem 2rem;
+  background: linear-gradient(rgba(0, 64, 128, 0.9), rgba(0, 64, 128, 0.9)),
+    url("lacrosse/lacrossebg.jpg") center 45% / cover no-repeat;
+  background-size: 90%;
+  color: white;
+  background-blend-mode: multiply; /* deeper blend */
+}
+
 header {
   text-align: center;
   padding: 2rem;
