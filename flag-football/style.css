@@ -1,0 +1,175 @@
+/* Style the division rows to make them stand out */
+.division-row {
+  font-weight: bold;
+  background-color: #f0f0f0; /* Light gray background */
+  color: #333; /* Dark text color */
+}
+
+.division-row td {
+  background-color: #d3d3d3; /* Slightly darker background for each cell in the division row */
+}
+
+/* Optional: Style header to make it more noticeable */
+th {
+  background-color: #4caf50;
+  color: white;
+  padding: 8px;
+  text-align: center;
+}
+
+td {
+  padding: 8px;
+  text-align: center;
+}
+
+#last-updated {
+  font-size: 0.9rem;
+  color: #555;
+  margin-top: 10px;
+  font-style: italic;
+  text-align: left;
+}
+
+.tables-container {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+}
+
+.table-box {
+  flex: 1;
+}
+
+h2 {
+  margin-bottom: 0.5rem;
+  text-align: center;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  text-align: center;
+}
+
+.last-updated {
+  font-size: 0.9rem;
+  color: #555;
+  font-style: italic;
+  text-align: right;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #e9ecef;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+footer center {
+  display: block;
+  margin-bottom: 100px;
+}
+
+footer center {
+  display: block;
+  margin-bottom: 100px;
+}
+
+.footer-links {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin: 2rem 0;
+}
+
+.back {
+  display: inline-block;
+  margin-bottom: 4px;
+}
+
+/* Responsiveness */
+
+/* Tablet (<= 900px) */
+@media (max-width: 900px) {
+  .tables-container {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+/* Mobile (<= 600px) */
+@media (max-width: 600px) {
+  .table-box {
+    width: 100%;
+  }
+
+  .table-box table {
+    font-size: 0.85rem;
+  }
+
+  .footer-links {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+}
+
+/* Back Buttons */
+
+.footer-links {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin: 2rem 0;
+}
+
+.btn-link {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background: #004aad; /* dark blue */
+  color: white;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background 0.2s, transform 0.2s;
+}
+
+.btn-link:hover {
+  background: #0066ff; /* lighter blue on hover */
+  transform: translateY(-3px);
+}
+
+/* Highlight active sorted column */
+.active-col {
+  background-color: #e6ffe6; /* light green shade */
+  font-weight: bold;
+}
+
+/* Make headers clickable */
+th[data-column] {
+  cursor: pointer;
+  user-select: none;
+}
+
+th[data-column]:hover {
+  background-color: #45a049; /* slightly lighter green */
+}
+
+/* Shade selected column */
+th.sorted {
+  background-color: #388e3c; /* darker green */
+}
+
+/* Style the Place column */
+td.place-cell {
+  font-weight: bold;
+  background-color: #f9f9f9;
+}
