@@ -14,7 +14,7 @@ fetch("ultimatet1standings.json")
       return m ? Number(m[0]) : 0;
     }
 
-    // ✅ Auto-detect divisions (rows with Team exactly equal to "Central", "East", etc.)
+    // Auto-detect divisions (rows with Team exactly equal to "Central", "East", etc.)
     let divisions = [];
     for (const team of standings) {
       if (

@@ -48,7 +48,6 @@ if response.status_code == 200:
                     "PTS": data[6],
                     "PF": data[7],
                     "PA": data[8],
-                    "DIFF": data[9]
                 }
                 # Append this dictionary to the standings list
                 standings.append(team_data)
