@@ -1,0 +1,49 @@
+{
+    "standings": [
+        {
+            "Team": "Central",
+            "W": "W",
+            "L": "L",
+            "T": "T",
+            "PTS": "PTS",
+            "PF": "PF",
+            "PA": "PA"
+        },
+        {
+            "Team": "St. Theresa Of Lisieux",
+            "W": "3",
+            "L": "0",
+            "T": "0",
+            "PTS": "12",
+            "PF": "99",
+            "PA": "20"
+        },
+        {
+            "Team": "Bill Crothers SS",
+            "W": "2",
+            "L": "1",
+            "T": "0",
+            "PTS": "8",
+            "PF": "81",
+            "PA": "63"
+        },
+        {
+            "Team": "St. Maximilian",
+            "W": "1",
+            "L": "2",
+            "T": "0",
+            "PTS": "4",
+            "PF": "67",
+            "PA": "51"
+        },
+        {
+            "Team": "Stephen Lewis SS",
+            "W": "0",
+            "L": "3",
+            "T": "0",
+            "PTS": "0",
+            "PF": "10",
+            "PA": "123"
+        }
+    ]
+}
