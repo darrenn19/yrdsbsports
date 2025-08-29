@@ -223,6 +223,7 @@ fetch("volleyballjg1standings.json")
           team.Team === "East" ||
           team.Team === "North" ||
           team.Team === "West" ||
+          team.Team === "Central-West" ||
           team.Team === "North-Central";
 
         const divisionClass = isDivision ? "division-row" : "";
