@@ -112,9 +112,23 @@ fetch("ultimatet1standings.json")
       placeholder.innerHTML = out;
 
       // Update header arrows
+      const headerNames = {
+        Team: "Team",
+        W: "Wins",
+        L: "Losses",
+        T: "Ties",
+        PTS: "Points",
+        SPTS: "Spirit Points",
+        PF: "Points For",
+        PA: "Points Against",
+        DIFF: "Point Differential",
+      };
+
+      // Update header arrows
       document.querySelectorAll("th[data-column]").forEach((th) => {
-        th.textContent = th.dataset.column; // reset
-        if (th.dataset.column === sortColumn) {
+        const col = th.dataset.column;
+        th.textContent = headerNames[col]; // Use full name
+        if (col === sortColumn) {
           th.textContent += ascending ? " ▲" : " ▼";
         }
       });
@@ -317,9 +331,23 @@ fetch("ultimatet2standings.json")
       placeholder.innerHTML = out;
 
       // Update header arrows
+      const headerNames = {
+        Team: "Team",
+        W: "Wins",
+        L: "Losses",
+        T: "Ties",
+        PTS: "Points",
+        SPTS: "Spirit Points",
+        PF: "Points For",
+        PA: "Points Against",
+        DIFF: "Point Differential",
+      };
+
+      // Update header arrows
       document.querySelectorAll("th[data-column]").forEach((th) => {
-        th.textContent = th.dataset.column; // reset
-        if (th.dataset.column === sortColumn) {
+        const col = th.dataset.column;
+        th.textContent = headerNames[col]; // Use full name
+        if (col === sortColumn) {
           th.textContent += ascending ? " ▲" : " ▼";
         }
       });

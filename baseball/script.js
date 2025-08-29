@@ -99,10 +99,22 @@ fetch("baseballtier1standings.json")
 
       placeholder.innerHTML = out;
 
+      const headerNames = {
+        Team: "Team",
+        W: "Wins",
+        L: "Losses",
+        T: "Ties",
+        PTS: "Points",
+        RF: "Runs For",
+        RA: "Runs Against",
+        DIFF: "Run Differential",
+      };
+
       // Update header arrows
       document.querySelectorAll("th[data-column]").forEach((th) => {
-        th.textContent = th.dataset.column; // reset
-        if (th.dataset.column === sortColumn) {
+        const col = th.dataset.column;
+        th.textContent = headerNames[col]; // Use full name
+        if (col === sortColumn) {
           th.textContent += ascending ? " ▲" : " ▼";
         }
       });
@@ -297,10 +309,22 @@ fetch("baseballtier2standings.json")
 
       placeholder.innerHTML = out;
 
+      const headerNames = {
+        Team: "Team",
+        W: "Wins",
+        L: "Losses",
+        T: "Ties",
+        PTS: "Points",
+        RF: "Runs For",
+        RA: "Runs Against",
+        DIFF: "Run Differential",
+      };
+
       // Update header arrows
       document.querySelectorAll("th[data-column]").forEach((th) => {
-        th.textContent = th.dataset.column; // reset
-        if (th.dataset.column === sortColumn) {
+        const col = th.dataset.column;
+        th.textContent = headerNames[col]; // Use full name
+        if (col === sortColumn) {
           th.textContent += ascending ? " ▲" : " ▼";
         }
       });
