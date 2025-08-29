@@ -1,0 +1,40 @@
+{
+    "standings": [
+        {
+            "Team": "Central",
+            "W": "W",
+            "L": "L",
+            "T": "T",
+            "PTS": "PTS",
+            "PF": "PF",
+            "PA": "PA"
+        },
+        {
+            "Team": "Markham District",
+            "W": "2",
+            "L": "1",
+            "T": "3",
+            "PTS": "7",
+            "PF": "89",
+            "PA": "81"
+        },
+        {
+            "Team": "Thornlea SS",
+            "W": "2",
+            "L": "2",
+            "T": "2",
+            "PTS": "6",
+            "PF": "88",
+            "PA": "88"
+        },
+        {
+            "Team": "Huron Heights",
+            "W": "2",
+            "L": "3",
+            "T": "1",
+            "PTS": "5",
+            "PF": "88",
+            "PA": "96"
+        }
+    ]
+}
