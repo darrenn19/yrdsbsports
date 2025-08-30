@@ -18,38 +18,3 @@ searchBar.addEventListener("keyup", function () {
     wrestlingCard.style.display = text.includes(query) ? "" : "none";
   }
 });
-
-//SCHOOL SELECT FIX
-// --- School Selection Handling ---
-const schoolSelect = document.getElementById("schoolSelect");
-
-// Load saved school from localStorage
-const savedSchool = localStorage.getItem("selectedSchool");
-if (savedSchool) {
-  schoolSelect.value = savedSchool;
-}
-
-// Save school choice whenever changed
-schoolSelect.addEventListener("change", () => {
-  localStorage.setItem("selectedSchool", schoolSelect.value);
-  highlightSchool();
-});
-
-// Function to highlight school in standings/schedule
-function highlightSchool() {
-  const selected = localStorage.getItem("selectedSchool");
-  if (!selected) return;
-
-  // Go through all table cells
-  document.querySelectorAll("td").forEach((cell) => {
-    // Reset previous highlighting
-    cell.classList.remove("highlight-school");
-
-    if (cell.textContent.trim() === selected) {
-      cell.classList.add("highlight-school");
-    }
-  });
-}
-
-// Run highlight on page load
-highlightSchool();

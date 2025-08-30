@@ -313,13 +313,6 @@ a:hover {
   background: #f9f9f9;
 }
 
-/*SCHOOL SELECT FIX*/
-
-.highlight-school {
-  color: green !important;
-  font-weight: bold;
-}
-
 option {
   text-align: center;
 }
