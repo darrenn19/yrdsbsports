@@ -378,3 +378,61 @@ option {
 .hold {
   font-weight: bold;
 }
+
+/* Documents Page */
+.documents-header {
+  text-align: center;
+  padding: 3rem 2rem;
+  background: linear-gradient(rgba(0, 64, 128, 0.9), rgba(0, 64, 128, 0.9)),
+    url("docsbg.jpg") center/cover no-repeat;
+  color: white;
+  background-blend-mode: multiply;
+}
+
+.doc-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  max-width: 1000px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+.doc-card {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.doc-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.doc-card h2 {
+  margin-top: 0;
+  font-size: 1.3rem;
+  color: #004080;
+}
+
+.doc-card ul {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0 0;
+}
+
+.doc-card ul li {
+  margin: 0.5rem 0;
+}
+
+.doc-card a {
+  text-decoration: none;
+  color: #0066cc;
+  font-weight: 500;
+}
+
+.doc-card a:hover {
+  text-decoration: underline;
+}
