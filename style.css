@@ -187,6 +187,43 @@ footer {
   color: #555;
 }
 
+/* Footer Navigation */
+.footer-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #004080;
+  padding: 1rem 2rem;
+  color: white;
+  text-align: center;
+}
+
+.footer-left,
+.footer-center,
+.footer-right {
+  flex: 1;
+}
+
+.footer-center {
+  display: flex;
+  justify-content: center;
+}
+
+.footer-btn {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  background: #0066cc;
+  padding: 0.6rem 1.2rem;
+  border-radius: 8px;
+  transition: background 0.2s, transform 0.2s;
+}
+
+.footer-btn:hover {
+  background: #3385ff;
+  transform: translateY(-3px);
+}
+
 a:hover {
   background: #ddd;
 }
