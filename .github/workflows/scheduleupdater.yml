@@ -42,5 +42,8 @@ jobs:
           else
             git add **/schedule.json
             git commit -m "Automated update: schedules"
-            git push
+
+            # Make sure branch is up to date before pushing
+            git pull --rebase origin main
+            git push origin main
           fi
