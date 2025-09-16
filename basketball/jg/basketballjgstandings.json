@@ -1,3 +1,191 @@
 {
-    "standings": []
+    "standings": [
+        {
+            "Team": "Central-East",
+            "GP": "GP",
+            "W": "W",
+            "L": "L",
+            "T": "T",
+            "PTS": "PTS",
+            "PF": "PF",
+            "PA": "PA",
+            "DIFF": "DIFF"
+        },
+        {
+            "Team": "Richmond Hill HS",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Stephen Lewis SS",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Unionville HS",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Markham District",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "St. Theresa Of Lisieux",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Bill Crothers SS",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "North-East",
+            "GP": "GP",
+            "W": "W",
+            "L": "L",
+            "T": "T",
+            "PTS": "PTS",
+            "PF": "PF",
+            "PA": "PA",
+            "DIFF": "DIFF"
+        },
+        {
+            "Team": "St. Katharine Drexel",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Sir William Mulock",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "North-West",
+            "GP": "GP",
+            "W": "W",
+            "L": "L",
+            "T": "T",
+            "PTS": "PTS",
+            "PF": "PF",
+            "PA": "PA",
+            "DIFF": "DIFF"
+        },
+        {
+            "Team": "Keswick High School",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Sacred Heart",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Dr. G.W. Williams",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Newmarket HS",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "ESC De L Ascension",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Father Bressani",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0",
+            "DIFF": "0"
+        }
+    ]
 }
