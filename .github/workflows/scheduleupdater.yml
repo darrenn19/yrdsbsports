@@ -2,48 +2,48 @@ name: Update All Schedules
 
 on:
   schedule:
-    - cron: "0 */15 * * *" # Run every 12 hours CHANGE ONCE SEASONS START
-  workflow_dispatch: # Allow manual trigger
+    - cron: "1 */1 * * *" # Runs every 15 minutes CHANGE WHEN SEASONS START
+  workflow_dispatch: # allow manual run
 
 permissions:
-  contents: write
+  contents: write #Allows github action bot to push code automatically
 
 jobs:
-  scrape-schedules:
+  scrape:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
         with:
           persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.10"
+          python-version: "3.13"
 
       - name: Install dependencies
         run: pip install requests beautifulsoup4
 
-      - name: Run all schedule scrapers
+      - name: Run all scrapers
         run: |
+          echo "🔎 Looking for schedulescrape.py files..."
+          find . -type f -name "schedulescrape.py"
+
+          # Run every standingsscrape.py found
           for file in $(find . -type f -name "schedulescrape.py"); do
-            echo "Running $file..."
+            echo "➡ Running $file"
             python "$file"
           done
 
-      - name: Commit and push updated JSON if changed
+      - name: Commit and push updated JSONs if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           if git diff --quiet; then
-            echo "No changes detected — nothing to commit."
+            echo "No changes — nothing to commit"
           else
-            git add **/schedule.json
-            git commit -m "Automated update: schedules"
-
-            # Make sure branch is up to date before pushing
-            git pull --rebase origin main
-            git push origin main
+            git add .
+            git commit -m "Update schedules"
+            git push
           fi
