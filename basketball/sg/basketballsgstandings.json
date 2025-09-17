@@ -23,17 +23,6 @@
             "DIFF": "0"
         },
         {
-            "Team": "Hodan Nalayeh SS",
-            "GP": "0",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
-        },
-        {
             "Team": "Alexander Mackenzie",
             "GP": "0",
             "W": "0",
@@ -354,6 +343,17 @@
         },
         {
             "Team": "Woodbridge College",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Hodan Nalayeh SS",
             "GP": "0",
             "W": "0",
             "L": "0",

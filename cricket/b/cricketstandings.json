@@ -1,3 +1,44 @@
 {
-    "standings": []
+    "standings": [
+        {
+            "Team": "Central",
+            "W": "W",
+            "L": "L",
+            "T": "T",
+            "PTS": "PTS",
+            "PF": "PF",
+            "PA": "PA",
+            "DIFF": "DIFF"
+        },
+        {
+            "Team": "Middlefield",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Markham District",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Father McGivney",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0",
+            "DIFF": "0"
+        }
+    ]
 }
