@@ -83,6 +83,15 @@
         },
         {
             "date": "Monday, September 22, 2025",
+            "home_team": "St. Jean De Brebeuf CHS",
+            "away_team": "Toronto District Christian",
+            "time": "3:45 PM",
+            "location": "St Jean De Brebeuf CHS",
+            "game_played": true,
+            "final_score": "St. Jean De Brebeuf CHS 21, Toronto District Christian 44"
+        },
+        {
+            "date": "Monday, September 22, 2025",
             "home_team": "St. Maximilian",
             "away_team": "Sir William Mulock",
             "time": "3:45 PM",
