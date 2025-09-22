@@ -47,6 +47,15 @@
         },
         {
             "date": "Monday, September 22, 2025",
+            "home_team": "St. Augustine",
+            "away_team": "Our Lady Queen Of The World",
+            "time": "3:45 PM",
+            "location": "St Augustine CHS",
+            "game_played": true,
+            "final_score": "St. Augustine 30, Our Lady Queen Of The World 41"
+        },
+        {
+            "date": "Monday, September 22, 2025",
             "home_team": "St. Maximilian",
             "away_team": "Sir William Mulock",
             "time": "3:45 PM",
