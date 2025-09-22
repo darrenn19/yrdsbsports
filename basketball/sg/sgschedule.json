@@ -11,6 +11,15 @@
         },
         {
             "date": "Monday, September 22, 2025",
+            "home_team": "Aurora HS",
+            "away_team": "King City SS",
+            "time": "3:45 PM",
+            "location": "Aurora HS",
+            "game_played": true,
+            "final_score": "Aurora HS 34, King City SS 41"
+        },
+        {
+            "date": "Monday, September 22, 2025",
             "home_team": "Dr. J.M. Denison",
             "away_team": "Newmarket HS",
             "time": "3:45 PM",
@@ -26,6 +35,15 @@
             "location": "Father Michael McGivney CA",
             "game_played": true,
             "final_score": "Father McGivney 55, Unionville HS 29"
+        },
+        {
+            "date": "Monday, September 22, 2025",
+            "home_team": "Hodan Nalayeh SS",
+            "away_team": "Woodbridge College",
+            "time": "3:45 PM",
+            "location": "Hodan Nalayeh Secondary School",
+            "game_played": true,
+            "final_score": "Hodan Nalayeh SS 45, Woodbridge College 26"
         },
         {
             "date": "Monday, September 22, 2025",
