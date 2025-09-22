@@ -92,6 +92,15 @@
         },
         {
             "date": "Monday, September 22, 2025",
+            "home_team": "St. Theresa Of Lisieux",
+            "away_team": "Alexander Mackenzie",
+            "time": "3:45 PM",
+            "location": "St Theresa Of Lisieux CHS",
+            "game_played": true,
+            "final_score": "St. Theresa Of Lisieux 29, Alexander Mackenzie 54"
+        },
+        {
+            "date": "Monday, September 22, 2025",
             "home_team": "Thornlea SS",
             "away_team": "Richmond Green SS",
             "time": "3:45 PM",
