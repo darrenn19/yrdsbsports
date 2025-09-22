@@ -29,6 +29,15 @@
         },
         {
             "date": "Monday, September 22, 2025",
+            "home_team": "Markham District",
+            "away_team": "Stephen Lewis SS",
+            "time": "4:45 PM",
+            "location": "Markham DHS",
+            "game_played": true,
+            "final_score": "Markham District 37, Stephen Lewis SS 21"
+        },
+        {
+            "date": "Monday, September 22, 2025",
             "home_team": "Sacred Heart",
             "away_team": "Sir William Mulock",
             "time": "3:45 PM",
