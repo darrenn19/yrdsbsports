@@ -11,12 +11,21 @@
         },
         {
             "date": "Monday, September 22, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Bill Crothers SS",
+            "away_team": "Richmond Hill HS",
+            "time": "3:45 PM",
+            "location": "Bill Crothers SS",
+            "game_played": true,
+            "final_score": "Bill Crothers SS 61, Richmond Hill HS 20"
+        },
+        {
+            "date": "Monday, September 22, 2025",
+            "home_team": "Sacred Heart",
+            "away_team": "Sir William Mulock",
+            "time": "3:45 PM",
+            "location": "Sacred Heart CHS",
+            "game_played": true,
+            "final_score": "Sacred Heart 54, Sir William Mulock 33"
         },
         {
             "date": "Tuesday, September 23, 2025",
