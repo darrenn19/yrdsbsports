@@ -11,12 +11,12 @@
         },
         {
             "date": "Monday, September 22, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "St. Jean De Brebeuf CHS",
+            "away_team": "Stephen Lewis SS",
+            "time": "3:30 PM",
+            "location": "St Jean De Brebeuf CHS",
+            "game_played": true,
+            "final_score": "St. Jean De Brebeuf CHS 3, Stephen Lewis SS 0"
         },
         {
             "date": "Tuesday, September 23, 2025",

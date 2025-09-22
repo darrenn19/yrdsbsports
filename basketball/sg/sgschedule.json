@@ -19,6 +19,51 @@
             "final_score": "Dr. J.M. Denison 20, Newmarket HS 48"
         },
         {
+            "date": "Monday, September 22, 2025",
+            "home_team": "Father McGivney",
+            "away_team": "Unionville HS",
+            "time": "3:45 PM",
+            "location": "Father Michael McGivney CA",
+            "game_played": true,
+            "final_score": "Father McGivney 55, Unionville HS 29"
+        },
+        {
+            "date": "Monday, September 22, 2025",
+            "home_team": "Maple High School",
+            "away_team": "Tommy Douglas SS",
+            "time": "3:45 PM",
+            "location": "Maple HS",
+            "game_played": true,
+            "final_score": "Maple High School 21, Tommy Douglas SS 45"
+        },
+        {
+            "date": "Monday, September 22, 2025",
+            "home_team": "Markham District",
+            "away_team": "Pierre Elliott Trudeau",
+            "time": "3:30 PM",
+            "location": "Markham DHS",
+            "game_played": true,
+            "final_score": "Markham District 63, Pierre Elliott Trudeau 32"
+        },
+        {
+            "date": "Monday, September 22, 2025",
+            "home_team": "St. Maximilian",
+            "away_team": "Sir William Mulock",
+            "time": "3:45 PM",
+            "location": "St Maximilian Kolbe CHS",
+            "game_played": true,
+            "final_score": "St. Maximilian 48, Sir William Mulock 64"
+        },
+        {
+            "date": "Monday, September 22, 2025",
+            "home_team": "Thornlea SS",
+            "away_team": "Richmond Green SS",
+            "time": "3:45 PM",
+            "location": "Thornlea SS",
+            "game_played": true,
+            "final_score": "Thornlea SS 47, Richmond Green SS 26"
+        },
+        {
             "date": "Tuesday, September 23, 2025",
             "home_team": null,
             "away_team": null,
