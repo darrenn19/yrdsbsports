@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Sunday, September 21, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
-        },
-        {
             "date": "Monday, September 22, 2025",
             "home_team": "Bill Crothers SS",
             "away_team": "Richmond Hill HS",
@@ -83,6 +74,15 @@
         },
         {
             "date": "Saturday, September 27, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Sunday, September 28, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
