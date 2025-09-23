@@ -37,6 +37,15 @@
             "final_score": "Sacred Heart 54, Sir William Mulock 33"
         },
         {
+            "date": "Monday, September 22, 2025",
+            "home_team": "St. Katharine Drexel",
+            "away_team": "Unionville HS",
+            "time": "3:45 PM",
+            "location": "St Katharine Drexel CHS",
+            "game_played": true,
+            "final_score": "St. Katharine Drexel 25, Unionville HS 59"
+        },
+        {
             "date": "Tuesday, September 23, 2025",
             "home_team": null,
             "away_team": null,
