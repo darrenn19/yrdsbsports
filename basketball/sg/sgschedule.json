@@ -74,6 +74,15 @@
         },
         {
             "date": "Monday, September 22, 2025",
+            "home_team": "Middlefield",
+            "away_team": "Markville",
+            "time": "3:45 PM",
+            "location": "Middlefield CI",
+            "game_played": true,
+            "final_score": "Middlefield 26, Markville 27"
+        },
+        {
+            "date": "Monday, September 22, 2025",
             "home_team": "St. Augustine",
             "away_team": "Our Lady Queen Of The World",
             "time": "3:45 PM",
