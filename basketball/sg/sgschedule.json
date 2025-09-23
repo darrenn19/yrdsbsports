@@ -20,6 +20,15 @@
         },
         {
             "date": "Monday, September 22, 2025",
+            "home_team": "Bur Oak SS",
+            "away_team": "Bill Hogarth SS",
+            "time": "3:45 PM",
+            "location": "Bur Oak SS",
+            "game_played": true,
+            "final_score": "Bur Oak SS 36, Bill Hogarth SS 53"
+        },
+        {
+            "date": "Monday, September 22, 2025",
             "home_team": "Dr. J.M. Denison",
             "away_team": "Newmarket HS",
             "time": "3:45 PM",
