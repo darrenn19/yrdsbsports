@@ -445,16 +445,40 @@
             "DIFF": "60"
         },
         {
-            "Team": "St. Joan Of Arc",
-            "MP": "1",
-            "MW": "0",
+            "Team": "Toronto District Christian",
+            "MP": "2",
+            "MW": "1",
             "ML": "1",
-            "GW": "0",
+            "GW": "2",
+            "GL": "3",
+            "PTS": "1",
+            "PF": "92",
+            "PA": "100",
+            "DIFF": "-8"
+        },
+        {
+            "Team": "Tommy Douglas SS",
+            "MP": "2",
+            "MW": "1",
+            "ML": "1",
+            "GW": "2",
             "GL": "2",
+            "PTS": "1",
+            "PF": "81",
+            "PA": "83",
+            "DIFF": "-2"
+        },
+        {
+            "Team": "St. Joan Of Arc",
+            "MP": "2",
+            "MW": "0",
+            "ML": "2",
+            "GW": "1",
+            "GL": "4",
             "PTS": "0",
-            "PF": "9",
-            "PA": "50",
-            "DIFF": "-41"
+            "PF": "59",
+            "PA": "109",
+            "DIFF": "-50"
         },
         {
             "Team": "Woodbridge College",
@@ -505,18 +529,6 @@
             "DIFF": "0"
         },
         {
-            "Team": "Toronto District Christian",
-            "MP": "0",
-            "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
-        },
-        {
             "Team": "Father Bressani",
             "MP": "0",
             "MW": "0",
@@ -539,18 +551,6 @@
             "PF": "0",
             "PA": "0",
             "DIFF": "0"
-        },
-        {
-            "Team": "Tommy Douglas SS",
-            "MP": "1",
-            "MW": "0",
-            "ML": "1",
-            "GW": "0",
-            "GL": "2",
-            "PTS": "0",
-            "PF": "31",
-            "PA": "50",
-            "DIFF": "-19"
         }
     ]
 }
