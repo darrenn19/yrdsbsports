@@ -13,28 +13,76 @@
             "DIFF": "DIFF"
         },
         {
-            "Team": "Langstaff SS",
-            "MP": "0",
-            "MW": "0",
+            "Team": "Richmond Hill HS",
+            "MP": "2",
+            "MW": "2",
             "ML": "0",
-            "GW": "0",
+            "GW": "4",
             "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "PTS": "2",
+            "PF": "100",
+            "PA": "83",
+            "DIFF": "17"
         },
         {
-            "Team": "Richmond Hill HS",
-            "MP": "0",
-            "MW": "0",
+            "Team": "St. Theresa Of Lisieux",
+            "MP": "2",
+            "MW": "2",
             "ML": "0",
-            "GW": "0",
-            "GL": "0",
+            "GW": "4",
+            "GL": "1",
+            "PTS": "2",
+            "PF": "113",
+            "PA": "87",
+            "DIFF": "26"
+        },
+        {
+            "Team": "St. Robert",
+            "MP": "2",
+            "MW": "2",
+            "ML": "0",
+            "GW": "4",
+            "GL": "1",
+            "PTS": "2",
+            "PF": "113",
+            "PA": "92",
+            "DIFF": "21"
+        },
+        {
+            "Team": "Our Lady Queen Of The World",
+            "MP": "2",
+            "MW": "1",
+            "ML": "1",
+            "GW": "2",
+            "GL": "2",
+            "PTS": "1",
+            "PF": "89",
+            "PA": "100",
+            "DIFF": "-11"
+        },
+        {
+            "Team": "Thornhill SS",
+            "MP": "2",
+            "MW": "1",
+            "ML": "1",
+            "GW": "3",
+            "GL": "2",
+            "PTS": "1",
+            "PF": "108",
+            "PA": "112",
+            "DIFF": "-4"
+        },
+        {
+            "Team": "Langstaff SS",
+            "MP": "2",
+            "MW": "0",
+            "ML": "2",
+            "GW": "1",
+            "GL": "4",
             "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "PF": "96",
+            "PA": "113",
+            "DIFF": "-17"
         },
         {
             "Team": "Bayview SS",
@@ -49,28 +97,16 @@
             "DIFF": "0"
         },
         {
-            "Team": "Thornhill SS",
-            "MP": "0",
-            "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
-        },
-        {
             "Team": "Alexander Mackenzie",
-            "MP": "0",
+            "MP": "2",
             "MW": "0",
-            "ML": "0",
+            "ML": "2",
             "GW": "0",
-            "GL": "0",
+            "GL": "4",
             "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "PF": "99",
+            "PA": "110",
+            "DIFF": "-11"
         },
         {
             "Team": "Thornlea SS",
@@ -85,52 +121,16 @@
             "DIFF": "0"
         },
         {
-            "Team": "Our Lady Queen Of The World",
-            "MP": "0",
-            "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "St. Theresa Of Lisieux",
-            "MP": "0",
-            "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
-        },
-        {
             "Team": "St. Augustine",
-            "MP": "0",
+            "MP": "2",
             "MW": "0",
-            "ML": "0",
+            "ML": "2",
             "GW": "0",
-            "GL": "0",
+            "GL": "4",
             "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "St. Robert",
-            "MP": "0",
-            "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "PF": "79",
+            "PA": "100",
+            "DIFF": "-21"
         },
         {
             "Team": "East",
@@ -433,16 +433,28 @@
             "DIFF": "DIFF"
         },
         {
-            "Team": "St. Joan Of Arc",
-            "MP": "0",
-            "MW": "0",
+            "Team": "Maple High School",
+            "MP": "2",
+            "MW": "2",
             "ML": "0",
-            "GW": "0",
+            "GW": "4",
             "GL": "0",
+            "PTS": "2",
+            "PF": "100",
+            "PA": "40",
+            "DIFF": "60"
+        },
+        {
+            "Team": "St. Joan Of Arc",
+            "MP": "1",
+            "MW": "0",
+            "ML": "1",
+            "GW": "0",
+            "GL": "2",
             "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "PF": "9",
+            "PA": "50",
+            "DIFF": "-41"
         },
         {
             "Team": "Woodbridge College",
@@ -529,28 +541,16 @@
             "DIFF": "0"
         },
         {
-            "Team": "Maple High School",
-            "MP": "0",
-            "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
-        },
-        {
             "Team": "Tommy Douglas SS",
-            "MP": "0",
+            "MP": "1",
             "MW": "0",
-            "ML": "0",
+            "ML": "1",
             "GW": "0",
-            "GL": "0",
+            "GL": "2",
             "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "PF": "31",
+            "PA": "50",
+            "DIFF": "-19"
         }
     ]
 }

@@ -14,15 +14,15 @@
         },
         {
             "Team": "St. Joan Of Arc",
-            "MP": "0",
-            "MW": "0",
+            "MP": "2",
+            "MW": "2",
             "ML": "0",
-            "GW": "0",
-            "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "GW": "4",
+            "GL": "1",
+            "PTS": "2",
+            "PF": "112",
+            "PA": "79",
+            "DIFF": "33"
         },
         {
             "Team": "Hodan Nalayeh SS",
@@ -50,15 +50,15 @@
         },
         {
             "Team": "ESC De L Ascension",
-            "MP": "0",
+            "MP": "1",
             "MW": "0",
-            "ML": "0",
+            "ML": "1",
             "GW": "0",
-            "GL": "0",
+            "GL": "2",
             "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "PF": "38",
+            "PA": "53",
+            "DIFF": "-15"
         },
         {
             "Team": "Toronto District Christian",
@@ -122,15 +122,15 @@
         },
         {
             "Team": "Thornhill SS",
-            "MP": "0",
+            "MP": "1",
             "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
+            "ML": "1",
+            "GW": "1",
+            "GL": "2",
             "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "PF": "41",
+            "PA": "59",
+            "DIFF": "-18"
         },
         {
             "Team": "North",
