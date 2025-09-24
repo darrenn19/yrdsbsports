@@ -11,12 +11,12 @@
         },
         {
             "date": "Wednesday, September 24, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Sacred Heart",
+            "away_team": "Cardinal Carter",
+            "time": "3:00 PM",
+            "location": "George Richardson Park",
+            "game_played": true,
+            "final_score": "Sacred Heart 1, Cardinal Carter 5"
         },
         {
             "date": "Thursday, September 25, 2025",
