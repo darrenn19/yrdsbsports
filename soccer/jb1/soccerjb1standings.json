@@ -81,24 +81,24 @@
             "DIFF": "DIFF"
         },
         {
-            "Team": "St. Katharine Drexel",
-            "W": "0",
+            "Team": "St. Maximilian",
+            "W": "1",
             "L": "0",
             "T": "0",
-            "PTS": "0",
-            "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
+            "PTS": "3",
+            "GF": "3",
+            "GA": "1",
+            "DIFF": "2"
         },
         {
-            "Team": "St. Maximilian",
+            "Team": "St. Katharine Drexel",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
-            "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
+            "GF": "1",
+            "GA": "3",
+            "DIFF": "-2"
         },
         {
             "Team": "Sacred Heart",
