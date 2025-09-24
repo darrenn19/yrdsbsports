@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, September 22, 2025",
-            "home_team": "Markham District",
-            "away_team": "St. Augustine",
-            "time": "3:45 PM",
-            "location": "Markham DHS",
-            "game_played": true,
-            "final_score": "Markham District 0, St. Augustine 3"
-        },
-        {
             "date": "Tuesday, September 23, 2025",
             "home_team": null,
             "away_team": null,
@@ -56,6 +47,15 @@
         },
         {
             "date": "Sunday, September 28, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, September 29, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
