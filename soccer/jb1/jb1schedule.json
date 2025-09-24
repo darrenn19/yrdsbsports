@@ -11,6 +11,15 @@
         },
         {
             "date": "Wednesday, September 24, 2025",
+            "home_team": "Sacred Heart",
+            "away_team": "Cardinal Carter",
+            "time": "4:15 PM",
+            "location": "George Richardson Park",
+            "game_played": true,
+            "final_score": "Sacred Heart 1, Cardinal Carter 7"
+        },
+        {
+            "date": "Wednesday, September 24, 2025",
             "home_team": "St. Joan Of Arc",
             "away_team": "St. Theresa Of Lisieux",
             "time": "3:30 PM",
