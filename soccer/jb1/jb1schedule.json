@@ -2,12 +2,12 @@
     "schedule": [
         {
             "date": "Tuesday, September 23, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "St. Maximilian",
+            "away_team": "St. Katharine Drexel",
+            "time": "3:30 PM",
+            "location": "St Maximilian Kolbe CHS",
+            "game_played": true,
+            "final_score": "St. Maximilian 3, St. Katharine Drexel 1"
         },
         {
             "date": "Wednesday, September 24, 2025",
