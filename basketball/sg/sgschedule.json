@@ -1,132 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, September 22, 2025",
-            "home_team": "Aurora HS",
-            "away_team": "King City SS",
-            "time": "3:45 PM",
-            "location": "Aurora HS",
-            "game_played": true,
-            "final_score": "Aurora HS 34, King City SS 41"
-        },
-        {
-            "date": "Monday, September 22, 2025",
-            "home_team": "Bur Oak SS",
-            "away_team": "Bill Hogarth SS",
-            "time": "3:45 PM",
-            "location": "Bur Oak SS",
-            "game_played": true,
-            "final_score": "Bur Oak SS 36, Bill Hogarth SS 53"
-        },
-        {
-            "date": "Monday, September 22, 2025",
-            "home_team": "Dr. J.M. Denison",
-            "away_team": "Newmarket HS",
-            "time": "3:45 PM",
-            "location": "Dr J M Denison SS",
-            "game_played": true,
-            "final_score": "Dr. J.M. Denison 20, Newmarket HS 48"
-        },
-        {
-            "date": "Monday, September 22, 2025",
-            "home_team": "Emily Carr",
-            "away_team": "Stephen Lewis SS",
-            "time": "3:45 PM",
-            "location": "Emily Carr SS",
-            "game_played": true,
-            "final_score": "Emily Carr 31, Stephen Lewis SS 51"
-        },
-        {
-            "date": "Monday, September 22, 2025",
-            "home_team": "Father McGivney",
-            "away_team": "Unionville HS",
-            "time": "3:45 PM",
-            "location": "Father Michael McGivney CA",
-            "game_played": true,
-            "final_score": "Father McGivney 55, Unionville HS 29"
-        },
-        {
-            "date": "Monday, September 22, 2025",
-            "home_team": "Hodan Nalayeh SS",
-            "away_team": "Woodbridge College",
-            "time": "3:45 PM",
-            "location": "Hodan Nalayeh Secondary School",
-            "game_played": true,
-            "final_score": "Hodan Nalayeh SS 45, Woodbridge College 26"
-        },
-        {
-            "date": "Monday, September 22, 2025",
-            "home_team": "Maple High School",
-            "away_team": "Tommy Douglas SS",
-            "time": "3:45 PM",
-            "location": "Maple HS",
-            "game_played": true,
-            "final_score": "Maple High School 21, Tommy Douglas SS 45"
-        },
-        {
-            "date": "Monday, September 22, 2025",
-            "home_team": "Markham District",
-            "away_team": "Pierre Elliott Trudeau",
-            "time": "3:30 PM",
-            "location": "Markham DHS",
-            "game_played": true,
-            "final_score": "Markham District 63, Pierre Elliott Trudeau 32"
-        },
-        {
-            "date": "Monday, September 22, 2025",
-            "home_team": "Middlefield",
-            "away_team": "Markville",
-            "time": "3:45 PM",
-            "location": "Middlefield CI",
-            "game_played": true,
-            "final_score": "Middlefield 26, Markville 27"
-        },
-        {
-            "date": "Monday, September 22, 2025",
-            "home_team": "St. Augustine",
-            "away_team": "Our Lady Queen Of The World",
-            "time": "3:45 PM",
-            "location": "St Augustine CHS",
-            "game_played": true,
-            "final_score": "St. Augustine 30, Our Lady Queen Of The World 41"
-        },
-        {
-            "date": "Monday, September 22, 2025",
-            "home_team": "St. Jean De Brebeuf CHS",
-            "away_team": "Toronto District Christian",
-            "time": "3:45 PM",
-            "location": "St Jean De Brebeuf CHS",
-            "game_played": true,
-            "final_score": "St. Jean De Brebeuf CHS 21, Toronto District Christian 44"
-        },
-        {
-            "date": "Monday, September 22, 2025",
-            "home_team": "St. Maximilian",
-            "away_team": "Sir William Mulock",
-            "time": "3:45 PM",
-            "location": "St Maximilian Kolbe CHS",
-            "game_played": true,
-            "final_score": "St. Maximilian 48, Sir William Mulock 64"
-        },
-        {
-            "date": "Monday, September 22, 2025",
-            "home_team": "St. Theresa Of Lisieux",
-            "away_team": "Alexander Mackenzie",
-            "time": "3:45 PM",
-            "location": "St Theresa Of Lisieux CHS",
-            "game_played": true,
-            "final_score": "St. Theresa Of Lisieux 29, Alexander Mackenzie 54"
-        },
-        {
-            "date": "Monday, September 22, 2025",
-            "home_team": "Thornlea SS",
-            "away_team": "Richmond Green SS",
-            "time": "3:45 PM",
-            "location": "Thornlea SS",
-            "game_played": true,
-            "final_score": "Thornlea SS 47, Richmond Green SS 26"
-        },
-        {
             "date": "Tuesday, September 23, 2025",
             "home_team": null,
             "away_team": null,
@@ -173,6 +47,15 @@
         },
         {
             "date": "Sunday, September 28, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, September 29, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
