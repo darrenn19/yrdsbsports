@@ -20,12 +20,12 @@
         },
         {
             "date": "Thursday, September 25, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Father Bressani",
+            "away_team": "Holy Cross",
+            "time": "3:30 PM",
+            "location": "Father Bressani CHS",
+            "game_played": true,
+            "final_score": "Father Bressani 0, Holy Cross 0"
         },
         {
             "date": "Friday, September 26, 2025",
