@@ -11,6 +11,15 @@
         },
         {
             "date": "Thursday, September 25, 2025",
+            "home_team": "Alexander Mackenzie",
+            "away_team": "Our Lady Queen Of The World",
+            "time": "3:45 PM",
+            "location": "Alexander Mackenzie HS",
+            "game_played": true,
+            "final_score": "Alexander Mackenzie 28, Our Lady Queen Of The World 20"
+        },
+        {
+            "date": "Thursday, September 25, 2025",
             "home_team": "Father McGivney",
             "away_team": "Markham District",
             "time": "3:45 PM",
