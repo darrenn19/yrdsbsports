@@ -20,6 +20,15 @@
         },
         {
             "date": "Thursday, September 25, 2025",
+            "home_team": "Newmarket HS",
+            "away_team": "Cardinal Carter",
+            "time": "3:45 PM",
+            "location": "Newmarket HS",
+            "game_played": true,
+            "final_score": "Newmarket HS 47, Cardinal Carter 31"
+        },
+        {
+            "date": "Thursday, September 25, 2025",
             "home_team": "Richmond Green SS",
             "away_team": "St. Augustine",
             "time": "4:00 PM",

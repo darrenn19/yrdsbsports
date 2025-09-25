@@ -11,12 +11,12 @@
         },
         {
             "date": "Thursday, September 25, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Bill Crothers SS",
+            "away_team": "Bill Hogarth SS",
+            "time": "3:00 PM",
+            "location": "Bill Crothers SS",
+            "game_played": true,
+            "final_score": "Bill Crothers SS 2, Bill Hogarth SS 3"
         },
         {
             "date": "Friday, September 26, 2025",
