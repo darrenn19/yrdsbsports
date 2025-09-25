@@ -2,6 +2,15 @@
     "schedule": [
         {
             "date": "Wednesday, September 24, 2025",
+            "home_team": "Father Bressani",
+            "away_team": "Holy Cross",
+            "time": "3:30 PM",
+            "location": "Father Bressani CHS",
+            "game_played": true,
+            "final_score": "Father Bressani 2, Holy Cross 2"
+        },
+        {
+            "date": "Wednesday, September 24, 2025",
             "home_team": "Sacred Heart",
             "away_team": "Cardinal Carter",
             "time": "4:15 PM",
