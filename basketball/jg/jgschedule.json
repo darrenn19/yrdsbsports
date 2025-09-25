@@ -19,6 +19,15 @@
             "final_score": "Richmond Hill HS 29, Markham District 41"
         },
         {
+            "date": "Thursday, September 25, 2025",
+            "home_team": "St. Theresa Of Lisieux",
+            "away_team": "Bill Crothers SS",
+            "time": "4:45 PM",
+            "location": "St Theresa Of Lisieux CHS",
+            "game_played": true,
+            "final_score": "St. Theresa Of Lisieux 41, Bill Crothers SS 25"
+        },
+        {
             "date": "Friday, September 26, 2025",
             "home_team": null,
             "away_team": null,
