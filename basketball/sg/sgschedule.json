@@ -11,12 +11,30 @@
         },
         {
             "date": "Thursday, September 25, 2025",
+            "home_team": "Father McGivney",
+            "away_team": "Markham District",
+            "time": "3:45 PM",
+            "location": "Father Michael McGivney CA",
+            "game_played": true,
+            "final_score": "Father McGivney 52, Markham District 40"
+        },
+        {
+            "date": "Thursday, September 25, 2025",
             "home_team": "Richmond Green SS",
             "away_team": "St. Augustine",
             "time": "4:00 PM",
             "location": "Richmond Green SS",
             "game_played": true,
             "final_score": "Richmond Green SS 24, St. Augustine 48"
+        },
+        {
+            "date": "Thursday, September 25, 2025",
+            "home_team": "Sir William Mulock",
+            "away_team": "Dr. J.M. Denison",
+            "time": "3:45 PM",
+            "location": "Sir William Mulock",
+            "game_played": true,
+            "final_score": "Sir William Mulock 50, Dr. J.M. Denison 15"
         },
         {
             "date": "Thursday, September 25, 2025",
