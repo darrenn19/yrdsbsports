@@ -21,6 +21,16 @@
             "DIFF": "2"
         },
         {
+            "Team": "St. Theresa Of Lisieux",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "3",
+            "GF": "7",
+            "GA": "1",
+            "DIFF": "5"
+        },
+        {
             "Team": "Holy Cross",
             "W": "0",
             "L": "0",
@@ -33,12 +43,12 @@
         {
             "Team": "St. Joan Of Arc",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
-            "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
+            "GF": "1",
+            "GA": "7",
+            "DIFF": "-5"
         },
         {
             "Team": "Our Lady Queen Of The World",
@@ -61,16 +71,6 @@
             "DIFF": "0"
         },
         {
-            "Team": "St. Theresa Of Lisieux",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
-        },
-        {
             "Team": "North-East",
             "W": "W",
             "L": "L",
@@ -79,6 +79,16 @@
             "GF": "GF",
             "GA": "GA",
             "DIFF": "DIFF"
+        },
+        {
+            "Team": "Cardinal Carter",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "3",
+            "GF": "7",
+            "GA": "1",
+            "DIFF": "5"
         },
         {
             "Team": "St. Maximilian",
@@ -103,25 +113,15 @@
         {
             "Team": "Sacred Heart",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
-            "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
+            "GF": "1",
+            "GA": "7",
+            "DIFF": "-5"
         },
         {
             "Team": "St. Brother Andre",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "Cardinal Carter",
             "W": "0",
             "L": "0",
             "T": "0",

@@ -91,6 +91,16 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Cardinal Carter",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "3",
+            "GF": "5",
+            "GA": "1",
+            "DIFF": "4"
+        },
+        {
             "Team": "St. Maximilian",
             "W": "0",
             "L": "0",
@@ -103,12 +113,12 @@
         {
             "Team": "Sacred Heart",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
-            "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
+            "GF": "1",
+            "GA": "5",
+            "DIFF": "-4"
         },
         {
             "Team": "Thornlea SS",
@@ -122,16 +132,6 @@
         },
         {
             "Team": "St. Brother Andre",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "Cardinal Carter",
             "W": "0",
             "L": "0",
             "T": "0",
