@@ -19,6 +19,15 @@
             "final_score": "Bill Crothers SS 2, Bill Hogarth SS 3"
         },
         {
+            "date": "Thursday, September 25, 2025",
+            "home_team": "Bur Oak SS",
+            "away_team": "Stouffville",
+            "time": "3:45 PM",
+            "location": "Bur Oak SS",
+            "game_played": true,
+            "final_score": "Bur Oak SS 3, Stouffville 2"
+        },
+        {
             "date": "Friday, September 26, 2025",
             "home_team": null,
             "away_team": null,

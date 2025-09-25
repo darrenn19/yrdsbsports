@@ -28,6 +28,15 @@
             "final_score": "Father Bressani 0, Holy Cross 0"
         },
         {
+            "date": "Thursday, September 25, 2025",
+            "home_team": "Thornlea SS",
+            "away_team": "Father McGivney",
+            "time": "3:45 PM",
+            "location": "Thornlea SS",
+            "game_played": true,
+            "final_score": "Thornlea SS 4, Father McGivney 0"
+        },
+        {
             "date": "Friday, September 26, 2025",
             "home_team": null,
             "away_team": null,

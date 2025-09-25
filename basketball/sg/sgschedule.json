@@ -55,6 +55,15 @@
             "final_score": "St. Elizabeth 24, Toronto District Christian 49"
         },
         {
+            "date": "Thursday, September 25, 2025",
+            "home_team": "St. Theresa Of Lisieux",
+            "away_team": "St. Robert",
+            "time": "3:30 PM",
+            "location": "St Theresa Of Lisieux CHS",
+            "game_played": true,
+            "final_score": "St. Theresa Of Lisieux 40, St. Robert 42"
+        },
+        {
             "date": "Friday, September 26, 2025",
             "home_team": null,
             "away_team": null,
