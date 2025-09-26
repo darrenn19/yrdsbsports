@@ -2,6 +2,15 @@
     "schedule": [
         {
             "date": "Thursday, September 25, 2025",
+            "home_team": "Alexander Mackenzie",
+            "away_team": "Dr. J.M. Denison",
+            "time": "4:15 PM",
+            "location": "Alexander Mackenzie HS",
+            "game_played": true,
+            "final_score": "Alexander Mackenzie 1, Dr. J.M. Denison 6"
+        },
+        {
+            "date": "Thursday, September 25, 2025",
             "home_team": "Bill Crothers SS",
             "away_team": "Bill Hogarth SS",
             "time": "4:15 PM",

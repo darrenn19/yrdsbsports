@@ -2,6 +2,15 @@
     "schedule": [
         {
             "date": "Thursday, September 25, 2025",
+            "home_team": "Alexander Mackenzie",
+            "away_team": "Our Lady Queen Of The World",
+            "time": "3:00 PM",
+            "location": "Alexander Mackenzie HS",
+            "game_played": true,
+            "final_score": "Alexander Mackenzie 1, Our Lady Queen Of The World 2"
+        },
+        {
+            "date": "Thursday, September 25, 2025",
             "home_team": "Bill Crothers SS",
             "away_team": "Bill Hogarth SS",
             "time": "3:00 PM",
@@ -17,6 +26,15 @@
             "location": "Bur Oak SS",
             "game_played": true,
             "final_score": "Bur Oak SS 3, Stouffville 2"
+        },
+        {
+            "date": "Thursday, September 25, 2025",
+            "home_team": "Keswick High School",
+            "away_team": "Dr. G.W. Williams",
+            "time": "3:00 PM",
+            "location": "Keswick HS",
+            "game_played": true,
+            "final_score": "Keswick High School 1, Dr. G.W. Williams 3"
         },
         {
             "date": "Thursday, September 25, 2025",
