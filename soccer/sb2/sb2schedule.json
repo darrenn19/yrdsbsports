@@ -101,6 +101,15 @@
         },
         {
             "date": "Thursday, September 25, 2025",
+            "home_team": "Aurora HS",
+            "away_team": "Huron Heights",
+            "time": "3:45 PM",
+            "location": "Sheppards Bush",
+            "game_played": true,
+            "final_score": "Aurora HS 4, Huron Heights 2"
+        },
+        {
+            "date": "Thursday, September 25, 2025",
             "home_team": "St. Elizabeth",
             "away_team": "Woodbridge College",
             "time": "3:30 PM",
