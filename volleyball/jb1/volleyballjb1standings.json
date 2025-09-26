@@ -133,16 +133,16 @@
             "DIFF": "DIFF"
         },
         {
-            "Team": "Stephen Lewis SS",
+            "Team": "Richmond Hill HS",
             "MP": "2",
-            "MW": "1",
-            "ML": "1",
-            "GW": "3",
-            "GL": "3",
-            "PTS": "1",
-            "PF": "113",
-            "PA": "115",
-            "DIFF": "-2"
+            "MW": "2",
+            "ML": "0",
+            "GW": "4",
+            "GL": "1",
+            "PTS": "2",
+            "PF": "109",
+            "PA": "93",
+            "DIFF": "16"
         },
         {
             "Team": "St. Robert",
@@ -157,28 +157,16 @@
             "DIFF": "14"
         },
         {
-            "Team": "Richmond Hill HS",
-            "MP": "2",
-            "MW": "1",
-            "ML": "1",
-            "GW": "2",
-            "GL": "3",
-            "PTS": "1",
-            "PF": "90",
-            "PA": "112",
-            "DIFF": "-22"
-        },
-        {
-            "Team": "St. Theresa Of Lisieux",
+            "Team": "Stephen Lewis SS",
             "MP": "2",
             "MW": "1",
             "ML": "1",
             "GW": "3",
-            "GL": "2",
+            "GL": "3",
             "PTS": "1",
-            "PF": "102",
-            "PA": "92",
-            "DIFF": "10"
+            "PF": "113",
+            "PA": "115",
+            "DIFF": "-2"
         },
         {
             "Team": "Maple High School",
@@ -215,6 +203,18 @@
             "PF": "0",
             "PA": "0",
             "DIFF": "0"
+        },
+        {
+            "Team": "St. Theresa Of Lisieux",
+            "MP": "2",
+            "MW": "0",
+            "ML": "2",
+            "GW": "1",
+            "GL": "4",
+            "PTS": "0",
+            "PF": "83",
+            "PA": "111",
+            "DIFF": "-28"
         }
     ]
 }

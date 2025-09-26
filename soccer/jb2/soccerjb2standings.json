@@ -11,6 +11,16 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Dr. J.M. Denison",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "3",
+            "GF": "6",
+            "GA": "1",
+            "DIFF": "5"
+        },
+        {
             "Team": "Bill Hogarth SS",
             "W": "1",
             "L": "0",
@@ -53,12 +63,12 @@
         {
             "Team": "Alexander Mackenzie",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
-            "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
+            "GF": "1",
+            "GA": "6",
+            "DIFF": "-5"
         },
         {
             "Team": "Markham District",
@@ -82,16 +92,6 @@
         },
         {
             "Team": "Milliken Mills",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "Dr. J.M. Denison",
             "W": "0",
             "L": "0",
             "T": "0",
