@@ -12,6 +12,28 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Markham District",
+            "GP": "2",
+            "W": "2",
+            "L": "0",
+            "T": "0",
+            "PTS": "4",
+            "PF": "78",
+            "PA": "50",
+            "DIFF": "27"
+        },
+        {
+            "Team": "St. Theresa Of Lisieux",
+            "GP": "1",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "2",
+            "PF": "41",
+            "PA": "25",
+            "DIFF": "15"
+        },
+        {
             "Team": "Unionville HS",
             "GP": "1",
             "W": "1",
@@ -23,37 +45,26 @@
             "DIFF": "15"
         },
         {
-            "Team": "Markham District",
-            "GP": "1",
-            "W": "1",
-            "L": "0",
-            "T": "0",
-            "PTS": "2",
-            "PF": "37",
-            "PA": "21",
-            "DIFF": "15"
-        },
-        {
             "Team": "Bill Crothers SS",
-            "GP": "1",
+            "GP": "2",
             "W": "1",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "2",
-            "PF": "61",
-            "PA": "20",
-            "DIFF": "15"
+            "PF": "86",
+            "PA": "61",
+            "DIFF": "0"
         },
         {
             "Team": "Richmond Hill HS",
-            "GP": "1",
+            "GP": "2",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "0",
-            "PF": "20",
-            "PA": "61",
-            "DIFF": "-15"
+            "PF": "49",
+            "PA": "102",
+            "DIFF": "-27"
         },
         {
             "Team": "St. Katharine Drexel",
@@ -76,17 +87,6 @@
             "PF": "21",
             "PA": "37",
             "DIFF": "-15"
-        },
-        {
-            "Team": "St. Theresa Of Lisieux",
-            "GP": "0",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
         },
         {
             "Team": "North-West",

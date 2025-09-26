@@ -12,12 +12,32 @@
         },
         {
             "Team": "Langstaff SS",
-            "W": "0",
+            "W": "1",
             "L": "0",
             "T": "0",
-            "PTS": "0",
-            "GF": "0",
+            "PTS": "3",
+            "GF": "5",
             "GA": "0",
+            "DIFF": "5"
+        },
+        {
+            "Team": "Richmond Green SS",
+            "W": "0",
+            "L": "0",
+            "T": "1",
+            "PTS": "1",
+            "GF": "2",
+            "GA": "2",
+            "DIFF": "0"
+        },
+        {
+            "Team": "St. Robert",
+            "W": "0",
+            "L": "0",
+            "T": "1",
+            "PTS": "1",
+            "GF": "2",
+            "GA": "2",
             "DIFF": "0"
         },
         {
@@ -33,25 +53,15 @@
         {
             "Team": "Unionville HS",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
             "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
+            "GA": "5",
+            "DIFF": "-5"
         },
         {
             "Team": "Alexander Mackenzie",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "Richmond Green SS",
             "W": "0",
             "L": "0",
             "T": "0",
@@ -81,16 +91,6 @@
             "DIFF": "0"
         },
         {
-            "Team": "St. Robert",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
-        },
-        {
             "Team": "East",
             "W": "W",
             "L": "L",
@@ -99,6 +99,26 @@
             "GF": "GF",
             "GA": "GA",
             "DIFF": "DIFF"
+        },
+        {
+            "Team": "Bur Oak SS",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "3",
+            "GF": "3",
+            "GA": "2",
+            "DIFF": "1"
+        },
+        {
+            "Team": "Bill Hogarth SS",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "3",
+            "GF": "3",
+            "GA": "2",
+            "DIFF": "1"
         },
         {
             "Team": "Middlefield",
@@ -121,16 +141,6 @@
             "DIFF": "0"
         },
         {
-            "Team": "Bill Hogarth SS",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
-        },
-        {
             "Team": "Pierre Elliott Trudeau",
             "W": "0",
             "L": "0",
@@ -143,12 +153,12 @@
         {
             "Team": "Bill Crothers SS",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
-            "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
+            "GF": "2",
+            "GA": "3",
+            "DIFF": "-1"
         },
         {
             "Team": "Milliken Mills",
@@ -161,24 +171,14 @@
             "DIFF": "0"
         },
         {
-            "Team": "Bur Oak SS",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
-        },
-        {
             "Team": "Stouffville",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
-            "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
+            "GF": "2",
+            "GA": "3",
+            "DIFF": "-1"
         },
         {
             "Team": "North",
@@ -281,64 +281,64 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Maple High School",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "3",
+            "GF": "1",
+            "GA": "0",
+            "DIFF": "1"
+        },
+        {
+            "Team": "St. Elizabeth",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "3",
+            "GF": "4",
+            "GA": "2",
+            "DIFF": "2"
+        },
+        {
+            "Team": "Toronto District Christian",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "3",
+            "GF": "3",
+            "GA": "2",
+            "DIFF": "1"
+        },
+        {
             "Team": "King City SS",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
             "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
+            "GA": "1",
+            "DIFF": "-1"
         },
         {
             "Team": "Woodbridge College",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
-            "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "Toronto District Christian",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
+            "GF": "2",
+            "GA": "4",
+            "DIFF": "-2"
         },
         {
             "Team": "Tommy Douglas SS",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
-            "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "St. Elizabeth",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "Maple High School",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
+            "GF": "2",
+            "GA": "3",
+            "DIFF": "-1"
         },
         {
             "Team": "Renaissance ESC",

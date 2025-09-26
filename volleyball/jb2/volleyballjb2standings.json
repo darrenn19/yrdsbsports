@@ -13,18 +13,6 @@
             "DIFF": "DIFF"
         },
         {
-            "Team": "Hodan Nalayeh SS",
-            "MP": "2",
-            "MW": "2",
-            "ML": "0",
-            "GW": "4",
-            "GL": "0",
-            "PTS": "2",
-            "PF": "100",
-            "PA": "63",
-            "DIFF": "37"
-        },
-        {
             "Team": "St. Joan Of Arc",
             "MP": "2",
             "MW": "2",
@@ -35,6 +23,30 @@
             "PF": "112",
             "PA": "79",
             "DIFF": "33"
+        },
+        {
+            "Team": "St. Augustine",
+            "MP": "2",
+            "MW": "2",
+            "ML": "0",
+            "GW": "4",
+            "GL": "0",
+            "PTS": "2",
+            "PF": "100",
+            "PA": "61",
+            "DIFF": "39"
+        },
+        {
+            "Team": "Hodan Nalayeh SS",
+            "MP": "2",
+            "MW": "2",
+            "ML": "0",
+            "GW": "4",
+            "GL": "0",
+            "PTS": "2",
+            "PF": "100",
+            "PA": "63",
+            "DIFF": "37"
         },
         {
             "Team": "Tommy Douglas SS",
@@ -74,39 +86,27 @@
         },
         {
             "Team": "Father Bressani",
-            "MP": "0",
+            "MP": "1",
             "MW": "0",
-            "ML": "0",
+            "ML": "1",
             "GW": "0",
-            "GL": "0",
+            "GL": "2",
             "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "PF": "31",
+            "PA": "50",
+            "DIFF": "-19"
         },
         {
             "Team": "Emily Carr",
-            "MP": "0",
+            "MP": "1",
             "MW": "0",
-            "ML": "0",
+            "ML": "1",
             "GW": "0",
-            "GL": "0",
+            "GL": "2",
             "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "St. Augustine",
-            "MP": "0",
-            "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "PF": "30",
+            "PA": "50",
+            "DIFF": "-20"
         },
         {
             "Team": "Father McGivney",

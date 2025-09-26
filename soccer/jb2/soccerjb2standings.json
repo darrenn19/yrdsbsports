@@ -11,6 +11,16 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Bill Hogarth SS",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "3",
+            "GF": "5",
+            "GA": "0",
+            "DIFF": "5"
+        },
+        {
             "Team": "St. Augustine",
             "W": "1",
             "L": "0",
@@ -61,24 +71,14 @@
             "DIFF": "-3"
         },
         {
-            "Team": "Bill Hogarth SS",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
-        },
-        {
             "Team": "Bill Crothers SS",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
             "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
+            "GA": "5",
+            "DIFF": "-5"
         },
         {
             "Team": "Milliken Mills",
