@@ -47,6 +47,15 @@
         },
         {
             "date": "Thursday, September 25, 2025",
+            "home_team": "Middlefield",
+            "away_team": "Milliken Mills",
+            "time": "3:45 PM",
+            "location": "Middlefield CI",
+            "game_played": true,
+            "final_score": "Middlefield 2, Milliken Mills 0"
+        },
+        {
+            "date": "Thursday, September 25, 2025",
             "home_team": "Toronto District Christian",
             "away_team": "Tommy Douglas SS",
             "time": "3:30 PM",
