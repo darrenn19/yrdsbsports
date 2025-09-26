@@ -11,6 +11,15 @@
         },
         {
             "date": "Thursday, September 25, 2025",
+            "home_team": "Sacred Heart",
+            "away_team": "Newmarket HS",
+            "time": "3:45 PM",
+            "location": "Sacred Heart CHS",
+            "game_played": true,
+            "final_score": "Sacred Heart 35, Newmarket HS 38"
+        },
+        {
+            "date": "Thursday, September 25, 2025",
             "home_team": "St. Theresa Of Lisieux",
             "away_team": "Bill Crothers SS",
             "time": "4:45 PM",
