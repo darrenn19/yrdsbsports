@@ -1,33 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, September 24, 2025",
-            "home_team": "Father Bressani",
-            "away_team": "Holy Cross",
-            "time": "3:30 PM",
-            "location": "Father Bressani CHS",
-            "game_played": true,
-            "final_score": "Father Bressani 2, Holy Cross 2"
-        },
-        {
-            "date": "Wednesday, September 24, 2025",
-            "home_team": "Sacred Heart",
-            "away_team": "Cardinal Carter",
-            "time": "4:15 PM",
-            "location": "George Richardson Park",
-            "game_played": true,
-            "final_score": "Sacred Heart 1, Cardinal Carter 7"
-        },
-        {
-            "date": "Wednesday, September 24, 2025",
-            "home_team": "St. Joan Of Arc",
-            "away_team": "St. Theresa Of Lisieux",
-            "time": "3:30 PM",
-            "location": "St Joan Of Arc CHS",
-            "game_played": true,
-            "final_score": "St. Joan Of Arc 1, St. Theresa Of Lisieux 7"
-        },
-        {
             "date": "Thursday, September 25, 2025",
             "home_team": null,
             "away_team": null,
@@ -74,6 +47,15 @@
         },
         {
             "date": "Tuesday, September 30, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, October 1, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

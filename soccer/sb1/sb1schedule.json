@@ -1,24 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, September 24, 2025",
-            "home_team": "Sacred Heart",
-            "away_team": "Cardinal Carter",
-            "time": "3:00 PM",
-            "location": "George Richardson Park",
-            "game_played": true,
-            "final_score": "Sacred Heart 1, Cardinal Carter 5"
-        },
-        {
-            "date": "Wednesday, September 24, 2025",
-            "home_team": "St. Augustine",
-            "away_team": "St. Maximilian",
-            "time": "3:30 PM",
-            "location": "St Augustine CHS",
-            "game_played": true,
-            "final_score": "St. Augustine 2, St. Maximilian 3"
-        },
-        {
             "date": "Thursday, September 25, 2025",
             "home_team": "Father Bressani",
             "away_team": "Holy Cross",
@@ -83,6 +65,15 @@
         },
         {
             "date": "Tuesday, September 30, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, October 1, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
