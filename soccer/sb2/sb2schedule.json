@@ -29,6 +29,24 @@
         },
         {
             "date": "Thursday, September 25, 2025",
+            "home_team": "Langstaff SS",
+            "away_team": "Unionville HS",
+            "time": "3:45 PM",
+            "location": "Langstaff SS",
+            "game_played": true,
+            "final_score": "Langstaff SS 5, Unionville HS 0"
+        },
+        {
+            "date": "Thursday, September 25, 2025",
+            "home_team": "Maple High School",
+            "away_team": "King City SS",
+            "time": "3:45 PM",
+            "location": "Maple HS",
+            "game_played": true,
+            "final_score": "Maple High School 1, King City SS 0"
+        },
+        {
+            "date": "Thursday, September 25, 2025",
             "home_team": "Toronto District Christian",
             "away_team": "Tommy Douglas SS",
             "time": "3:30 PM",
@@ -44,6 +62,15 @@
             "location": "Richmond Green SS",
             "game_played": true,
             "final_score": "Richmond Green SS 2, St. Robert 2"
+        },
+        {
+            "date": "Thursday, September 25, 2025",
+            "home_team": "St. Elizabeth",
+            "away_team": "Woodbridge College",
+            "time": "3:30 PM",
+            "location": "Woodbridge College",
+            "game_played": true,
+            "final_score": "St. Elizabeth 4, Woodbridge College 2"
         },
         {
             "date": "Friday, September 26, 2025",
