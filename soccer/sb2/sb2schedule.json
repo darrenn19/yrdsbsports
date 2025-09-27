@@ -1,123 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, September 25, 2025",
-            "home_team": "Alexander Mackenzie",
-            "away_team": "Our Lady Queen Of The World",
-            "time": "3:00 PM",
-            "location": "Alexander Mackenzie HS",
-            "game_played": true,
-            "final_score": "Alexander Mackenzie 1, Our Lady Queen Of The World 2"
-        },
-        {
-            "date": "Thursday, September 25, 2025",
-            "home_team": "Bill Crothers SS",
-            "away_team": "Bill Hogarth SS",
-            "time": "3:00 PM",
-            "location": "Bill Crothers SS",
-            "game_played": true,
-            "final_score": "Bill Crothers SS 2, Bill Hogarth SS 3"
-        },
-        {
-            "date": "Thursday, September 25, 2025",
-            "home_team": "Bur Oak SS",
-            "away_team": "Stouffville",
-            "time": "3:45 PM",
-            "location": "Bur Oak SS",
-            "game_played": true,
-            "final_score": "Bur Oak SS 3, Stouffville 2"
-        },
-        {
-            "date": "Thursday, September 25, 2025",
-            "home_team": "Keswick High School",
-            "away_team": "Dr. G.W. Williams",
-            "time": "3:00 PM",
-            "location": "Keswick HS",
-            "game_played": true,
-            "final_score": "Keswick High School 1, Dr. G.W. Williams 3"
-        },
-        {
-            "date": "Thursday, September 25, 2025",
-            "home_team": "Langstaff SS",
-            "away_team": "Unionville HS",
-            "time": "3:45 PM",
-            "location": "Langstaff SS",
-            "game_played": true,
-            "final_score": "Langstaff SS 5, Unionville HS 0"
-        },
-        {
-            "date": "Thursday, September 25, 2025",
-            "home_team": "Maple High School",
-            "away_team": "King City SS",
-            "time": "3:45 PM",
-            "location": "Maple HS",
-            "game_played": true,
-            "final_score": "Maple High School 1, King City SS 0"
-        },
-        {
-            "date": "Thursday, September 25, 2025",
-            "home_team": "Middlefield",
-            "away_team": "Milliken Mills",
-            "time": "3:45 PM",
-            "location": "Middlefield CI",
-            "game_played": true,
-            "final_score": "Middlefield 2, Milliken Mills 0"
-        },
-        {
-            "date": "Thursday, September 25, 2025",
-            "home_team": "Newmarket HS",
-            "away_team": "Sutton District",
-            "time": "3:45 PM",
-            "location": "Newmarket HS",
-            "game_played": true,
-            "final_score": "Newmarket HS 8, Sutton District 0"
-        },
-        {
-            "date": "Thursday, September 25, 2025",
-            "home_team": "Toronto District Christian",
-            "away_team": "Tommy Douglas SS",
-            "time": "3:30 PM",
-            "location": "Ontario Soccer Centre",
-            "game_played": true,
-            "final_score": "Toronto District Christian 3, Tommy Douglas SS 2"
-        },
-        {
-            "date": "Thursday, September 25, 2025",
-            "home_team": "Richmond Green SS",
-            "away_team": "St. Robert",
-            "time": "3:45 PM",
-            "location": "Richmond Green SS",
-            "game_played": true,
-            "final_score": "Richmond Green SS 2, St. Robert 2"
-        },
-        {
-            "date": "Thursday, September 25, 2025",
-            "home_team": "Richmond Hill HS",
-            "away_team": "Thornhill SS",
-            "time": "3:45 PM",
-            "location": "Richmond Hill HS",
-            "game_played": true,
-            "final_score": "Richmond Hill HS 3, Thornhill SS 8"
-        },
-        {
-            "date": "Thursday, September 25, 2025",
-            "home_team": "Aurora HS",
-            "away_team": "Huron Heights",
-            "time": "3:45 PM",
-            "location": "Sheppards Bush",
-            "game_played": true,
-            "final_score": "Aurora HS 4, Huron Heights 2"
-        },
-        {
-            "date": "Thursday, September 25, 2025",
-            "home_team": "St. Elizabeth",
-            "away_team": "Woodbridge College",
-            "time": "3:30 PM",
-            "location": "Woodbridge College",
-            "game_played": true,
-            "final_score": "St. Elizabeth 4, Woodbridge College 2"
-        },
-        {
             "date": "Friday, September 26, 2025",
             "home_team": null,
             "away_team": null,
@@ -164,6 +47,15 @@
         },
         {
             "date": "Wednesday, October 1, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, October 2, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

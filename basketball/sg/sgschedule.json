@@ -1,87 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, September 25, 2025",
-            "home_team": "Alexander Mackenzie",
-            "away_team": "Our Lady Queen Of The World",
-            "time": "3:45 PM",
-            "location": "Alexander Mackenzie HS",
-            "game_played": true,
-            "final_score": "Alexander Mackenzie 28, Our Lady Queen Of The World 20"
-        },
-        {
-            "date": "Thursday, September 25, 2025",
-            "home_team": "Bill Hogarth SS",
-            "away_team": "Pierre Elliott Trudeau",
-            "time": "3:45 PM",
-            "location": "Bill Hogarth SS",
-            "game_played": true,
-            "final_score": "Bill Hogarth SS 68, Pierre Elliott Trudeau 56"
-        },
-        {
-            "date": "Thursday, September 25, 2025",
-            "home_team": "Father McGivney",
-            "away_team": "Markham District",
-            "time": "3:45 PM",
-            "location": "Father Michael McGivney CA",
-            "game_played": true,
-            "final_score": "Father McGivney 52, Markham District 40"
-        },
-        {
-            "date": "Thursday, September 25, 2025",
-            "home_team": "Newmarket HS",
-            "away_team": "Cardinal Carter",
-            "time": "3:45 PM",
-            "location": "Newmarket HS",
-            "game_played": true,
-            "final_score": "Newmarket HS 47, Cardinal Carter 31"
-        },
-        {
-            "date": "Thursday, September 25, 2025",
-            "home_team": "Richmond Green SS",
-            "away_team": "St. Augustine",
-            "time": "4:00 PM",
-            "location": "Richmond Green SS",
-            "game_played": true,
-            "final_score": "Richmond Green SS 24, St. Augustine 48"
-        },
-        {
-            "date": "Thursday, September 25, 2025",
-            "home_team": "Sir William Mulock",
-            "away_team": "Dr. J.M. Denison",
-            "time": "3:45 PM",
-            "location": "Sir William Mulock",
-            "game_played": true,
-            "final_score": "Sir William Mulock 50, Dr. J.M. Denison 15"
-        },
-        {
-            "date": "Thursday, September 25, 2025",
-            "home_team": "St. Elizabeth",
-            "away_team": "Toronto District Christian",
-            "time": "3:45 PM",
-            "location": "St Elizabeth CHS",
-            "game_played": true,
-            "final_score": "St. Elizabeth 24, Toronto District Christian 49"
-        },
-        {
-            "date": "Thursday, September 25, 2025",
-            "home_team": "St. Theresa Of Lisieux",
-            "away_team": "St. Robert",
-            "time": "3:30 PM",
-            "location": "St Theresa Of Lisieux CHS",
-            "game_played": true,
-            "final_score": "St. Theresa Of Lisieux 40, St. Robert 42"
-        },
-        {
-            "date": "Thursday, September 25, 2025",
-            "home_team": "Stephen Lewis SS",
-            "away_team": "Tommy Douglas SS",
-            "time": "4:45 PM",
-            "location": "Stephen Lewis SS",
-            "game_played": true,
-            "final_score": "Stephen Lewis SS 45, Tommy Douglas SS 66"
-        },
-        {
             "date": "Friday, September 26, 2025",
             "home_team": null,
             "away_team": null,
@@ -128,6 +47,15 @@
         },
         {
             "date": "Wednesday, October 1, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, October 2, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

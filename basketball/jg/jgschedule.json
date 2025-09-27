@@ -1,33 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, September 25, 2025",
-            "home_team": "Richmond Hill HS",
-            "away_team": "Markham District",
-            "time": "3:45 PM",
-            "location": "Richmond Hill HS",
-            "game_played": true,
-            "final_score": "Richmond Hill HS 29, Markham District 41"
-        },
-        {
-            "date": "Thursday, September 25, 2025",
-            "home_team": "Sacred Heart",
-            "away_team": "Newmarket HS",
-            "time": "3:45 PM",
-            "location": "Sacred Heart CHS",
-            "game_played": true,
-            "final_score": "Sacred Heart 35, Newmarket HS 38"
-        },
-        {
-            "date": "Thursday, September 25, 2025",
-            "home_team": "St. Theresa Of Lisieux",
-            "away_team": "Bill Crothers SS",
-            "time": "4:45 PM",
-            "location": "St Theresa Of Lisieux CHS",
-            "game_played": true,
-            "final_score": "St. Theresa Of Lisieux 41, Bill Crothers SS 25"
-        },
-        {
             "date": "Friday, September 26, 2025",
             "home_team": null,
             "away_team": null,
@@ -74,6 +47,15 @@
         },
         {
             "date": "Wednesday, October 1, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, October 2, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
