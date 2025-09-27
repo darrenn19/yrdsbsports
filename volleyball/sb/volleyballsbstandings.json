@@ -289,6 +289,18 @@
             "DIFF": "11"
         },
         {
+            "Team": "Renaissance ESC",
+            "MP": "2",
+            "MW": "1",
+            "ML": "1",
+            "GW": "3",
+            "GL": "2",
+            "PTS": "1",
+            "PF": "108",
+            "PA": "96",
+            "DIFF": "12"
+        },
+        {
             "Team": "St. Maximilian",
             "MP": "2",
             "MW": "1",
@@ -301,16 +313,16 @@
             "DIFF": "0"
         },
         {
-            "Team": "Sacred Heart",
-            "MP": "1",
+            "Team": "Newmarket HS",
+            "MP": "2",
             "MW": "1",
-            "ML": "0",
-            "GW": "2",
-            "GL": "1",
+            "ML": "1",
+            "GW": "3",
+            "GL": "3",
             "PTS": "1",
-            "PF": "56",
-            "PA": "60",
-            "DIFF": "-4"
+            "PF": "124",
+            "PA": "114",
+            "DIFF": "10"
         },
         {
             "Team": "Keswick High School",
@@ -325,6 +337,18 @@
             "DIFF": "12"
         },
         {
+            "Team": "Sacred Heart",
+            "MP": "1",
+            "MW": "1",
+            "ML": "0",
+            "GW": "2",
+            "GL": "1",
+            "PTS": "1",
+            "PF": "56",
+            "PA": "60",
+            "DIFF": "-4"
+        },
+        {
             "Team": "Dr. G.W. Williams",
             "MP": "0",
             "MW": "0",
@@ -335,18 +359,6 @@
             "PF": "0",
             "PA": "0",
             "DIFF": "0"
-        },
-        {
-            "Team": "Newmarket HS",
-            "MP": "1",
-            "MW": "0",
-            "ML": "1",
-            "GW": "1",
-            "GL": "2",
-            "PTS": "0",
-            "PF": "60",
-            "PA": "56",
-            "DIFF": "4"
         },
         {
             "Team": "Sir William Mulock",
@@ -362,15 +374,15 @@
         },
         {
             "Team": "Sutton District",
-            "MP": "0",
+            "MP": "1",
             "MW": "0",
-            "ML": "0",
+            "ML": "1",
             "GW": "0",
-            "GL": "0",
+            "GL": "2",
             "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "PF": "32",
+            "PA": "50",
+            "DIFF": "-18"
         },
         {
             "Team": "Dr. J.M. Denison",
@@ -386,18 +398,6 @@
         },
         {
             "Team": "Cardinal Carter",
-            "MP": "0",
-            "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "Renaissance ESC",
             "MP": "0",
             "MW": "0",
             "ML": "0",
