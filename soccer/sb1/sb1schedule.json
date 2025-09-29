@@ -11,12 +11,21 @@
         },
         {
             "date": "Monday, September 29, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Father McGivney",
+            "away_team": "St. Augustine",
+            "time": "3:30 PM",
+            "location": "Father Michael McGivney CA",
+            "game_played": true,
+            "final_score": "Father McGivney 2, St. Augustine 0"
+        },
+        {
+            "date": "Monday, September 29, 2025",
+            "home_team": "Hodan Nalayeh SS",
+            "away_team": "St. Jean De Brebeuf CHS",
+            "time": "2:00 PM",
+            "location": "Hodan Nalayeh Secondary School",
+            "game_played": true,
+            "final_score": "Hodan Nalayeh SS 0, St. Jean De Brebeuf CHS 4"
         },
         {
             "date": "Tuesday, September 30, 2025",

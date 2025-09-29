@@ -11,6 +11,15 @@
         },
         {
             "date": "Monday, September 29, 2025",
+            "home_team": "Bill Crothers SS",
+            "away_team": "Dr. J.M. Denison",
+            "time": "3:45 PM",
+            "location": "Bill Crothers SS",
+            "game_played": true,
+            "final_score": "Bill Crothers SS 0, Dr. J.M. Denison 10"
+        },
+        {
+            "date": "Monday, September 29, 2025",
             "home_team": "Bill Hogarth SS",
             "away_team": "Alexander Mackenzie",
             "time": "3:00 PM",
