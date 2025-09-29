@@ -11,12 +11,12 @@
         },
         {
             "date": "Monday, September 29, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "St. Joan Of Arc",
+            "away_team": "Our Lady Queen Of The World",
+            "time": "3:30 PM",
+            "location": "St Joan Of Arc CHS",
+            "game_played": true,
+            "final_score": "St. Joan Of Arc 1, Our Lady Queen Of The World 2"
         },
         {
             "date": "Tuesday, September 30, 2025",
