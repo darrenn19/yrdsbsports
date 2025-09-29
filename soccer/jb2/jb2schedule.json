@@ -11,12 +11,12 @@
         },
         {
             "date": "Monday, September 29, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Bill Hogarth SS",
+            "away_team": "Alexander Mackenzie",
+            "time": "3:00 PM",
+            "location": "Bill Hogarth SS",
+            "game_played": true,
+            "final_score": "Bill Hogarth SS 7, Alexander Mackenzie 1"
         },
         {
             "date": "Tuesday, September 30, 2025",
