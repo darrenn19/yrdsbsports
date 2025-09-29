@@ -191,6 +191,16 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Newmarket HS",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "3",
+            "GF": "8",
+            "GA": "0",
+            "DIFF": "5"
+        },
+        {
             "Team": "Aurora HS",
             "W": "1",
             "L": "0",
@@ -201,13 +211,13 @@
             "DIFF": "2"
         },
         {
-            "Team": "Newmarket HS",
+            "Team": "Dr. J.M. Denison",
             "W": "1",
             "L": "0",
             "T": "0",
             "PTS": "3",
-            "GF": "8",
-            "GA": "0",
+            "GF": "10",
+            "GA": "3",
             "DIFF": "5"
         },
         {
@@ -243,12 +253,12 @@
         {
             "Team": "Sir William Mulock",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
-            "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
+            "GF": "3",
+            "GA": "10",
+            "DIFF": "-5"
         },
         {
             "Team": "Sutton District",
@@ -259,16 +269,6 @@
             "GF": "0",
             "GA": "8",
             "DIFF": "-5"
-        },
-        {
-            "Team": "Dr. J.M. Denison",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
         },
         {
             "Team": "West",

@@ -45,6 +45,17 @@
             "DIFF": "15"
         },
         {
+            "Team": "Stephen Lewis SS",
+            "GP": "2",
+            "W": "1",
+            "L": "1",
+            "T": "0",
+            "PTS": "2",
+            "PF": "65",
+            "PA": "70",
+            "DIFF": "-4"
+        },
+        {
             "Team": "Bill Crothers SS",
             "GP": "2",
             "W": "1",
@@ -68,25 +79,14 @@
         },
         {
             "Team": "St. Katharine Drexel",
-            "GP": "1",
+            "GP": "2",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "0",
-            "PF": "25",
-            "PA": "59",
-            "DIFF": "-15"
-        },
-        {
-            "Team": "Stephen Lewis SS",
-            "GP": "1",
-            "W": "0",
-            "L": "1",
-            "T": "0",
-            "PTS": "0",
-            "PF": "21",
-            "PA": "37",
-            "DIFF": "-15"
+            "PF": "58",
+            "PA": "103",
+            "DIFF": "-26"
         },
         {
             "Team": "North-West",
