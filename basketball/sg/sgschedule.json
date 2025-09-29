@@ -11,12 +11,21 @@
         },
         {
             "date": "Monday, September 29, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Emily Carr",
+            "away_team": "St. Jean De Brebeuf CHS",
+            "time": "3:45 PM",
+            "location": "Emily Carr SS",
+            "game_played": true,
+            "final_score": "Emily Carr 44, St. Jean De Brebeuf CHS 28"
+        },
+        {
+            "date": "Monday, September 29, 2025",
+            "home_team": "Markville",
+            "away_team": "Pierre Elliott Trudeau",
+            "time": "3:45 PM",
+            "location": "Markville SS",
+            "game_played": true,
+            "final_score": "Markville 27, Pierre Elliott Trudeau 44"
         },
         {
             "date": "Tuesday, September 30, 2025",

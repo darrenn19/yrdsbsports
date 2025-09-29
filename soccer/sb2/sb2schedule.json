@@ -11,12 +11,21 @@
         },
         {
             "date": "Monday, September 29, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Bur Oak SS",
+            "away_team": "Markham District",
+            "time": "3:45 PM",
+            "location": "Bur Oak SS",
+            "game_played": true,
+            "final_score": "Bur Oak SS 3, Markham District 4"
+        },
+        {
+            "date": "Monday, September 29, 2025",
+            "home_team": "Stouffville",
+            "away_team": "Milliken Mills",
+            "time": "3:45 PM",
+            "location": "Stouffville DSS",
+            "game_played": true,
+            "final_score": "Stouffville 1, Milliken Mills 3"
         },
         {
             "date": "Tuesday, September 30, 2025",
