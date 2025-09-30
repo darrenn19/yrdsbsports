@@ -11,6 +11,15 @@
         },
         {
             "date": "Monday, September 29, 2025",
+            "home_team": "Bur Oak SS",
+            "away_team": "Middlefield",
+            "time": "3:45 PM",
+            "location": "Bur Oak SS",
+            "game_played": true,
+            "final_score": "Bur Oak SS 51, Middlefield 38"
+        },
+        {
+            "date": "Monday, September 29, 2025",
             "home_team": "Emily Carr",
             "away_team": "St. Jean De Brebeuf CHS",
             "time": "3:45 PM",
