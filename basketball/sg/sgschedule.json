@@ -65,6 +65,15 @@
         },
         {
             "date": "Tuesday, September 30, 2025",
+            "home_team": "Markham District",
+            "away_team": "Bill Hogarth SS",
+            "time": "4:45 PM",
+            "location": "Markham DHS",
+            "game_played": true,
+            "final_score": "Markham District 55, Bill Hogarth SS 46"
+        },
+        {
+            "date": "Tuesday, September 30, 2025",
             "home_team": "Sir William Mulock",
             "away_team": "Newmarket HS",
             "time": "3:45 PM",
