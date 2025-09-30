@@ -169,6 +169,18 @@
             "DIFF": "14"
         },
         {
+            "Team": "Sacred Heart",
+            "MP": "2",
+            "MW": "1",
+            "ML": "1",
+            "GW": "3",
+            "GL": "3",
+            "PTS": "1",
+            "PF": "115",
+            "PA": "111",
+            "DIFF": "4"
+        },
+        {
             "Team": "Maple High School",
             "MP": "0",
             "MW": "0",
@@ -181,28 +193,16 @@
             "DIFF": "0"
         },
         {
-            "Team": "Sacred Heart",
-            "MP": "1",
-            "MW": "0",
-            "ML": "1",
-            "GW": "1",
-            "GL": "2",
-            "PTS": "0",
-            "PF": "54",
-            "PA": "55",
-            "DIFF": "-1"
-        },
-        {
             "Team": "Dr. G.W. Williams",
-            "MP": "1",
+            "MP": "2",
             "MW": "0",
-            "ML": "1",
-            "GW": "1",
-            "GL": "2",
+            "ML": "2",
+            "GW": "2",
+            "GL": "4",
             "PTS": "0",
-            "PF": "51",
-            "PA": "61",
-            "DIFF": "-10"
+            "PF": "107",
+            "PA": "122",
+            "DIFF": "-15"
         },
         {
             "Team": "St. Theresa Of Lisieux",

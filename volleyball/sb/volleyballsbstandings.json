@@ -25,28 +25,16 @@
             "DIFF": "38"
         },
         {
-            "Team": "Richmond Hill HS",
-            "MP": "2",
-            "MW": "2",
-            "ML": "0",
-            "GW": "4",
-            "GL": "0",
-            "PTS": "2",
-            "PF": "100",
-            "PA": "83",
-            "DIFF": "17"
-        },
-        {
             "Team": "St. Theresa Of Lisieux",
-            "MP": "3",
-            "MW": "2",
+            "MP": "4",
+            "MW": "3",
             "ML": "1",
-            "GW": "5",
+            "GW": "7",
             "GL": "3",
-            "PTS": "2",
-            "PF": "171",
-            "PA": "150",
-            "DIFF": "21"
+            "PTS": "3",
+            "PF": "222",
+            "PA": "195",
+            "DIFF": "27"
         },
         {
             "Team": "Thornhill SS",
@@ -62,15 +50,39 @@
         },
         {
             "Team": "Our Lady Queen Of The World",
-            "MP": "3",
-            "MW": "1",
+            "MP": "4",
+            "MW": "2",
             "ML": "2",
-            "GW": "2",
+            "GW": "4",
             "GL": "4",
+            "PTS": "2",
+            "PF": "177",
+            "PA": "192",
+            "DIFF": "-15"
+        },
+        {
+            "Team": "Richmond Hill HS",
+            "MP": "2",
+            "MW": "2",
+            "ML": "0",
+            "GW": "4",
+            "GL": "0",
+            "PTS": "2",
+            "PF": "100",
+            "PA": "83",
+            "DIFF": "17"
+        },
+        {
+            "Team": "Thornlea SS",
+            "MP": "2",
+            "MW": "1",
+            "ML": "1",
+            "GW": "2",
+            "GL": "2",
             "PTS": "1",
-            "PF": "127",
-            "PA": "150",
-            "DIFF": "-23"
+            "PF": "93",
+            "PA": "79",
+            "DIFF": "14"
         },
         {
             "Team": "Bayview SS",
@@ -86,39 +98,27 @@
         },
         {
             "Team": "Langstaff SS",
-            "MP": "2",
+            "MP": "4",
             "MW": "0",
-            "ML": "2",
+            "ML": "4",
             "GW": "1",
-            "GL": "4",
+            "GL": "8",
             "PTS": "0",
-            "PF": "96",
-            "PA": "113",
-            "DIFF": "-17"
+            "PF": "183",
+            "PA": "214",
+            "DIFF": "-31"
         },
         {
             "Team": "Alexander Mackenzie",
-            "MP": "3",
+            "MP": "4",
             "MW": "0",
-            "ML": "3",
+            "ML": "4",
             "GW": "0",
-            "GL": "6",
+            "GL": "8",
             "PTS": "0",
-            "PF": "126",
-            "PA": "160",
-            "DIFF": "-34"
-        },
-        {
-            "Team": "Thornlea SS",
-            "MP": "1",
-            "MW": "0",
-            "ML": "1",
-            "GW": "0",
-            "GL": "2",
-            "PTS": "0",
-            "PF": "43",
-            "PA": "50",
-            "DIFF": "-7"
+            "PF": "155",
+            "PA": "210",
+            "DIFF": "-55"
         },
         {
             "Team": "St. Augustine",
@@ -277,6 +277,30 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Dr. J.M. Denison",
+            "MP": "2",
+            "MW": "2",
+            "ML": "0",
+            "GW": "4",
+            "GL": "0",
+            "PTS": "2",
+            "PF": "100",
+            "PA": "64",
+            "DIFF": "36"
+        },
+        {
+            "Team": "Aurora HS",
+            "MP": "2",
+            "MW": "2",
+            "ML": "0",
+            "GW": "4",
+            "GL": "1",
+            "PTS": "2",
+            "PF": "111",
+            "PA": "96",
+            "DIFF": "15"
+        },
+        {
             "Team": "Huron Heights",
             "MP": "2",
             "MW": "2",
@@ -287,30 +311,6 @@
             "PF": "122",
             "PA": "111",
             "DIFF": "11"
-        },
-        {
-            "Team": "Renaissance ESC",
-            "MP": "2",
-            "MW": "1",
-            "ML": "1",
-            "GW": "3",
-            "GL": "2",
-            "PTS": "1",
-            "PF": "108",
-            "PA": "96",
-            "DIFF": "12"
-        },
-        {
-            "Team": "St. Maximilian",
-            "MP": "2",
-            "MW": "1",
-            "ML": "1",
-            "GW": "2",
-            "GL": "2",
-            "PTS": "1",
-            "PF": "89",
-            "PA": "89",
-            "DIFF": "0"
         },
         {
             "Team": "Newmarket HS",
@@ -325,18 +325,6 @@
             "DIFF": "10"
         },
         {
-            "Team": "Keswick High School",
-            "MP": "2",
-            "MW": "1",
-            "ML": "1",
-            "GW": "3",
-            "GL": "2",
-            "PTS": "1",
-            "PF": "109",
-            "PA": "97",
-            "DIFF": "12"
-        },
-        {
             "Team": "Sacred Heart",
             "MP": "1",
             "MW": "1",
@@ -349,16 +337,52 @@
             "DIFF": "-4"
         },
         {
-            "Team": "Dr. G.W. Williams",
-            "MP": "0",
-            "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
+            "Team": "St. Maximilian",
+            "MP": "2",
+            "MW": "1",
+            "ML": "1",
+            "GW": "2",
+            "GL": "2",
+            "PTS": "1",
+            "PF": "89",
+            "PA": "89",
             "DIFF": "0"
+        },
+        {
+            "Team": "Keswick High School",
+            "MP": "2",
+            "MW": "1",
+            "ML": "1",
+            "GW": "3",
+            "GL": "2",
+            "PTS": "1",
+            "PF": "109",
+            "PA": "97",
+            "DIFF": "12"
+        },
+        {
+            "Team": "Renaissance ESC",
+            "MP": "2",
+            "MW": "1",
+            "ML": "1",
+            "GW": "3",
+            "GL": "2",
+            "PTS": "1",
+            "PF": "108",
+            "PA": "96",
+            "DIFF": "12"
+        },
+        {
+            "Team": "Dr. G.W. Williams",
+            "MP": "2",
+            "MW": "0",
+            "ML": "2",
+            "GW": "0",
+            "GL": "4",
+            "PTS": "0",
+            "PF": "69",
+            "PA": "102",
+            "DIFF": "-33"
         },
         {
             "Team": "Sir William Mulock",
@@ -385,40 +409,16 @@
             "DIFF": "-18"
         },
         {
-            "Team": "Dr. J.M. Denison",
-            "MP": "0",
-            "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
-        },
-        {
             "Team": "Cardinal Carter",
-            "MP": "0",
+            "MP": "2",
             "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
+            "ML": "2",
+            "GW": "1",
+            "GL": "4",
             "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "Aurora HS",
-            "MP": "0",
-            "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "PF": "91",
+            "PA": "109",
+            "DIFF": "-18"
         },
         {
             "Team": "West",

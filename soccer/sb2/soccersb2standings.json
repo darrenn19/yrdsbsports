@@ -131,6 +131,16 @@
             "DIFF": "0"
         },
         {
+            "Team": "Pierre Elliott Trudeau",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "3",
+            "GF": "1",
+            "GA": "0",
+            "DIFF": "1"
+        },
+        {
             "Team": "Milliken Mills",
             "W": "1",
             "L": "1",
@@ -151,24 +161,14 @@
             "DIFF": "-3"
         },
         {
-            "Team": "Pierre Elliott Trudeau",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
-        },
-        {
             "Team": "Bill Crothers SS",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "0",
             "GF": "2",
-            "GA": "3",
-            "DIFF": "-1"
+            "GA": "4",
+            "DIFF": "-2"
         },
         {
             "Team": "Stouffville",
