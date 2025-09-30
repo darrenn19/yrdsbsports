@@ -2,6 +2,15 @@
     "schedule": [
         {
             "date": "Monday, September 29, 2025",
+            "home_team": "St. Brother Andre",
+            "away_team": "St. Katharine Drexel",
+            "time": "4:15 PM",
+            "location": "St Brother Andre CHS",
+            "game_played": true,
+            "final_score": "St. Brother Andre 0, St. Katharine Drexel 2"
+        },
+        {
+            "date": "Monday, September 29, 2025",
             "home_team": "St. Joan Of Arc",
             "away_team": "Our Lady Queen Of The World",
             "time": "3:30 PM",
