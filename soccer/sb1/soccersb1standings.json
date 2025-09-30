@@ -12,13 +12,13 @@
         },
         {
             "Team": "St. Jean De Brebeuf CHS",
-            "W": "1",
+            "W": "2",
             "L": "0",
             "T": "0",
-            "PTS": "3",
-            "GF": "3",
+            "PTS": "6",
+            "GF": "7",
             "GA": "0",
-            "DIFF": "3"
+            "DIFF": "7"
         },
         {
             "Team": "St. Theresa Of Lisieux",
@@ -63,12 +63,12 @@
         {
             "Team": "Hodan Nalayeh SS",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
             "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
+            "GA": "4",
+            "DIFF": "-4"
         },
         {
             "Team": "Stephen Lewis SS",
@@ -91,14 +91,14 @@
             "DIFF": "DIFF"
         },
         {
-            "Team": "Thornlea SS",
+            "Team": "Father McGivney",
             "W": "1",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "3",
-            "GF": "4",
-            "GA": "0",
-            "DIFF": "4"
+            "GF": "2",
+            "GA": "4",
+            "DIFF": "-2"
         },
         {
             "Team": "Cardinal Carter",
@@ -108,6 +108,16 @@
             "PTS": "3",
             "GF": "5",
             "GA": "1",
+            "DIFF": "4"
+        },
+        {
+            "Team": "Thornlea SS",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "3",
+            "GF": "4",
+            "GA": "0",
             "DIFF": "4"
         },
         {
@@ -141,24 +151,14 @@
             "DIFF": "0"
         },
         {
-            "Team": "Father McGivney",
-            "W": "0",
-            "L": "1",
-            "T": "0",
-            "PTS": "0",
-            "GF": "0",
-            "GA": "4",
-            "DIFF": "-4"
-        },
-        {
             "Team": "St. Augustine",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "0",
             "GF": "2",
-            "GA": "3",
-            "DIFF": "-1"
+            "GA": "5",
+            "DIFF": "-3"
         }
     ]
 }

@@ -11,6 +11,16 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Father McGivney",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "3",
+            "PF": "66",
+            "PA": "65",
+            "DIFF": "1"
+        },
+        {
             "Team": "Middlefield",
             "W": "0",
             "L": "0",
@@ -23,22 +33,12 @@
         {
             "Team": "Markham District",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "Father McGivney",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "PF": "65",
+            "PA": "66",
+            "DIFF": "-1"
         }
     ]
 }

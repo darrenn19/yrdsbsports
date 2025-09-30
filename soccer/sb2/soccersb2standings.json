@@ -102,43 +102,53 @@
         },
         {
             "Team": "Bill Hogarth SS",
+            "W": "2",
+            "L": "0",
+            "T": "0",
+            "PTS": "6",
+            "GF": "9",
+            "GA": "3",
+            "DIFF": "6"
+        },
+        {
+            "Team": "Markham District",
             "W": "1",
             "L": "0",
             "T": "0",
             "PTS": "3",
-            "GF": "3",
-            "GA": "2",
+            "GF": "4",
+            "GA": "3",
             "DIFF": "1"
         },
         {
             "Team": "Bur Oak SS",
             "W": "1",
-            "L": "0",
+            "L": "1",
+            "T": "0",
+            "PTS": "3",
+            "GF": "6",
+            "GA": "6",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Milliken Mills",
+            "W": "1",
+            "L": "1",
             "T": "0",
             "PTS": "3",
             "GF": "3",
-            "GA": "2",
-            "DIFF": "1"
+            "GA": "3",
+            "DIFF": "0"
         },
         {
             "Team": "Middlefield",
             "W": "1",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "3",
-            "GF": "2",
-            "GA": "0",
-            "DIFF": "2"
-        },
-        {
-            "Team": "Markham District",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
+            "GF": "3",
+            "GA": "6",
+            "DIFF": "-3"
         },
         {
             "Team": "Pierre Elliott Trudeau",
@@ -161,24 +171,14 @@
             "DIFF": "-1"
         },
         {
-            "Team": "Milliken Mills",
-            "W": "0",
-            "L": "1",
-            "T": "0",
-            "PTS": "0",
-            "GF": "0",
-            "GA": "2",
-            "DIFF": "-2"
-        },
-        {
             "Team": "Stouffville",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "0",
-            "GF": "2",
-            "GA": "3",
-            "DIFF": "-1"
+            "GF": "3",
+            "GA": "6",
+            "DIFF": "-3"
         },
         {
             "Team": "North",

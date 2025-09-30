@@ -13,28 +13,28 @@
             "DIFF": "DIFF"
         },
         {
-            "Team": "Markham District",
+            "Team": "Unionville HS",
             "MP": "4",
             "MW": "4",
             "ML": "0",
             "GW": "8",
-            "GL": "1",
+            "GL": "0",
             "PTS": "4",
-            "PF": "206",
-            "PA": "167",
-            "DIFF": "39"
+            "PF": "200",
+            "PA": "108",
+            "DIFF": "92"
         },
         {
-            "Team": "Unionville HS",
-            "MP": "2",
-            "MW": "2",
-            "ML": "0",
-            "GW": "4",
-            "GL": "0",
-            "PTS": "2",
-            "PF": "100",
-            "PA": "47",
-            "DIFF": "53"
+            "Team": "Markham District",
+            "MP": "6",
+            "MW": "4",
+            "ML": "2",
+            "GW": "9",
+            "GL": "5",
+            "PTS": "4",
+            "PF": "296",
+            "PA": "275",
+            "DIFF": "21"
         },
         {
             "Team": "Markville",
@@ -49,28 +49,28 @@
             "DIFF": "44"
         },
         {
-            "Team": "Bill Crothers SS",
-            "MP": "2",
-            "MW": "1",
+            "Team": "Pierre Elliott Trudeau",
+            "MP": "3",
+            "MW": "2",
             "ML": "1",
-            "GW": "3",
-            "GL": "2",
-            "PTS": "1",
-            "PF": "108",
-            "PA": "101",
-            "DIFF": "7"
+            "GW": "4",
+            "GL": "4",
+            "PTS": "2",
+            "PF": "166",
+            "PA": "155",
+            "DIFF": "11"
         },
         {
-            "Team": "Pierre Elliott Trudeau",
-            "MP": "2",
+            "Team": "Bill Crothers SS",
+            "MP": "3",
             "MW": "1",
-            "ML": "1",
-            "GW": "2",
-            "GL": "3",
+            "ML": "2",
+            "GW": "3",
+            "GL": "4",
             "PTS": "1",
-            "PF": "108",
-            "PA": "99",
-            "DIFF": "9"
+            "PF": "135",
+            "PA": "151",
+            "DIFF": "-16"
         },
         {
             "Team": "Middlefield",
@@ -134,15 +134,27 @@
         },
         {
             "Team": "Richmond Hill HS",
-            "MP": "2",
-            "MW": "2",
+            "MP": "4",
+            "MW": "4",
             "ML": "0",
-            "GW": "4",
-            "GL": "1",
+            "GW": "8",
+            "GL": "2",
+            "PTS": "4",
+            "PF": "214",
+            "PA": "191",
+            "DIFF": "23"
+        },
+        {
+            "Team": "Stephen Lewis SS",
+            "MP": "4",
+            "MW": "2",
+            "ML": "2",
+            "GW": "5",
+            "GL": "6",
             "PTS": "2",
-            "PF": "109",
-            "PA": "93",
-            "DIFF": "16"
+            "PF": "218",
+            "PA": "216",
+            "DIFF": "2"
         },
         {
             "Team": "St. Robert",
@@ -155,18 +167,6 @@
             "PF": "125",
             "PA": "111",
             "DIFF": "14"
-        },
-        {
-            "Team": "Stephen Lewis SS",
-            "MP": "2",
-            "MW": "1",
-            "ML": "1",
-            "GW": "3",
-            "GL": "3",
-            "PTS": "1",
-            "PF": "113",
-            "PA": "115",
-            "DIFF": "-2"
         },
         {
             "Team": "Maple High School",
@@ -182,27 +182,27 @@
         },
         {
             "Team": "Sacred Heart",
-            "MP": "0",
+            "MP": "1",
             "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
+            "ML": "1",
+            "GW": "1",
+            "GL": "2",
             "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "PF": "54",
+            "PA": "55",
+            "DIFF": "-1"
         },
         {
             "Team": "Dr. G.W. Williams",
-            "MP": "0",
+            "MP": "1",
             "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
+            "ML": "1",
+            "GW": "1",
+            "GL": "2",
             "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "PF": "51",
+            "PA": "61",
+            "DIFF": "-10"
         },
         {
             "Team": "St. Theresa Of Lisieux",

@@ -11,24 +11,24 @@
             "DIFF": "DIFF"
         },
         {
-            "Team": "Dr. J.M. Denison",
-            "W": "1",
+            "Team": "Bill Hogarth SS",
+            "W": "2",
             "L": "0",
             "T": "0",
-            "PTS": "3",
-            "GF": "6",
+            "PTS": "6",
+            "GF": "12",
             "GA": "1",
-            "DIFF": "5"
+            "DIFF": "10"
         },
         {
-            "Team": "Bill Hogarth SS",
-            "W": "1",
+            "Team": "Dr. J.M. Denison",
+            "W": "2",
             "L": "0",
             "T": "0",
-            "PTS": "3",
-            "GF": "5",
-            "GA": "0",
-            "DIFF": "5"
+            "PTS": "6",
+            "GF": "16",
+            "GA": "1",
+            "DIFF": "10"
         },
         {
             "Team": "Keswick High School",
@@ -63,12 +63,12 @@
         {
             "Team": "Alexander Mackenzie",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "0",
-            "GF": "1",
-            "GA": "6",
-            "DIFF": "-5"
+            "GF": "2",
+            "GA": "13",
+            "DIFF": "-10"
         },
         {
             "Team": "Markham District",
@@ -83,12 +83,12 @@
         {
             "Team": "Bill Crothers SS",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "0",
             "GF": "0",
-            "GA": "5",
-            "DIFF": "-5"
+            "GA": "15",
+            "DIFF": "-10"
         },
         {
             "Team": "Milliken Mills",
