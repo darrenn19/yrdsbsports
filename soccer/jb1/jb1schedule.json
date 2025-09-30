@@ -19,6 +19,24 @@
             "final_score": "St. Joan Of Arc 1, Our Lady Queen Of The World 2"
         },
         {
+            "date": "Monday, September 29, 2025",
+            "home_team": "St. Theresa Of Lisieux",
+            "away_team": "Father Bressani",
+            "time": "3:00 PM",
+            "location": "St Theresa Of Lisieux CHS",
+            "game_played": true,
+            "final_score": "St. Theresa Of Lisieux 6, Father Bressani 1"
+        },
+        {
+            "date": "Monday, September 29, 2025",
+            "home_team": "Cardinal Carter",
+            "away_team": "St. Maximilian",
+            "time": "3:00 PM",
+            "location": "Stewart Burnett Park",
+            "game_played": true,
+            "final_score": "Cardinal Carter 3, St. Maximilian 2"
+        },
+        {
             "date": "Tuesday, September 30, 2025",
             "home_team": null,
             "away_team": null,

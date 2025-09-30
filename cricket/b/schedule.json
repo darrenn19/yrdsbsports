@@ -11,6 +11,15 @@
         },
         {
             "date": "Monday, September 29, 2025",
+            "home_team": "Middlefield",
+            "away_team": "Markham District",
+            "time": "11:30 AM",
+            "location": "Kirkham Cricket Field",
+            "game_played": true,
+            "final_score": "Middlefield 55, Markham District 56"
+        },
+        {
+            "date": "Monday, September 29, 2025",
             "home_team": "Markham District",
             "away_team": "Father McGivney",
             "time": "2:00 PM",
