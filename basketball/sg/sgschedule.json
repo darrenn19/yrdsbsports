@@ -47,12 +47,21 @@
         },
         {
             "date": "Tuesday, September 30, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Dr. J.M. Denison",
+            "away_team": "King City SS",
+            "time": "3:45 PM",
+            "location": "Dr J M Denison SS",
+            "game_played": true,
+            "final_score": "Dr. J.M. Denison 16, King City SS 37"
+        },
+        {
+            "date": "Tuesday, September 30, 2025",
+            "home_team": "Father McGivney",
+            "away_team": "St. Brother Andre",
+            "time": "3:45 PM",
+            "location": "Father Michael McGivney CA",
+            "game_played": true,
+            "final_score": "Father McGivney 48, St. Brother Andre 26"
         },
         {
             "date": "Wednesday, October 1, 2025",
