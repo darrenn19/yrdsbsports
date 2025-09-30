@@ -19,6 +19,15 @@
             "final_score": "Hodan Nalayeh SS 0, St. Jean De Brebeuf CHS 4"
         },
         {
+            "date": "Monday, September 29, 2025",
+            "home_team": "St. Brother Andre",
+            "away_team": "Thornlea SS",
+            "time": "3:00 PM",
+            "location": "St Brother Andre CHS",
+            "game_played": true,
+            "final_score": "St. Brother Andre 1, Thornlea SS 2"
+        },
+        {
             "date": "Tuesday, September 30, 2025",
             "home_team": null,
             "away_team": null,
