@@ -10,6 +10,15 @@
             "final_score": "ESC De L Ascension 25, Dr. G.W. Williams 43"
         },
         {
+            "date": "Monday, September 29, 2025",
+            "home_team": "Keswick High School",
+            "away_team": "Newmarket HS",
+            "time": "3:45 PM",
+            "location": "Keswick HS",
+            "game_played": true,
+            "final_score": "Keswick High School 13, Newmarket HS 40"
+        },
+        {
             "date": "Tuesday, September 30, 2025",
             "home_team": null,
             "away_team": null,
