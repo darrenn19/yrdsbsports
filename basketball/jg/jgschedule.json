@@ -20,12 +20,12 @@
         },
         {
             "date": "Tuesday, September 30, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Markham District",
+            "away_team": "St. Katharine Drexel",
+            "time": "3:30 PM",
+            "location": "Markham DHS",
+            "game_played": true,
+            "final_score": "Markham District 40, St. Katharine Drexel 18"
         },
         {
             "date": "Wednesday, October 1, 2025",
