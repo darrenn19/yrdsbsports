@@ -20,6 +20,15 @@
         },
         {
             "date": "Monday, September 29, 2025",
+            "home_team": "Pierre Elliott Trudeau",
+            "away_team": "Bill Crothers SS",
+            "time": "3:45 PM",
+            "location": "PE Trudeau HS",
+            "game_played": true,
+            "final_score": "Pierre Elliott Trudeau 1, Bill Crothers SS 0"
+        },
+        {
+            "date": "Monday, September 29, 2025",
             "home_team": "Stouffville",
             "away_team": "Milliken Mills",
             "time": "3:45 PM",
