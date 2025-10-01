@@ -145,6 +145,18 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Bur Oak SS",
+            "MP": "4",
+            "MW": "4",
+            "ML": "0",
+            "GW": "8",
+            "GL": "2",
+            "PTS": "4",
+            "PF": "217",
+            "PA": "200",
+            "DIFF": "17"
+        },
+        {
             "Team": "Markham District",
             "MP": "2",
             "MW": "2",
@@ -157,16 +169,16 @@
             "DIFF": "14"
         },
         {
-            "Team": "Bur Oak SS",
-            "MP": "2",
+            "Team": "Bill Hogarth SS",
+            "MP": "4",
             "MW": "2",
-            "ML": "0",
-            "GW": "4",
-            "GL": "1",
+            "ML": "2",
+            "GW": "6",
+            "GL": "4",
             "PTS": "2",
-            "PF": "108",
-            "PA": "97",
-            "DIFF": "11"
+            "PF": "215",
+            "PA": "174",
+            "DIFF": "41"
         },
         {
             "Team": "Father McGivney",
@@ -194,75 +206,63 @@
         },
         {
             "Team": "Milliken Mills",
-            "MP": "2",
+            "MP": "3",
             "MW": "1",
-            "ML": "1",
-            "GW": "2",
-            "GL": "2",
+            "ML": "2",
+            "GW": "3",
+            "GL": "4",
             "PTS": "1",
-            "PF": "89",
-            "PA": "83",
+            "PF": "145",
+            "PA": "139",
             "DIFF": "6"
         },
         {
-            "Team": "Bill Hogarth SS",
-            "MP": "2",
+            "Team": "Pierre Elliott Trudeau",
+            "MP": "1",
             "MW": "1",
-            "ML": "1",
-            "GW": "3",
-            "GL": "2",
+            "ML": "0",
+            "GW": "2",
+            "GL": "1",
             "PTS": "1",
-            "PF": "110",
-            "PA": "89",
-            "DIFF": "21"
-        },
-        {
-            "Team": "Middlefield",
-            "MP": "2",
-            "MW": "0",
-            "ML": "2",
-            "GW": "0",
-            "GL": "4",
-            "PTS": "0",
-            "PF": "65",
-            "PA": "100",
-            "DIFF": "-35"
+            "PF": "61",
+            "PA": "55",
+            "DIFF": "6"
         },
         {
             "Team": "St. Brother Andre",
+            "MP": "3",
+            "MW": "1",
+            "ML": "2",
+            "GW": "3",
+            "GL": "5",
+            "PTS": "1",
+            "PF": "157",
+            "PA": "181",
+            "DIFF": "-24"
+        },
+        {
+            "Team": "Middlefield",
+            "MP": "3",
+            "MW": "0",
+            "ML": "3",
+            "GW": "0",
+            "GL": "6",
+            "PTS": "0",
+            "PF": "112",
+            "PA": "153",
+            "DIFF": "-41"
+        },
+        {
+            "Team": "Stouffville",
             "MP": "2",
             "MW": "0",
             "ML": "2",
             "GW": "1",
             "GL": "4",
             "PTS": "0",
-            "PF": "88",
-            "PA": "111",
-            "DIFF": "-23"
-        },
-        {
-            "Team": "Pierre Elliott Trudeau",
-            "MP": "0",
-            "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "Stouffville",
-            "MP": "0",
-            "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "PF": "94",
+            "PA": "119",
+            "DIFF": "-25"
         },
         {
             "Team": "North",
@@ -277,6 +277,42 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Renaissance ESC",
+            "MP": "3",
+            "MW": "2",
+            "ML": "1",
+            "GW": "5",
+            "GL": "2",
+            "PTS": "2",
+            "PF": "158",
+            "PA": "131",
+            "DIFF": "27"
+        },
+        {
+            "Team": "Sacred Heart",
+            "MP": "3",
+            "MW": "2",
+            "ML": "1",
+            "GW": "5",
+            "GL": "3",
+            "PTS": "2",
+            "PF": "163",
+            "PA": "166",
+            "DIFF": "-3"
+        },
+        {
+            "Team": "Huron Heights",
+            "MP": "3",
+            "MW": "2",
+            "ML": "1",
+            "GW": "4",
+            "GL": "4",
+            "PTS": "2",
+            "PF": "168",
+            "PA": "163",
+            "DIFF": "5"
+        },
+        {
             "Team": "Dr. J.M. Denison",
             "MP": "2",
             "MW": "2",
@@ -287,6 +323,18 @@
             "PF": "100",
             "PA": "64",
             "DIFF": "36"
+        },
+        {
+            "Team": "Keswick High School",
+            "MP": "4",
+            "MW": "2",
+            "ML": "2",
+            "GW": "5",
+            "GL": "5",
+            "PTS": "2",
+            "PF": "204",
+            "PA": "202",
+            "DIFF": "2"
         },
         {
             "Team": "Aurora HS",
@@ -301,42 +349,6 @@
             "DIFF": "15"
         },
         {
-            "Team": "Huron Heights",
-            "MP": "2",
-            "MW": "2",
-            "ML": "0",
-            "GW": "4",
-            "GL": "2",
-            "PTS": "2",
-            "PF": "122",
-            "PA": "111",
-            "DIFF": "11"
-        },
-        {
-            "Team": "Newmarket HS",
-            "MP": "2",
-            "MW": "1",
-            "ML": "1",
-            "GW": "3",
-            "GL": "3",
-            "PTS": "1",
-            "PF": "124",
-            "PA": "114",
-            "DIFF": "10"
-        },
-        {
-            "Team": "Sacred Heart",
-            "MP": "1",
-            "MW": "1",
-            "ML": "0",
-            "GW": "2",
-            "GL": "1",
-            "PTS": "1",
-            "PF": "56",
-            "PA": "60",
-            "DIFF": "-4"
-        },
-        {
             "Team": "St. Maximilian",
             "MP": "2",
             "MW": "1",
@@ -349,28 +361,16 @@
             "DIFF": "0"
         },
         {
-            "Team": "Keswick High School",
+            "Team": "Newmarket HS",
             "MP": "2",
             "MW": "1",
             "ML": "1",
             "GW": "3",
-            "GL": "2",
+            "GL": "3",
             "PTS": "1",
-            "PF": "109",
-            "PA": "97",
-            "DIFF": "12"
-        },
-        {
-            "Team": "Renaissance ESC",
-            "MP": "2",
-            "MW": "1",
-            "ML": "1",
-            "GW": "3",
-            "GL": "2",
-            "PTS": "1",
-            "PF": "108",
-            "PA": "96",
-            "DIFF": "12"
+            "PF": "124",
+            "PA": "114",
+            "DIFF": "10"
         },
         {
             "Team": "Dr. G.W. Williams",
@@ -434,15 +434,15 @@
         },
         {
             "Team": "Maple High School",
-            "MP": "2",
-            "MW": "2",
+            "MP": "4",
+            "MW": "4",
             "ML": "0",
-            "GW": "4",
+            "GW": "8",
             "GL": "0",
-            "PTS": "2",
-            "PF": "100",
-            "PA": "40",
-            "DIFF": "60"
+            "PTS": "4",
+            "PF": "200",
+            "PA": "82",
+            "DIFF": "118"
         },
         {
             "Team": "Toronto District Christian",
@@ -530,27 +530,27 @@
         },
         {
             "Team": "Father Bressani",
-            "MP": "0",
+            "MP": "1",
             "MW": "0",
-            "ML": "0",
+            "ML": "1",
             "GW": "0",
-            "GL": "0",
+            "GL": "2",
             "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "PF": "23",
+            "PA": "50",
+            "DIFF": "-27"
         },
         {
             "Team": "Emily Carr",
-            "MP": "0",
+            "MP": "1",
             "MW": "0",
-            "ML": "0",
+            "ML": "1",
             "GW": "0",
-            "GL": "0",
+            "GL": "2",
             "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "PF": "19",
+            "PA": "50",
+            "DIFF": "-31"
         }
     ]
 }

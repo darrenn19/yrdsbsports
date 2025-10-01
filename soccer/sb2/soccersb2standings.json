@@ -12,83 +12,83 @@
         },
         {
             "Team": "Langstaff SS",
-            "W": "1",
+            "W": "2",
             "L": "0",
             "T": "0",
-            "PTS": "3",
-            "GF": "5",
-            "GA": "0",
-            "DIFF": "5"
+            "PTS": "6",
+            "GF": "8",
+            "GA": "1",
+            "DIFF": "7"
         },
         {
             "Team": "Thornhill SS",
-            "W": "1",
+            "W": "2",
             "L": "0",
             "T": "0",
-            "PTS": "3",
-            "GF": "8",
+            "PTS": "6",
+            "GF": "12",
             "GA": "3",
-            "DIFF": "5"
+            "DIFF": "9"
         },
         {
             "Team": "Our Lady Queen Of The World",
-            "W": "1",
+            "W": "2",
             "L": "0",
             "T": "0",
-            "PTS": "3",
-            "GF": "2",
-            "GA": "1",
-            "DIFF": "1"
+            "PTS": "6",
+            "GF": "7",
+            "GA": "2",
+            "DIFF": "5"
+        },
+        {
+            "Team": "St. Robert",
+            "W": "1",
+            "L": "0",
+            "T": "1",
+            "PTS": "4",
+            "GF": "6",
+            "GA": "3",
+            "DIFF": "3"
         },
         {
             "Team": "Richmond Green SS",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "1",
             "PTS": "1",
-            "GF": "2",
-            "GA": "2",
-            "DIFF": "0"
-        },
-        {
-            "Team": "St. Robert",
-            "W": "0",
-            "L": "0",
-            "T": "1",
-            "PTS": "1",
-            "GF": "2",
-            "GA": "2",
-            "DIFF": "0"
+            "GF": "3",
+            "GA": "5",
+            "DIFF": "-2"
         },
         {
             "Team": "Richmond Hill HS",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "0",
-            "GF": "3",
-            "GA": "8",
-            "DIFF": "-5"
+            "GF": "4",
+            "GA": "13",
+            "DIFF": "-9"
         },
         {
             "Team": "Unionville HS",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "0",
             "GF": "0",
-            "GA": "5",
-            "DIFF": "-5"
+            "GA": "9",
+            "DIFF": "-9"
         },
         {
             "Team": "Alexander Mackenzie",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "0",
-            "GF": "1",
-            "GA": "2",
-            "DIFF": "-1"
+            "GF": "2",
+            "GA": "6",
+            "DIFF": "-4"
         },
         {
             "Team": "East",
@@ -192,33 +192,13 @@
         },
         {
             "Team": "Newmarket HS",
-            "W": "1",
+            "W": "2",
             "L": "0",
             "T": "0",
-            "PTS": "3",
-            "GF": "8",
-            "GA": "0",
-            "DIFF": "5"
-        },
-        {
-            "Team": "Aurora HS",
-            "W": "1",
-            "L": "0",
-            "T": "0",
-            "PTS": "3",
-            "GF": "4",
-            "GA": "2",
-            "DIFF": "2"
-        },
-        {
-            "Team": "Dr. J.M. Denison",
-            "W": "1",
-            "L": "0",
-            "T": "0",
-            "PTS": "3",
-            "GF": "10",
-            "GA": "3",
-            "DIFF": "5"
+            "PTS": "6",
+            "GF": "11",
+            "GA": "1",
+            "DIFF": "7"
         },
         {
             "Team": "Dr. G.W. Williams",
@@ -228,6 +208,36 @@
             "PTS": "3",
             "GF": "3",
             "GA": "1",
+            "DIFF": "2"
+        },
+        {
+            "Team": "Huron Heights",
+            "W": "1",
+            "L": "1",
+            "T": "0",
+            "PTS": "3",
+            "GF": "3",
+            "GA": "4",
+            "DIFF": "-1"
+        },
+        {
+            "Team": "Dr. J.M. Denison",
+            "W": "1",
+            "L": "1",
+            "T": "0",
+            "PTS": "3",
+            "GF": "10",
+            "GA": "4",
+            "DIFF": "4"
+        },
+        {
+            "Team": "Aurora HS",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "3",
+            "GF": "4",
+            "GA": "2",
             "DIFF": "2"
         },
         {
@@ -241,24 +251,14 @@
             "DIFF": "-2"
         },
         {
-            "Team": "Huron Heights",
-            "W": "0",
-            "L": "1",
-            "T": "0",
-            "PTS": "0",
-            "GF": "2",
-            "GA": "4",
-            "DIFF": "-2"
-        },
-        {
             "Team": "Sir William Mulock",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "0",
-            "GF": "3",
-            "GA": "10",
-            "DIFF": "-5"
+            "GF": "4",
+            "GA": "13",
+            "DIFF": "-7"
         },
         {
             "Team": "Sutton District",
@@ -282,13 +282,13 @@
         },
         {
             "Team": "Maple High School",
-            "W": "1",
+            "W": "2",
             "L": "0",
             "T": "0",
-            "PTS": "3",
-            "GF": "1",
+            "PTS": "6",
+            "GF": "4",
             "GA": "0",
-            "DIFF": "1"
+            "DIFF": "4"
         },
         {
             "Team": "St. Elizabeth",
@@ -323,12 +323,12 @@
         {
             "Team": "Woodbridge College",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "0",
             "GF": "2",
-            "GA": "4",
-            "DIFF": "-2"
+            "GA": "7",
+            "DIFF": "-5"
         },
         {
             "Team": "Tommy Douglas SS",

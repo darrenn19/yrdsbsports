@@ -13,14 +13,14 @@
         },
         {
             "Team": "Markham District",
-            "GP": "2",
-            "W": "2",
+            "GP": "3",
+            "W": "3",
             "L": "0",
             "T": "0",
-            "PTS": "4",
-            "PF": "78",
-            "PA": "50",
-            "DIFF": "27"
+            "PTS": "6",
+            "PF": "118",
+            "PA": "68",
+            "DIFF": "42"
         },
         {
             "Team": "St. Theresa Of Lisieux",
@@ -79,14 +79,14 @@
         },
         {
             "Team": "St. Katharine Drexel",
-            "GP": "2",
+            "GP": "3",
             "W": "0",
-            "L": "2",
+            "L": "3",
             "T": "0",
             "PTS": "0",
-            "PF": "58",
-            "PA": "103",
-            "DIFF": "-26"
+            "PF": "76",
+            "PA": "143",
+            "DIFF": "-41"
         },
         {
             "Team": "North-West",
