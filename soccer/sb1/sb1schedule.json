@@ -11,12 +11,12 @@
         },
         {
             "date": "Wednesday, October 1, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "St. Maximilian",
+            "away_team": "Father McGivney",
+            "time": "3:30 PM",
+            "location": "St Maximilian Kolbe CHS",
+            "game_played": true,
+            "final_score": "St. Maximilian 6, Father McGivney 2"
         },
         {
             "date": "Thursday, October 2, 2025",
