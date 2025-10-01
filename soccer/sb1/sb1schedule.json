@@ -11,6 +11,15 @@
         },
         {
             "date": "Wednesday, October 1, 2025",
+            "home_team": "Sacred Heart",
+            "away_team": "St. Brother Andre",
+            "time": "4:15 PM",
+            "location": "George Richardson Park",
+            "game_played": true,
+            "final_score": "Sacred Heart 1, St. Brother Andre 1"
+        },
+        {
+            "date": "Wednesday, October 1, 2025",
             "home_team": "St. Maximilian",
             "away_team": "Father McGivney",
             "time": "3:30 PM",
