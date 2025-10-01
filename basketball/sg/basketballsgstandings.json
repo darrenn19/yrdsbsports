@@ -221,15 +221,15 @@
             "DIFF": "33"
         },
         {
-            "Team": "King City SS",
-            "GP": "2",
+            "Team": "Newmarket HS",
+            "GP": "3",
             "W": "2",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "4",
-            "PF": "78",
-            "PA": "50",
-            "DIFF": "22"
+            "PF": "132",
+            "PA": "91",
+            "DIFF": "27"
         },
         {
             "Team": "Sacred Heart",
@@ -243,15 +243,26 @@
             "DIFF": "26"
         },
         {
-            "Team": "Newmarket HS",
-            "GP": "3",
+            "Team": "King City SS",
+            "GP": "2",
             "W": "2",
-            "L": "1",
+            "L": "0",
             "T": "0",
             "PTS": "4",
-            "PF": "132",
-            "PA": "91",
-            "DIFF": "27"
+            "PF": "78",
+            "PA": "50",
+            "DIFF": "22"
+        },
+        {
+            "Team": "Cardinal Carter",
+            "GP": "3",
+            "W": "1",
+            "L": "2",
+            "T": "0",
+            "PTS": "2",
+            "PF": "97",
+            "PA": "122",
+            "DIFF": "-24"
         },
         {
             "Team": "St. Maximilian",
@@ -277,25 +288,14 @@
         },
         {
             "Team": "Stouffville",
-            "GP": "0",
+            "GP": "1",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "Cardinal Carter",
-            "GP": "2",
-            "W": "0",
-            "L": "2",
-            "T": "0",
-            "PTS": "0",
-            "PF": "54",
-            "PA": "81",
-            "DIFF": "-26"
+            "PF": "41",
+            "PA": "43",
+            "DIFF": "-2"
         },
         {
             "Team": "Aurora HS",

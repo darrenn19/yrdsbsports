@@ -13,6 +13,18 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Markham District",
+            "MP": "6",
+            "MW": "4",
+            "ML": "2",
+            "GW": "9",
+            "GL": "5",
+            "PTS": "4",
+            "PF": "296",
+            "PA": "275",
+            "DIFF": "21"
+        },
+        {
             "Team": "Unionville HS",
             "MP": "4",
             "MW": "4",
@@ -25,16 +37,16 @@
             "DIFF": "92"
         },
         {
-            "Team": "Markham District",
-            "MP": "6",
-            "MW": "4",
-            "ML": "2",
-            "GW": "9",
+            "Team": "Pierre Elliott Trudeau",
+            "MP": "4",
+            "MW": "3",
+            "ML": "1",
+            "GW": "6",
             "GL": "5",
-            "PTS": "4",
-            "PF": "296",
-            "PA": "275",
-            "DIFF": "21"
+            "PTS": "3",
+            "PF": "222",
+            "PA": "204",
+            "DIFF": "18"
         },
         {
             "Team": "Markville",
@@ -49,28 +61,16 @@
             "DIFF": "44"
         },
         {
-            "Team": "Pierre Elliott Trudeau",
-            "MP": "3",
-            "MW": "2",
-            "ML": "1",
-            "GW": "4",
-            "GL": "4",
-            "PTS": "2",
-            "PF": "166",
-            "PA": "155",
-            "DIFF": "11"
-        },
-        {
             "Team": "Bill Crothers SS",
-            "MP": "3",
+            "MP": "4",
             "MW": "1",
-            "ML": "2",
-            "GW": "3",
-            "GL": "4",
+            "ML": "3",
+            "GW": "4",
+            "GL": "6",
             "PTS": "1",
-            "PF": "135",
-            "PA": "151",
-            "DIFF": "-16"
+            "PF": "184",
+            "PA": "207",
+            "DIFF": "-23"
         },
         {
             "Team": "Middlefield",

@@ -191,6 +191,16 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Aurora HS",
+            "W": "2",
+            "L": "0",
+            "T": "0",
+            "PTS": "6",
+            "GF": "7",
+            "GA": "3",
+            "DIFF": "4"
+        },
+        {
             "Team": "Newmarket HS",
             "W": "2",
             "L": "0",
@@ -203,22 +213,12 @@
         {
             "Team": "Dr. G.W. Williams",
             "W": "1",
-            "L": "0",
-            "T": "0",
-            "PTS": "3",
-            "GF": "3",
-            "GA": "1",
-            "DIFF": "2"
-        },
-        {
-            "Team": "Huron Heights",
-            "W": "1",
             "L": "1",
             "T": "0",
             "PTS": "3",
-            "GF": "3",
+            "GF": "4",
             "GA": "4",
-            "DIFF": "-1"
+            "DIFF": "0"
         },
         {
             "Team": "Dr. J.M. Denison",
@@ -231,14 +231,14 @@
             "DIFF": "4"
         },
         {
-            "Team": "Aurora HS",
+            "Team": "Huron Heights",
             "W": "1",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "3",
-            "GF": "4",
-            "GA": "2",
-            "DIFF": "2"
+            "GF": "3",
+            "GA": "4",
+            "DIFF": "-1"
         },
         {
             "Team": "Keswick High School",
@@ -293,12 +293,12 @@
         {
             "Team": "St. Elizabeth",
             "W": "1",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "3",
-            "GF": "4",
-            "GA": "2",
-            "DIFF": "2"
+            "GF": "5",
+            "GA": "6",
+            "DIFF": "-1"
         },
         {
             "Team": "Toronto District Christian",
@@ -309,6 +309,16 @@
             "GF": "3",
             "GA": "2",
             "DIFF": "1"
+        },
+        {
+            "Team": "Tommy Douglas SS",
+            "W": "1",
+            "L": "1",
+            "T": "0",
+            "PTS": "3",
+            "GF": "6",
+            "GA": "4",
+            "DIFF": "2"
         },
         {
             "Team": "King City SS",
@@ -329,16 +339,6 @@
             "GF": "2",
             "GA": "7",
             "DIFF": "-5"
-        },
-        {
-            "Team": "Tommy Douglas SS",
-            "W": "0",
-            "L": "1",
-            "T": "0",
-            "PTS": "0",
-            "GF": "2",
-            "GA": "3",
-            "DIFF": "-1"
         },
         {
             "Team": "Renaissance ESC",

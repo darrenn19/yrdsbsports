@@ -157,6 +157,30 @@
             "DIFF": "17"
         },
         {
+            "Team": "Pierre Elliott Trudeau",
+            "MP": "2",
+            "MW": "2",
+            "ML": "0",
+            "GW": "4",
+            "GL": "1",
+            "PTS": "2",
+            "PF": "111",
+            "PA": "88",
+            "DIFF": "23"
+        },
+        {
+            "Team": "Milliken Mills",
+            "MP": "4",
+            "MW": "2",
+            "ML": "2",
+            "GW": "5",
+            "GL": "5",
+            "PTS": "2",
+            "PF": "211",
+            "PA": "203",
+            "DIFF": "8"
+        },
+        {
             "Team": "Markham District",
             "MP": "2",
             "MW": "2",
@@ -182,15 +206,15 @@
         },
         {
             "Team": "Father McGivney",
-            "MP": "2",
+            "MP": "3",
             "MW": "1",
-            "ML": "1",
-            "GW": "2",
-            "GL": "3",
+            "ML": "2",
+            "GW": "3",
+            "GL": "5",
             "PTS": "1",
-            "PF": "98",
-            "PA": "107",
-            "DIFF": "-9"
+            "PF": "162",
+            "PA": "173",
+            "DIFF": "-11"
         },
         {
             "Team": "Markville",
@@ -205,40 +229,16 @@
             "DIFF": "15"
         },
         {
-            "Team": "Milliken Mills",
-            "MP": "3",
-            "MW": "1",
-            "ML": "2",
-            "GW": "3",
-            "GL": "4",
-            "PTS": "1",
-            "PF": "145",
-            "PA": "139",
-            "DIFF": "6"
-        },
-        {
-            "Team": "Pierre Elliott Trudeau",
-            "MP": "1",
-            "MW": "1",
-            "ML": "0",
-            "GW": "2",
-            "GL": "1",
-            "PTS": "1",
-            "PF": "61",
-            "PA": "55",
-            "DIFF": "6"
-        },
-        {
             "Team": "St. Brother Andre",
-            "MP": "3",
+            "MP": "4",
             "MW": "1",
-            "ML": "2",
+            "ML": "3",
             "GW": "3",
-            "GL": "5",
+            "GL": "7",
             "PTS": "1",
-            "PF": "157",
-            "PA": "181",
-            "DIFF": "-24"
+            "PF": "190",
+            "PA": "231",
+            "DIFF": "-41"
         },
         {
             "Team": "Middlefield",
@@ -445,52 +445,52 @@
             "DIFF": "118"
         },
         {
-            "Team": "Toronto District Christian",
-            "MP": "2",
-            "MW": "1",
+            "Team": "Tommy Douglas SS",
+            "MP": "4",
+            "MW": "3",
             "ML": "1",
-            "GW": "2",
+            "GW": "6",
             "GL": "3",
-            "PTS": "1",
-            "PF": "92",
-            "PA": "100",
-            "DIFF": "-8"
+            "PTS": "3",
+            "PF": "192",
+            "PA": "168",
+            "DIFF": "24"
         },
         {
-            "Team": "Tommy Douglas SS",
-            "MP": "2",
-            "MW": "1",
-            "ML": "1",
-            "GW": "2",
-            "GL": "2",
-            "PTS": "1",
-            "PF": "81",
-            "PA": "83",
-            "DIFF": "-2"
+            "Team": "Toronto District Christian",
+            "MP": "4",
+            "MW": "2",
+            "ML": "2",
+            "GW": "4",
+            "GL": "5",
+            "PTS": "2",
+            "PF": "170",
+            "PA": "181",
+            "DIFF": "-11"
         },
         {
             "Team": "St. Joan Of Arc",
-            "MP": "2",
-            "MW": "0",
+            "MP": "3",
+            "MW": "1",
             "ML": "2",
-            "GW": "1",
-            "GL": "4",
-            "PTS": "0",
-            "PF": "59",
-            "PA": "109",
-            "DIFF": "-50"
+            "GW": "3",
+            "GL": "5",
+            "PTS": "1",
+            "PF": "112",
+            "PA": "166",
+            "DIFF": "-54"
         },
         {
             "Team": "Woodbridge College",
-            "MP": "0",
-            "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "MP": "2",
+            "MW": "1",
+            "ML": "1",
+            "GW": "3",
+            "GL": "2",
+            "PTS": "1",
+            "PF": "102",
+            "PA": "89",
+            "DIFF": "13"
         },
         {
             "Team": "Hodan Nalayeh SS",
@@ -518,15 +518,15 @@
         },
         {
             "Team": "Stephen Lewis SS",
-            "MP": "0",
+            "MP": "2",
             "MW": "0",
-            "ML": "0",
+            "ML": "2",
             "GW": "0",
-            "GL": "0",
+            "GL": "4",
             "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "PF": "64",
+            "PA": "100",
+            "DIFF": "-36"
         },
         {
             "Team": "Father Bressani",
@@ -542,15 +542,15 @@
         },
         {
             "Team": "Emily Carr",
-            "MP": "1",
+            "MP": "2",
             "MW": "0",
-            "ML": "1",
-            "GW": "0",
-            "GL": "2",
+            "ML": "2",
+            "GW": "1",
+            "GL": "4",
             "PTS": "0",
-            "PF": "19",
-            "PA": "50",
-            "DIFF": "-31"
+            "PF": "76",
+            "PA": "103",
+            "DIFF": "-27"
         }
     ]
 }
