@@ -91,6 +91,15 @@
             "final_score": "St. Robert 41, Thornlea SS 49"
         },
         {
+            "date": "Wednesday, October 1, 2025",
+            "home_team": "St. Theresa Of Lisieux",
+            "away_team": "St. Augustine",
+            "time": "4:45 PM",
+            "location": "St Theresa Of Lisieux CHS",
+            "game_played": true,
+            "final_score": "St. Theresa Of Lisieux 42, St. Augustine 45"
+        },
+        {
             "date": "Thursday, October 2, 2025",
             "home_team": null,
             "away_team": null,
