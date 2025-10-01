@@ -2,6 +2,15 @@
     "schedule": [
         {
             "date": "Tuesday, September 30, 2025",
+            "home_team": "Dr. G.W. Williams",
+            "away_team": "Aurora HS",
+            "time": "4:15 PM",
+            "location": "Dr G W Williams SS",
+            "game_played": true,
+            "final_score": "Dr. G.W. Williams 1, Aurora HS 3"
+        },
+        {
+            "date": "Tuesday, September 30, 2025",
             "home_team": "Huron Heights",
             "away_team": "Dr. J.M. Denison",
             "time": "3:45 PM",
