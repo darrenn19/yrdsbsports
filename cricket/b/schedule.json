@@ -11,12 +11,12 @@
         },
         {
             "date": "Wednesday, October 1, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Father McGivney",
+            "away_team": "Markham District",
+            "time": "11:30 AM",
+            "location": "Kirkham Cricket Field",
+            "game_played": true,
+            "final_score": "Father McGivney 77, Markham District 73"
         },
         {
             "date": "Thursday, October 2, 2025",
