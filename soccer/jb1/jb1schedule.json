@@ -11,6 +11,15 @@
         },
         {
             "date": "Wednesday, October 1, 2025",
+            "home_team": "Sacred Heart",
+            "away_team": "St. Brother Andre",
+            "time": "3:00 PM",
+            "location": "George Richardson Park",
+            "game_played": true,
+            "final_score": "Sacred Heart 4, St. Brother Andre 2"
+        },
+        {
+            "date": "Wednesday, October 1, 2025",
             "home_team": "Holy Cross",
             "away_team": "St. Theresa Of Lisieux",
             "time": "3:00 PM",
