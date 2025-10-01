@@ -100,6 +100,15 @@
             "final_score": "St. Theresa Of Lisieux 42, St. Augustine 45"
         },
         {
+            "date": "Wednesday, October 1, 2025",
+            "home_team": "Stephen Lewis SS",
+            "away_team": "St. Elizabeth",
+            "time": "3:45 PM",
+            "location": "Stephen Lewis SS",
+            "game_played": true,
+            "final_score": "Stephen Lewis SS 50, St. Elizabeth 32"
+        },
+        {
             "date": "Thursday, October 2, 2025",
             "home_team": null,
             "away_team": null,
