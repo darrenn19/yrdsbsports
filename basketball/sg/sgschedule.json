@@ -47,12 +47,48 @@
         },
         {
             "date": "Wednesday, October 1, 2025",
+            "home_team": "Middlefield",
+            "away_team": "Unionville HS",
+            "time": "3:45 PM",
+            "location": "Middlefield CI",
+            "game_played": true,
+            "final_score": "Middlefield 43, Unionville HS 69"
+        },
+        {
+            "date": "Wednesday, October 1, 2025",
+            "home_team": "Richmond Green SS",
+            "away_team": "Alexander Mackenzie",
+            "time": "4:00 PM",
+            "location": "Richmond Green SS",
+            "game_played": true,
+            "final_score": "Richmond Green SS 25, Alexander Mackenzie 51"
+        },
+        {
+            "date": "Wednesday, October 1, 2025",
+            "home_team": "St. Brother Andre",
+            "away_team": "Markville",
+            "time": "3:45 PM",
+            "location": "St Brother Andre CHS",
+            "game_played": true,
+            "final_score": "St. Brother Andre 30, Markville 31"
+        },
+        {
+            "date": "Wednesday, October 1, 2025",
             "home_team": "St. Maximilian",
             "away_team": "Sacred Heart",
             "time": "3:45 PM",
             "location": "St Maximilian Kolbe CHS",
             "game_played": true,
             "final_score": "St. Maximilian 56, Sacred Heart 14"
+        },
+        {
+            "date": "Wednesday, October 1, 2025",
+            "home_team": "St. Robert",
+            "away_team": "Thornlea SS",
+            "time": "3:45 PM",
+            "location": "St Robert CHS",
+            "game_played": true,
+            "final_score": "St. Robert 41, Thornlea SS 49"
         },
         {
             "date": "Thursday, October 2, 2025",
