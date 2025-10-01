@@ -2,6 +2,15 @@
     "schedule": [
         {
             "date": "Tuesday, September 30, 2025",
+            "home_team": "Cardinal Carter",
+            "away_team": "Stouffville",
+            "time": "3:45 PM",
+            "location": "Cardinal Carter CHS",
+            "game_played": true,
+            "final_score": "Cardinal Carter 43, Stouffville 41"
+        },
+        {
+            "date": "Tuesday, September 30, 2025",
             "home_team": "Dr. J.M. Denison",
             "away_team": "King City SS",
             "time": "3:45 PM",
