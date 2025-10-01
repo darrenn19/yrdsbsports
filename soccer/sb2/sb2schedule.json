@@ -20,6 +20,15 @@
         },
         {
             "date": "Tuesday, September 30, 2025",
+            "home_team": "King City SS",
+            "away_team": "Renaissance ESC",
+            "time": "3:45 PM",
+            "location": "King City SS",
+            "game_played": true,
+            "final_score": "King City SS 2, Renaissance ESC 3"
+        },
+        {
+            "date": "Tuesday, September 30, 2025",
             "home_team": "Langstaff SS",
             "away_team": "Richmond Green SS",
             "time": "3:45 PM",
