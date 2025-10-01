@@ -1,42 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, September 29, 2025",
-            "home_team": "Bill Hogarth SS",
-            "away_team": "Middlefield",
-            "time": "4:15 PM",
-            "location": "Bill Hogarth SS",
-            "game_played": true,
-            "final_score": "Bill Hogarth SS 6, Middlefield 1"
-        },
-        {
-            "date": "Monday, September 29, 2025",
-            "home_team": "Bur Oak SS",
-            "away_team": "Markham District",
-            "time": "3:45 PM",
-            "location": "Bur Oak SS",
-            "game_played": true,
-            "final_score": "Bur Oak SS 3, Markham District 4"
-        },
-        {
-            "date": "Monday, September 29, 2025",
-            "home_team": "Pierre Elliott Trudeau",
-            "away_team": "Bill Crothers SS",
-            "time": "3:45 PM",
-            "location": "PE Trudeau HS",
-            "game_played": true,
-            "final_score": "Pierre Elliott Trudeau 1, Bill Crothers SS 0"
-        },
-        {
-            "date": "Monday, September 29, 2025",
-            "home_team": "Stouffville",
-            "away_team": "Milliken Mills",
-            "time": "3:45 PM",
-            "location": "Stouffville DSS",
-            "game_played": true,
-            "final_score": "Stouffville 1, Milliken Mills 3"
-        },
-        {
             "date": "Tuesday, September 30, 2025",
             "home_team": "Huron Heights",
             "away_team": "Dr. J.M. Denison",
@@ -146,6 +110,15 @@
         },
         {
             "date": "Sunday, October 5, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, October 6, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

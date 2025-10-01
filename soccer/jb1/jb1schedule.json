@@ -1,42 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, September 29, 2025",
-            "home_team": "St. Brother Andre",
-            "away_team": "St. Katharine Drexel",
-            "time": "4:15 PM",
-            "location": "St Brother Andre CHS",
-            "game_played": true,
-            "final_score": "St. Brother Andre 0, St. Katharine Drexel 2"
-        },
-        {
-            "date": "Monday, September 29, 2025",
-            "home_team": "St. Joan Of Arc",
-            "away_team": "Our Lady Queen Of The World",
-            "time": "3:30 PM",
-            "location": "St Joan Of Arc CHS",
-            "game_played": true,
-            "final_score": "St. Joan Of Arc 1, Our Lady Queen Of The World 2"
-        },
-        {
-            "date": "Monday, September 29, 2025",
-            "home_team": "St. Theresa Of Lisieux",
-            "away_team": "Father Bressani",
-            "time": "3:00 PM",
-            "location": "St Theresa Of Lisieux CHS",
-            "game_played": true,
-            "final_score": "St. Theresa Of Lisieux 6, Father Bressani 1"
-        },
-        {
-            "date": "Monday, September 29, 2025",
-            "home_team": "Cardinal Carter",
-            "away_team": "St. Maximilian",
-            "time": "3:00 PM",
-            "location": "Stewart Burnett Park",
-            "game_played": true,
-            "final_score": "Cardinal Carter 3, St. Maximilian 2"
-        },
-        {
             "date": "Tuesday, September 30, 2025",
             "home_team": null,
             "away_team": null,
@@ -83,6 +47,15 @@
         },
         {
             "date": "Sunday, October 5, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, October 6, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
