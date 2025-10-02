@@ -11,6 +11,24 @@
         },
         {
             "date": "Wednesday, October 1, 2025",
+            "home_team": "Holy Cross",
+            "away_team": "St. Theresa Of Lisieux",
+            "time": "4:15 PM",
+            "location": "Holy Cross CA",
+            "game_played": true,
+            "final_score": "Holy Cross 2, St. Theresa Of Lisieux 2"
+        },
+        {
+            "date": "Wednesday, October 1, 2025",
+            "home_team": "Cardinal Carter",
+            "away_team": "St. Augustine",
+            "time": "3:30 PM",
+            "location": "Sheppards Bush",
+            "game_played": true,
+            "final_score": "Cardinal Carter 7, St. Augustine 1"
+        },
+        {
+            "date": "Wednesday, October 1, 2025",
             "home_team": "St. Maximilian",
             "away_team": "Father McGivney",
             "time": "3:30 PM",
