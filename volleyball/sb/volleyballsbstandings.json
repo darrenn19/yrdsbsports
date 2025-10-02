@@ -37,6 +37,18 @@
             "DIFF": "42"
         },
         {
+            "Team": "Richmond Hill HS",
+            "MP": "4",
+            "MW": "3",
+            "ML": "1",
+            "GW": "6",
+            "GL": "2",
+            "PTS": "3",
+            "PF": "193",
+            "PA": "176",
+            "DIFF": "17"
+        },
+        {
             "Team": "Thornhill SS",
             "MP": "5",
             "MW": "3",
@@ -50,27 +62,15 @@
         },
         {
             "Team": "Our Lady Queen Of The World",
-            "MP": "4",
+            "MP": "5",
             "MW": "2",
-            "ML": "2",
+            "ML": "3",
             "GW": "4",
-            "GL": "4",
+            "GL": "6",
             "PTS": "2",
-            "PF": "177",
-            "PA": "192",
-            "DIFF": "-15"
-        },
-        {
-            "Team": "Richmond Hill HS",
-            "MP": "3",
-            "MW": "2",
-            "ML": "1",
-            "GW": "4",
-            "GL": "2",
-            "PTS": "2",
-            "PF": "143",
-            "PA": "133",
-            "DIFF": "10"
+            "PF": "220",
+            "PA": "242",
+            "DIFF": "-22"
         },
         {
             "Team": "Bayview SS",
@@ -277,16 +277,52 @@
             "DIFF": "DIFF"
         },
         {
-            "Team": "Keswick High School",
+            "Team": "Aurora HS",
             "MP": "4",
+            "MW": "4",
+            "ML": "0",
+            "GW": "8",
+            "GL": "3",
+            "PTS": "4",
+            "PF": "230",
+            "PA": "210",
+            "DIFF": "20"
+        },
+        {
+            "Team": "Renaissance ESC",
+            "MP": "4",
+            "MW": "3",
+            "ML": "1",
+            "GW": "7",
+            "GL": "2",
+            "PTS": "3",
+            "PF": "208",
+            "PA": "163",
+            "DIFF": "45"
+        },
+        {
+            "Team": "Dr. J.M. Denison",
+            "MP": "3",
             "MW": "2",
-            "ML": "2",
+            "ML": "1",
             "GW": "5",
-            "GL": "5",
+            "GL": "2",
             "PTS": "2",
-            "PF": "204",
-            "PA": "202",
-            "DIFF": "2"
+            "PF": "160",
+            "PA": "119",
+            "DIFF": "41"
+        },
+        {
+            "Team": "Newmarket HS",
+            "MP": "3",
+            "MW": "2",
+            "ML": "1",
+            "GW": "5",
+            "GL": "3",
+            "PTS": "2",
+            "PF": "174",
+            "PA": "151",
+            "DIFF": "23"
         },
         {
             "Team": "Sacred Heart",
@@ -302,75 +338,27 @@
         },
         {
             "Team": "Huron Heights",
-            "MP": "3",
+            "MP": "4",
             "MW": "2",
-            "ML": "1",
+            "ML": "2",
             "GW": "4",
-            "GL": "4",
+            "GL": "6",
             "PTS": "2",
-            "PF": "168",
-            "PA": "163",
-            "DIFF": "5"
+            "PF": "200",
+            "PA": "213",
+            "DIFF": "-13"
         },
         {
-            "Team": "Aurora HS",
-            "MP": "2",
+            "Team": "Keswick High School",
+            "MP": "4",
             "MW": "2",
-            "ML": "0",
-            "GW": "4",
-            "GL": "1",
-            "PTS": "2",
-            "PF": "111",
-            "PA": "96",
-            "DIFF": "15"
-        },
-        {
-            "Team": "Renaissance ESC",
-            "MP": "3",
-            "MW": "2",
-            "ML": "1",
+            "ML": "2",
             "GW": "5",
-            "GL": "2",
+            "GL": "5",
             "PTS": "2",
-            "PF": "158",
-            "PA": "131",
-            "DIFF": "27"
-        },
-        {
-            "Team": "Dr. J.M. Denison",
-            "MP": "2",
-            "MW": "2",
-            "ML": "0",
-            "GW": "4",
-            "GL": "0",
-            "PTS": "2",
-            "PF": "100",
-            "PA": "64",
-            "DIFF": "36"
-        },
-        {
-            "Team": "Newmarket HS",
-            "MP": "3",
-            "MW": "2",
-            "ML": "1",
-            "GW": "5",
-            "GL": "3",
-            "PTS": "2",
-            "PF": "174",
-            "PA": "151",
-            "DIFF": "23"
-        },
-        {
-            "Team": "Sutton District",
-            "MP": "2",
-            "MW": "1",
-            "ML": "1",
-            "GW": "2",
-            "GL": "3",
-            "PTS": "1",
-            "PF": "91",
-            "PA": "108",
-            "DIFF": "-17"
+            "PF": "204",
+            "PA": "202",
+            "DIFF": "2"
         },
         {
             "Team": "St. Maximilian",
@@ -385,40 +373,52 @@
             "DIFF": "0"
         },
         {
-            "Team": "Dr. G.W. Williams",
+            "Team": "Sutton District",
             "MP": "2",
-            "MW": "0",
-            "ML": "2",
-            "GW": "0",
-            "GL": "4",
-            "PTS": "0",
-            "PF": "69",
-            "PA": "102",
-            "DIFF": "-33"
-        },
-        {
-            "Team": "Sir William Mulock",
-            "MP": "2",
-            "MW": "0",
-            "ML": "2",
-            "GW": "1",
-            "GL": "4",
-            "PTS": "0",
+            "MW": "1",
+            "ML": "1",
+            "GW": "2",
+            "GL": "3",
+            "PTS": "1",
             "PF": "91",
-            "PA": "114",
-            "DIFF": "-23"
+            "PA": "108",
+            "DIFF": "-17"
         },
         {
             "Team": "Cardinal Carter",
+            "MP": "4",
+            "MW": "1",
+            "ML": "3",
+            "GW": "3",
+            "GL": "6",
+            "PTS": "1",
+            "PF": "179",
+            "PA": "199",
+            "DIFF": "-20"
+        },
+        {
+            "Team": "Dr. G.W. Williams",
             "MP": "3",
             "MW": "0",
             "ML": "3",
-            "GW": "1",
+            "GW": "0",
             "GL": "6",
             "PTS": "0",
-            "PF": "128",
-            "PA": "159",
-            "DIFF": "-31"
+            "PF": "109",
+            "PA": "153",
+            "DIFF": "-44"
+        },
+        {
+            "Team": "Sir William Mulock",
+            "MP": "3",
+            "MW": "0",
+            "ML": "3",
+            "GW": "2",
+            "GL": "6",
+            "PTS": "0",
+            "PF": "145",
+            "PA": "178",
+            "DIFF": "-33"
         },
         {
             "Team": "West",

@@ -24,21 +24,31 @@
             "Team": "St. Theresa Of Lisieux",
             "W": "1",
             "L": "0",
-            "T": "1",
-            "PTS": "4",
-            "GF": "2",
-            "GA": "1",
+            "T": "2",
+            "PTS": "5",
+            "GF": "4",
+            "GA": "3",
             "DIFF": "1"
         },
         {
             "Team": "Holy Cross",
             "W": "1",
             "L": "0",
-            "T": "1",
-            "PTS": "4",
-            "GF": "5",
-            "GA": "1",
+            "T": "2",
+            "PTS": "5",
+            "GF": "7",
+            "GA": "3",
             "DIFF": "4"
+        },
+        {
+            "Team": "Stephen Lewis SS",
+            "W": "1",
+            "L": "2",
+            "T": "0",
+            "PTS": "3",
+            "GF": "6",
+            "GA": "10",
+            "DIFF": "-4"
         },
         {
             "Team": "Father Bressani",
@@ -53,12 +63,12 @@
         {
             "Team": "St. Joan Of Arc",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "0",
-            "GF": "1",
-            "GA": "2",
-            "DIFF": "-1"
+            "GF": "3",
+            "GA": "7",
+            "DIFF": "-4"
         },
         {
             "Team": "Hodan Nalayeh SS",
@@ -69,16 +79,6 @@
             "GF": "0",
             "GA": "4",
             "DIFF": "-4"
-        },
-        {
-            "Team": "Stephen Lewis SS",
-            "W": "0",
-            "L": "2",
-            "T": "0",
-            "PTS": "0",
-            "GF": "1",
-            "GA": "8",
-            "DIFF": "-7"
         },
         {
             "Team": "North-East",
@@ -101,6 +101,16 @@
             "DIFF": "7"
         },
         {
+            "Team": "Cardinal Carter",
+            "W": "2",
+            "L": "1",
+            "T": "0",
+            "PTS": "6",
+            "GF": "12",
+            "GA": "4",
+            "DIFF": "7"
+        },
+        {
             "Team": "Thornlea SS",
             "W": "2",
             "L": "0",
@@ -109,16 +119,6 @@
             "GF": "6",
             "GA": "1",
             "DIFF": "5"
-        },
-        {
-            "Team": "Cardinal Carter",
-            "W": "1",
-            "L": "1",
-            "T": "0",
-            "PTS": "3",
-            "GF": "5",
-            "GA": "3",
-            "DIFF": "2"
         },
         {
             "Team": "Father McGivney",
@@ -153,12 +153,12 @@
         {
             "Team": "St. Augustine",
             "W": "0",
-            "L": "2",
+            "L": "3",
             "T": "0",
             "PTS": "0",
-            "GF": "2",
-            "GA": "5",
-            "DIFF": "-3"
+            "GF": "3",
+            "GA": "12",
+            "DIFF": "-8"
         }
     ]
 }
