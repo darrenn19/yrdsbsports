@@ -37,6 +37,15 @@
             "final_score": "St. Maximilian 6, Father McGivney 2"
         },
         {
+            "date": "Wednesday, October 1, 2025",
+            "home_team": "Stephen Lewis SS",
+            "away_team": "St. Joan Of Arc",
+            "time": "3:45 PM",
+            "location": "Stephen Lewis SS",
+            "game_played": true,
+            "final_score": "Stephen Lewis SS 5, St. Joan Of Arc 2"
+        },
+        {
             "date": "Thursday, October 2, 2025",
             "home_team": null,
             "away_team": null,
