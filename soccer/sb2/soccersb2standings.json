@@ -111,13 +111,23 @@
             "DIFF": "6"
         },
         {
+            "Team": "Pierre Elliott Trudeau",
+            "W": "1",
+            "L": "0",
+            "T": "1",
+            "PTS": "4",
+            "GF": "3",
+            "GA": "2",
+            "DIFF": "1"
+        },
+        {
             "Team": "Markham District",
             "W": "1",
             "L": "0",
-            "T": "0",
-            "PTS": "3",
-            "GF": "4",
-            "GA": "3",
+            "T": "1",
+            "PTS": "4",
+            "GF": "6",
+            "GA": "5",
             "DIFF": "1"
         },
         {
@@ -129,16 +139,6 @@
             "GF": "6",
             "GA": "6",
             "DIFF": "0"
-        },
-        {
-            "Team": "Pierre Elliott Trudeau",
-            "W": "1",
-            "L": "0",
-            "T": "0",
-            "PTS": "3",
-            "GF": "1",
-            "GA": "0",
-            "DIFF": "1"
         },
         {
             "Team": "Milliken Mills",
@@ -191,16 +191,6 @@
             "DIFF": "DIFF"
         },
         {
-            "Team": "Aurora HS",
-            "W": "2",
-            "L": "0",
-            "T": "0",
-            "PTS": "6",
-            "GF": "7",
-            "GA": "3",
-            "DIFF": "4"
-        },
-        {
             "Team": "Newmarket HS",
             "W": "2",
             "L": "0",
@@ -211,7 +201,37 @@
             "DIFF": "7"
         },
         {
+            "Team": "Aurora HS",
+            "W": "2",
+            "L": "0",
+            "T": "0",
+            "PTS": "6",
+            "GF": "7",
+            "GA": "3",
+            "DIFF": "4"
+        },
+        {
+            "Team": "Huron Heights",
+            "W": "1",
+            "L": "1",
+            "T": "0",
+            "PTS": "3",
+            "GF": "3",
+            "GA": "4",
+            "DIFF": "-1"
+        },
+        {
             "Team": "Dr. G.W. Williams",
+            "W": "1",
+            "L": "1",
+            "T": "0",
+            "PTS": "3",
+            "GF": "4",
+            "GA": "4",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Keswick High School",
             "W": "1",
             "L": "1",
             "T": "0",
@@ -231,26 +251,6 @@
             "DIFF": "4"
         },
         {
-            "Team": "Huron Heights",
-            "W": "1",
-            "L": "1",
-            "T": "0",
-            "PTS": "3",
-            "GF": "3",
-            "GA": "4",
-            "DIFF": "-1"
-        },
-        {
-            "Team": "Keswick High School",
-            "W": "0",
-            "L": "1",
-            "T": "0",
-            "PTS": "0",
-            "GF": "1",
-            "GA": "3",
-            "DIFF": "-2"
-        },
-        {
             "Team": "Sir William Mulock",
             "W": "0",
             "L": "2",
@@ -263,12 +263,12 @@
         {
             "Team": "Sutton District",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "0",
-            "GF": "0",
-            "GA": "8",
-            "DIFF": "-5"
+            "GF": "1",
+            "GA": "11",
+            "DIFF": "-7"
         },
         {
             "Team": "West",
@@ -301,16 +301,6 @@
             "DIFF": "-1"
         },
         {
-            "Team": "Toronto District Christian",
-            "W": "1",
-            "L": "0",
-            "T": "0",
-            "PTS": "3",
-            "GF": "3",
-            "GA": "2",
-            "DIFF": "1"
-        },
-        {
             "Team": "Tommy Douglas SS",
             "W": "1",
             "L": "1",
@@ -321,14 +311,34 @@
             "DIFF": "2"
         },
         {
+            "Team": "Toronto District Christian",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "3",
+            "GF": "3",
+            "GA": "2",
+            "DIFF": "1"
+        },
+        {
+            "Team": "Renaissance ESC",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "3",
+            "GF": "3",
+            "GA": "2",
+            "DIFF": "1"
+        },
+        {
             "Team": "King City SS",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "0",
-            "GF": "0",
-            "GA": "1",
-            "DIFF": "-1"
+            "GF": "2",
+            "GA": "4",
+            "DIFF": "-2"
         },
         {
             "Team": "Woodbridge College",
@@ -339,16 +349,6 @@
             "GF": "2",
             "GA": "7",
             "DIFF": "-5"
-        },
-        {
-            "Team": "Renaissance ESC",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
         }
     ]
 }

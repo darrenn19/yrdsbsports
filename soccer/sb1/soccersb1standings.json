@@ -92,13 +92,13 @@
         },
         {
             "Team": "St. Maximilian",
-            "W": "2",
+            "W": "3",
             "L": "0",
             "T": "0",
-            "PTS": "6",
-            "GF": "5",
-            "GA": "2",
-            "DIFF": "3"
+            "PTS": "9",
+            "GF": "11",
+            "GA": "4",
+            "DIFF": "7"
         },
         {
             "Team": "Thornlea SS",
@@ -123,32 +123,32 @@
         {
             "Team": "Father McGivney",
             "W": "1",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "3",
-            "GF": "2",
-            "GA": "4",
-            "DIFF": "-2"
-        },
-        {
-            "Team": "Sacred Heart",
-            "W": "0",
-            "L": "1",
-            "T": "0",
-            "PTS": "0",
-            "GF": "1",
-            "GA": "5",
-            "DIFF": "-4"
+            "GF": "4",
+            "GA": "10",
+            "DIFF": "-6"
         },
         {
             "Team": "St. Brother Andre",
             "W": "0",
             "L": "1",
-            "T": "0",
-            "PTS": "0",
-            "GF": "1",
-            "GA": "2",
+            "T": "1",
+            "PTS": "1",
+            "GF": "2",
+            "GA": "3",
             "DIFF": "-1"
+        },
+        {
+            "Team": "Sacred Heart",
+            "W": "0",
+            "L": "1",
+            "T": "1",
+            "PTS": "1",
+            "GF": "2",
+            "GA": "6",
+            "DIFF": "-4"
         },
         {
             "Team": "St. Augustine",

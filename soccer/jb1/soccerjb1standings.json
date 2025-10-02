@@ -13,12 +13,22 @@
         {
             "Team": "St. Theresa Of Lisieux",
             "W": "2",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "6",
-            "GF": "13",
-            "GA": "2",
-            "DIFF": "10"
+            "GF": "14",
+            "GA": "6",
+            "DIFF": "7"
+        },
+        {
+            "Team": "Holy Cross",
+            "W": "1",
+            "L": "0",
+            "T": "1",
+            "PTS": "4",
+            "GF": "6",
+            "GA": "3",
+            "DIFF": "3"
         },
         {
             "Team": "Our Lady Queen Of The World",
@@ -39,16 +49,6 @@
             "GF": "2",
             "GA": "0",
             "DIFF": "2"
-        },
-        {
-            "Team": "Holy Cross",
-            "W": "0",
-            "L": "0",
-            "T": "1",
-            "PTS": "1",
-            "GF": "2",
-            "GA": "2",
-            "DIFF": "0"
         },
         {
             "Team": "Father Bressani",
@@ -91,6 +91,16 @@
             "DIFF": "6"
         },
         {
+            "Team": "Sacred Heart",
+            "W": "1",
+            "L": "1",
+            "T": "0",
+            "PTS": "3",
+            "GF": "5",
+            "GA": "9",
+            "DIFF": "-3"
+        },
+        {
             "Team": "St. Maximilian",
             "W": "1",
             "L": "1",
@@ -111,24 +121,14 @@
             "DIFF": "0"
         },
         {
-            "Team": "Sacred Heart",
-            "W": "0",
-            "L": "1",
-            "T": "0",
-            "PTS": "0",
-            "GF": "1",
-            "GA": "7",
-            "DIFF": "-5"
-        },
-        {
             "Team": "St. Brother Andre",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "0",
-            "GF": "0",
-            "GA": "2",
-            "DIFF": "-2"
+            "GF": "2",
+            "GA": "6",
+            "DIFF": "-4"
         }
     ]
 }
