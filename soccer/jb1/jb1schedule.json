@@ -1,24 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, October 1, 2025",
-            "home_team": "Sacred Heart",
-            "away_team": "St. Brother Andre",
-            "time": "3:00 PM",
-            "location": "George Richardson Park",
-            "game_played": true,
-            "final_score": "Sacred Heart 4, St. Brother Andre 2"
-        },
-        {
-            "date": "Wednesday, October 1, 2025",
-            "home_team": "Holy Cross",
-            "away_team": "St. Theresa Of Lisieux",
-            "time": "3:00 PM",
-            "location": "Holy Cross CA",
-            "game_played": true,
-            "final_score": "Holy Cross 4, St. Theresa Of Lisieux 1"
-        },
-        {
             "date": "Thursday, October 2, 2025",
             "home_team": null,
             "away_team": null,
@@ -65,6 +47,15 @@
         },
         {
             "date": "Tuesday, October 7, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, October 8, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

@@ -1,24 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, October 1, 2025",
-            "home_team": "Father McGivney",
-            "away_team": "Markham District",
-            "time": "11:30 AM",
-            "location": "Kirkham Cricket Field",
-            "game_played": true,
-            "final_score": "Father McGivney 77, Markham District 73"
-        },
-        {
-            "date": "Wednesday, October 1, 2025",
-            "home_team": "Middlefield",
-            "away_team": "Father McGivney",
-            "time": "2:00 PM",
-            "location": "Kirkham Cricket Field",
-            "game_played": true,
-            "final_score": "Middlefield 66, Father McGivney 93"
-        },
-        {
             "date": "Thursday, October 2, 2025",
             "home_team": null,
             "away_team": null,
@@ -65,6 +47,15 @@
         },
         {
             "date": "Tuesday, October 7, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, October 8, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
