@@ -11,6 +11,16 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Dr. J.M. Denison",
+            "W": "3",
+            "L": "0",
+            "T": "0",
+            "PTS": "9",
+            "GF": "19",
+            "GA": "1",
+            "DIFF": "13"
+        },
+        {
             "Team": "Bill Hogarth SS",
             "W": "2",
             "L": "0",
@@ -21,24 +31,14 @@
             "DIFF": "10"
         },
         {
-            "Team": "Dr. J.M. Denison",
+            "Team": "St. Augustine",
             "W": "2",
             "L": "0",
             "T": "0",
             "PTS": "6",
-            "GF": "16",
-            "GA": "1",
-            "DIFF": "10"
-        },
-        {
-            "Team": "Milliken Mills",
-            "W": "1",
-            "L": "0",
-            "T": "0",
-            "PTS": "3",
-            "GF": "4",
-            "GA": "1",
-            "DIFF": "3"
+            "GF": "6",
+            "GA": "0",
+            "DIFF": "6"
         },
         {
             "Team": "Markham District",
@@ -61,24 +61,24 @@
             "DIFF": "-4"
         },
         {
-            "Team": "St. Augustine",
+            "Team": "Milliken Mills",
             "W": "1",
             "L": "0",
             "T": "0",
             "PTS": "3",
-            "GF": "3",
-            "GA": "0",
+            "GF": "4",
+            "GA": "1",
             "DIFF": "3"
         },
         {
             "Team": "Dr. G.W. Williams",
             "W": "0",
-            "L": "2",
+            "L": "4",
             "T": "0",
             "PTS": "0",
             "GF": "4",
-            "GA": "8",
-            "DIFF": "-4"
+            "GA": "14",
+            "DIFF": "-10"
         },
         {
             "Team": "Alexander Mackenzie",
