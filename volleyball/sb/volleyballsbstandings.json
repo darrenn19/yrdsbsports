@@ -289,16 +289,16 @@
             "DIFF": "20"
         },
         {
-            "Team": "Dr. J.M. Denison",
+            "Team": "Newmarket HS",
             "MP": "4",
             "MW": "3",
             "ML": "1",
             "GW": "7",
-            "GL": "2",
+            "GL": "3",
             "PTS": "3",
-            "PF": "211",
-            "PA": "159",
-            "DIFF": "52"
+            "PF": "224",
+            "PA": "178",
+            "DIFF": "46"
         },
         {
             "Team": "Renaissance ESC",
@@ -313,40 +313,16 @@
             "DIFF": "45"
         },
         {
-            "Team": "Sutton District",
+            "Team": "Dr. J.M. Denison",
             "MP": "4",
-            "MW": "2",
-            "ML": "2",
-            "GW": "4",
-            "GL": "5",
-            "PTS": "2",
-            "PF": "181",
-            "PA": "198",
-            "DIFF": "-17"
-        },
-        {
-            "Team": "Keswick High School",
-            "MP": "4",
-            "MW": "2",
-            "ML": "2",
-            "GW": "5",
-            "GL": "5",
-            "PTS": "2",
-            "PF": "204",
-            "PA": "202",
-            "DIFF": "2"
-        },
-        {
-            "Team": "Newmarket HS",
-            "MP": "3",
-            "MW": "2",
+            "MW": "3",
             "ML": "1",
-            "GW": "5",
-            "GL": "3",
-            "PTS": "2",
-            "PF": "174",
-            "PA": "151",
-            "DIFF": "23"
+            "GW": "7",
+            "GL": "2",
+            "PTS": "3",
+            "PF": "211",
+            "PA": "159",
+            "DIFF": "52"
         },
         {
             "Team": "Sacred Heart",
@@ -373,16 +349,52 @@
             "DIFF": "-13"
         },
         {
+            "Team": "Sutton District",
+            "MP": "4",
+            "MW": "2",
+            "ML": "2",
+            "GW": "4",
+            "GL": "5",
+            "PTS": "2",
+            "PF": "181",
+            "PA": "198",
+            "DIFF": "-17"
+        },
+        {
+            "Team": "Keswick High School",
+            "MP": "4",
+            "MW": "2",
+            "ML": "2",
+            "GW": "5",
+            "GL": "5",
+            "PTS": "2",
+            "PF": "204",
+            "PA": "202",
+            "DIFF": "2"
+        },
+        {
             "Team": "St. Maximilian",
-            "MP": "2",
+            "MP": "4",
             "MW": "1",
-            "ML": "1",
+            "ML": "3",
             "GW": "2",
-            "GL": "2",
+            "GL": "6",
             "PTS": "1",
-            "PF": "89",
-            "PA": "89",
-            "DIFF": "0"
+            "PF": "150",
+            "PA": "189",
+            "DIFF": "-39"
+        },
+        {
+            "Team": "Dr. G.W. Williams",
+            "MP": "4",
+            "MW": "1",
+            "ML": "3",
+            "GW": "2",
+            "GL": "6",
+            "PTS": "1",
+            "PF": "159",
+            "PA": "187",
+            "DIFF": "-28"
         },
         {
             "Team": "Cardinal Carter",
@@ -395,18 +407,6 @@
             "PF": "179",
             "PA": "199",
             "DIFF": "-20"
-        },
-        {
-            "Team": "Dr. G.W. Williams",
-            "MP": "3",
-            "MW": "0",
-            "ML": "3",
-            "GW": "0",
-            "GL": "6",
-            "PTS": "0",
-            "PF": "109",
-            "PA": "153",
-            "DIFF": "-44"
         },
         {
             "Team": "Sir William Mulock",

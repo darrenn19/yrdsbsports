@@ -210,6 +210,17 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "King City SS",
+            "GP": "3",
+            "W": "3",
+            "L": "0",
+            "T": "0",
+            "PTS": "6",
+            "PF": "134",
+            "PA": "89",
+            "DIFF": "37"
+        },
+        {
             "Team": "Sir William Mulock",
             "GP": "3",
             "W": "3",
@@ -219,17 +230,6 @@
             "PF": "154",
             "PA": "100",
             "DIFF": "33"
-        },
-        {
-            "Team": "Newmarket HS",
-            "GP": "3",
-            "W": "2",
-            "L": "1",
-            "T": "0",
-            "PTS": "4",
-            "PF": "132",
-            "PA": "91",
-            "DIFF": "27"
         },
         {
             "Team": "Sacred Heart",
@@ -243,15 +243,15 @@
             "DIFF": "11"
         },
         {
-            "Team": "King City SS",
-            "GP": "2",
+            "Team": "Newmarket HS",
+            "GP": "3",
             "W": "2",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "4",
-            "PF": "78",
-            "PA": "50",
-            "DIFF": "22"
+            "PF": "132",
+            "PA": "91",
+            "DIFF": "27"
         },
         {
             "Team": "Cardinal Carter",
@@ -288,14 +288,14 @@
         },
         {
             "Team": "Stouffville",
-            "GP": "1",
+            "GP": "2",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "0",
-            "PF": "41",
-            "PA": "43",
-            "DIFF": "-2"
+            "PF": "80",
+            "PA": "99",
+            "DIFF": "-17"
         },
         {
             "Team": "Aurora HS",
