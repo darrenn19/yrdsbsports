@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, October 2, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
-        },
-        {
             "date": "Friday, October 3, 2025",
             "home_team": null,
             "away_team": null,
@@ -62,6 +53,15 @@
             "location": null,
             "game_played": false,
             "final_score": null
+        },
+        {
+            "date": "Thursday, October 9, 2025",
+            "home_team": "Dr. J.M. Denison",
+            "away_team": "Dr. G.W. Williams",
+            "time": "4:15 PM",
+            "location": "Dr J M Denison SS",
+            "game_played": true,
+            "final_score": "Dr. J.M. Denison 3, Dr. G.W. Williams 0"
         }
     ]
 }
