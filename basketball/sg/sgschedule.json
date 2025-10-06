@@ -19,6 +19,15 @@
             "final_score": "King City SS 58, Cardinal Carter 33"
         },
         {
+            "date": "Monday, October 6, 2025",
+            "home_team": "Toronto District Christian",
+            "away_team": "Stephen Lewis SS",
+            "time": "3:45 PM",
+            "location": "Toronto District Christian HS",
+            "game_played": true,
+            "final_score": "Toronto District Christian 38, Stephen Lewis SS 26"
+        },
+        {
             "date": "Tuesday, October 7, 2025",
             "home_team": null,
             "away_team": null,

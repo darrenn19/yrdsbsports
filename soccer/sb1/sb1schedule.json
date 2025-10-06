@@ -11,12 +11,21 @@
         },
         {
             "date": "Monday, October 6, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Thornlea SS",
+            "away_team": "Sacred Heart",
+            "time": "3:45 PM",
+            "location": "Thornlea SS",
+            "game_played": true,
+            "final_score": "Thornlea SS 7, Sacred Heart 0"
+        },
+        {
+            "date": "Monday, October 6, 2025",
+            "home_team": "Holy Cross",
+            "away_team": "St. Jean De Brebeuf CHS",
+            "time": "3:00 PM",
+            "location": "Vaughan Grove 2",
+            "game_played": true,
+            "final_score": "Holy Cross 3, St. Jean De Brebeuf CHS 1"
         },
         {
             "date": "Tuesday, October 7, 2025",
