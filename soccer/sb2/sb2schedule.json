@@ -11,6 +11,15 @@
         },
         {
             "date": "Monday, October 6, 2025",
+            "home_team": "Middlefield",
+            "away_team": "Bur Oak SS",
+            "time": "3:45 PM",
+            "location": "Middlefield CI",
+            "game_played": true,
+            "final_score": "Middlefield 2, Bur Oak SS 2"
+        },
+        {
+            "date": "Monday, October 6, 2025",
             "home_team": "Pierre Elliott Trudeau",
             "away_team": "Stouffville",
             "time": "3:45 PM",
