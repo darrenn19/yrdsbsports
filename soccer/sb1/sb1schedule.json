@@ -11,6 +11,15 @@
         },
         {
             "date": "Monday, October 6, 2025",
+            "home_team": "St. Brother Andre",
+            "away_team": "St. Maximilian",
+            "time": "3:00 PM",
+            "location": "St Brother Andre CHS",
+            "game_played": true,
+            "final_score": "St. Brother Andre 0, St. Maximilian 5"
+        },
+        {
+            "date": "Monday, October 6, 2025",
             "home_team": "Thornlea SS",
             "away_team": "Sacred Heart",
             "time": "3:45 PM",
