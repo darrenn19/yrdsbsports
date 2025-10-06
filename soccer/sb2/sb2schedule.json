@@ -11,12 +11,12 @@
         },
         {
             "date": "Monday, October 6, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Pierre Elliott Trudeau",
+            "away_team": "Stouffville",
+            "time": "3:45 PM",
+            "location": "PE Trudeau HS",
+            "game_played": true,
+            "final_score": "Pierre Elliott Trudeau 5, Stouffville 3"
         },
         {
             "date": "Tuesday, October 7, 2025",
