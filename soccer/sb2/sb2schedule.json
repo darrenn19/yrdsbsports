@@ -2,6 +2,15 @@
     "schedule": [
         {
             "date": "Monday, October 6, 2025",
+            "home_team": "Bill Crothers SS",
+            "away_team": "Markham District",
+            "time": "3:45 PM",
+            "location": "Bill Crothers SS",
+            "game_played": true,
+            "final_score": "Bill Crothers SS 2, Markham District 1"
+        },
+        {
+            "date": "Monday, October 6, 2025",
             "home_team": "Middlefield",
             "away_team": "Bur Oak SS",
             "time": "3:45 PM",
