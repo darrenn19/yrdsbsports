@@ -11,6 +11,15 @@
         },
         {
             "date": "Monday, October 6, 2025",
+            "home_team": "Maple High School",
+            "away_team": "Emily Carr",
+            "time": "3:45 PM",
+            "location": "Maple HS",
+            "game_played": true,
+            "final_score": "Maple High School 26, Emily Carr 50"
+        },
+        {
+            "date": "Monday, October 6, 2025",
             "home_team": "Newmarket HS",
             "away_team": "St. Maximilian",
             "time": "3:30 PM",
