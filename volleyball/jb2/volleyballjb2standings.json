@@ -13,40 +13,40 @@
             "DIFF": "DIFF"
         },
         {
-            "Team": "Hodan Nalayeh SS",
+            "Team": "St. Augustine",
             "MP": "6",
             "MW": "6",
             "ML": "0",
             "GW": "12",
-            "GL": "1",
+            "GL": "0",
             "PTS": "6",
-            "PF": "312",
-            "PA": "233",
-            "DIFF": "79"
+            "PF": "309",
+            "PA": "208",
+            "DIFF": "101"
         },
         {
-            "Team": "St. Augustine",
-            "MP": "6",
-            "MW": "5",
-            "ML": "0",
-            "GW": "11",
-            "GL": "0",
-            "PTS": "5",
-            "PF": "284",
-            "PA": "189",
-            "DIFF": "95"
+            "Team": "Hodan Nalayeh SS",
+            "MP": "7",
+            "MW": "6",
+            "ML": "1",
+            "GW": "12",
+            "GL": "3",
+            "PTS": "6",
+            "PF": "355",
+            "PA": "284",
+            "DIFF": "71"
         },
         {
             "Team": "Father McGivney",
-            "MP": "5",
-            "MW": "4",
-            "ML": "0",
-            "GW": "8",
-            "GL": "2",
-            "PTS": "4",
-            "PF": "244",
-            "PA": "190",
-            "DIFF": "54"
+            "MP": "6",
+            "MW": "5",
+            "ML": "1",
+            "GW": "10",
+            "GL": "3",
+            "PTS": "5",
+            "PF": "314",
+            "PA": "258",
+            "DIFF": "56"
         },
         {
             "Team": "Father Bressani",
@@ -61,16 +61,28 @@
             "DIFF": "-14"
         },
         {
-            "Team": "Emily Carr",
-            "MP": "7",
+            "Team": "Tommy Douglas SS",
+            "MP": "4",
             "MW": "2",
-            "ML": "5",
+            "ML": "2",
             "GW": "4",
-            "GL": "10",
+            "GL": "5",
             "PTS": "2",
-            "PF": "268",
-            "PA": "336",
-            "DIFF": "-68"
+            "PF": "181",
+            "PA": "187",
+            "DIFF": "-6"
+        },
+        {
+            "Team": "Emily Carr",
+            "MP": "8",
+            "MW": "2",
+            "ML": "6",
+            "GW": "4",
+            "GL": "12",
+            "PTS": "2",
+            "PF": "306",
+            "PA": "386",
+            "DIFF": "-80"
         },
         {
             "Team": "St. Joan Of Arc",
@@ -97,18 +109,6 @@
             "DIFF": "-32"
         },
         {
-            "Team": "Tommy Douglas SS",
-            "MP": "2",
-            "MW": "0",
-            "ML": "2",
-            "GW": "0",
-            "GL": "4",
-            "PTS": "0",
-            "PF": "71",
-            "PA": "101",
-            "DIFF": "-30"
-        },
-        {
             "Team": "ESC De L Ascension",
             "MP": "4",
             "MW": "0",
@@ -122,15 +122,15 @@
         },
         {
             "Team": "Toronto District Christian",
-            "MP": "3",
+            "MP": "4",
             "MW": "0",
-            "ML": "3",
-            "GW": "2",
-            "GL": "6",
+            "ML": "4",
+            "GW": "3",
+            "GL": "8",
             "PTS": "0",
-            "PF": "146",
-            "PA": "173",
-            "DIFF": "-27"
+            "PF": "194",
+            "PA": "233",
+            "DIFF": "-39"
         },
         {
             "Team": "North",

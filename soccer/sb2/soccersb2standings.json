@@ -123,22 +123,12 @@
         {
             "Team": "Markham District",
             "W": "1",
-            "L": "0",
-            "T": "1",
-            "PTS": "4",
-            "GF": "6",
-            "GA": "5",
-            "DIFF": "1"
-        },
-        {
-            "Team": "Middlefield",
-            "W": "1",
             "L": "1",
             "T": "1",
             "PTS": "4",
-            "GF": "5",
-            "GA": "8",
-            "DIFF": "-3"
+            "GF": "7",
+            "GA": "7",
+            "DIFF": "0"
         },
         {
             "Team": "Bur Oak SS",
@@ -149,6 +139,16 @@
             "GF": "8",
             "GA": "8",
             "DIFF": "0"
+        },
+        {
+            "Team": "Middlefield",
+            "W": "1",
+            "L": "1",
+            "T": "1",
+            "PTS": "4",
+            "GF": "5",
+            "GA": "8",
+            "DIFF": "-3"
         },
         {
             "Team": "Milliken Mills",
@@ -162,13 +162,13 @@
         },
         {
             "Team": "Bill Crothers SS",
-            "W": "0",
+            "W": "1",
             "L": "2",
             "T": "0",
-            "PTS": "0",
-            "GF": "2",
-            "GA": "4",
-            "DIFF": "-2"
+            "PTS": "3",
+            "GF": "4",
+            "GA": "5",
+            "DIFF": "-1"
         },
         {
             "Team": "Stouffville",
