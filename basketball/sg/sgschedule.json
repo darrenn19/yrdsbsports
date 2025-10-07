@@ -65,6 +65,15 @@
         },
         {
             "date": "Tuesday, October 7, 2025",
+            "home_team": "Alexander Mackenzie",
+            "away_team": "St. Augustine",
+            "time": "3:45 PM",
+            "location": "Alexander Mackenzie HS",
+            "game_played": true,
+            "final_score": "Alexander Mackenzie 25, St. Augustine 24"
+        },
+        {
+            "date": "Tuesday, October 7, 2025",
             "home_team": "Markham District",
             "away_team": "Bur Oak SS",
             "time": "3:30 PM",
