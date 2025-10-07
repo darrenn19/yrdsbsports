@@ -11,6 +11,16 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Holy Cross",
+            "W": "2",
+            "L": "0",
+            "T": "1",
+            "PTS": "7",
+            "GF": "8",
+            "GA": "4",
+            "DIFF": "4"
+        },
+        {
             "Team": "St. Theresa Of Lisieux",
             "W": "2",
             "L": "1",
@@ -19,16 +29,6 @@
             "GF": "14",
             "GA": "6",
             "DIFF": "7"
-        },
-        {
-            "Team": "Holy Cross",
-            "W": "1",
-            "L": "0",
-            "T": "1",
-            "PTS": "4",
-            "GF": "6",
-            "GA": "3",
-            "DIFF": "3"
         },
         {
             "Team": "Our Lady Queen Of The World",
@@ -43,12 +43,12 @@
         {
             "Team": "St. Jean De Brebeuf CHS",
             "W": "1",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "3",
-            "GF": "2",
-            "GA": "0",
-            "DIFF": "2"
+            "GF": "3",
+            "GA": "2",
+            "DIFF": "1"
         },
         {
             "Team": "Father Bressani",
@@ -81,6 +81,16 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "St. Katharine Drexel",
+            "W": "2",
+            "L": "1",
+            "T": "0",
+            "PTS": "6",
+            "GF": "6",
+            "GA": "3",
+            "DIFF": "3"
+        },
+        {
             "Team": "Cardinal Carter",
             "W": "2",
             "L": "0",
@@ -93,12 +103,12 @@
         {
             "Team": "Sacred Heart",
             "W": "1",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "3",
             "GF": "5",
-            "GA": "9",
-            "DIFF": "-3"
+            "GA": "12",
+            "DIFF": "-6"
         },
         {
             "Team": "St. Maximilian",
@@ -109,16 +119,6 @@
             "GF": "5",
             "GA": "4",
             "DIFF": "1"
-        },
-        {
-            "Team": "St. Katharine Drexel",
-            "W": "1",
-            "L": "1",
-            "T": "0",
-            "PTS": "3",
-            "GF": "3",
-            "GA": "3",
-            "DIFF": "0"
         },
         {
             "Team": "St. Brother Andre",

@@ -11,14 +11,24 @@
             "DIFF": "DIFF"
         },
         {
-            "Team": "St. Jean De Brebeuf CHS",
+            "Team": "Holy Cross",
             "W": "2",
             "L": "0",
+            "T": "2",
+            "PTS": "8",
+            "GF": "10",
+            "GA": "4",
+            "DIFF": "6"
+        },
+        {
+            "Team": "St. Jean De Brebeuf CHS",
+            "W": "2",
+            "L": "1",
             "T": "0",
             "PTS": "6",
-            "GF": "7",
-            "GA": "0",
-            "DIFF": "7"
+            "GF": "8",
+            "GA": "3",
+            "DIFF": "5"
         },
         {
             "Team": "St. Theresa Of Lisieux",
@@ -29,16 +39,6 @@
             "GF": "4",
             "GA": "3",
             "DIFF": "1"
-        },
-        {
-            "Team": "Holy Cross",
-            "W": "1",
-            "L": "0",
-            "T": "2",
-            "PTS": "5",
-            "GF": "7",
-            "GA": "3",
-            "DIFF": "4"
         },
         {
             "Team": "Stephen Lewis SS",
@@ -92,13 +92,23 @@
         },
         {
             "Team": "St. Maximilian",
+            "W": "4",
+            "L": "0",
+            "T": "0",
+            "PTS": "12",
+            "GF": "16",
+            "GA": "4",
+            "DIFF": "12"
+        },
+        {
+            "Team": "Thornlea SS",
             "W": "3",
             "L": "0",
             "T": "0",
             "PTS": "9",
-            "GF": "11",
-            "GA": "4",
-            "DIFF": "7"
+            "GF": "13",
+            "GA": "1",
+            "DIFF": "10"
         },
         {
             "Team": "Cardinal Carter",
@@ -109,16 +119,6 @@
             "GF": "12",
             "GA": "4",
             "DIFF": "7"
-        },
-        {
-            "Team": "Thornlea SS",
-            "W": "2",
-            "L": "0",
-            "T": "0",
-            "PTS": "6",
-            "GF": "6",
-            "GA": "1",
-            "DIFF": "5"
         },
         {
             "Team": "Father McGivney",
@@ -133,22 +133,22 @@
         {
             "Team": "St. Brother Andre",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "1",
             "PTS": "1",
             "GF": "2",
-            "GA": "3",
-            "DIFF": "-1"
+            "GA": "8",
+            "DIFF": "-6"
         },
         {
             "Team": "Sacred Heart",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "1",
             "PTS": "1",
             "GF": "2",
-            "GA": "6",
-            "DIFF": "-4"
+            "GA": "13",
+            "DIFF": "-9"
         },
         {
             "Team": "St. Augustine",

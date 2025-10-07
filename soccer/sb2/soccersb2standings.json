@@ -101,6 +101,16 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Pierre Elliott Trudeau",
+            "W": "2",
+            "L": "0",
+            "T": "1",
+            "PTS": "7",
+            "GF": "8",
+            "GA": "5",
+            "DIFF": "3"
+        },
+        {
             "Team": "Bill Hogarth SS",
             "W": "2",
             "L": "0",
@@ -109,16 +119,6 @@
             "GF": "9",
             "GA": "3",
             "DIFF": "6"
-        },
-        {
-            "Team": "Pierre Elliott Trudeau",
-            "W": "1",
-            "L": "0",
-            "T": "1",
-            "PTS": "4",
-            "GF": "3",
-            "GA": "2",
-            "DIFF": "1"
         },
         {
             "Team": "Markham District",
@@ -131,13 +131,23 @@
             "DIFF": "1"
         },
         {
+            "Team": "Middlefield",
+            "W": "1",
+            "L": "1",
+            "T": "1",
+            "PTS": "4",
+            "GF": "5",
+            "GA": "8",
+            "DIFF": "-3"
+        },
+        {
             "Team": "Bur Oak SS",
             "W": "1",
             "L": "1",
-            "T": "0",
-            "PTS": "3",
-            "GF": "6",
-            "GA": "6",
+            "T": "1",
+            "PTS": "4",
+            "GF": "8",
+            "GA": "8",
             "DIFF": "0"
         },
         {
@@ -149,16 +159,6 @@
             "GF": "3",
             "GA": "3",
             "DIFF": "0"
-        },
-        {
-            "Team": "Middlefield",
-            "W": "1",
-            "L": "1",
-            "T": "0",
-            "PTS": "3",
-            "GF": "3",
-            "GA": "6",
-            "DIFF": "-3"
         },
         {
             "Team": "Bill Crothers SS",
@@ -173,12 +173,12 @@
         {
             "Team": "Stouffville",
             "W": "0",
-            "L": "2",
+            "L": "3",
             "T": "0",
             "PTS": "0",
-            "GF": "3",
-            "GA": "6",
-            "DIFF": "-3"
+            "GF": "6",
+            "GA": "11",
+            "DIFF": "-5"
         },
         {
             "Team": "North",
