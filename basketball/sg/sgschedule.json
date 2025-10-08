@@ -20,6 +20,15 @@
         },
         {
             "date": "Tuesday, October 7, 2025",
+            "home_team": "Markville",
+            "away_team": "Bill Hogarth SS",
+            "time": "3:45 PM",
+            "location": "Markville SS",
+            "game_played": true,
+            "final_score": "Markville 13, Bill Hogarth SS 50"
+        },
+        {
+            "date": "Tuesday, October 7, 2025",
             "home_team": "Middlefield",
             "away_team": "St. Brother Andre",
             "time": "3:45 PM",
