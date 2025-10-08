@@ -338,15 +338,27 @@
         },
         {
             "Team": "Aurora HS",
-            "MP": "5",
+            "MP": "6",
             "MW": "4",
-            "ML": "1",
-            "GW": "8",
-            "GL": "5",
+            "ML": "2",
+            "GW": "9",
+            "GL": "7",
             "PTS": "4",
-            "PF": "260",
-            "PA": "260",
-            "DIFF": "0"
+            "PF": "302",
+            "PA": "317",
+            "DIFF": "-15"
+        },
+        {
+            "Team": "Keswick High School",
+            "MP": "6",
+            "MW": "3",
+            "ML": "3",
+            "GW": "7",
+            "GL": "8",
+            "PTS": "3",
+            "PF": "291",
+            "PA": "294",
+            "DIFF": "-3"
         },
         {
             "Team": "Sacred Heart",
@@ -359,18 +371,6 @@
             "PF": "305",
             "PA": "334",
             "DIFF": "-29"
-        },
-        {
-            "Team": "Keswick High School",
-            "MP": "5",
-            "MW": "2",
-            "ML": "3",
-            "GW": "5",
-            "GL": "7",
-            "PTS": "2",
-            "PF": "234",
-            "PA": "252",
-            "DIFF": "-18"
         },
         {
             "Team": "St. Maximilian",
@@ -457,6 +457,30 @@
             "DIFF": "63"
         },
         {
+            "Team": "St. Joan Of Arc",
+            "MP": "6",
+            "MW": "2",
+            "ML": "4",
+            "GW": "5",
+            "GL": "10",
+            "PTS": "2",
+            "PF": "238",
+            "PA": "322",
+            "DIFF": "-84"
+        },
+        {
+            "Team": "Woodbridge College",
+            "MP": "3",
+            "MW": "2",
+            "ML": "1",
+            "GW": "5",
+            "GL": "2",
+            "PTS": "2",
+            "PF": "152",
+            "PA": "131",
+            "DIFF": "21"
+        },
+        {
             "Team": "Toronto District Christian",
             "MP": "6",
             "MW": "2",
@@ -467,30 +491,6 @@
             "PF": "228",
             "PA": "281",
             "DIFF": "-53"
-        },
-        {
-            "Team": "St. Joan Of Arc",
-            "MP": "5",
-            "MW": "1",
-            "ML": "4",
-            "GW": "3",
-            "GL": "9",
-            "PTS": "1",
-            "PF": "180",
-            "PA": "266",
-            "DIFF": "-86"
-        },
-        {
-            "Team": "Woodbridge College",
-            "MP": "2",
-            "MW": "1",
-            "ML": "1",
-            "GW": "3",
-            "GL": "2",
-            "PTS": "1",
-            "PF": "102",
-            "PA": "89",
-            "DIFF": "13"
         },
         {
             "Team": "Hodan Nalayeh SS",
@@ -506,15 +506,15 @@
         },
         {
             "Team": "St. Jean De Brebeuf CHS",
-            "MP": "0",
+            "MP": "1",
             "MW": "0",
-            "ML": "0",
+            "ML": "1",
             "GW": "0",
-            "GL": "0",
+            "GL": "2",
             "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "PF": "42",
+            "PA": "50",
+            "DIFF": "-8"
         },
         {
             "Team": "Stephen Lewis SS",
@@ -530,15 +530,15 @@
         },
         {
             "Team": "Father Bressani",
-            "MP": "1",
+            "MP": "2",
             "MW": "0",
-            "ML": "1",
-            "GW": "0",
-            "GL": "2",
+            "ML": "2",
+            "GW": "1",
+            "GL": "4",
             "PTS": "0",
-            "PF": "23",
-            "PA": "50",
-            "DIFF": "-27"
+            "PF": "79",
+            "PA": "108",
+            "DIFF": "-29"
         },
         {
             "Team": "Emily Carr",

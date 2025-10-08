@@ -12,13 +12,13 @@
         },
         {
             "Team": "Dr. J.M. Denison",
-            "W": "3",
+            "W": "4",
             "L": "0",
             "T": "0",
-            "PTS": "9",
-            "GF": "19",
+            "PTS": "12",
+            "GF": "25",
             "GA": "1",
-            "DIFF": "13"
+            "DIFF": "18"
         },
         {
             "Team": "Bill Hogarth SS",
@@ -53,12 +53,12 @@
         {
             "Team": "Keswick High School",
             "W": "1",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "3",
             "GF": "4",
-            "GA": "11",
-            "DIFF": "-4"
+            "GA": "17",
+            "DIFF": "-9"
         },
         {
             "Team": "Milliken Mills",

@@ -51,6 +51,16 @@
             "DIFF": "-4"
         },
         {
+            "Team": "St. Joan Of Arc",
+            "W": "1",
+            "L": "2",
+            "T": "0",
+            "PTS": "3",
+            "GF": "7",
+            "GA": "10",
+            "DIFF": "-3"
+        },
+        {
             "Team": "Father Bressani",
             "W": "0",
             "L": "0",
@@ -61,24 +71,14 @@
             "DIFF": "0"
         },
         {
-            "Team": "St. Joan Of Arc",
+            "Team": "Hodan Nalayeh SS",
             "W": "0",
             "L": "2",
             "T": "0",
             "PTS": "0",
             "GF": "3",
-            "GA": "7",
-            "DIFF": "-4"
-        },
-        {
-            "Team": "Hodan Nalayeh SS",
-            "W": "0",
-            "L": "1",
-            "T": "0",
-            "PTS": "0",
-            "GF": "0",
-            "GA": "4",
-            "DIFF": "-4"
+            "GA": "8",
+            "DIFF": "-5"
         },
         {
             "Team": "North-East",

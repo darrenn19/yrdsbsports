@@ -12,6 +12,17 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Markham District",
+            "GP": "4",
+            "W": "3",
+            "L": "1",
+            "T": "0",
+            "PTS": "6",
+            "PF": "144",
+            "PA": "127",
+            "DIFF": "27"
+        },
+        {
             "Team": "St. Theresa Of Lisieux",
             "GP": "3",
             "W": "3",
@@ -23,15 +34,15 @@
             "DIFF": "45"
         },
         {
-            "Team": "Markham District",
+            "Team": "Stephen Lewis SS",
             "GP": "4",
-            "W": "3",
-            "L": "1",
+            "W": "2",
+            "L": "2",
             "T": "0",
-            "PTS": "6",
-            "PF": "144",
-            "PA": "127",
-            "DIFF": "27"
+            "PTS": "4",
+            "PF": "138",
+            "PA": "167",
+            "DIFF": "-4"
         },
         {
             "Team": "Bill Crothers SS",
@@ -45,17 +56,6 @@
             "DIFF": "15"
         },
         {
-            "Team": "Unionville HS",
-            "GP": "2",
-            "W": "1",
-            "L": "1",
-            "T": "0",
-            "PTS": "2",
-            "PF": "64",
-            "PA": "79",
-            "DIFF": "0"
-        },
-        {
             "Team": "Richmond Hill HS",
             "GP": "3",
             "W": "1",
@@ -67,15 +67,15 @@
             "DIFF": "-12"
         },
         {
-            "Team": "Stephen Lewis SS",
+            "Team": "Unionville HS",
             "GP": "3",
             "W": "1",
             "L": "2",
             "T": "0",
             "PTS": "2",
-            "PF": "81",
-            "PA": "142",
-            "DIFF": "-19"
+            "PF": "89",
+            "PA": "136",
+            "DIFF": "-15"
         },
         {
             "Team": "St. Katharine Drexel",

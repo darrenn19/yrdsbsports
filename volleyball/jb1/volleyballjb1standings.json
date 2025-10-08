@@ -145,6 +145,18 @@
             "DIFF": "61"
         },
         {
+            "Team": "Richmond Hill HS",
+            "MP": "7",
+            "MW": "4",
+            "ML": "3",
+            "GW": "9",
+            "GL": "7",
+            "PTS": "4",
+            "PF": "340",
+            "PA": "347",
+            "DIFF": "-7"
+        },
+        {
             "Team": "Stephen Lewis SS",
             "MP": "6",
             "MW": "4",
@@ -155,18 +167,6 @@
             "PF": "329",
             "PA": "308",
             "DIFF": "21"
-        },
-        {
-            "Team": "Richmond Hill HS",
-            "MP": "6",
-            "MW": "4",
-            "ML": "2",
-            "GW": "9",
-            "GL": "6",
-            "PTS": "4",
-            "PF": "302",
-            "PA": "302",
-            "DIFF": "0"
         },
         {
             "Team": "St. Robert",
@@ -181,6 +181,18 @@
             "DIFF": "14"
         },
         {
+            "Team": "Dr. G.W. Williams",
+            "MP": "4",
+            "MW": "1",
+            "ML": "3",
+            "GW": "4",
+            "GL": "6",
+            "PTS": "1",
+            "PF": "203",
+            "PA": "221",
+            "DIFF": "-18"
+        },
+        {
             "Team": "Sacred Heart",
             "MP": "4",
             "MW": "1",
@@ -191,18 +203,6 @@
             "PF": "185",
             "PA": "211",
             "DIFF": "-26"
-        },
-        {
-            "Team": "Dr. G.W. Williams",
-            "MP": "3",
-            "MW": "0",
-            "ML": "3",
-            "GW": "3",
-            "GL": "6",
-            "PTS": "0",
-            "PF": "158",
-            "PA": "183",
-            "DIFF": "-25"
         },
         {
             "Team": "St. Theresa Of Lisieux",
