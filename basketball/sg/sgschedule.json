@@ -1,69 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, October 6, 2025",
-            "home_team": "King City SS",
-            "away_team": "Cardinal Carter",
-            "time": "3:45 PM",
-            "location": "King City SS",
-            "game_played": true,
-            "final_score": "King City SS 58, Cardinal Carter 33"
-        },
-        {
-            "date": "Monday, October 6, 2025",
-            "home_team": "Maple High School",
-            "away_team": "Emily Carr",
-            "time": "3:45 PM",
-            "location": "Maple HS",
-            "game_played": true,
-            "final_score": "Maple High School 26, Emily Carr 50"
-        },
-        {
-            "date": "Monday, October 6, 2025",
-            "home_team": "Newmarket HS",
-            "away_team": "St. Maximilian",
-            "time": "3:30 PM",
-            "location": "Newmarket HS",
-            "game_played": true,
-            "final_score": "Newmarket HS 32, St. Maximilian 63"
-        },
-        {
-            "date": "Monday, October 6, 2025",
-            "home_team": "St. Jean De Brebeuf CHS",
-            "away_team": "St. Elizabeth",
-            "time": "3:45 PM",
-            "location": "St Jean De Brebeuf CHS",
-            "game_played": true,
-            "final_score": "St. Jean De Brebeuf CHS 31, St. Elizabeth 35"
-        },
-        {
-            "date": "Monday, October 6, 2025",
-            "home_team": "Stouffville",
-            "away_team": "Aurora HS",
-            "time": "4:00 PM",
-            "location": "Stouffville DSS",
-            "game_played": true,
-            "final_score": "Stouffville 46, Aurora HS 40"
-        },
-        {
-            "date": "Monday, October 6, 2025",
-            "home_team": "Tommy Douglas SS",
-            "away_team": "Hodan Nalayeh SS",
-            "time": "3:45 PM",
-            "location": "Tommy Douglas SS",
-            "game_played": true,
-            "final_score": "Tommy Douglas SS 28, Hodan Nalayeh SS 50"
-        },
-        {
-            "date": "Monday, October 6, 2025",
-            "home_team": "Toronto District Christian",
-            "away_team": "Stephen Lewis SS",
-            "time": "3:45 PM",
-            "location": "Toronto District Christian HS",
-            "game_played": true,
-            "final_score": "Toronto District Christian 38, Stephen Lewis SS 26"
-        },
-        {
             "date": "Tuesday, October 7, 2025",
             "home_team": "Alexander Mackenzie",
             "away_team": "St. Augustine",
@@ -146,6 +83,15 @@
         },
         {
             "date": "Sunday, October 12, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, October 13, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

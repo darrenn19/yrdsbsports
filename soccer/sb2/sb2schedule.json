@@ -1,42 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, October 6, 2025",
-            "home_team": "Bill Crothers SS",
-            "away_team": "Markham District",
-            "time": "3:45 PM",
-            "location": "Bill Crothers SS",
-            "game_played": true,
-            "final_score": "Bill Crothers SS 2, Markham District 1"
-        },
-        {
-            "date": "Monday, October 6, 2025",
-            "home_team": "Middlefield",
-            "away_team": "Bur Oak SS",
-            "time": "3:45 PM",
-            "location": "Middlefield CI",
-            "game_played": true,
-            "final_score": "Middlefield 2, Bur Oak SS 2"
-        },
-        {
-            "date": "Monday, October 6, 2025",
-            "home_team": "Milliken Mills",
-            "away_team": "Bill Hogarth SS",
-            "time": "3:45 PM",
-            "location": "Milliken Mills HS",
-            "game_played": true,
-            "final_score": "Milliken Mills 1, Bill Hogarth SS 3"
-        },
-        {
-            "date": "Monday, October 6, 2025",
-            "home_team": "Pierre Elliott Trudeau",
-            "away_team": "Stouffville",
-            "time": "3:45 PM",
-            "location": "PE Trudeau HS",
-            "game_played": true,
-            "final_score": "Pierre Elliott Trudeau 5, Stouffville 3"
-        },
-        {
             "date": "Tuesday, October 7, 2025",
             "home_team": "Dr. J.M. Denison",
             "away_team": "Keswick High School",
@@ -110,6 +74,15 @@
         },
         {
             "date": "Sunday, October 12, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, October 13, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

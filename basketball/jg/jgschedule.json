@@ -1,33 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, October 6, 2025",
-            "home_team": "ESC De L Ascension",
-            "away_team": "Sacred Heart",
-            "time": "3:45 PM",
-            "location": "ESC De L Ascension",
-            "game_played": true,
-            "final_score": "ESC De L Ascension 34, Sacred Heart 37"
-        },
-        {
-            "date": "Monday, October 6, 2025",
-            "home_team": "Keswick High School",
-            "away_team": "Sir William Mulock",
-            "time": "3:45 PM",
-            "location": "Keswick HS",
-            "game_played": true,
-            "final_score": "Keswick High School 28, Sir William Mulock 40"
-        },
-        {
-            "date": "Monday, October 6, 2025",
-            "home_team": "Newmarket HS",
-            "away_team": "Dr. G.W. Williams",
-            "time": "4:45 PM",
-            "location": "Newmarket HS",
-            "game_played": true,
-            "final_score": "Newmarket HS 19, Dr. G.W. Williams 41"
-        },
-        {
             "date": "Tuesday, October 7, 2025",
             "home_team": "Markham District",
             "away_team": "St. Theresa Of Lisieux",
@@ -83,6 +56,15 @@
         },
         {
             "date": "Sunday, October 12, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, October 13, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
