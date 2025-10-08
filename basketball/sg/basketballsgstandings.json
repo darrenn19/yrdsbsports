@@ -13,69 +13,69 @@
         },
         {
             "Team": "Alexander Mackenzie",
-            "GP": "3",
-            "W": "3",
+            "GP": "4",
+            "W": "4",
             "L": "0",
             "T": "0",
-            "PTS": "6",
-            "PF": "133",
-            "PA": "74",
-            "DIFF": "38"
-        },
-        {
-            "Team": "St. Augustine",
-            "GP": "3",
-            "W": "2",
-            "L": "1",
-            "T": "0",
-            "PTS": "4",
-            "PF": "123",
-            "PA": "107",
-            "DIFF": "7"
+            "PTS": "8",
+            "PF": "158",
+            "PA": "98",
+            "DIFF": "39"
         },
         {
             "Team": "Thornlea SS",
-            "GP": "2",
+            "GP": "3",
             "W": "2",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "4",
-            "PF": "96",
-            "PA": "67",
-            "DIFF": "23"
+            "PF": "117",
+            "PA": "102",
+            "DIFF": "9"
+        },
+        {
+            "Team": "St. Augustine",
+            "GP": "4",
+            "W": "2",
+            "L": "2",
+            "T": "0",
+            "PTS": "4",
+            "PF": "147",
+            "PA": "132",
+            "DIFF": "6"
         },
         {
             "Team": "St. Robert",
-            "GP": "2",
-            "W": "1",
+            "GP": "3",
+            "W": "2",
             "L": "1",
             "T": "0",
-            "PTS": "2",
-            "PF": "83",
-            "PA": "89",
-            "DIFF": "-6"
+            "PTS": "4",
+            "PF": "135",
+            "PA": "123",
+            "DIFF": "9"
         },
         {
             "Team": "Our Lady Queen Of The World",
-            "GP": "2",
-            "W": "1",
+            "GP": "3",
+            "W": "2",
             "L": "1",
             "T": "0",
-            "PTS": "2",
-            "PF": "61",
-            "PA": "58",
-            "DIFF": "3"
+            "PTS": "4",
+            "PF": "96",
+            "PA": "79",
+            "DIFF": "17"
         },
         {
             "Team": "Richmond Green SS",
-            "GP": "3",
+            "GP": "4",
             "W": "0",
-            "L": "3",
+            "L": "4",
             "T": "0",
             "PTS": "0",
-            "PF": "75",
-            "PA": "146",
-            "DIFF": "-45"
+            "PF": "109",
+            "PA": "198",
+            "DIFF": "-60"
         },
         {
             "Team": "St. Theresa Of Lisieux",
@@ -98,6 +98,17 @@
             "PF": "PF",
             "PA": "PA",
             "DIFF": "DIFF"
+        },
+        {
+            "Team": "Markham District",
+            "GP": "4",
+            "W": "3",
+            "L": "1",
+            "T": "0",
+            "PTS": "6",
+            "PF": "205",
+            "PA": "169",
+            "DIFF": "20"
         },
         {
             "Team": "Father McGivney",
@@ -133,48 +144,37 @@
             "DIFF": "18"
         },
         {
-            "Team": "Markham District",
+            "Team": "Unionville HS",
             "GP": "3",
             "W": "2",
             "L": "1",
             "T": "0",
             "PTS": "4",
-            "PF": "158",
-            "PA": "130",
-            "DIFF": "12"
-        },
-        {
-            "Team": "Unionville HS",
-            "GP": "2",
-            "W": "1",
-            "L": "1",
-            "T": "0",
-            "PTS": "2",
-            "PF": "98",
-            "PA": "98",
-            "DIFF": "0"
+            "PF": "168",
+            "PA": "149",
+            "DIFF": "15"
         },
         {
             "Team": "Pierre Elliott Trudeau",
+            "GP": "4",
+            "W": "1",
+            "L": "3",
+            "T": "0",
+            "PTS": "2",
+            "PF": "183",
+            "PA": "228",
+            "DIFF": "-27"
+        },
+        {
+            "Team": "Bur Oak SS",
             "GP": "3",
             "W": "1",
             "L": "2",
             "T": "0",
             "PTS": "2",
-            "PF": "132",
-            "PA": "158",
-            "DIFF": "-12"
-        },
-        {
-            "Team": "Bur Oak SS",
-            "GP": "2",
-            "W": "1",
-            "L": "1",
-            "T": "0",
-            "PTS": "2",
-            "PF": "87",
-            "PA": "91",
-            "DIFF": "-2"
+            "PF": "126",
+            "PA": "138",
+            "DIFF": "-10"
         },
         {
             "Team": "Middlefield",

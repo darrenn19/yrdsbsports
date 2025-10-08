@@ -14,10 +14,10 @@
             "Team": "Langstaff SS",
             "W": "2",
             "L": "0",
-            "T": "0",
-            "PTS": "6",
-            "GF": "8",
-            "GA": "1",
+            "T": "1",
+            "PTS": "7",
+            "GF": "9",
+            "GA": "2",
             "DIFF": "7"
         },
         {
@@ -51,6 +51,16 @@
             "DIFF": "3"
         },
         {
+            "Team": "Richmond Hill HS",
+            "W": "0",
+            "L": "2",
+            "T": "1",
+            "PTS": "1",
+            "GF": "5",
+            "GA": "14",
+            "DIFF": "-9"
+        },
+        {
             "Team": "Richmond Green SS",
             "W": "0",
             "L": "1",
@@ -59,16 +69,6 @@
             "GF": "3",
             "GA": "5",
             "DIFF": "-2"
-        },
-        {
-            "Team": "Richmond Hill HS",
-            "W": "0",
-            "L": "2",
-            "T": "0",
-            "PTS": "0",
-            "GF": "4",
-            "GA": "13",
-            "DIFF": "-9"
         },
         {
             "Team": "Unionville HS",
@@ -101,6 +101,16 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Bill Hogarth SS",
+            "W": "3",
+            "L": "0",
+            "T": "0",
+            "PTS": "9",
+            "GF": "12",
+            "GA": "4",
+            "DIFF": "8"
+        },
+        {
             "Team": "Pierre Elliott Trudeau",
             "W": "2",
             "L": "0",
@@ -109,16 +119,6 @@
             "GF": "8",
             "GA": "5",
             "DIFF": "3"
-        },
-        {
-            "Team": "Bill Hogarth SS",
-            "W": "2",
-            "L": "0",
-            "T": "0",
-            "PTS": "6",
-            "GF": "9",
-            "GA": "3",
-            "DIFF": "6"
         },
         {
             "Team": "Markham District",
@@ -153,12 +153,12 @@
         {
             "Team": "Milliken Mills",
             "W": "1",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "3",
-            "GF": "3",
-            "GA": "3",
-            "DIFF": "0"
+            "GF": "4",
+            "GA": "6",
+            "DIFF": "-2"
         },
         {
             "Team": "Bill Crothers SS",
@@ -281,6 +281,16 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Tommy Douglas SS",
+            "W": "2",
+            "L": "1",
+            "T": "0",
+            "PTS": "6",
+            "GF": "10",
+            "GA": "5",
+            "DIFF": "5"
+        },
+        {
             "Team": "Maple High School",
             "W": "2",
             "L": "0",
@@ -299,16 +309,6 @@
             "GF": "5",
             "GA": "6",
             "DIFF": "-1"
-        },
-        {
-            "Team": "Tommy Douglas SS",
-            "W": "1",
-            "L": "1",
-            "T": "0",
-            "PTS": "3",
-            "GF": "6",
-            "GA": "4",
-            "DIFF": "2"
         },
         {
             "Team": "Toronto District Christian",
@@ -343,12 +343,12 @@
         {
             "Team": "Woodbridge College",
             "W": "0",
-            "L": "2",
+            "L": "3",
             "T": "0",
             "PTS": "0",
-            "GF": "2",
-            "GA": "7",
-            "DIFF": "-5"
+            "GF": "3",
+            "GA": "11",
+            "DIFF": "-8"
         }
     ]
 }

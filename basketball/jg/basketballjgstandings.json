@@ -12,26 +12,26 @@
             "DIFF": "DIFF"
         },
         {
-            "Team": "Markham District",
+            "Team": "St. Theresa Of Lisieux",
             "GP": "3",
             "W": "3",
             "L": "0",
             "T": "0",
             "PTS": "6",
-            "PF": "118",
-            "PA": "68",
-            "DIFF": "42"
+            "PF": "172",
+            "PA": "67",
+            "DIFF": "45"
         },
         {
-            "Team": "St. Theresa Of Lisieux",
-            "GP": "2",
-            "W": "2",
-            "L": "0",
+            "Team": "Markham District",
+            "GP": "4",
+            "W": "3",
+            "L": "1",
             "T": "0",
-            "PTS": "4",
-            "PF": "113",
-            "PA": "41",
-            "DIFF": "30"
+            "PTS": "6",
+            "PF": "144",
+            "PA": "127",
+            "DIFF": "27"
         },
         {
             "Team": "Bill Crothers SS",
@@ -43,17 +43,6 @@
             "PF": "140",
             "PA": "66",
             "DIFF": "15"
-        },
-        {
-            "Team": "Stephen Lewis SS",
-            "GP": "3",
-            "W": "1",
-            "L": "2",
-            "T": "0",
-            "PTS": "2",
-            "PF": "81",
-            "PA": "142",
-            "DIFF": "-19"
         },
         {
             "Team": "Unionville HS",
@@ -68,25 +57,36 @@
         },
         {
             "Team": "Richmond Hill HS",
-            "GP": "2",
-            "W": "0",
+            "GP": "3",
+            "W": "1",
             "L": "2",
             "T": "0",
-            "PTS": "0",
-            "PF": "49",
-            "PA": "102",
-            "DIFF": "-27"
+            "PTS": "2",
+            "PF": "84",
+            "PA": "117",
+            "DIFF": "-12"
+        },
+        {
+            "Team": "Stephen Lewis SS",
+            "GP": "3",
+            "W": "1",
+            "L": "2",
+            "T": "0",
+            "PTS": "2",
+            "PF": "81",
+            "PA": "142",
+            "DIFF": "-19"
         },
         {
             "Team": "St. Katharine Drexel",
-            "GP": "3",
+            "GP": "4",
             "W": "0",
-            "L": "3",
+            "L": "4",
             "T": "0",
             "PTS": "0",
-            "PF": "76",
-            "PA": "143",
-            "DIFF": "-41"
+            "PF": "91",
+            "PA": "178",
+            "DIFF": "-56"
         },
         {
             "Team": "North-West",
