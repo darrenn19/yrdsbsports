@@ -2,12 +2,12 @@
     "schedule": [
         {
             "date": "Tuesday, October 7, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Dr. J.M. Denison",
+            "away_team": "Keswick High School",
+            "time": "4:15 PM",
+            "location": "Dr J M Denison SS",
+            "game_played": true,
+            "final_score": "Dr. J.M. Denison 6, Keswick High School 0"
         },
         {
             "date": "Wednesday, October 8, 2025",
