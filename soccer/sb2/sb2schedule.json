@@ -37,6 +37,15 @@
             "final_score": "Tommy Douglas SS 4, Woodbridge College 1"
         },
         {
+            "date": "Tuesday, October 7, 2025",
+            "home_team": "Toronto District Christian",
+            "away_team": "King City SS",
+            "time": "3:30 PM",
+            "location": "Vaughan Grove 2",
+            "game_played": true,
+            "final_score": "Toronto District Christian 7, King City SS 2"
+        },
+        {
             "date": "Wednesday, October 8, 2025",
             "home_team": null,
             "away_team": null,
