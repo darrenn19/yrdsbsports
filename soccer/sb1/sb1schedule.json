@@ -19,6 +19,24 @@
             "final_score": "Father McGivney 0, Sacred Heart 3"
         },
         {
+            "date": "Wednesday, October 8, 2025",
+            "home_team": "Hodan Nalayeh SS",
+            "away_team": "Stephen Lewis SS",
+            "time": "3:45 PM",
+            "location": "Hodan Nalayeh Secondary School",
+            "game_played": true,
+            "final_score": "Hodan Nalayeh SS 4, Stephen Lewis SS 1"
+        },
+        {
+            "date": "Wednesday, October 8, 2025",
+            "home_team": "St. Augustine",
+            "away_team": "Thornlea SS",
+            "time": "3:00 PM",
+            "location": "St Augustine CHS",
+            "game_played": true,
+            "final_score": "St. Augustine 0, Thornlea SS 2"
+        },
+        {
             "date": "Thursday, October 9, 2025",
             "home_team": null,
             "away_team": null,

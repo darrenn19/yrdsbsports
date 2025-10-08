@@ -83,6 +83,24 @@
         },
         {
             "date": "Wednesday, October 8, 2025",
+            "home_team": "Maple High School",
+            "away_team": "St. Jean De Brebeuf CHS",
+            "time": "3:45 PM",
+            "location": "Maple HS",
+            "game_played": true,
+            "final_score": "Maple High School 32, St. Jean De Brebeuf CHS 31"
+        },
+        {
+            "date": "Wednesday, October 8, 2025",
+            "home_team": "St. Elizabeth",
+            "away_team": "Woodbridge College",
+            "time": "3:45 PM",
+            "location": "St Elizabeth CHS",
+            "game_played": true,
+            "final_score": "St. Elizabeth 49, Woodbridge College 35"
+        },
+        {
+            "date": "Wednesday, October 8, 2025",
             "home_team": "St. Maximilian",
             "away_team": "Stouffville",
             "time": "3:45 PM",
