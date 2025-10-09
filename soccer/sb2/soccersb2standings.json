@@ -102,23 +102,23 @@
         },
         {
             "Team": "Bill Hogarth SS",
-            "W": "3",
+            "W": "4",
             "L": "0",
             "T": "0",
-            "PTS": "9",
-            "GF": "12",
+            "PTS": "12",
+            "GF": "15",
             "GA": "4",
-            "DIFF": "8"
+            "DIFF": "11"
         },
         {
             "Team": "Pierre Elliott Trudeau",
-            "W": "2",
+            "W": "3",
             "L": "0",
             "T": "1",
-            "PTS": "7",
-            "GF": "8",
-            "GA": "5",
-            "DIFF": "3"
+            "PTS": "10",
+            "GF": "10",
+            "GA": "6",
+            "DIFF": "4"
         },
         {
             "Team": "Markham District",
@@ -133,22 +133,22 @@
         {
             "Team": "Bur Oak SS",
             "W": "1",
-            "L": "1",
+            "L": "2",
             "T": "1",
             "PTS": "4",
             "GF": "8",
-            "GA": "8",
-            "DIFF": "0"
+            "GA": "11",
+            "DIFF": "-3"
         },
         {
             "Team": "Middlefield",
             "W": "1",
-            "L": "1",
+            "L": "2",
             "T": "1",
             "PTS": "4",
-            "GF": "5",
-            "GA": "8",
-            "DIFF": "-3"
+            "GF": "6",
+            "GA": "10",
+            "DIFF": "-4"
         },
         {
             "Team": "Milliken Mills",

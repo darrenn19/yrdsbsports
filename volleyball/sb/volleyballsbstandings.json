@@ -277,6 +277,18 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Newmarket HS",
+            "MP": "8",
+            "MW": "7",
+            "ML": "1",
+            "GW": "15",
+            "GL": "4",
+            "PTS": "7",
+            "PF": "435",
+            "PA": "316",
+            "DIFF": "119"
+        },
+        {
             "Team": "Renaissance ESC",
             "MP": "6",
             "MW": "5",
@@ -289,18 +301,6 @@
             "DIFF": "99"
         },
         {
-            "Team": "Newmarket HS",
-            "MP": "6",
-            "MW": "5",
-            "ML": "1",
-            "GW": "11",
-            "GL": "4",
-            "PTS": "5",
-            "PF": "335",
-            "PA": "263",
-            "DIFF": "72"
-        },
-        {
             "Team": "Dr. J.M. Denison",
             "MP": "6",
             "MW": "4",
@@ -311,18 +311,6 @@
             "PF": "316",
             "PA": "250",
             "DIFF": "66"
-        },
-        {
-            "Team": "Sutton District",
-            "MP": "6",
-            "MW": "4",
-            "ML": "2",
-            "GW": "8",
-            "GL": "6",
-            "PTS": "4",
-            "PF": "296",
-            "PA": "301",
-            "DIFF": "-5"
         },
         {
             "Team": "Huron Heights",
@@ -349,16 +337,28 @@
             "DIFF": "-15"
         },
         {
-            "Team": "Keswick High School",
+            "Team": "Sutton District",
             "MP": "6",
-            "MW": "3",
-            "ML": "3",
-            "GW": "7",
-            "GL": "8",
-            "PTS": "3",
-            "PF": "291",
-            "PA": "294",
-            "DIFF": "-3"
+            "MW": "4",
+            "ML": "2",
+            "GW": "8",
+            "GL": "6",
+            "PTS": "4",
+            "PF": "296",
+            "PA": "301",
+            "DIFF": "-5"
+        },
+        {
+            "Team": "Keswick High School",
+            "MP": "8",
+            "MW": "4",
+            "ML": "4",
+            "GW": "9",
+            "GL": "10",
+            "PTS": "4",
+            "PF": "371",
+            "PA": "371",
+            "DIFF": "0"
         },
         {
             "Team": "Sacred Heart",
@@ -410,15 +410,15 @@
         },
         {
             "Team": "Sir William Mulock",
-            "MP": "4",
+            "MP": "6",
             "MW": "0",
-            "ML": "4",
+            "ML": "6",
             "GW": "2",
-            "GL": "8",
+            "GL": "12",
             "PTS": "0",
-            "PF": "184",
-            "PA": "228",
-            "DIFF": "-44"
+            "PF": "234",
+            "PA": "328",
+            "DIFF": "-94"
         },
         {
             "Team": "West",
@@ -457,6 +457,18 @@
             "DIFF": "63"
         },
         {
+            "Team": "Hodan Nalayeh SS",
+            "MP": "2",
+            "MW": "2",
+            "ML": "0",
+            "GW": "4",
+            "GL": "0",
+            "PTS": "2",
+            "PF": "102",
+            "PA": "81",
+            "DIFF": "21"
+        },
+        {
             "Team": "St. Joan Of Arc",
             "MP": "6",
             "MW": "2",
@@ -467,18 +479,6 @@
             "PF": "238",
             "PA": "322",
             "DIFF": "-84"
-        },
-        {
-            "Team": "Woodbridge College",
-            "MP": "3",
-            "MW": "2",
-            "ML": "1",
-            "GW": "5",
-            "GL": "2",
-            "PTS": "2",
-            "PF": "152",
-            "PA": "131",
-            "DIFF": "21"
         },
         {
             "Team": "Toronto District Christian",
@@ -493,16 +493,16 @@
             "DIFF": "-53"
         },
         {
-            "Team": "Hodan Nalayeh SS",
-            "MP": "0",
-            "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "Team": "Woodbridge College",
+            "MP": "4",
+            "MW": "2",
+            "ML": "2",
+            "GW": "5",
+            "GL": "4",
+            "PTS": "2",
+            "PF": "196",
+            "PA": "183",
+            "DIFF": "13"
         },
         {
             "Team": "St. Jean De Brebeuf CHS",
@@ -518,15 +518,15 @@
         },
         {
             "Team": "Stephen Lewis SS",
-            "MP": "2",
+            "MP": "3",
             "MW": "0",
-            "ML": "2",
+            "ML": "3",
             "GW": "0",
-            "GL": "4",
+            "GL": "6",
             "PTS": "0",
-            "PF": "64",
-            "PA": "100",
-            "DIFF": "-36"
+            "PF": "101",
+            "PA": "150",
+            "DIFF": "-49"
         },
         {
             "Team": "Father Bressani",

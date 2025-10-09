@@ -13,16 +13,28 @@
             "DIFF": "DIFF"
         },
         {
-            "Team": "Hodan Nalayeh SS",
+            "Team": "Father McGivney",
             "MP": "8",
             "MW": "7",
             "ML": "1",
             "GW": "14",
             "GL": "3",
             "PTS": "7",
-            "PF": "405",
-            "PA": "315",
-            "DIFF": "90"
+            "PF": "414",
+            "PA": "332",
+            "DIFF": "82"
+        },
+        {
+            "Team": "Hodan Nalayeh SS",
+            "MP": "9",
+            "MW": "7",
+            "ML": "2",
+            "GW": "14",
+            "GL": "5",
+            "PTS": "7",
+            "PF": "442",
+            "PA": "365",
+            "DIFF": "77"
         },
         {
             "Team": "St. Augustine",
@@ -35,18 +47,6 @@
             "PF": "309",
             "PA": "208",
             "DIFF": "101"
-        },
-        {
-            "Team": "Father McGivney",
-            "MP": "6",
-            "MW": "5",
-            "ML": "1",
-            "GW": "10",
-            "GL": "3",
-            "PTS": "5",
-            "PF": "314",
-            "PA": "258",
-            "DIFF": "56"
         },
         {
             "Team": "Father Bressani",
@@ -86,15 +86,15 @@
         },
         {
             "Team": "St. Joan Of Arc",
-            "MP": "6",
+            "MP": "7",
             "MW": "2",
-            "ML": "4",
+            "ML": "5",
             "GW": "5",
-            "GL": "9",
+            "GL": "11",
             "PTS": "2",
-            "PF": "271",
-            "PA": "295",
-            "DIFF": "-24"
+            "PF": "308",
+            "PA": "345",
+            "DIFF": "-37"
         },
         {
             "Team": "Thornhill SS",
