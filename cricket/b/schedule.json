@@ -20,12 +20,12 @@
         },
         {
             "date": "Thursday, October 9, 2025 - PLAYOFFS",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Father McGivney",
+            "away_team": "Markham District",
+            "time": "2:00 PM",
+            "location": "Kirkham Cricket Field",
+            "game_played": true,
+            "final_score": "Father McGivney 69, Markham District 54"
         },
         {
             "date": "Friday, October 10, 2025",
