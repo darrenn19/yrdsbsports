@@ -29,12 +29,30 @@
         },
         {
             "date": "Thursday, October 9, 2025",
+            "home_team": "King City SS",
+            "away_team": "St. Elizabeth",
+            "time": "3:45 PM",
+            "location": "King City SS",
+            "game_played": true,
+            "final_score": "King City SS 0, St. Elizabeth 2"
+        },
+        {
+            "date": "Thursday, October 9, 2025",
             "home_team": "Our Lady Queen Of The World",
             "away_team": "Langstaff SS",
             "time": "3:00 PM",
             "location": "Our Lady Queen Of The World",
             "game_played": true,
             "final_score": "Our Lady Queen Of The World 2, Langstaff SS 2"
+        },
+        {
+            "date": "Thursday, October 9, 2025",
+            "home_team": "Renaissance ESC",
+            "away_team": "Maple High School",
+            "time": "3:30 PM",
+            "location": "Renaissance ESC",
+            "game_played": true,
+            "final_score": "Renaissance ESC 2, Maple High School 2"
         },
         {
             "date": "Thursday, October 9, 2025",
