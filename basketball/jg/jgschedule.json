@@ -28,6 +28,15 @@
             "final_score": "Bill Crothers SS 45, Markham District 14"
         },
         {
+            "date": "Thursday, October 9, 2025",
+            "home_team": "St. Theresa Of Lisieux",
+            "away_team": "St. Katharine Drexel",
+            "time": "3:45 PM",
+            "location": "St Theresa Of Lisieux CHS",
+            "game_played": true,
+            "final_score": "St. Theresa Of Lisieux 71, St. Katharine Drexel 19"
+        },
+        {
             "date": "Friday, October 10, 2025",
             "home_team": null,
             "away_team": null,
