@@ -74,6 +74,15 @@
         },
         {
             "date": "Wednesday, October 8, 2025",
+            "home_team": "Emily Carr",
+            "away_team": "Tommy Douglas SS",
+            "time": "3:45 PM",
+            "location": "Emily Carr SS",
+            "game_played": true,
+            "final_score": "Emily Carr 50, Tommy Douglas SS 41"
+        },
+        {
+            "date": "Wednesday, October 8, 2025",
             "home_team": "Hodan Nalayeh SS",
             "away_team": "Toronto District Christian",
             "time": "3:45 PM",

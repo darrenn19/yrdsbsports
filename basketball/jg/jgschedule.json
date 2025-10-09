@@ -29,12 +29,12 @@
         },
         {
             "date": "Wednesday, October 8, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Sir William Mulock",
+            "away_team": "Newmarket HS",
+            "time": "3:30 PM",
+            "location": "Sir William Mulock",
+            "game_played": true,
+            "final_score": "Sir William Mulock 21, Newmarket HS 48"
         },
         {
             "date": "Thursday, October 9, 2025",

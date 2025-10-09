@@ -19,7 +19,16 @@
             "final_score": "Father McGivney 69, Middlefield 98"
         },
         {
-            "date": "Thursday, October 9, 2025",
+            "date": "Wednesday, October 8, 2025",
+            "home_team": "Markham District",
+            "away_team": "Middlefield",
+            "time": "2:00 PM",
+            "location": "Kirkham Cricket Field",
+            "game_played": true,
+            "final_score": "Markham District 98, Middlefield 59"
+        },
+        {
+            "date": "Thursday, October 9, 2025 - PLAYOFFS",
             "home_team": null,
             "away_team": null,
             "time": null,
