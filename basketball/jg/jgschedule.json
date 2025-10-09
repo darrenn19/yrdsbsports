@@ -20,12 +20,12 @@
         },
         {
             "date": "Thursday, October 9, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Bill Crothers SS",
+            "away_team": "Markham District",
+            "time": "3:45 PM",
+            "location": "Bill Crothers SS",
+            "game_played": true,
+            "final_score": "Bill Crothers SS 45, Markham District 14"
         },
         {
             "date": "Friday, October 10, 2025",
