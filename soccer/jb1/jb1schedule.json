@@ -11,12 +11,12 @@
         },
         {
             "date": "Wednesday, October 8, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Cardinal Carter",
+            "away_team": "St. Brother Andre",
+            "time": "3:00 PM",
+            "location": "Stewart Burnett Park",
+            "game_played": true,
+            "final_score": "Cardinal Carter 5, St. Brother Andre 2"
         },
         {
             "date": "Thursday, October 9, 2025",
