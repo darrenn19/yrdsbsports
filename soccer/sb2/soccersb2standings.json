@@ -11,14 +11,14 @@
             "DIFF": "DIFF"
         },
         {
-            "Team": "St. Robert",
-            "W": "2",
+            "Team": "Thornhill SS",
+            "W": "3",
             "L": "0",
-            "T": "1",
-            "PTS": "7",
-            "GF": "14",
-            "GA": "4",
-            "DIFF": "8"
+            "T": "0",
+            "PTS": "9",
+            "GF": "15",
+            "GA": "3",
+            "DIFF": "12"
         },
         {
             "Team": "Langstaff SS",
@@ -31,24 +31,24 @@
             "DIFF": "7"
         },
         {
-            "Team": "Thornhill SS",
+            "Team": "St. Robert",
             "W": "2",
             "L": "0",
-            "T": "0",
-            "PTS": "6",
-            "GF": "12",
-            "GA": "3",
-            "DIFF": "9"
+            "T": "1",
+            "PTS": "7",
+            "GF": "14",
+            "GA": "4",
+            "DIFF": "8"
         },
         {
             "Team": "Our Lady Queen Of The World",
             "W": "2",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "6",
             "GF": "7",
-            "GA": "2",
-            "DIFF": "5"
+            "GA": "5",
+            "DIFF": "2"
         },
         {
             "Team": "Richmond Green SS",
@@ -206,9 +206,9 @@
             "L": "1",
             "T": "0",
             "PTS": "6",
-            "GF": "8",
+            "GF": "9",
             "GA": "6",
-            "DIFF": "2"
+            "DIFF": "3"
         },
         {
             "Team": "Aurora HS",
@@ -247,8 +247,8 @@
             "T": "0",
             "PTS": "3",
             "GF": "6",
-            "GA": "9",
-            "DIFF": "-3"
+            "GA": "10",
+            "DIFF": "-4"
         },
         {
             "Team": "Keswick High School",

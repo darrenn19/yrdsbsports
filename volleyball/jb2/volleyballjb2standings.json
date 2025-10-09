@@ -25,28 +25,40 @@
             "DIFF": "82"
         },
         {
-            "Team": "Hodan Nalayeh SS",
-            "MP": "9",
+            "Team": "St. Augustine",
+            "MP": "7",
             "MW": "7",
-            "ML": "2",
+            "ML": "0",
             "GW": "14",
-            "GL": "5",
+            "GL": "1",
             "PTS": "7",
-            "PF": "442",
-            "PA": "365",
-            "DIFF": "77"
+            "PF": "369",
+            "PA": "257",
+            "DIFF": "112"
         },
         {
-            "Team": "St. Augustine",
+            "Team": "Hodan Nalayeh SS",
+            "MP": "10",
+            "MW": "7",
+            "ML": "3",
+            "GW": "15",
+            "GL": "7",
+            "PTS": "7",
+            "PF": "491",
+            "PA": "425",
+            "DIFF": "66"
+        },
+        {
+            "Team": "Tommy Douglas SS",
             "MP": "6",
-            "MW": "6",
-            "ML": "0",
-            "GW": "12",
-            "GL": "0",
-            "PTS": "6",
-            "PF": "309",
-            "PA": "208",
-            "DIFF": "101"
+            "MW": "4",
+            "ML": "2",
+            "GW": "8",
+            "GL": "5",
+            "PTS": "4",
+            "PF": "281",
+            "PA": "254",
+            "DIFF": "27"
         },
         {
             "Team": "Father Bressani",
@@ -61,18 +73,6 @@
             "DIFF": "-14"
         },
         {
-            "Team": "Tommy Douglas SS",
-            "MP": "4",
-            "MW": "2",
-            "ML": "2",
-            "GW": "4",
-            "GL": "5",
-            "PTS": "2",
-            "PF": "181",
-            "PA": "187",
-            "DIFF": "-6"
-        },
-        {
             "Team": "Emily Carr",
             "MP": "8",
             "MW": "2",
@@ -83,6 +83,18 @@
             "PF": "306",
             "PA": "386",
             "DIFF": "-80"
+        },
+        {
+            "Team": "Toronto District Christian",
+            "MP": "6",
+            "MW": "2",
+            "ML": "4",
+            "GW": "7",
+            "GL": "8",
+            "PTS": "2",
+            "PF": "294",
+            "PA": "289",
+            "DIFF": "5"
         },
         {
             "Team": "St. Joan Of Arc",
@@ -98,39 +110,27 @@
         },
         {
             "Team": "Thornhill SS",
-            "MP": "4",
+            "MP": "6",
             "MW": "1",
-            "ML": "3",
+            "ML": "5",
             "GW": "3",
-            "GL": "6",
+            "GL": "10",
             "PTS": "1",
-            "PF": "169",
-            "PA": "201",
-            "DIFF": "-32"
+            "PF": "236",
+            "PA": "301",
+            "DIFF": "-65"
         },
         {
             "Team": "ESC De L Ascension",
-            "MP": "4",
+            "MP": "6",
             "MW": "0",
-            "ML": "4",
+            "ML": "6",
             "GW": "0",
-            "GL": "8",
+            "GL": "12",
             "PTS": "0",
-            "PF": "151",
-            "PA": "203",
-            "DIFF": "-52"
-        },
-        {
-            "Team": "Toronto District Christian",
-            "MP": "4",
-            "MW": "0",
-            "ML": "4",
-            "GW": "3",
-            "GL": "8",
-            "PTS": "0",
-            "PF": "194",
-            "PA": "233",
-            "DIFF": "-39"
+            "PF": "207",
+            "PA": "303",
+            "DIFF": "-96"
         },
         {
             "Team": "North",

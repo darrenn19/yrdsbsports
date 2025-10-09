@@ -62,15 +62,39 @@
         },
         {
             "Team": "Our Lady Queen Of The World",
-            "MP": "6",
+            "MP": "8",
             "MW": "2",
-            "ML": "4",
-            "GW": "5",
-            "GL": "8",
+            "ML": "6",
+            "GW": "6",
+            "GL": "12",
             "PTS": "2",
-            "PF": "277",
-            "PA": "299",
-            "DIFF": "-22"
+            "PF": "368",
+            "PA": "411",
+            "DIFF": "-43"
+        },
+        {
+            "Team": "Langstaff SS",
+            "MP": "8",
+            "MW": "2",
+            "ML": "6",
+            "GW": "6",
+            "GL": "12",
+            "PTS": "2",
+            "PF": "371",
+            "PA": "404",
+            "DIFF": "-33"
+        },
+        {
+            "Team": "Thornlea SS",
+            "MP": "3",
+            "MW": "2",
+            "ML": "1",
+            "GW": "4",
+            "GL": "3",
+            "PTS": "2",
+            "PF": "155",
+            "PA": "137",
+            "DIFF": "18"
         },
         {
             "Team": "Bayview SS",
@@ -95,30 +119,6 @@
             "PF": "231",
             "PA": "265",
             "DIFF": "-34"
-        },
-        {
-            "Team": "Langstaff SS",
-            "MP": "7",
-            "MW": "1",
-            "ML": "6",
-            "GW": "4",
-            "GL": "12",
-            "PTS": "1",
-            "PF": "321",
-            "PA": "371",
-            "DIFF": "-50"
-        },
-        {
-            "Team": "Thornlea SS",
-            "MP": "2",
-            "MW": "1",
-            "ML": "1",
-            "GW": "2",
-            "GL": "2",
-            "PTS": "1",
-            "PF": "93",
-            "PA": "79",
-            "DIFF": "14"
         },
         {
             "Team": "Alexander Mackenzie",

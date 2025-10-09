@@ -81,6 +81,16 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Cardinal Carter",
+            "W": "3",
+            "L": "0",
+            "T": "0",
+            "PTS": "9",
+            "GF": "15",
+            "GA": "5",
+            "DIFF": "9"
+        },
+        {
             "Team": "St. Maximilian",
             "W": "2",
             "L": "1",
@@ -89,16 +99,6 @@
             "GF": "6",
             "GA": "4",
             "DIFF": "2"
-        },
-        {
-            "Team": "Cardinal Carter",
-            "W": "2",
-            "L": "0",
-            "T": "0",
-            "PTS": "6",
-            "GF": "10",
-            "GA": "3",
-            "DIFF": "6"
         },
         {
             "Team": "St. Katharine Drexel",
@@ -123,12 +123,12 @@
         {
             "Team": "St. Brother Andre",
             "W": "0",
-            "L": "3",
+            "L": "4",
             "T": "0",
             "PTS": "0",
-            "GF": "2",
-            "GA": "7",
-            "DIFF": "-5"
+            "GF": "4",
+            "GA": "12",
+            "DIFF": "-8"
         }
     ]
 }

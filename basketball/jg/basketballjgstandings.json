@@ -123,14 +123,14 @@
         },
         {
             "Team": "Sacred Heart",
-            "GP": "3",
-            "W": "2",
+            "GP": "4",
+            "W": "3",
             "L": "1",
             "T": "0",
-            "PTS": "4",
-            "PF": "126",
-            "PA": "105",
-            "DIFF": "15"
+            "PTS": "6",
+            "PF": "169",
+            "PA": "128",
+            "DIFF": "30"
         },
         {
             "Team": "Sir William Mulock",
@@ -145,14 +145,14 @@
         },
         {
             "Team": "Keswick High School",
-            "GP": "3",
+            "GP": "4",
             "W": "1",
-            "L": "2",
+            "L": "3",
             "T": "0",
             "PTS": "2",
-            "PF": "85",
-            "PA": "123",
-            "DIFF": "-26"
+            "PF": "108",
+            "PA": "166",
+            "DIFF": "-41"
         },
         {
             "Team": "ESC De L Ascension",

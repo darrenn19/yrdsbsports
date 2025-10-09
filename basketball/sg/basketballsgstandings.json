@@ -320,6 +320,17 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Emily Carr",
+            "GP": "5",
+            "W": "4",
+            "L": "1",
+            "T": "0",
+            "PTS": "8",
+            "PF": "227",
+            "PA": "178",
+            "DIFF": "39"
+        },
+        {
             "Team": "Hodan Nalayeh SS",
             "GP": "4",
             "W": "4",
@@ -329,17 +340,6 @@
             "PF": "195",
             "PA": "127",
             "DIFF": "57"
-        },
-        {
-            "Team": "Emily Carr",
-            "GP": "4",
-            "W": "3",
-            "L": "1",
-            "T": "0",
-            "PTS": "6",
-            "PF": "177",
-            "PA": "137",
-            "DIFF": "30"
         },
         {
             "Team": "Toronto District Christian",
@@ -365,14 +365,14 @@
         },
         {
             "Team": "Tommy Douglas SS",
-            "GP": "3",
+            "GP": "4",
             "W": "2",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "4",
-            "PF": "139",
-            "PA": "116",
-            "DIFF": "15"
+            "PF": "180",
+            "PA": "166",
+            "DIFF": "6"
         },
         {
             "Team": "Stephen Lewis SS",
