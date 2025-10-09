@@ -65,6 +65,15 @@
         },
         {
             "date": "Thursday, October 9, 2025",
+            "home_team": "Bur Oak SS",
+            "away_team": "Father McGivney",
+            "time": "3:45 PM",
+            "location": "Bur Oak SS",
+            "game_played": true,
+            "final_score": "Bur Oak SS 45, Father McGivney 52"
+        },
+        {
+            "date": "Thursday, October 9, 2025",
             "home_team": "Thornlea SS",
             "away_team": "St. Theresa Of Lisieux",
             "time": "3:45 PM",

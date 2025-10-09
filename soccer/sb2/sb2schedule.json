@@ -37,6 +37,15 @@
             "final_score": "Our Lady Queen Of The World 2, Langstaff SS 2"
         },
         {
+            "date": "Thursday, October 9, 2025",
+            "home_team": "Woodbridge College",
+            "away_team": "Toronto District Christian",
+            "time": "3:45 PM",
+            "location": "Woodbridge College",
+            "game_played": true,
+            "final_score": "Woodbridge College 5, Toronto District Christian 3"
+        },
+        {
             "date": "Friday, October 10, 2025",
             "home_team": null,
             "away_team": null,
