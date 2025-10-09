@@ -1,69 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, October 7, 2025",
-            "home_team": "Alexander Mackenzie",
-            "away_team": "St. Augustine",
-            "time": "3:45 PM",
-            "location": "Alexander Mackenzie HS",
-            "game_played": true,
-            "final_score": "Alexander Mackenzie 34, St. Augustine 33"
-        },
-        {
-            "date": "Tuesday, October 7, 2025",
-            "home_team": "Markham District",
-            "away_team": "Bur Oak SS",
-            "time": "3:30 PM",
-            "location": "Markham DHS",
-            "game_played": true,
-            "final_score": "Markham District 47, Bur Oak SS 39"
-        },
-        {
-            "date": "Tuesday, October 7, 2025",
-            "home_team": "Markville",
-            "away_team": "Bill Hogarth SS",
-            "time": "3:45 PM",
-            "location": "Markville SS",
-            "game_played": true,
-            "final_score": "Markville 13, Bill Hogarth SS 50"
-        },
-        {
-            "date": "Tuesday, October 7, 2025",
-            "home_team": "Middlefield",
-            "away_team": "St. Brother Andre",
-            "time": "3:45 PM",
-            "location": "Middlefield CI",
-            "game_played": true,
-            "final_score": "Middlefield 46, St. Brother Andre 41"
-        },
-        {
-            "date": "Tuesday, October 7, 2025",
-            "home_team": "Our Lady Queen Of The World",
-            "away_team": "Thornlea SS",
-            "time": "3:45 PM",
-            "location": "Our Lady Queen Of The World",
-            "game_played": true,
-            "final_score": "Our Lady Queen Of The World 35, Thornlea SS 21"
-        },
-        {
-            "date": "Tuesday, October 7, 2025",
-            "home_team": "Pierre Elliott Trudeau",
-            "away_team": "Unionville HS",
-            "time": "3:45 PM",
-            "location": "PE Trudeau HS",
-            "game_played": true,
-            "final_score": "Pierre Elliott Trudeau 51, Unionville HS 70"
-        },
-        {
-            "date": "Tuesday, October 7, 2025",
-            "home_team": "Richmond Green SS",
-            "away_team": "St. Robert",
-            "time": "4:00 PM",
-            "location": "Richmond Green SS",
-            "game_played": true,
-            "final_score": "Richmond Green SS 34, St. Robert 52"
-        },
-        {
             "date": "Wednesday, October 8, 2025",
             "home_team": "Dr. J.M. Denison",
             "away_team": "Aurora HS",
@@ -164,6 +101,15 @@
         },
         {
             "date": "Monday, October 13, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, October 14, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
