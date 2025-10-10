@@ -20,6 +20,15 @@
         },
         {
             "date": "Thursday, October 9, 2025",
+            "home_team": "Newmarket HS",
+            "away_team": "Keswick High School",
+            "time": "3:45 PM",
+            "location": "Newmarket HS",
+            "game_played": true,
+            "final_score": "Newmarket HS 1, Keswick High School 0"
+        },
+        {
+            "date": "Thursday, October 9, 2025",
             "home_team": "Our Lady Queen Of The World",
             "away_team": "Langstaff SS",
             "time": "3:00 PM",
