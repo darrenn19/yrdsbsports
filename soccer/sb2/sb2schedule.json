@@ -2,6 +2,15 @@
     "schedule": [
         {
             "date": "Thursday, October 9, 2025",
+            "home_team": "Bill Crothers SS",
+            "away_team": "Milliken Mills",
+            "time": "3:45 PM",
+            "location": "Bill Crothers SS",
+            "game_played": true,
+            "final_score": "Bill Crothers SS 4, Milliken Mills 1"
+        },
+        {
+            "date": "Thursday, October 9, 2025",
             "home_team": "Dr. J.M. Denison",
             "away_team": "Dr. G.W. Williams",
             "time": "3:00 PM",
