@@ -20,12 +20,12 @@
         },
         {
             "date": "Friday, October 10, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Richmond Hill HS",
+            "away_team": "Unionville HS",
+            "time": "3:45 PM",
+            "location": "Richmond Hill HS",
+            "game_played": true,
+            "final_score": "Richmond Hill HS 38, Unionville HS 46"
         },
         {
             "date": "Saturday, October 11, 2025",
