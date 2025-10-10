@@ -23,6 +23,17 @@
             "DIFF": "54"
         },
         {
+            "Team": "Our Lady Queen Of The World",
+            "GP": "4",
+            "W": "3",
+            "L": "1",
+            "T": "0",
+            "PTS": "6",
+            "PF": "154",
+            "PA": "95",
+            "DIFF": "32"
+        },
+        {
             "Team": "Thornlea SS",
             "GP": "4",
             "W": "3",
@@ -56,26 +67,15 @@
             "DIFF": "-6"
         },
         {
-            "Team": "Our Lady Queen Of The World",
-            "GP": "3",
-            "W": "2",
-            "L": "1",
-            "T": "0",
-            "PTS": "4",
-            "PF": "96",
-            "PA": "79",
-            "DIFF": "17"
-        },
-        {
             "Team": "Richmond Green SS",
-            "GP": "4",
+            "GP": "5",
             "W": "0",
-            "L": "4",
+            "L": "5",
             "T": "0",
             "PTS": "0",
-            "PF": "109",
-            "PA": "198",
-            "DIFF": "-60"
+            "PF": "125",
+            "PA": "256",
+            "DIFF": "-75"
         },
         {
             "Team": "St. Theresa Of Lisieux",

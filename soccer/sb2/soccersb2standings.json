@@ -41,6 +41,16 @@
             "DIFF": "7"
         },
         {
+            "Team": "Richmond Green SS",
+            "W": "2",
+            "L": "1",
+            "T": "1",
+            "PTS": "7",
+            "GF": "8",
+            "GA": "5",
+            "DIFF": "3"
+        },
+        {
             "Team": "Our Lady Queen Of The World",
             "W": "2",
             "L": "1",
@@ -48,16 +58,6 @@
             "PTS": "7",
             "GF": "9",
             "GA": "7",
-            "DIFF": "2"
-        },
-        {
-            "Team": "Richmond Green SS",
-            "W": "1",
-            "L": "1",
-            "T": "1",
-            "PTS": "4",
-            "GF": "7",
-            "GA": "5",
             "DIFF": "2"
         },
         {
@@ -73,12 +73,12 @@
         {
             "Team": "Unionville HS",
             "W": "0",
-            "L": "3",
+            "L": "4",
             "T": "0",
             "PTS": "0",
             "GF": "1",
-            "GA": "17",
-            "DIFF": "-14"
+            "GA": "18",
+            "DIFF": "-15"
         },
         {
             "Team": "Alexander Mackenzie",
@@ -191,6 +191,26 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Newmarket HS",
+            "W": "4",
+            "L": "0",
+            "T": "0",
+            "PTS": "12",
+            "GF": "15",
+            "GA": "2",
+            "DIFF": "10"
+        },
+        {
+            "Team": "Huron Heights",
+            "W": "3",
+            "L": "1",
+            "T": "0",
+            "PTS": "9",
+            "GF": "15",
+            "GA": "6",
+            "DIFF": "8"
+        },
+        {
             "Team": "Aurora HS",
             "W": "3",
             "L": "1",
@@ -201,34 +221,14 @@
             "DIFF": "4"
         },
         {
-            "Team": "Newmarket HS",
+            "Team": "Dr. J.M. Denison",
             "W": "3",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "9",
-            "GF": "14",
-            "GA": "2",
-            "DIFF": "9"
-        },
-        {
-            "Team": "Dr. J.M. Denison",
-            "W": "2",
-            "L": "1",
-            "T": "0",
-            "PTS": "6",
-            "GF": "16",
-            "GA": "4",
-            "DIFF": "9"
-        },
-        {
-            "Team": "Huron Heights",
-            "W": "2",
-            "L": "1",
-            "T": "0",
-            "PTS": "6",
-            "GF": "9",
-            "GA": "6",
-            "DIFF": "3"
+            "GF": "24",
+            "GA": "5",
+            "DIFF": "14"
         },
         {
             "Team": "Sir William Mulock",
@@ -243,32 +243,32 @@
         {
             "Team": "Dr. G.W. Williams",
             "W": "1",
-            "L": "2",
+            "L": "3",
             "T": "0",
             "PTS": "3",
-            "GF": "6",
-            "GA": "10",
-            "DIFF": "-4"
+            "GF": "7",
+            "GA": "18",
+            "DIFF": "-9"
         },
         {
             "Team": "Keswick High School",
             "W": "1",
-            "L": "2",
+            "L": "3",
             "T": "0",
             "PTS": "3",
             "GF": "4",
-            "GA": "10",
-            "DIFF": "-5"
+            "GA": "11",
+            "DIFF": "-6"
         },
         {
             "Team": "Sutton District",
             "W": "0",
-            "L": "3",
+            "L": "4",
             "T": "0",
             "PTS": "0",
             "GF": "1",
-            "GA": "17",
-            "DIFF": "-12"
+            "GA": "23",
+            "DIFF": "-17"
         },
         {
             "Team": "West",

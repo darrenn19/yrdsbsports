@@ -13,6 +13,18 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "St. Augustine",
+            "MP": "8",
+            "MW": "8",
+            "ML": "0",
+            "GW": "16",
+            "GL": "1",
+            "PTS": "8",
+            "PF": "419",
+            "PA": "275",
+            "DIFF": "144"
+        },
+        {
             "Team": "Father McGivney",
             "MP": "8",
             "MW": "7",
@@ -23,18 +35,6 @@
             "PF": "414",
             "PA": "332",
             "DIFF": "82"
-        },
-        {
-            "Team": "St. Augustine",
-            "MP": "7",
-            "MW": "7",
-            "ML": "0",
-            "GW": "14",
-            "GL": "1",
-            "PTS": "7",
-            "PF": "369",
-            "PA": "257",
-            "DIFF": "112"
         },
         {
             "Team": "Hodan Nalayeh SS",
@@ -98,15 +98,15 @@
         },
         {
             "Team": "St. Joan Of Arc",
-            "MP": "7",
+            "MP": "8",
             "MW": "2",
-            "ML": "5",
+            "ML": "6",
             "GW": "5",
-            "GL": "11",
+            "GL": "13",
             "PTS": "2",
-            "PF": "308",
-            "PA": "345",
-            "DIFF": "-37"
+            "PF": "326",
+            "PA": "395",
+            "DIFF": "-69"
         },
         {
             "Team": "Thornhill SS",
@@ -157,6 +157,18 @@
             "DIFF": "71"
         },
         {
+            "Team": "Stouffville",
+            "MP": "6",
+            "MW": "4",
+            "ML": "2",
+            "GW": "9",
+            "GL": "5",
+            "PTS": "4",
+            "PF": "305",
+            "PA": "256",
+            "DIFF": "49"
+        },
+        {
             "Team": "Renaissance ESC",
             "MP": "5",
             "MW": "4",
@@ -169,64 +181,52 @@
             "DIFF": "24"
         },
         {
+            "Team": "Sir William Mulock",
+            "MP": "6",
+            "MW": "3",
+            "ML": "3",
+            "GW": "9",
+            "GL": "7",
+            "PTS": "3",
+            "PF": "339",
+            "PA": "272",
+            "DIFF": "67"
+        },
+        {
             "Team": "St. Maximilian",
-            "MP": "3",
+            "MP": "5",
             "MW": "2",
-            "ML": "1",
+            "ML": "3",
             "GW": "4",
-            "GL": "3",
+            "GL": "7",
             "PTS": "2",
-            "PF": "146",
-            "PA": "144",
-            "DIFF": "2"
+            "PF": "202",
+            "PA": "244",
+            "DIFF": "-42"
         },
         {
             "Team": "Dr. J.M. Denison",
-            "MP": "4",
+            "MP": "5",
             "MW": "2",
-            "ML": "2",
-            "GW": "4",
-            "GL": "4",
-            "PTS": "2",
-            "PF": "178",
-            "PA": "187",
-            "DIFF": "-9"
-        },
-        {
-            "Team": "Stouffville",
-            "MP": "4",
-            "MW": "2",
-            "ML": "2",
-            "GW": "5",
-            "GL": "5",
-            "PTS": "2",
-            "PF": "205",
-            "PA": "180",
-            "DIFF": "25"
-        },
-        {
-            "Team": "Sir William Mulock",
-            "MP": "4",
-            "MW": "1",
             "ML": "3",
             "GW": "5",
             "GL": "6",
-            "PTS": "1",
-            "PF": "226",
-            "PA": "205",
-            "DIFF": "21"
+            "PTS": "2",
+            "PF": "221",
+            "PA": "250",
+            "DIFF": "-29"
         },
         {
             "Team": "Keswick High School",
-            "MP": "4",
+            "MP": "5",
             "MW": "0",
-            "ML": "4",
+            "ML": "5",
             "GW": "2",
-            "GL": "8",
+            "GL": "10",
             "PTS": "0",
-            "PF": "183",
-            "PA": "223",
-            "DIFF": "-40"
+            "PF": "227",
+            "PA": "273",
+            "DIFF": "-46"
         },
         {
             "Team": "Sutton District",
