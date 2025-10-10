@@ -1,24 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, October 8, 2025",
-            "home_team": "Father McGivney",
-            "away_team": "Middlefield",
-            "time": "11:30 AM",
-            "location": "Kirkham Cricket Field",
-            "game_played": true,
-            "final_score": "Father McGivney 69, Middlefield 98"
-        },
-        {
-            "date": "Wednesday, October 8, 2025",
-            "home_team": "Markham District",
-            "away_team": "Middlefield",
-            "time": "2:00 PM",
-            "location": "Kirkham Cricket Field",
-            "game_played": true,
-            "final_score": "Markham District 98, Middlefield 59"
-        },
-        {
             "date": "Thursday, October 9, 2025 - PLAYOFFS",
             "home_team": "Father McGivney",
             "away_team": "Markham District",
@@ -65,6 +47,15 @@
         },
         {
             "date": "Tuesday, October 14, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, October 15, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
