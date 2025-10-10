@@ -12,26 +12,37 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "St. Theresa Of Lisieux",
+            "GP": "4",
+            "W": "4",
+            "L": "0",
+            "T": "0",
+            "PTS": "8",
+            "PF": "243",
+            "PA": "86",
+            "DIFF": "60"
+        },
+        {
             "Team": "Markham District",
+            "GP": "5",
+            "W": "3",
+            "L": "2",
+            "T": "0",
+            "PTS": "6",
+            "PF": "158",
+            "PA": "172",
+            "DIFF": "12"
+        },
+        {
+            "Team": "Bill Crothers SS",
             "GP": "4",
             "W": "3",
             "L": "1",
             "T": "0",
             "PTS": "6",
-            "PF": "144",
-            "PA": "127",
-            "DIFF": "27"
-        },
-        {
-            "Team": "St. Theresa Of Lisieux",
-            "GP": "3",
-            "W": "3",
-            "L": "0",
-            "T": "0",
-            "PTS": "6",
-            "PF": "172",
-            "PA": "67",
-            "DIFF": "45"
+            "PF": "185",
+            "PA": "80",
+            "DIFF": "30"
         },
         {
             "Team": "Stephen Lewis SS",
@@ -43,17 +54,6 @@
             "PF": "138",
             "PA": "167",
             "DIFF": "-4"
-        },
-        {
-            "Team": "Bill Crothers SS",
-            "GP": "3",
-            "W": "2",
-            "L": "1",
-            "T": "0",
-            "PTS": "4",
-            "PF": "140",
-            "PA": "66",
-            "DIFF": "15"
         },
         {
             "Team": "Richmond Hill HS",
@@ -79,14 +79,14 @@
         },
         {
             "Team": "St. Katharine Drexel",
-            "GP": "4",
+            "GP": "5",
             "W": "0",
-            "L": "4",
+            "L": "5",
             "T": "0",
             "PTS": "0",
-            "PF": "91",
-            "PA": "178",
-            "DIFF": "-56"
+            "PF": "110",
+            "PA": "249",
+            "DIFF": "-71"
         },
         {
             "Team": "North-West",

@@ -14,27 +14,27 @@
         },
         {
             "Team": "St. Robert",
-            "MP": "8",
-            "MW": "8",
+            "MP": "10",
+            "MW": "10",
             "ML": "0",
-            "GW": "16",
-            "GL": "3",
-            "PTS": "8",
-            "PF": "439",
-            "PA": "364",
-            "DIFF": "75"
+            "GW": "20",
+            "GL": "4",
+            "PTS": "10",
+            "PF": "548",
+            "PA": "459",
+            "DIFF": "89"
         },
         {
             "Team": "St. Theresa Of Lisieux",
-            "MP": "6",
+            "MP": "7",
             "MW": "5",
-            "ML": "1",
+            "ML": "2",
             "GW": "11",
-            "GL": "3",
+            "GL": "5",
             "PTS": "5",
-            "PF": "322",
-            "PA": "280",
-            "DIFF": "42"
+            "PF": "363",
+            "PA": "330",
+            "DIFF": "33"
         },
         {
             "Team": "Richmond Hill HS",
@@ -98,15 +98,15 @@
         },
         {
             "Team": "Bayview SS",
-            "MP": "2",
+            "MP": "3",
             "MW": "2",
-            "ML": "0",
-            "GW": "4",
-            "GL": "1",
+            "ML": "1",
+            "GW": "5",
+            "GL": "3",
             "PTS": "2",
-            "PF": "114",
-            "PA": "79",
-            "DIFF": "35"
+            "PF": "168",
+            "PA": "138",
+            "DIFF": "30"
         },
         {
             "Team": "St. Augustine",
@@ -434,15 +434,15 @@
         },
         {
             "Team": "Maple High School",
-            "MP": "6",
-            "MW": "6",
+            "MP": "8",
+            "MW": "8",
             "ML": "0",
-            "GW": "12",
+            "GW": "16",
             "GL": "0",
-            "PTS": "6",
-            "PF": "300",
-            "PA": "147",
-            "DIFF": "153"
+            "PTS": "8",
+            "PF": "400",
+            "PA": "191",
+            "DIFF": "209"
         },
         {
             "Team": "Tommy Douglas SS",
@@ -469,16 +469,16 @@
             "DIFF": "21"
         },
         {
-            "Team": "St. Joan Of Arc",
-            "MP": "6",
+            "Team": "Woodbridge College",
+            "MP": "5",
             "MW": "2",
-            "ML": "4",
+            "ML": "3",
             "GW": "5",
-            "GL": "10",
+            "GL": "6",
             "PTS": "2",
-            "PF": "238",
-            "PA": "322",
-            "DIFF": "-84"
+            "PF": "214",
+            "PA": "233",
+            "DIFF": "-19"
         },
         {
             "Team": "Toronto District Christian",
@@ -493,16 +493,28 @@
             "DIFF": "-53"
         },
         {
-            "Team": "Woodbridge College",
-            "MP": "4",
+            "Team": "St. Joan Of Arc",
+            "MP": "7",
             "MW": "2",
-            "ML": "2",
-            "GW": "5",
-            "GL": "4",
+            "ML": "5",
+            "GW": "6",
+            "GL": "12",
             "PTS": "2",
-            "PF": "196",
-            "PA": "183",
-            "DIFF": "13"
+            "PF": "291",
+            "PA": "382",
+            "DIFF": "-91"
+        },
+        {
+            "Team": "Stephen Lewis SS",
+            "MP": "5",
+            "MW": "1",
+            "ML": "4",
+            "GW": "2",
+            "GL": "9",
+            "PTS": "1",
+            "PF": "187",
+            "PA": "253",
+            "DIFF": "-66"
         },
         {
             "Team": "St. Jean De Brebeuf CHS",
@@ -515,18 +527,6 @@
             "PF": "42",
             "PA": "50",
             "DIFF": "-8"
-        },
-        {
-            "Team": "Stephen Lewis SS",
-            "MP": "3",
-            "MW": "0",
-            "ML": "3",
-            "GW": "0",
-            "GL": "6",
-            "PTS": "0",
-            "PF": "101",
-            "PA": "150",
-            "DIFF": "-49"
         },
         {
             "Team": "Father Bressani",
