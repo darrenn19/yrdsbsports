@@ -21,44 +21,44 @@
             "DIFF": "4"
         },
         {
-            "Team": "St. Theresa Of Lisieux",
+            "Team": "Our Lady Queen Of The World",
             "W": "2",
             "L": "1",
             "T": "0",
             "PTS": "6",
-            "GF": "14",
-            "GA": "6",
-            "DIFF": "7"
-        },
-        {
-            "Team": "Our Lady Queen Of The World",
-            "W": "1",
-            "L": "1",
-            "T": "0",
-            "PTS": "3",
-            "GF": "2",
-            "GA": "3",
-            "DIFF": "-1"
+            "GF": "4",
+            "GA": "4",
+            "DIFF": "0"
         },
         {
             "Team": "St. Jean De Brebeuf CHS",
-            "W": "1",
+            "W": "2",
             "L": "1",
             "T": "0",
-            "PTS": "3",
-            "GF": "3",
+            "PTS": "6",
+            "GF": "5",
             "GA": "2",
-            "DIFF": "1"
+            "DIFF": "3"
+        },
+        {
+            "Team": "St. Theresa Of Lisieux",
+            "W": "2",
+            "L": "2",
+            "T": "0",
+            "PTS": "6",
+            "GF": "15",
+            "GA": "8",
+            "DIFF": "6"
         },
         {
             "Team": "Father Bressani",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "1",
             "PTS": "1",
             "GF": "3",
-            "GA": "8",
-            "DIFF": "-5"
+            "GA": "10",
+            "DIFF": "-7"
         },
         {
             "Team": "St. Joan Of Arc",

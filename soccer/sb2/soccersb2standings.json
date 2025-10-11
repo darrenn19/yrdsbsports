@@ -131,6 +131,16 @@
             "DIFF": "5"
         },
         {
+            "Team": "Bill Crothers SS",
+            "W": "2",
+            "L": "2",
+            "T": "0",
+            "PTS": "6",
+            "GF": "8",
+            "GA": "6",
+            "DIFF": "2"
+        },
+        {
             "Team": "Bur Oak SS",
             "W": "1",
             "L": "2",
@@ -153,22 +163,12 @@
         {
             "Team": "Milliken Mills",
             "W": "1",
-            "L": "2",
+            "L": "3",
             "T": "0",
             "PTS": "3",
-            "GF": "4",
-            "GA": "6",
-            "DIFF": "-2"
-        },
-        {
-            "Team": "Bill Crothers SS",
-            "W": "1",
-            "L": "2",
-            "T": "0",
-            "PTS": "3",
-            "GF": "4",
-            "GA": "5",
-            "DIFF": "-1"
+            "GF": "5",
+            "GA": "10",
+            "DIFF": "-5"
         },
         {
             "Team": "Stouffville",

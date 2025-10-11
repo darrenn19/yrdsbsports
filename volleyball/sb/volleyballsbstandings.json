@@ -194,15 +194,27 @@
         },
         {
             "Team": "Milliken Mills",
-            "MP": "5",
+            "MP": "6",
             "MW": "2",
-            "ML": "3",
+            "ML": "4",
             "GW": "6",
-            "GL": "7",
+            "GL": "9",
             "PTS": "2",
-            "PF": "264",
-            "PA": "262",
-            "DIFF": "2"
+            "PF": "298",
+            "PA": "312",
+            "DIFF": "-14"
+        },
+        {
+            "Team": "Markville",
+            "MP": "4",
+            "MW": "2",
+            "ML": "2",
+            "GW": "5",
+            "GL": "4",
+            "PTS": "2",
+            "PF": "207",
+            "PA": "187",
+            "DIFF": "20"
         },
         {
             "Team": "Bill Hogarth SS",
@@ -217,18 +229,6 @@
             "DIFF": "41"
         },
         {
-            "Team": "Middlefield",
-            "MP": "6",
-            "MW": "1",
-            "ML": "5",
-            "GW": "2",
-            "GL": "11",
-            "PTS": "1",
-            "PF": "242",
-            "PA": "306",
-            "DIFF": "-64"
-        },
-        {
             "Team": "St. Brother Andre",
             "MP": "4",
             "MW": "1",
@@ -241,16 +241,16 @@
             "DIFF": "-41"
         },
         {
-            "Team": "Markville",
-            "MP": "3",
+            "Team": "Middlefield",
+            "MP": "6",
             "MW": "1",
-            "ML": "2",
-            "GW": "3",
-            "GL": "4",
+            "ML": "5",
+            "GW": "2",
+            "GL": "11",
             "PTS": "1",
-            "PF": "157",
-            "PA": "153",
-            "DIFF": "4"
+            "PF": "242",
+            "PA": "306",
+            "DIFF": "-64"
         },
         {
             "Team": "Stouffville",

@@ -11,6 +11,16 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "St. Jean De Brebeuf CHS",
+            "W": "3",
+            "L": "1",
+            "T": "0",
+            "PTS": "9",
+            "GF": "13",
+            "GA": "4",
+            "DIFF": "9"
+        },
+        {
             "Team": "Holy Cross",
             "W": "2",
             "L": "0",
@@ -19,16 +29,6 @@
             "GF": "10",
             "GA": "4",
             "DIFF": "6"
-        },
-        {
-            "Team": "St. Jean De Brebeuf CHS",
-            "W": "2",
-            "L": "1",
-            "T": "0",
-            "PTS": "6",
-            "GF": "8",
-            "GA": "3",
-            "DIFF": "5"
         },
         {
             "Team": "St. Theresa Of Lisieux",
@@ -73,12 +73,12 @@
         {
             "Team": "Father Bressani",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "2",
             "PTS": "2",
-            "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
+            "GF": "1",
+            "GA": "5",
+            "DIFF": "-4"
         },
         {
             "Team": "North-East",
