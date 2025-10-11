@@ -1,105 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, October 9, 2025",
-            "home_team": "Bill Crothers SS",
-            "away_team": "Milliken Mills",
-            "time": "3:45 PM",
-            "location": "Bill Crothers SS",
-            "game_played": true,
-            "final_score": "Bill Crothers SS 4, Milliken Mills 1"
-        },
-        {
-            "date": "Thursday, October 9, 2025",
-            "home_team": "Dr. J.M. Denison",
-            "away_team": "Dr. G.W. Williams",
-            "time": "3:00 PM",
-            "location": "Dr J M Denison SS",
-            "game_played": true,
-            "final_score": "Dr. J.M. Denison 8, Dr. G.W. Williams 1"
-        },
-        {
-            "date": "Thursday, October 9, 2025",
-            "home_team": "King City SS",
-            "away_team": "St. Elizabeth",
-            "time": "3:45 PM",
-            "location": "King City SS",
-            "game_played": true,
-            "final_score": "King City SS 0, St. Elizabeth 2"
-        },
-        {
-            "date": "Thursday, October 9, 2025",
-            "home_team": "Newmarket HS",
-            "away_team": "Keswick High School",
-            "time": "3:45 PM",
-            "location": "Newmarket HS",
-            "game_played": true,
-            "final_score": "Newmarket HS 1, Keswick High School 0"
-        },
-        {
-            "date": "Thursday, October 9, 2025",
-            "home_team": "Our Lady Queen Of The World",
-            "away_team": "Langstaff SS",
-            "time": "3:00 PM",
-            "location": "Our Lady Queen Of The World",
-            "game_played": true,
-            "final_score": "Our Lady Queen Of The World 2, Langstaff SS 2"
-        },
-        {
-            "date": "Thursday, October 9, 2025",
-            "home_team": "Renaissance ESC",
-            "away_team": "Maple High School",
-            "time": "3:30 PM",
-            "location": "Renaissance ESC",
-            "game_played": true,
-            "final_score": "Renaissance ESC 2, Maple High School 2"
-        },
-        {
-            "date": "Thursday, October 9, 2025",
-            "home_team": "Aurora HS",
-            "away_team": "Sir William Mulock",
-            "time": "3:45 PM",
-            "location": "Sheppards Bush",
-            "game_played": true,
-            "final_score": "Aurora HS 4, Sir William Mulock 2"
-        },
-        {
-            "date": "Thursday, October 9, 2025",
-            "home_team": "St. Robert",
-            "away_team": "Richmond Hill HS",
-            "time": "3:30 PM",
-            "location": "St Robert CHS",
-            "game_played": true,
-            "final_score": "St. Robert 8, Richmond Hill HS 1"
-        },
-        {
-            "date": "Thursday, October 9, 2025",
-            "home_team": "Sutton District",
-            "away_team": "Huron Heights",
-            "time": "3:45 PM",
-            "location": "Sutton DHS",
-            "game_played": true,
-            "final_score": "Sutton District 0, Huron Heights 6"
-        },
-        {
-            "date": "Thursday, October 9, 2025",
-            "home_team": "Unionville HS",
-            "away_team": "Richmond Green SS",
-            "time": "3:45 PM",
-            "location": "Unionville HS",
-            "game_played": true,
-            "final_score": "Unionville HS 0, Richmond Green SS 1"
-        },
-        {
-            "date": "Thursday, October 9, 2025",
-            "home_team": "Woodbridge College",
-            "away_team": "Toronto District Christian",
-            "time": "3:45 PM",
-            "location": "Woodbridge College",
-            "game_played": true,
-            "final_score": "Woodbridge College 5, Toronto District Christian 3"
-        },
-        {
             "date": "Friday, October 10, 2025",
             "home_team": null,
             "away_team": null,
@@ -146,6 +47,15 @@
         },
         {
             "date": "Wednesday, October 15, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, October 16, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

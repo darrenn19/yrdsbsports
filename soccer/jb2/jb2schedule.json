@@ -1,24 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, October 9, 2025",
-            "home_team": "Bill Hogarth SS",
-            "away_team": "Keswick High School",
-            "time": "3:45 PM",
-            "location": "Bill Hogarth SS",
-            "game_played": true,
-            "final_score": "Bill Hogarth SS 4, Keswick High School 1"
-        },
-        {
-            "date": "Thursday, October 9, 2025",
-            "home_team": "Dr. J.M. Denison",
-            "away_team": "Dr. G.W. Williams",
-            "time": "4:15 PM",
-            "location": "Dr J M Denison SS",
-            "game_played": true,
-            "final_score": "Dr. J.M. Denison 3, Dr. G.W. Williams 0"
-        },
-        {
             "date": "Friday, October 10, 2025",
             "home_team": null,
             "away_team": null,
@@ -71,6 +53,15 @@
             "location": null,
             "game_played": false,
             "final_score": null
+        },
+        {
+            "date": "Thursday, October 16, 2025",
+            "home_team": "Dr. G.W. Williams",
+            "away_team": "St. Augustine",
+            "time": "3:00 PM",
+            "location": "Dr G W Williams SS",
+            "game_played": true,
+            "final_score": "Dr. G.W. Williams 0, St. Augustine 3"
         }
     ]
 }

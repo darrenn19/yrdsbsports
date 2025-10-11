@@ -1,60 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, October 9, 2025",
-            "home_team": "Alexander Mackenzie",
-            "away_team": "St. Robert",
-            "time": "3:45 PM",
-            "location": "Alexander Mackenzie HS",
-            "game_played": true,
-            "final_score": "Alexander Mackenzie 63, St. Robert 38"
-        },
-        {
-            "date": "Thursday, October 9, 2025",
-            "home_team": "Bur Oak SS",
-            "away_team": "Father McGivney",
-            "time": "3:45 PM",
-            "location": "Bur Oak SS",
-            "game_played": true,
-            "final_score": "Bur Oak SS 45, Father McGivney 52"
-        },
-        {
-            "date": "Thursday, October 9, 2025",
-            "home_team": "Our Lady Queen Of The World",
-            "away_team": "Richmond Green SS",
-            "time": "3:45 PM",
-            "location": "Our Lady Queen Of The World",
-            "game_played": true,
-            "final_score": "Our Lady Queen Of The World 58, Richmond Green SS 16"
-        },
-        {
-            "date": "Thursday, October 9, 2025",
-            "home_team": "St. Brother Andre",
-            "away_team": "Markham District",
-            "time": "3:45 PM",
-            "location": "St Brother Andre CHS",
-            "game_played": true,
-            "final_score": "St. Brother Andre 28, Markham District 53"
-        },
-        {
-            "date": "Thursday, October 9, 2025",
-            "home_team": "Thornlea SS",
-            "away_team": "St. Theresa Of Lisieux",
-            "time": "3:45 PM",
-            "location": "Thornlea SS",
-            "game_played": true,
-            "final_score": "Thornlea SS 67, St. Theresa Of Lisieux 52"
-        },
-        {
-            "date": "Thursday, October 9, 2025",
-            "home_team": "Unionville HS",
-            "away_team": "Markville",
-            "time": "3:45 PM",
-            "location": "Unionville HS",
-            "game_played": true,
-            "final_score": "Unionville HS 50, Markville 27"
-        },
-        {
             "date": "Friday, October 10, 2025",
             "home_team": null,
             "away_team": null,
@@ -101,6 +47,15 @@
         },
         {
             "date": "Wednesday, October 15, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, October 16, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
