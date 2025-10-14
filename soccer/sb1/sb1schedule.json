@@ -11,6 +11,15 @@
         },
         {
             "date": "Tuesday, October 14, 2025",
+            "home_team": "Sacred Heart",
+            "away_team": "St. Augustine",
+            "time": "3:30 PM",
+            "location": "Sacred Heart CHS",
+            "game_played": true,
+            "final_score": "Sacred Heart 1, St. Augustine 0"
+        },
+        {
+            "date": "Tuesday, October 14, 2025",
             "home_team": "Holy Cross",
             "away_team": "Hodan Nalayeh SS",
             "time": "1:15 PM",
