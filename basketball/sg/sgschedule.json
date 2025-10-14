@@ -20,12 +20,39 @@
         },
         {
             "date": "Tuesday, October 14, 2025",
+            "home_team": "St. Jean De Brebeuf CHS",
+            "away_team": "Woodbridge College",
+            "time": "3:45 PM",
+            "location": "St Jean De Brebeuf CHS",
+            "game_played": true,
+            "final_score": "St. Jean De Brebeuf CHS 27, Woodbridge College 40"
+        },
+        {
+            "date": "Tuesday, October 14, 2025",
             "home_team": "St. Robert",
             "away_team": "Our Lady Queen Of The World",
             "time": "3:45 PM",
             "location": "St Robert CHS",
             "game_played": true,
             "final_score": "St. Robert 23, Our Lady Queen Of The World 55"
+        },
+        {
+            "date": "Tuesday, October 14, 2025",
+            "home_team": "Thornlea SS",
+            "away_team": "St. Augustine",
+            "time": "3:45 PM",
+            "location": "Thornlea SS",
+            "game_played": true,
+            "final_score": "Thornlea SS 67, St. Augustine 51"
+        },
+        {
+            "date": "Tuesday, October 14, 2025",
+            "home_team": "Toronto District Christian",
+            "away_team": "Tommy Douglas SS",
+            "time": "3:45 PM",
+            "location": "Toronto District Christian HS",
+            "game_played": true,
+            "final_score": "Toronto District Christian 43, Tommy Douglas SS 33"
         },
         {
             "date": "Wednesday, October 15, 2025",

@@ -11,12 +11,12 @@
         },
         {
             "date": "Tuesday, October 14, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Holy Cross",
+            "away_team": "Our Lady Queen Of The World",
+            "time": "3:00 PM",
+            "location": "Holy Cross CA",
+            "game_played": true,
+            "final_score": "Holy Cross 2, Our Lady Queen Of The World 1"
         },
         {
             "date": "Wednesday, October 15, 2025",
