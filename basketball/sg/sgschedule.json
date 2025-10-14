@@ -11,6 +11,15 @@
         },
         {
             "date": "Tuesday, October 14, 2025",
+            "home_team": "Bill Hogarth SS",
+            "away_team": "Middlefield",
+            "time": "3:45 PM",
+            "location": "Bill Hogarth SS",
+            "game_played": true,
+            "final_score": "Bill Hogarth SS 25, Middlefield 42"
+        },
+        {
+            "date": "Tuesday, October 14, 2025",
             "home_team": "Hodan Nalayeh SS",
             "away_team": "St. Elizabeth",
             "time": "3:45 PM",
@@ -35,6 +44,15 @@
             "location": "St Robert CHS",
             "game_played": true,
             "final_score": "St. Robert 23, Our Lady Queen Of The World 55"
+        },
+        {
+            "date": "Tuesday, October 14, 2025",
+            "home_team": "St. Theresa Of Lisieux",
+            "away_team": "Richmond Green SS",
+            "time": "3:45 PM",
+            "location": "St Theresa Of Lisieux CHS",
+            "game_played": true,
+            "final_score": "St. Theresa Of Lisieux 48, Richmond Green SS 22"
         },
         {
             "date": "Tuesday, October 14, 2025",
