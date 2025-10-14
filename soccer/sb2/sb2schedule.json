@@ -29,6 +29,15 @@
         },
         {
             "date": "Tuesday, October 14, 2025",
+            "home_team": "Middlefield",
+            "away_team": "Stouffville",
+            "time": "3:45 PM",
+            "location": "Middlefield CI",
+            "game_played": true,
+            "final_score": "Middlefield 3, Stouffville 1"
+        },
+        {
+            "date": "Tuesday, October 14, 2025",
             "home_team": "Richmond Hill HS",
             "away_team": "Unionville HS",
             "time": "3:45 PM",
