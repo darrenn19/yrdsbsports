@@ -11,12 +11,30 @@
         },
         {
             "date": "Tuesday, October 14, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Bur Oak SS",
+            "away_team": "Bill Crothers SS",
+            "time": "3:45 PM",
+            "location": "Bur Oak SS",
+            "game_played": true,
+            "final_score": "Bur Oak SS 2, Bill Crothers SS 3"
+        },
+        {
+            "date": "Tuesday, October 14, 2025",
+            "home_team": "Richmond Hill HS",
+            "away_team": "Unionville HS",
+            "time": "3:45 PM",
+            "location": "Richmond Hill HS",
+            "game_played": true,
+            "final_score": "Richmond Hill HS 6, Unionville HS 1"
+        },
+        {
+            "date": "Tuesday, October 14, 2025",
+            "home_team": "Woodbridge College",
+            "away_team": "King City SS",
+            "time": "3:45 PM",
+            "location": "Woodbridge College",
+            "game_played": true,
+            "final_score": "Woodbridge College 2, King City SS 0"
         },
         {
             "date": "Wednesday, October 15, 2025",
