@@ -20,6 +20,15 @@
         },
         {
             "date": "Tuesday, October 14, 2025",
+            "home_team": "Huron Heights",
+            "away_team": "Newmarket HS",
+            "time": "3:45 PM",
+            "location": "Huron Heights SS",
+            "game_played": true,
+            "final_score": "Huron Heights 1, Newmarket HS 1"
+        },
+        {
+            "date": "Tuesday, October 14, 2025",
             "home_team": "Langstaff SS",
             "away_team": "Alexander Mackenzie",
             "time": "3:00 PM",
