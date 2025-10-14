@@ -11,12 +11,12 @@
         },
         {
             "date": "Tuesday, October 14, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Holy Cross",
+            "away_team": "Hodan Nalayeh SS",
+            "time": "1:15 PM",
+            "location": "Vaughan Grove 1",
+            "game_played": true,
+            "final_score": "Holy Cross 6, Hodan Nalayeh SS 0"
         },
         {
             "date": "Wednesday, October 15, 2025",
