@@ -11,6 +11,15 @@
         },
         {
             "date": "Tuesday, October 14, 2025",
+            "home_team": "Dr. G.W. Williams",
+            "away_team": "Sutton District",
+            "time": "3:45 PM",
+            "location": "Dr G W Williams SS",
+            "game_played": true,
+            "final_score": "Dr. G.W. Williams 7, Sutton District 1"
+        },
+        {
+            "date": "Tuesday, October 14, 2025",
             "home_team": "Huron Heights",
             "away_team": "Newmarket HS",
             "time": "3:45 PM",
@@ -53,6 +62,15 @@
             "location": "Thornhill HS",
             "game_played": true,
             "final_score": "Thornhill SS 1, St. Robert 2"
+        },
+        {
+            "date": "Tuesday, October 14, 2025",
+            "home_team": "Tommy Douglas SS",
+            "away_team": "Renaissance ESC",
+            "time": "3:45 PM",
+            "location": "Tommy Douglas SS",
+            "game_played": true,
+            "final_score": "Tommy Douglas SS 7, Renaissance ESC 1"
         },
         {
             "date": "Tuesday, October 14, 2025",
