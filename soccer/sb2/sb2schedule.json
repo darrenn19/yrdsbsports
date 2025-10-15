@@ -83,6 +83,15 @@
         },
         {
             "date": "Tuesday, October 14, 2025",
+            "home_team": "Aurora HS",
+            "away_team": "Dr. J.M. Denison",
+            "time": "3:45 PM",
+            "location": "Sheppards Bush",
+            "game_played": true,
+            "final_score": "Aurora HS 2, Dr. J.M. Denison 5"
+        },
+        {
+            "date": "Tuesday, October 14, 2025",
             "home_team": "Thornhill SS",
             "away_team": "St. Robert",
             "time": "3:45 PM",
