@@ -110,6 +110,15 @@
         },
         {
             "date": "Tuesday, October 14, 2025",
+            "home_team": "Toronto District Christian",
+            "away_team": "Maple High School",
+            "time": "3:30 PM",
+            "location": "Vaughan Grove 2",
+            "game_played": true,
+            "final_score": "Toronto District Christian 2, Maple High School 2"
+        },
+        {
+            "date": "Tuesday, October 14, 2025",
             "home_team": "Woodbridge College",
             "away_team": "King City SS",
             "time": "3:45 PM",
