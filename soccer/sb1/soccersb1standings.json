@@ -11,6 +11,16 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Holy Cross",
+            "W": "3",
+            "L": "0",
+            "T": "2",
+            "PTS": "11",
+            "GF": "16",
+            "GA": "4",
+            "DIFF": "11"
+        },
+        {
             "Team": "St. Jean De Brebeuf CHS",
             "W": "3",
             "L": "1",
@@ -21,64 +31,54 @@
             "DIFF": "9"
         },
         {
-            "Team": "Holy Cross",
+            "Team": "Stephen Lewis SS",
             "W": "2",
-            "L": "0",
-            "T": "2",
-            "PTS": "8",
-            "GF": "10",
-            "GA": "4",
-            "DIFF": "6"
+            "L": "3",
+            "T": "0",
+            "PTS": "6",
+            "GF": "11",
+            "GA": "15",
+            "DIFF": "-4"
+        },
+        {
+            "Team": "St. Joan Of Arc",
+            "W": "2",
+            "L": "2",
+            "T": "0",
+            "PTS": "6",
+            "GF": "11",
+            "GA": "12",
+            "DIFF": "-1"
         },
         {
             "Team": "St. Theresa Of Lisieux",
             "W": "1",
-            "L": "0",
+            "L": "1",
             "T": "2",
             "PTS": "5",
-            "GF": "4",
-            "GA": "3",
-            "DIFF": "1"
+            "GF": "5",
+            "GA": "7",
+            "DIFF": "-2"
         },
         {
-            "Team": "Stephen Lewis SS",
+            "Team": "Hodan Nalayeh SS",
             "W": "1",
             "L": "3",
             "T": "0",
             "PTS": "3",
             "GF": "7",
-            "GA": "14",
+            "GA": "15",
             "DIFF": "-7"
-        },
-        {
-            "Team": "Hodan Nalayeh SS",
-            "W": "1",
-            "L": "2",
-            "T": "0",
-            "PTS": "3",
-            "GF": "7",
-            "GA": "9",
-            "DIFF": "-2"
-        },
-        {
-            "Team": "St. Joan Of Arc",
-            "W": "1",
-            "L": "2",
-            "T": "0",
-            "PTS": "3",
-            "GF": "7",
-            "GA": "10",
-            "DIFF": "-3"
         },
         {
             "Team": "Father Bressani",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "2",
             "PTS": "2",
-            "GF": "1",
-            "GA": "5",
-            "DIFF": "-4"
+            "GF": "3",
+            "GA": "9",
+            "DIFF": "-6"
         },
         {
             "Team": "North-East",
@@ -122,13 +122,13 @@
         },
         {
             "Team": "Sacred Heart",
-            "W": "1",
+            "W": "2",
             "L": "2",
             "T": "1",
-            "PTS": "4",
-            "GF": "5",
+            "PTS": "7",
+            "GF": "6",
             "GA": "13",
-            "DIFF": "-6"
+            "DIFF": "-5"
         },
         {
             "Team": "Father McGivney",
@@ -153,12 +153,12 @@
         {
             "Team": "St. Augustine",
             "W": "0",
-            "L": "4",
+            "L": "5",
             "T": "0",
             "PTS": "0",
             "GF": "3",
-            "GA": "14",
-            "DIFF": "-10"
+            "GA": "15",
+            "DIFF": "-11"
         }
     ]
 }

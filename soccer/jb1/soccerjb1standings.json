@@ -12,23 +12,23 @@
         },
         {
             "Team": "Holy Cross",
-            "W": "2",
+            "W": "3",
             "L": "0",
             "T": "1",
-            "PTS": "7",
-            "GF": "8",
-            "GA": "4",
-            "DIFF": "4"
+            "PTS": "10",
+            "GF": "10",
+            "GA": "5",
+            "DIFF": "5"
         },
         {
             "Team": "Our Lady Queen Of The World",
             "W": "2",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "6",
-            "GF": "4",
-            "GA": "4",
-            "DIFF": "0"
+            "GF": "5",
+            "GA": "6",
+            "DIFF": "-1"
         },
         {
             "Team": "St. Jean De Brebeuf CHS",

@@ -11,6 +11,26 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Thornhill SS",
+            "W": "4",
+            "L": "0",
+            "T": "0",
+            "PTS": "12",
+            "GF": "20",
+            "GA": "4",
+            "DIFF": "16"
+        },
+        {
+            "Team": "Langstaff SS",
+            "W": "3",
+            "L": "0",
+            "T": "2",
+            "PTS": "11",
+            "GF": "17",
+            "GA": "4",
+            "DIFF": "12"
+        },
+        {
             "Team": "St. Robert",
             "W": "3",
             "L": "0",
@@ -19,26 +39,6 @@
             "GF": "22",
             "GA": "5",
             "DIFF": "13"
-        },
-        {
-            "Team": "Thornhill SS",
-            "W": "3",
-            "L": "0",
-            "T": "0",
-            "PTS": "9",
-            "GF": "15",
-            "GA": "3",
-            "DIFF": "12"
-        },
-        {
-            "Team": "Langstaff SS",
-            "W": "2",
-            "L": "0",
-            "T": "2",
-            "PTS": "8",
-            "GF": "11",
-            "GA": "4",
-            "DIFF": "7"
         },
         {
             "Team": "Richmond Green SS",
@@ -62,33 +62,33 @@
         },
         {
             "Team": "Richmond Hill HS",
-            "W": "0",
+            "W": "1",
             "L": "3",
             "T": "1",
-            "PTS": "1",
-            "GF": "6",
-            "GA": "22",
-            "DIFF": "-14"
+            "PTS": "4",
+            "GF": "12",
+            "GA": "23",
+            "DIFF": "-9"
         },
         {
             "Team": "Unionville HS",
             "W": "0",
-            "L": "4",
+            "L": "5",
             "T": "0",
             "PTS": "0",
-            "GF": "1",
-            "GA": "18",
-            "DIFF": "-15"
+            "GF": "2",
+            "GA": "24",
+            "DIFF": "-20"
         },
         {
             "Team": "Alexander Mackenzie",
             "W": "0",
-            "L": "3",
+            "L": "5",
             "T": "0",
             "PTS": "0",
-            "GF": "2",
-            "GA": "10",
-            "DIFF": "-8"
+            "GF": "3",
+            "GA": "21",
+            "DIFF": "-17"
         },
         {
             "Team": "East",
@@ -121,6 +121,26 @@
             "DIFF": "4"
         },
         {
+            "Team": "Bill Crothers SS",
+            "W": "3",
+            "L": "2",
+            "T": "0",
+            "PTS": "9",
+            "GF": "11",
+            "GA": "8",
+            "DIFF": "3"
+        },
+        {
+            "Team": "Middlefield",
+            "W": "2",
+            "L": "2",
+            "T": "1",
+            "PTS": "7",
+            "GF": "9",
+            "GA": "11",
+            "DIFF": "-2"
+        },
+        {
             "Team": "Markham District",
             "W": "2",
             "L": "1",
@@ -131,33 +151,13 @@
             "DIFF": "5"
         },
         {
-            "Team": "Bill Crothers SS",
-            "W": "2",
-            "L": "2",
-            "T": "0",
-            "PTS": "6",
-            "GF": "8",
-            "GA": "6",
-            "DIFF": "2"
-        },
-        {
             "Team": "Bur Oak SS",
             "W": "1",
-            "L": "2",
+            "L": "3",
             "T": "1",
             "PTS": "4",
-            "GF": "8",
-            "GA": "11",
-            "DIFF": "-3"
-        },
-        {
-            "Team": "Middlefield",
-            "W": "1",
-            "L": "2",
-            "T": "1",
-            "PTS": "4",
-            "GF": "6",
-            "GA": "10",
+            "GF": "10",
+            "GA": "14",
             "DIFF": "-4"
         },
         {
@@ -173,12 +173,12 @@
         {
             "Team": "Stouffville",
             "W": "0",
-            "L": "4",
+            "L": "5",
             "T": "0",
             "PTS": "0",
-            "GF": "7",
-            "GA": "21",
-            "DIFF": "-10"
+            "GF": "8",
+            "GA": "24",
+            "DIFF": "-12"
         },
         {
             "Team": "North",
@@ -194,20 +194,20 @@
             "Team": "Newmarket HS",
             "W": "4",
             "L": "0",
-            "T": "0",
-            "PTS": "12",
-            "GF": "15",
-            "GA": "2",
+            "T": "1",
+            "PTS": "13",
+            "GF": "16",
+            "GA": "3",
             "DIFF": "10"
         },
         {
             "Team": "Huron Heights",
             "W": "3",
             "L": "1",
-            "T": "0",
-            "PTS": "9",
-            "GF": "15",
-            "GA": "6",
+            "T": "1",
+            "PTS": "10",
+            "GF": "16",
+            "GA": "7",
             "DIFF": "8"
         },
         {
@@ -301,6 +301,16 @@
             "DIFF": "4"
         },
         {
+            "Team": "Tommy Douglas SS",
+            "W": "2",
+            "L": "1",
+            "T": "0",
+            "PTS": "6",
+            "GF": "10",
+            "GA": "5",
+            "DIFF": "5"
+        },
+        {
             "Team": "Toronto District Christian",
             "W": "2",
             "L": "1",
@@ -311,14 +321,14 @@
             "DIFF": "4"
         },
         {
-            "Team": "Tommy Douglas SS",
+            "Team": "Woodbridge College",
             "W": "2",
-            "L": "1",
+            "L": "3",
             "T": "0",
             "PTS": "6",
             "GF": "10",
-            "GA": "5",
-            "DIFF": "5"
+            "GA": "14",
+            "DIFF": "-4"
         },
         {
             "Team": "Renaissance ESC",
@@ -331,24 +341,14 @@
             "DIFF": "-3"
         },
         {
-            "Team": "Woodbridge College",
-            "W": "1",
-            "L": "3",
-            "T": "0",
-            "PTS": "3",
-            "GF": "8",
-            "GA": "14",
-            "DIFF": "-6"
-        },
-        {
             "Team": "King City SS",
             "W": "0",
-            "L": "4",
+            "L": "5",
             "T": "0",
             "PTS": "0",
             "GF": "4",
-            "GA": "13",
-            "DIFF": "-9"
+            "GA": "15",
+            "DIFF": "-11"
         }
     ]
 }
