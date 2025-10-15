@@ -46,6 +46,15 @@
             "final_score": "Father McGivney 1, Cardinal Carter 5"
         },
         {
+            "date": "Wednesday, October 15, 2025",
+            "home_team": "St. Maximilian",
+            "away_team": "Thornlea SS",
+            "time": "4:15 PM",
+            "location": "St Maximilian Kolbe CHS",
+            "game_played": true,
+            "final_score": "St. Maximilian 5, Thornlea SS 2"
+        },
+        {
             "date": "Thursday, October 16, 2025",
             "home_team": null,
             "away_team": null,
