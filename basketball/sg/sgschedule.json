@@ -74,6 +74,15 @@
         },
         {
             "date": "Wednesday, October 15, 2025",
+            "home_team": "Aurora HS",
+            "away_team": "Cardinal Carter",
+            "time": "3:45 PM",
+            "location": "Aurora HS",
+            "game_played": true,
+            "final_score": "Aurora HS 43, Cardinal Carter 34"
+        },
+        {
+            "date": "Wednesday, October 15, 2025",
             "home_team": "Father McGivney",
             "away_team": "Markville",
             "time": "3:45 PM",
@@ -89,6 +98,15 @@
             "location": "King City SS",
             "game_played": true,
             "final_score": "King City SS 20, St. Maximilian 59"
+        },
+        {
+            "date": "Wednesday, October 15, 2025",
+            "home_team": "Sacred Heart",
+            "away_team": "Sir William Mulock",
+            "time": "4:45 PM",
+            "location": "Sacred Heart CHS",
+            "game_played": true,
+            "final_score": "Sacred Heart 27, Sir William Mulock 37"
         },
         {
             "date": "Wednesday, October 15, 2025",
