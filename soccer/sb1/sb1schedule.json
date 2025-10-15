@@ -38,12 +38,12 @@
         },
         {
             "date": "Wednesday, October 15, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Father McGivney",
+            "away_team": "Cardinal Carter",
+            "time": "3:30 PM",
+            "location": "Father Michael McGivney CA",
+            "game_played": true,
+            "final_score": "Father McGivney 1, Cardinal Carter 5"
         },
         {
             "date": "Thursday, October 16, 2025",
