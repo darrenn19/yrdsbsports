@@ -29,6 +29,15 @@
         },
         {
             "date": "Tuesday, October 14, 2025",
+            "home_team": "Keswick High School",
+            "away_team": "Sir William Mulock",
+            "time": "3:45 PM",
+            "location": "Keswick HS",
+            "game_played": true,
+            "final_score": "Keswick High School 0, Sir William Mulock 1"
+        },
+        {
+            "date": "Tuesday, October 14, 2025",
             "home_team": "Langstaff SS",
             "away_team": "Alexander Mackenzie",
             "time": "3:00 PM",
