@@ -11,12 +11,30 @@
         },
         {
             "date": "Tuesday, October 14, 2025",
+            "home_team": "Father Bressani",
+            "away_team": "St. Joan Of Arc",
+            "time": "4:15 PM",
+            "location": "Father Bressani CHS",
+            "game_played": true,
+            "final_score": "Father Bressani 2, St. Joan Of Arc 4"
+        },
+        {
+            "date": "Tuesday, October 14, 2025",
             "home_team": "Sacred Heart",
             "away_team": "St. Augustine",
             "time": "3:30 PM",
             "location": "Sacred Heart CHS",
             "game_played": true,
             "final_score": "Sacred Heart 1, St. Augustine 0"
+        },
+        {
+            "date": "Tuesday, October 14, 2025",
+            "home_team": "Stephen Lewis SS",
+            "away_team": "St. Theresa Of Lisieux",
+            "time": "3:45 PM",
+            "location": "Stephen Lewis SS",
+            "game_played": true,
+            "final_score": "Stephen Lewis SS 4, St. Theresa Of Lisieux 1"
         },
         {
             "date": "Tuesday, October 14, 2025",

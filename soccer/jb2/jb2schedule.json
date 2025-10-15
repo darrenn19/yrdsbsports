@@ -11,12 +11,12 @@
         },
         {
             "date": "Tuesday, October 14, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "St. Augustine",
+            "away_team": "Milliken Mills",
+            "time": "3:30 PM",
+            "location": "St Augustine CHS",
+            "game_played": true,
+            "final_score": "St. Augustine 7, Milliken Mills 2"
         },
         {
             "date": "Wednesday, October 15, 2025",
