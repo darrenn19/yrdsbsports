@@ -50,27 +50,39 @@
         },
         {
             "Team": "Tommy Douglas SS",
-            "MP": "6",
-            "MW": "4",
-            "ML": "2",
-            "GW": "8",
-            "GL": "5",
-            "PTS": "4",
-            "PF": "281",
-            "PA": "254",
-            "DIFF": "27"
+            "MP": "8",
+            "MW": "5",
+            "ML": "3",
+            "GW": "10",
+            "GL": "8",
+            "PTS": "5",
+            "PF": "378",
+            "PA": "356",
+            "DIFF": "22"
         },
         {
             "Team": "Father Bressani",
-            "MP": "6",
-            "MW": "3",
+            "MP": "7",
+            "MW": "4",
             "ML": "3",
-            "GW": "6",
-            "GL": "7",
+            "GW": "8",
+            "GL": "8",
+            "PTS": "4",
+            "PF": "327",
+            "PA": "335",
+            "DIFF": "-8"
+        },
+        {
+            "Team": "Toronto District Christian",
+            "MP": "7",
+            "MW": "3",
+            "ML": "4",
+            "GW": "9",
+            "GL": "8",
             "PTS": "3",
-            "PF": "266",
-            "PA": "280",
-            "DIFF": "-14"
+            "PF": "344",
+            "PA": "327",
+            "DIFF": "17"
         },
         {
             "Team": "Emily Carr",
@@ -85,28 +97,16 @@
             "DIFF": "-80"
         },
         {
-            "Team": "Toronto District Christian",
-            "MP": "6",
-            "MW": "2",
-            "ML": "4",
-            "GW": "7",
-            "GL": "8",
-            "PTS": "2",
-            "PF": "294",
-            "PA": "289",
-            "DIFF": "5"
-        },
-        {
             "Team": "St. Joan Of Arc",
-            "MP": "8",
+            "MP": "10",
             "MW": "2",
-            "ML": "6",
-            "GW": "5",
-            "GL": "13",
+            "ML": "8",
+            "GW": "7",
+            "GL": "17",
             "PTS": "2",
-            "PF": "326",
-            "PA": "395",
-            "DIFF": "-69"
+            "PF": "433",
+            "PA": "515",
+            "DIFF": "-82"
         },
         {
             "Team": "Thornhill SS",
@@ -170,15 +170,15 @@
         },
         {
             "Team": "Renaissance ESC",
-            "MP": "5",
+            "MP": "6",
             "MW": "4",
-            "ML": "1",
-            "GW": "9",
-            "GL": "4",
+            "ML": "2",
+            "GW": "10",
+            "GL": "6",
             "PTS": "4",
-            "PF": "269",
-            "PA": "245",
-            "DIFF": "24"
+            "PF": "323",
+            "PA": "303",
+            "DIFF": "20"
         },
         {
             "Team": "Sir William Mulock",
@@ -193,6 +193,18 @@
             "DIFF": "67"
         },
         {
+            "Team": "Dr. J.M. Denison",
+            "MP": "6",
+            "MW": "3",
+            "ML": "3",
+            "GW": "7",
+            "GL": "7",
+            "PTS": "3",
+            "PF": "279",
+            "PA": "304",
+            "DIFF": "-25"
+        },
+        {
             "Team": "St. Maximilian",
             "MP": "6",
             "MW": "2",
@@ -203,18 +215,6 @@
             "PF": "261",
             "PA": "297",
             "DIFF": "-36"
-        },
-        {
-            "Team": "Dr. J.M. Denison",
-            "MP": "5",
-            "MW": "2",
-            "ML": "3",
-            "GW": "5",
-            "GL": "6",
-            "PTS": "2",
-            "PF": "221",
-            "PA": "250",
-            "DIFF": "-29"
         },
         {
             "Team": "Sutton District",

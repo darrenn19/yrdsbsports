@@ -37,28 +37,28 @@
             "DIFF": "58"
         },
         {
-            "Team": "Pierre Elliott Trudeau",
-            "MP": "9",
-            "MW": "5",
-            "ML": "4",
-            "GW": "12",
-            "GL": "12",
-            "PTS": "5",
-            "PF": "493",
-            "PA": "476",
-            "DIFF": "17"
+            "Team": "Markville",
+            "MP": "8",
+            "MW": "7",
+            "ML": "1",
+            "GW": "14",
+            "GL": "4",
+            "PTS": "7",
+            "PF": "409",
+            "PA": "313",
+            "DIFF": "96"
         },
         {
-            "Team": "Markville",
-            "MP": "6",
+            "Team": "Pierre Elliott Trudeau",
+            "MP": "10",
             "MW": "5",
-            "ML": "1",
-            "GW": "10",
-            "GL": "3",
+            "ML": "5",
+            "GW": "13",
+            "GL": "14",
             "PTS": "5",
-            "PF": "296",
-            "PA": "216",
-            "DIFF": "80"
+            "PF": "549",
+            "PA": "539",
+            "DIFF": "10"
         },
         {
             "Team": "Bill Crothers SS",
@@ -86,15 +86,15 @@
         },
         {
             "Team": "Bill Hogarth SS",
-            "MP": "8",
-            "MW": "2",
-            "ML": "6",
-            "GW": "5",
-            "GL": "13",
-            "PTS": "2",
-            "PF": "318",
-            "PA": "412",
-            "DIFF": "-94"
+            "MP": "10",
+            "MW": "3",
+            "ML": "7",
+            "GW": "7",
+            "GL": "16",
+            "PTS": "3",
+            "PF": "418",
+            "PA": "515",
+            "DIFF": "-97"
         },
         {
             "Team": "Milliken Mills",
@@ -110,15 +110,15 @@
         },
         {
             "Team": "Bur Oak SS",
-            "MP": "7",
+            "MP": "8",
             "MW": "0",
-            "ML": "7",
-            "GW": "2",
-            "GL": "14",
+            "ML": "8",
+            "GW": "3",
+            "GL": "16",
             "PTS": "0",
-            "PF": "270",
-            "PA": "371",
-            "DIFF": "-101"
+            "PF": "323",
+            "PA": "430",
+            "DIFF": "-107"
         },
         {
             "Team": "North-West",

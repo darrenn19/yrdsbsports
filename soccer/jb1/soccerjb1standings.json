@@ -52,23 +52,23 @@
         },
         {
             "Team": "Father Bressani",
-            "W": "0",
+            "W": "1",
             "L": "2",
             "T": "1",
-            "PTS": "1",
-            "GF": "3",
+            "PTS": "4",
+            "GF": "7",
             "GA": "10",
-            "DIFF": "-7"
+            "DIFF": "-3"
         },
         {
             "Team": "St. Joan Of Arc",
             "W": "0",
-            "L": "2",
+            "L": "3",
             "T": "0",
             "PTS": "0",
             "GF": "2",
-            "GA": "9",
-            "DIFF": "-6"
+            "GA": "13",
+            "DIFF": "-10"
         },
         {
             "Team": "North-East",

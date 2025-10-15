@@ -24,14 +24,14 @@
         },
         {
             "Team": "Markham District",
-            "GP": "5",
-            "W": "3",
+            "GP": "6",
+            "W": "4",
             "L": "2",
             "T": "0",
-            "PTS": "6",
-            "PF": "158",
-            "PA": "172",
-            "DIFF": "12"
+            "PTS": "8",
+            "PF": "208",
+            "PA": "195",
+            "DIFF": "27"
         },
         {
             "Team": "Bill Crothers SS",
@@ -57,14 +57,14 @@
         },
         {
             "Team": "Unionville HS",
-            "GP": "4",
+            "GP": "5",
             "W": "2",
-            "L": "2",
+            "L": "3",
             "T": "0",
             "PTS": "4",
-            "PF": "135",
-            "PA": "174",
-            "DIFF": "-7"
+            "PF": "158",
+            "PA": "224",
+            "DIFF": "-22"
         },
         {
             "Team": "Richmond Hill HS",

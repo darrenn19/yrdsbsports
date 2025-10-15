@@ -11,6 +11,16 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "St. Augustine",
+            "W": "4",
+            "L": "0",
+            "T": "0",
+            "PTS": "12",
+            "GF": "25",
+            "GA": "2",
+            "DIFF": "16"
+        },
+        {
             "Team": "Dr. J.M. Denison",
             "W": "4",
             "L": "0",
@@ -23,42 +33,32 @@
         {
             "Team": "Bill Hogarth SS",
             "W": "3",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "9",
-            "GF": "16",
-            "GA": "2",
-            "DIFF": "13"
+            "GF": "17",
+            "GA": "6",
+            "DIFF": "10"
         },
         {
-            "Team": "St. Augustine",
-            "W": "3",
-            "L": "0",
+            "Team": "Markham District",
+            "W": "2",
+            "L": "1",
             "T": "0",
-            "PTS": "9",
-            "GF": "18",
-            "GA": "0",
-            "DIFF": "11"
+            "PTS": "6",
+            "GF": "12",
+            "GA": "4",
+            "DIFF": "5"
         },
         {
             "Team": "Milliken Mills",
             "W": "2",
-            "L": "0",
-            "T": "0",
-            "PTS": "6",
-            "GF": "10",
-            "GA": "1",
-            "DIFF": "8"
-        },
-        {
-            "Team": "Markham District",
-            "W": "1",
             "L": "1",
             "T": "0",
-            "PTS": "3",
-            "GF": "8",
-            "GA": "3",
-            "DIFF": "2"
+            "PTS": "6",
+            "GF": "12",
+            "GA": "8",
+            "DIFF": "3"
         },
         {
             "Team": "Keswick High School",
