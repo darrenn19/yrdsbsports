@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, October 13, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
-        },
-        {
             "date": "Tuesday, October 14, 2025",
             "home_team": "Bur Oak SS",
             "away_team": "Bill Crothers SS",
@@ -101,6 +92,15 @@
         },
         {
             "date": "Sunday, October 19, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, October 20, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
