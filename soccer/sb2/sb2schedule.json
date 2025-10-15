@@ -38,12 +38,39 @@
         },
         {
             "date": "Tuesday, October 14, 2025",
+            "home_team": "Markham District",
+            "away_team": "Bill Hogarth SS",
+            "time": "4:15 PM",
+            "location": "Markham DHS",
+            "game_played": true,
+            "final_score": "Markham District 2, Bill Hogarth SS 2"
+        },
+        {
+            "date": "Tuesday, October 14, 2025",
             "home_team": "Middlefield",
             "away_team": "Stouffville",
             "time": "3:45 PM",
             "location": "Middlefield CI",
             "game_played": true,
             "final_score": "Middlefield 3, Stouffville 1"
+        },
+        {
+            "date": "Tuesday, October 14, 2025",
+            "home_team": "Milliken Mills",
+            "away_team": "Pierre Elliott Trudeau",
+            "time": "3:45 PM",
+            "location": "Milliken Mills HS",
+            "game_played": true,
+            "final_score": "Milliken Mills 1, Pierre Elliott Trudeau 2"
+        },
+        {
+            "date": "Tuesday, October 14, 2025",
+            "home_team": "Richmond Green SS",
+            "away_team": "Our Lady Queen Of The World",
+            "time": "3:45 PM",
+            "location": "Richmond Green SS",
+            "game_played": true,
+            "final_score": "Richmond Green SS 2, Our Lady Queen Of The World 1"
         },
         {
             "date": "Tuesday, October 14, 2025",

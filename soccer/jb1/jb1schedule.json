@@ -2,6 +2,15 @@
     "schedule": [
         {
             "date": "Tuesday, October 14, 2025",
+            "home_team": "Father Bressani",
+            "away_team": "St. Joan Of Arc",
+            "time": "3:00 PM",
+            "location": "Father Bressani CHS",
+            "game_played": true,
+            "final_score": "Father Bressani 4, St. Joan Of Arc 0"
+        },
+        {
+            "date": "Tuesday, October 14, 2025",
             "home_team": "Holy Cross",
             "away_team": "Our Lady Queen Of The World",
             "time": "3:00 PM",
