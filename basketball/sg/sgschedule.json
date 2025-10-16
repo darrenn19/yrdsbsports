@@ -46,6 +46,15 @@
             "final_score": "St. Brother Andre 31, Unionville HS 58"
         },
         {
+            "date": "Wednesday, October 15, 2025",
+            "home_team": "Stouffville",
+            "away_team": "Dr. J.M. Denison",
+            "time": "4:00 PM",
+            "location": "Stouffville DSS",
+            "game_played": true,
+            "final_score": "Stouffville 30, Dr. J.M. Denison 26"
+        },
+        {
             "date": "Thursday, October 16, 2025",
             "home_team": null,
             "away_team": null,
