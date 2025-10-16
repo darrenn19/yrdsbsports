@@ -28,6 +28,15 @@
             "final_score": "Father Bressani 5, Stephen Lewis SS 3"
         },
         {
+            "date": "Thursday, October 16, 2025",
+            "home_team": "St. Theresa Of Lisieux",
+            "away_team": "Hodan Nalayeh SS",
+            "time": "3:30 PM",
+            "location": "St Theresa Of Lisieux CHS",
+            "game_played": true,
+            "final_score": "St. Theresa Of Lisieux 0, Hodan Nalayeh SS 1"
+        },
+        {
             "date": "Friday, October 17, 2025",
             "home_team": null,
             "away_team": null,
