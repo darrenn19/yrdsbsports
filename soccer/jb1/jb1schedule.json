@@ -20,12 +20,12 @@
         },
         {
             "date": "Wednesday, October 15, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "St. Maximilian",
+            "away_team": "Sacred Heart",
+            "time": "3:00 PM",
+            "location": "St Maximilian Kolbe CHS",
+            "game_played": true,
+            "final_score": "St. Maximilian 5, Sacred Heart 0"
         },
         {
             "date": "Thursday, October 16, 2025",
