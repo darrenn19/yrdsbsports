@@ -10,6 +10,15 @@
             "final_score": "St. Maximilian 5, Sacred Heart 0"
         },
         {
+            "date": "Wednesday, October 15, 2025",
+            "home_team": "St. Katharine Drexel",
+            "away_team": "Cardinal Carter",
+            "time": "3:00 PM",
+            "location": "Stewart Burnett Park",
+            "game_played": true,
+            "final_score": "St. Katharine Drexel 3, Cardinal Carter 3"
+        },
+        {
             "date": "Thursday, October 16, 2025",
             "home_team": null,
             "away_team": null,
