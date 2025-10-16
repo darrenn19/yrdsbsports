@@ -19,6 +19,15 @@
             "final_score": "Bur Oak SS 5, Milliken Mills 6"
         },
         {
+            "date": "Thursday, October 16, 2025",
+            "home_team": "Dr. J.M. Denison",
+            "away_team": "Newmarket HS",
+            "time": "3:45 PM",
+            "location": "Dr J M Denison SS",
+            "game_played": true,
+            "final_score": "Dr. J.M. Denison 3, Newmarket HS 1"
+        },
+        {
             "date": "Friday, October 17, 2025",
             "home_team": null,
             "away_team": null,
