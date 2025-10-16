@@ -56,6 +56,24 @@
         },
         {
             "date": "Thursday, October 16, 2025",
+            "home_team": "Richmond Green SS",
+            "away_team": "Thornlea SS",
+            "time": "4:00 PM",
+            "location": "Richmond Green SS",
+            "game_played": true,
+            "final_score": "Richmond Green SS 26, Thornlea SS 53"
+        },
+        {
+            "date": "Thursday, October 16, 2025",
+            "home_team": "St. Augustine",
+            "away_team": "Our Lady Queen Of The World",
+            "time": "3:45 PM",
+            "location": "St Augustine CHS",
+            "game_played": true,
+            "final_score": "St. Augustine 45, Our Lady Queen Of The World 44"
+        },
+        {
+            "date": "Thursday, October 16, 2025",
             "home_team": "St. Robert",
             "away_team": "St. Theresa Of Lisieux",
             "time": "3:45 PM",
