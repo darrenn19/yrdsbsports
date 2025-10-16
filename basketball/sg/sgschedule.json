@@ -65,6 +65,15 @@
         },
         {
             "date": "Thursday, October 16, 2025",
+            "home_team": "Newmarket HS",
+            "away_team": "Sacred Heart",
+            "time": "4:45 PM",
+            "location": "Newmarket HS",
+            "game_played": true,
+            "final_score": "Newmarket HS 26, Sacred Heart 46"
+        },
+        {
+            "date": "Thursday, October 16, 2025",
             "home_team": "Richmond Green SS",
             "away_team": "Thornlea SS",
             "time": "4:00 PM",

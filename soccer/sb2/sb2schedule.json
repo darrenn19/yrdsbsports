@@ -28,6 +28,15 @@
             "final_score": "Dr. J.M. Denison 3, Newmarket HS 1"
         },
         {
+            "date": "Thursday, October 16, 2025",
+            "home_team": "King City SS",
+            "away_team": "Tommy Douglas SS",
+            "time": "3:45 PM",
+            "location": "King City SS",
+            "game_played": true,
+            "final_score": "King City SS 2, Tommy Douglas SS 0"
+        },
+        {
             "date": "Friday, October 17, 2025",
             "home_team": null,
             "away_team": null,
