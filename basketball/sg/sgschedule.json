@@ -56,12 +56,12 @@
         },
         {
             "date": "Thursday, October 16, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "St. Robert",
+            "away_team": "St. Theresa Of Lisieux",
+            "time": "3:45 PM",
+            "location": "St Robert CHS",
+            "game_played": true,
+            "final_score": "St. Robert 30, St. Theresa Of Lisieux 42"
         },
         {
             "date": "Friday, October 17, 2025",
