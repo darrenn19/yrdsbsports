@@ -11,6 +11,15 @@
         },
         {
             "date": "Thursday, October 16, 2025",
+            "home_team": "Bill Hogarth SS",
+            "away_team": "Pierre Elliott Trudeau",
+            "time": "3:45 PM",
+            "location": "Bill Hogarth SS",
+            "game_played": true,
+            "final_score": "Bill Hogarth SS 1, Pierre Elliott Trudeau 0"
+        },
+        {
+            "date": "Thursday, October 16, 2025",
             "home_team": "Bur Oak SS",
             "away_team": "Milliken Mills",
             "time": "3:45 PM",

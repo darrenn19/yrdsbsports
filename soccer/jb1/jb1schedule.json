@@ -20,12 +20,12 @@
         },
         {
             "date": "Thursday, October 16, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "St. Joan Of Arc",
+            "away_team": "St. Jean De Brebeuf CHS",
+            "time": "2:30 PM",
+            "location": "St Joan Of Arc CHS",
+            "game_played": true,
+            "final_score": "St. Joan Of Arc 1, St. Jean De Brebeuf CHS 9"
         },
         {
             "date": "Friday, October 17, 2025",
