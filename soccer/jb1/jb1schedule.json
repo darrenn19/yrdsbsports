@@ -1,24 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, October 14, 2025",
-            "home_team": "Father Bressani",
-            "away_team": "St. Joan Of Arc",
-            "time": "3:00 PM",
-            "location": "Father Bressani CHS",
-            "game_played": true,
-            "final_score": "Father Bressani 4, St. Joan Of Arc 0"
-        },
-        {
-            "date": "Tuesday, October 14, 2025",
-            "home_team": "Holy Cross",
-            "away_team": "Our Lady Queen Of The World",
-            "time": "3:00 PM",
-            "location": "Holy Cross CA",
-            "game_played": true,
-            "final_score": "Holy Cross 2, Our Lady Queen Of The World 1"
-        },
-        {
             "date": "Wednesday, October 15, 2025",
             "home_team": "St. Maximilian",
             "away_team": "Sacred Heart",
@@ -65,6 +47,15 @@
         },
         {
             "date": "Monday, October 20, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, October 21, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

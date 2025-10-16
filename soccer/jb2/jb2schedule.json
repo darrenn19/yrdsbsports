@@ -1,24 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, October 14, 2025",
-            "home_team": "Markham District",
-            "away_team": "Bill Hogarth SS",
-            "time": "3:00 PM",
-            "location": "Markham DHS",
-            "game_played": true,
-            "final_score": "Markham District 4, Bill Hogarth SS 1"
-        },
-        {
-            "date": "Tuesday, October 14, 2025",
-            "home_team": "St. Augustine",
-            "away_team": "Milliken Mills",
-            "time": "3:30 PM",
-            "location": "St Augustine CHS",
-            "game_played": true,
-            "final_score": "St. Augustine 7, Milliken Mills 2"
-        },
-        {
             "date": "Wednesday, October 15, 2025",
             "home_team": null,
             "away_team": null,
@@ -65,6 +47,15 @@
         },
         {
             "date": "Monday, October 20, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, October 21, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

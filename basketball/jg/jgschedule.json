@@ -1,33 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, October 14, 2025",
-            "home_team": "Richmond Hill HS",
-            "away_team": "St. Theresa Of Lisieux",
-            "time": "3:45 PM",
-            "location": "Richmond Hill HS",
-            "game_played": true,
-            "final_score": "Richmond Hill HS 22, St. Theresa Of Lisieux 59"
-        },
-        {
-            "date": "Tuesday, October 14, 2025",
-            "home_team": "Sir William Mulock",
-            "away_team": "ESC De L Ascension",
-            "time": "3:45 PM",
-            "location": "Sir William Mulock",
-            "game_played": true,
-            "final_score": "Sir William Mulock 27, ESC De L Ascension 31"
-        },
-        {
-            "date": "Tuesday, October 14, 2025",
-            "home_team": "Unionville HS",
-            "away_team": "Markham District",
-            "time": "3:45 PM",
-            "location": "Unionville HS",
-            "game_played": true,
-            "final_score": "Unionville HS 23, Markham District 50"
-        },
-        {
             "date": "Wednesday, October 15, 2025",
             "home_team": null,
             "away_team": null,
@@ -74,6 +47,15 @@
         },
         {
             "date": "Monday, October 20, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, October 21, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
