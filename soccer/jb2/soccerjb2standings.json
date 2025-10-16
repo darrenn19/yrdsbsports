@@ -71,6 +71,26 @@
             "DIFF": "-12"
         },
         {
+            "Team": "Alexander Mackenzie",
+            "W": "0",
+            "L": "3",
+            "T": "1",
+            "PTS": "1",
+            "GF": "4",
+            "GA": "27",
+            "DIFF": "-15"
+        },
+        {
+            "Team": "Bill Crothers SS",
+            "W": "0",
+            "L": "3",
+            "T": "1",
+            "PTS": "1",
+            "GF": "2",
+            "GA": "23",
+            "DIFF": "-15"
+        },
+        {
             "Team": "Dr. G.W. Williams",
             "W": "0",
             "L": "4",
@@ -79,26 +99,6 @@
             "GF": "4",
             "GA": "14",
             "DIFF": "-10"
-        },
-        {
-            "Team": "Alexander Mackenzie",
-            "W": "0",
-            "L": "3",
-            "T": "0",
-            "PTS": "0",
-            "GF": "2",
-            "GA": "25",
-            "DIFF": "-15"
-        },
-        {
-            "Team": "Bill Crothers SS",
-            "W": "0",
-            "L": "3",
-            "T": "0",
-            "PTS": "0",
-            "GF": "0",
-            "GA": "21",
-            "DIFF": "-15"
         }
     ]
 }
