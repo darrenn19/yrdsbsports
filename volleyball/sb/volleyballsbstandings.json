@@ -38,15 +38,15 @@
         },
         {
             "Team": "Richmond Hill HS",
-            "MP": "6",
-            "MW": "4",
-            "ML": "2",
-            "GW": "8",
-            "GL": "5",
-            "PTS": "4",
-            "PF": "290",
-            "PA": "279",
-            "DIFF": "11"
+            "MP": "8",
+            "MW": "5",
+            "ML": "3",
+            "GW": "11",
+            "GL": "7",
+            "PTS": "5",
+            "PF": "402",
+            "PA": "371",
+            "DIFF": "31"
         },
         {
             "Team": "Thornhill SS",
@@ -61,6 +61,18 @@
             "DIFF": "2"
         },
         {
+            "Team": "Bayview SS",
+            "MP": "5",
+            "MW": "4",
+            "ML": "1",
+            "GW": "9",
+            "GL": "4",
+            "PTS": "4",
+            "PF": "278",
+            "PA": "230",
+            "DIFF": "48"
+        },
+        {
             "Team": "Our Lady Queen Of The World",
             "MP": "10",
             "MW": "3",
@@ -73,6 +85,18 @@
             "DIFF": "-44"
         },
         {
+            "Team": "Thornlea SS",
+            "MP": "5",
+            "MW": "3",
+            "ML": "2",
+            "GW": "6",
+            "GL": "5",
+            "PTS": "3",
+            "PF": "237",
+            "PA": "214",
+            "DIFF": "23"
+        },
+        {
             "Team": "Langstaff SS",
             "MP": "10",
             "MW": "3",
@@ -83,30 +107,6 @@
             "PF": "448",
             "PA": "496",
             "DIFF": "-48"
-        },
-        {
-            "Team": "Thornlea SS",
-            "MP": "4",
-            "MW": "3",
-            "ML": "1",
-            "GW": "6",
-            "GL": "3",
-            "PTS": "3",
-            "PF": "205",
-            "PA": "164",
-            "DIFF": "41"
-        },
-        {
-            "Team": "Bayview SS",
-            "MP": "4",
-            "MW": "3",
-            "ML": "1",
-            "GW": "7",
-            "GL": "3",
-            "PTS": "3",
-            "PF": "218",
-            "PA": "168",
-            "DIFF": "50"
         },
         {
             "Team": "St. Augustine",
@@ -278,51 +278,63 @@
         },
         {
             "Team": "Newmarket HS",
+            "MP": "9",
+            "MW": "8",
+            "ML": "1",
+            "GW": "17",
+            "GL": "4",
+            "PTS": "8",
+            "PF": "485",
+            "PA": "352",
+            "DIFF": "133"
+        },
+        {
+            "Team": "Renaissance ESC",
             "MP": "8",
             "MW": "7",
             "ML": "1",
             "GW": "15",
-            "GL": "4",
+            "GL": "2",
             "PTS": "7",
-            "PF": "435",
-            "PA": "316",
-            "DIFF": "119"
+            "PF": "408",
+            "PA": "268",
+            "DIFF": "140"
         },
         {
-            "Team": "Renaissance ESC",
-            "MP": "6",
+            "Team": "Keswick High School",
+            "MP": "10",
             "MW": "5",
-            "ML": "1",
-            "GW": "11",
-            "GL": "2",
+            "ML": "5",
+            "GW": "12",
+            "GL": "12",
             "PTS": "5",
-            "PF": "308",
-            "PA": "209",
-            "DIFF": "99"
+            "PF": "480",
+            "PA": "476",
+            "DIFF": "4"
         },
         {
             "Team": "Dr. J.M. Denison",
-            "MP": "6",
+            "MP": "7",
             "MW": "4",
-            "ML": "2",
+            "ML": "3",
             "GW": "10",
-            "GL": "4",
+            "GL": "6",
             "PTS": "4",
-            "PF": "316",
-            "PA": "250",
-            "DIFF": "66"
+            "PF": "350",
+            "PA": "300",
+            "DIFF": "50"
         },
         {
-            "Team": "Huron Heights",
-            "MP": "6",
+            "Team": "Sutton District",
+            "MP": "7",
             "MW": "4",
-            "ML": "2",
+            "ML": "3",
             "GW": "8",
-            "GL": "7",
+            "GL": "8",
             "PTS": "4",
-            "PF": "313",
-            "PA": "310",
-            "DIFF": "3"
+            "PF": "332",
+            "PA": "351",
+            "DIFF": "-19"
         },
         {
             "Team": "Aurora HS",
@@ -337,76 +349,64 @@
             "DIFF": "-15"
         },
         {
-            "Team": "Sutton District",
+            "Team": "Sacred Heart",
+            "MP": "7",
+            "MW": "4",
+            "ML": "3",
+            "GW": "10",
+            "GL": "8",
+            "PTS": "4",
+            "PF": "357",
+            "PA": "369",
+            "DIFF": "-12"
+        },
+        {
+            "Team": "Huron Heights",
             "MP": "6",
             "MW": "4",
             "ML": "2",
             "GW": "8",
-            "GL": "6",
+            "GL": "7",
             "PTS": "4",
-            "PF": "296",
-            "PA": "301",
-            "DIFF": "-5"
-        },
-        {
-            "Team": "Keswick High School",
-            "MP": "8",
-            "MW": "4",
-            "ML": "4",
-            "GW": "9",
-            "GL": "10",
-            "PTS": "4",
-            "PF": "371",
-            "PA": "371",
-            "DIFF": "0"
-        },
-        {
-            "Team": "Sacred Heart",
-            "MP": "6",
-            "MW": "3",
-            "ML": "3",
-            "GW": "8",
-            "GL": "8",
-            "PTS": "3",
-            "PF": "305",
-            "PA": "334",
-            "DIFF": "-29"
-        },
-        {
-            "Team": "St. Maximilian",
-            "MP": "6",
-            "MW": "1",
-            "ML": "5",
-            "GW": "4",
-            "GL": "10",
-            "PTS": "1",
-            "PF": "261",
-            "PA": "312",
-            "DIFF": "-51"
+            "PF": "313",
+            "PA": "310",
+            "DIFF": "3"
         },
         {
             "Team": "Dr. G.W. Williams",
-            "MP": "6",
-            "MW": "1",
+            "MP": "7",
+            "MW": "2",
             "ML": "5",
-            "GW": "2",
-            "GL": "10",
+            "GW": "4",
+            "GL": "11",
+            "PTS": "2",
+            "PF": "313",
+            "PA": "351",
+            "DIFF": "-38"
+        },
+        {
+            "Team": "St. Maximilian",
+            "MP": "8",
+            "MW": "1",
+            "ML": "7",
+            "GW": "4",
+            "GL": "14",
             "PTS": "1",
-            "PF": "248",
-            "PA": "292",
-            "DIFF": "-44"
+            "PF": "321",
+            "PA": "414",
+            "DIFF": "-93"
         },
         {
             "Team": "Cardinal Carter",
-            "MP": "6",
+            "MP": "7",
             "MW": "1",
-            "ML": "5",
+            "ML": "6",
             "GW": "4",
-            "GL": "10",
+            "GL": "12",
             "PTS": "1",
-            "PF": "262",
-            "PA": "311",
-            "DIFF": "-49"
+            "PF": "302",
+            "PA": "361",
+            "DIFF": "-59"
         },
         {
             "Team": "Sir William Mulock",
@@ -446,15 +446,27 @@
         },
         {
             "Team": "Tommy Douglas SS",
-            "MP": "6",
-            "MW": "5",
+            "MP": "8",
+            "MW": "7",
             "ML": "1",
+            "GW": "14",
+            "GL": "5",
+            "PTS": "7",
+            "PF": "416",
+            "PA": "341",
+            "DIFF": "75"
+        },
+        {
+            "Team": "Woodbridge College",
+            "MP": "8",
+            "MW": "4",
+            "ML": "4",
             "GW": "10",
-            "GL": "3",
-            "PTS": "5",
-            "PF": "292",
-            "PA": "229",
-            "DIFF": "63"
+            "GL": "9",
+            "PTS": "4",
+            "PF": "386",
+            "PA": "374",
+            "DIFF": "12"
         },
         {
             "Team": "Hodan Nalayeh SS",
@@ -469,28 +481,16 @@
             "DIFF": "66"
         },
         {
-            "Team": "Woodbridge College",
+            "Team": "St. Jean De Brebeuf CHS",
             "MP": "6",
             "MW": "3",
             "ML": "3",
             "GW": "7",
-            "GL": "7",
+            "GL": "6",
             "PTS": "3",
-            "PF": "280",
-            "PA": "288",
-            "DIFF": "-8"
-        },
-        {
-            "Team": "St. Jean De Brebeuf CHS",
-            "MP": "5",
-            "MW": "3",
-            "ML": "2",
-            "GW": "6",
-            "GL": "4",
-            "PTS": "3",
-            "PF": "239",
-            "PA": "220",
-            "DIFF": "19"
+            "PF": "295",
+            "PA": "285",
+            "DIFF": "10"
         },
         {
             "Team": "Toronto District Christian",
@@ -506,15 +506,15 @@
         },
         {
             "Team": "Stephen Lewis SS",
-            "MP": "7",
+            "MP": "8",
             "MW": "2",
-            "ML": "5",
+            "ML": "6",
             "GW": "4",
-            "GL": "11",
+            "GL": "13",
             "PTS": "2",
-            "PF": "278",
-            "PA": "346",
-            "DIFF": "-68"
+            "PF": "305",
+            "PA": "396",
+            "DIFF": "-91"
         },
         {
             "Team": "St. Joan Of Arc",

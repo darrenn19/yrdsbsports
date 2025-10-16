@@ -146,15 +146,15 @@
         },
         {
             "Team": "Richmond Hill HS",
-            "MP": "8",
-            "MW": "5",
+            "MP": "9",
+            "MW": "6",
             "ML": "3",
-            "GW": "11",
+            "GW": "13",
             "GL": "8",
-            "PTS": "5",
-            "PF": "390",
-            "PA": "381",
-            "DIFF": "9"
+            "PTS": "6",
+            "PF": "440",
+            "PA": "426",
+            "DIFF": "14"
         },
         {
             "Team": "Stephen Lewis SS",
@@ -194,15 +194,15 @@
         },
         {
             "Team": "Sacred Heart",
-            "MP": "4",
+            "MP": "5",
             "MW": "1",
-            "ML": "3",
+            "ML": "4",
             "GW": "3",
-            "GL": "7",
+            "GL": "9",
             "PTS": "1",
-            "PF": "185",
-            "PA": "211",
-            "DIFF": "-26"
+            "PF": "230",
+            "PA": "261",
+            "DIFF": "-31"
         },
         {
             "Team": "St. Theresa Of Lisieux",

@@ -231,6 +231,16 @@
             "DIFF": "1"
         },
         {
+            "Team": "Sir William Mulock",
+            "W": "2",
+            "L": "3",
+            "T": "0",
+            "PTS": "6",
+            "GF": "13",
+            "GA": "17",
+            "DIFF": "-3"
+        },
+        {
             "Team": "Dr. G.W. Williams",
             "W": "2",
             "L": "3",
@@ -241,24 +251,14 @@
             "DIFF": "-4"
         },
         {
-            "Team": "Sir William Mulock",
-            "W": "1",
-            "L": "3",
-            "T": "0",
-            "PTS": "3",
-            "GF": "12",
-            "GA": "17",
-            "DIFF": "-4"
-        },
-        {
             "Team": "Keswick High School",
             "W": "1",
-            "L": "3",
+            "L": "4",
             "T": "0",
             "PTS": "3",
             "GF": "4",
-            "GA": "11",
-            "DIFF": "-6"
+            "GA": "12",
+            "DIFF": "-7"
         },
         {
             "Team": "Sutton District",
@@ -304,20 +304,20 @@
             "Team": "Maple High School",
             "W": "2",
             "L": "0",
-            "T": "1",
-            "PTS": "7",
-            "GF": "6",
-            "GA": "2",
+            "T": "2",
+            "PTS": "8",
+            "GF": "8",
+            "GA": "4",
             "DIFF": "4"
         },
         {
             "Team": "Toronto District Christian",
             "W": "2",
             "L": "1",
-            "T": "0",
-            "PTS": "6",
-            "GF": "13",
-            "GA": "9",
+            "T": "1",
+            "PTS": "7",
+            "GF": "15",
+            "GA": "11",
             "DIFF": "4"
         },
         {
