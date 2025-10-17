@@ -11,6 +11,15 @@
         },
         {
             "date": "Thursday, October 16, 2025",
+            "home_team": "St. Augustine",
+            "away_team": "St. Brother Andre",
+            "time": "3:30 PM",
+            "location": "St Augustine CHS",
+            "game_played": true,
+            "final_score": "St. Augustine 1, St. Brother Andre 0"
+        },
+        {
+            "date": "Thursday, October 16, 2025",
             "home_team": "St. Joan Of Arc",
             "away_team": "St. Jean De Brebeuf CHS",
             "time": "1:00 PM",
