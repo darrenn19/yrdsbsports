@@ -38,15 +38,15 @@
         },
         {
             "Team": "Richmond Hill HS",
-            "MP": "9",
-            "MW": "6",
+            "MP": "11",
+            "MW": "7",
             "ML": "3",
-            "GW": "13",
+            "GW": "15",
             "GL": "7",
-            "PTS": "6",
-            "PF": "454",
-            "PA": "413",
-            "DIFF": "41"
+            "PTS": "7",
+            "PF": "504",
+            "PA": "444",
+            "DIFF": "60"
         },
         {
             "Team": "Bayview SS",
@@ -61,6 +61,18 @@
             "DIFF": "57"
         },
         {
+            "Team": "Thornhill SS",
+            "MP": "10",
+            "MW": "5",
+            "ML": "5",
+            "GW": "13",
+            "GL": "12",
+            "PTS": "5",
+            "PF": "521",
+            "PA": "534",
+            "DIFF": "-13"
+        },
+        {
             "Team": "Thornlea SS",
             "MP": "6",
             "MW": "4",
@@ -71,18 +83,6 @@
             "PF": "287",
             "PA": "251",
             "DIFF": "36"
-        },
-        {
-            "Team": "Thornhill SS",
-            "MP": "8",
-            "MW": "4",
-            "ML": "4",
-            "GW": "11",
-            "GL": "9",
-            "PTS": "4",
-            "PF": "429",
-            "PA": "427",
-            "DIFF": "2"
         },
         {
             "Team": "Our Lady Queen Of The World",
@@ -110,7 +110,7 @@
         },
         {
             "Team": "Alexander Mackenzie",
-            "MP": "10",
+            "MP": "11",
             "MW": "1",
             "ML": "9",
             "GW": "3",
@@ -122,15 +122,15 @@
         },
         {
             "Team": "St. Augustine",
-            "MP": "9",
+            "MP": "10",
             "MW": "1",
-            "ML": "8",
-            "GW": "3",
-            "GL": "17",
+            "ML": "9",
+            "GW": "4",
+            "GL": "19",
             "PTS": "1",
-            "PF": "392",
-            "PA": "466",
-            "DIFF": "-74"
+            "PF": "449",
+            "PA": "527",
+            "DIFF": "-78"
         },
         {
             "Team": "East",
@@ -169,18 +169,6 @@
             "DIFF": "40"
         },
         {
-            "Team": "Markville",
-            "MP": "8",
-            "MW": "6",
-            "ML": "2",
-            "GW": "13",
-            "GL": "4",
-            "PTS": "6",
-            "PF": "407",
-            "PA": "328",
-            "DIFF": "79"
-        },
-        {
             "Team": "Pierre Elliott Trudeau",
             "MP": "8",
             "MW": "6",
@@ -194,15 +182,39 @@
         },
         {
             "Team": "Father McGivney",
+            "MP": "10",
+            "MW": "6",
+            "ML": "4",
+            "GW": "13",
+            "GL": "9",
+            "PTS": "6",
+            "PF": "495",
+            "PA": "465",
+            "DIFF": "30"
+        },
+        {
+            "Team": "Markville",
             "MP": "8",
-            "MW": "5",
-            "ML": "3",
-            "GW": "11",
-            "GL": "7",
-            "PTS": "5",
-            "PF": "405",
-            "PA": "385",
-            "DIFF": "20"
+            "MW": "6",
+            "ML": "2",
+            "GW": "13",
+            "GL": "4",
+            "PTS": "6",
+            "PF": "407",
+            "PA": "328",
+            "DIFF": "79"
+        },
+        {
+            "Team": "Bill Hogarth SS",
+            "MP": "8",
+            "MW": "3",
+            "ML": "5",
+            "GW": "8",
+            "GL": "10",
+            "PTS": "3",
+            "PF": "372",
+            "PA": "364",
+            "DIFF": "8"
         },
         {
             "Team": "Milliken Mills",
@@ -217,28 +229,16 @@
             "DIFF": "-14"
         },
         {
-            "Team": "Bill Hogarth SS",
-            "MP": "7",
-            "MW": "2",
-            "ML": "5",
-            "GW": "6",
-            "GL": "10",
-            "PTS": "2",
-            "PF": "322",
-            "PA": "324",
-            "DIFF": "-2"
-        },
-        {
             "Team": "St. Brother Andre",
-            "MP": "7",
+            "MP": "8",
             "MW": "1",
-            "ML": "6",
+            "ML": "7",
             "GW": "3",
-            "GL": "13",
+            "GL": "15",
             "PTS": "1",
-            "PF": "294",
-            "PA": "381",
-            "DIFF": "-87"
+            "PF": "324",
+            "PA": "431",
+            "DIFF": "-107"
         },
         {
             "Team": "Middlefield",
@@ -446,15 +446,15 @@
         },
         {
             "Team": "Tommy Douglas SS",
-            "MP": "8",
-            "MW": "7",
+            "MP": "9",
+            "MW": "8",
             "ML": "1",
-            "GW": "14",
+            "GW": "16",
             "GL": "5",
-            "PTS": "7",
-            "PF": "416",
-            "PA": "341",
-            "DIFF": "75"
+            "PTS": "8",
+            "PF": "466",
+            "PA": "384",
+            "DIFF": "82"
         },
         {
             "Team": "Woodbridge College",
@@ -469,6 +469,18 @@
             "DIFF": "62"
         },
         {
+            "Team": "Hodan Nalayeh SS",
+            "MP": "6",
+            "MW": "5",
+            "ML": "1",
+            "GW": "10",
+            "GL": "2",
+            "PTS": "5",
+            "PF": "295",
+            "PA": "218",
+            "DIFF": "77"
+        },
+        {
             "Team": "St. Joan Of Arc",
             "MP": "10",
             "MW": "4",
@@ -479,18 +491,6 @@
             "PF": "448",
             "PA": "529",
             "DIFF": "-81"
-        },
-        {
-            "Team": "Hodan Nalayeh SS",
-            "MP": "4",
-            "MW": "4",
-            "ML": "0",
-            "GW": "8",
-            "GL": "0",
-            "PTS": "4",
-            "PF": "202",
-            "PA": "136",
-            "DIFF": "66"
         },
         {
             "Team": "Stephen Lewis SS",
@@ -518,15 +518,15 @@
         },
         {
             "Team": "Toronto District Christian",
-            "MP": "6",
+            "MP": "7",
             "MW": "2",
-            "ML": "4",
+            "ML": "5",
             "GW": "4",
-            "GL": "9",
+            "GL": "11",
             "PTS": "2",
-            "PF": "228",
-            "PA": "281",
-            "DIFF": "-53"
+            "PF": "260",
+            "PA": "331",
+            "DIFF": "-71"
         },
         {
             "Team": "Father Bressani",

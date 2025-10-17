@@ -13,6 +13,18 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Markville",
+            "MP": "10",
+            "MW": "9",
+            "ML": "1",
+            "GW": "18",
+            "GL": "5",
+            "PTS": "9",
+            "PF": "511",
+            "PA": "408",
+            "DIFF": "103"
+        },
+        {
             "Team": "Unionville HS",
             "MP": "8",
             "MW": "8",
@@ -37,18 +49,6 @@
             "DIFF": "58"
         },
         {
-            "Team": "Markville",
-            "MP": "8",
-            "MW": "7",
-            "ML": "1",
-            "GW": "14",
-            "GL": "4",
-            "PTS": "7",
-            "PF": "409",
-            "PA": "313",
-            "DIFF": "96"
-        },
-        {
             "Team": "Pierre Elliott Trudeau",
             "MP": "10",
             "MW": "5",
@@ -61,28 +61,28 @@
             "DIFF": "10"
         },
         {
-            "Team": "Bill Crothers SS",
-            "MP": "8",
-            "MW": "4",
-            "ML": "4",
+            "Team": "Middlefield",
+            "MP": "10",
+            "MW": "5",
+            "ML": "5",
             "GW": "11",
-            "GL": "9",
-            "PTS": "4",
-            "PF": "398",
-            "PA": "408",
-            "DIFF": "-10"
+            "GL": "13",
+            "PTS": "5",
+            "PF": "488",
+            "PA": "516",
+            "DIFF": "-28"
         },
         {
-            "Team": "Middlefield",
-            "MP": "8",
+            "Team": "Bill Crothers SS",
+            "MP": "9",
             "MW": "4",
-            "ML": "4",
-            "GW": "9",
+            "ML": "5",
+            "GW": "12",
             "GL": "11",
             "PTS": "4",
-            "PF": "402",
-            "PA": "421",
-            "DIFF": "-19"
+            "PF": "457",
+            "PA": "460",
+            "DIFF": "-3"
         },
         {
             "Team": "Bill Hogarth SS",
@@ -98,15 +98,15 @@
         },
         {
             "Team": "Milliken Mills",
-            "MP": "6",
+            "MP": "7",
             "MW": "0",
-            "ML": "6",
+            "ML": "7",
             "GW": "1",
-            "GL": "12",
+            "GL": "14",
             "PTS": "0",
-            "PF": "201",
-            "PA": "312",
-            "DIFF": "-111"
+            "PF": "246",
+            "PA": "362",
+            "DIFF": "-116"
         },
         {
             "Team": "Bur Oak SS",

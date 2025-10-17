@@ -24,11 +24,21 @@
             "Team": "St. Jean De Brebeuf CHS",
             "W": "3",
             "L": "1",
-            "T": "0",
-            "PTS": "9",
-            "GF": "13",
-            "GA": "4",
+            "T": "1",
+            "PTS": "10",
+            "GF": "14",
+            "GA": "5",
             "DIFF": "9"
+        },
+        {
+            "Team": "St. Joan Of Arc",
+            "W": "2",
+            "L": "2",
+            "T": "1",
+            "PTS": "7",
+            "GF": "12",
+            "GA": "13",
+            "DIFF": "-1"
         },
         {
             "Team": "Stephen Lewis SS",
@@ -49,16 +59,6 @@
             "GF": "8",
             "GA": "15",
             "DIFF": "-6"
-        },
-        {
-            "Team": "St. Joan Of Arc",
-            "W": "2",
-            "L": "2",
-            "T": "0",
-            "PTS": "6",
-            "GF": "11",
-            "GA": "12",
-            "DIFF": "-1"
         },
         {
             "Team": "Father Bressani",
@@ -141,24 +141,24 @@
             "DIFF": "-13"
         },
         {
+            "Team": "St. Augustine",
+            "W": "1",
+            "L": "5",
+            "T": "0",
+            "PTS": "3",
+            "GF": "4",
+            "GA": "15",
+            "DIFF": "-10"
+        },
+        {
             "Team": "St. Brother Andre",
             "W": "0",
-            "L": "2",
+            "L": "3",
             "T": "2",
             "PTS": "2",
             "GF": "2",
-            "GA": "8",
-            "DIFF": "-6"
-        },
-        {
-            "Team": "St. Augustine",
-            "W": "0",
-            "L": "5",
-            "T": "0",
-            "PTS": "0",
-            "GF": "3",
-            "GA": "15",
-            "DIFF": "-11"
+            "GA": "9",
+            "DIFF": "-7"
         }
     ]
 }
