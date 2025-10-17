@@ -92,6 +92,15 @@
         },
         {
             "date": "Thursday, October 16, 2025",
+            "home_team": "Renaissance ESC",
+            "away_team": "Toronto District Christian",
+            "time": "3:30 PM",
+            "location": "Renaissance ESC",
+            "game_played": true,
+            "final_score": "Renaissance ESC 1, Toronto District Christian 1"
+        },
+        {
+            "date": "Thursday, October 16, 2025",
             "home_team": "Richmond Green SS",
             "away_team": "Richmond Hill HS",
             "time": "3:45 PM",
