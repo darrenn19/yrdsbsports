@@ -11,6 +11,15 @@
         },
         {
             "date": "Thursday, October 16, 2025",
+            "home_team": "St. Joan Of Arc",
+            "away_team": "St. Jean De Brebeuf CHS",
+            "time": "1:00 PM",
+            "location": "St Joan Of Arc CHS",
+            "game_played": true,
+            "final_score": "St. Joan Of Arc 1, St. Jean De Brebeuf CHS 1"
+        },
+        {
+            "date": "Thursday, October 16, 2025",
             "home_team": "St. Theresa Of Lisieux",
             "away_team": "Hodan Nalayeh SS",
             "time": "3:30 PM",
