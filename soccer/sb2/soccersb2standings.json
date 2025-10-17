@@ -11,6 +11,16 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Thornhill SS",
+            "W": "5",
+            "L": "1",
+            "T": "0",
+            "PTS": "15",
+            "GF": "24",
+            "GA": "5",
+            "DIFF": "18"
+        },
+        {
             "Team": "St. Robert",
             "W": "4",
             "L": "0",
@@ -21,24 +31,14 @@
             "DIFF": "14"
         },
         {
-            "Team": "Thornhill SS",
-            "W": "4",
-            "L": "1",
-            "T": "0",
-            "PTS": "12",
-            "GF": "22",
-            "GA": "5",
-            "DIFF": "16"
-        },
-        {
             "Team": "Langstaff SS",
             "W": "3",
-            "L": "0",
+            "L": "1",
             "T": "2",
             "PTS": "11",
             "GF": "17",
-            "GA": "4",
-            "DIFF": "12"
+            "GA": "6",
+            "DIFF": "10"
         },
         {
             "Team": "Richmond Green SS",
@@ -101,24 +101,24 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Bill Hogarth SS",
+            "W": "5",
+            "L": "0",
+            "T": "1",
+            "PTS": "16",
+            "GF": "18",
+            "GA": "6",
+            "DIFF": "12"
+        },
+        {
             "Team": "Pierre Elliott Trudeau",
             "W": "4",
-            "L": "0",
+            "L": "1",
             "T": "1",
             "PTS": "13",
             "GF": "12",
-            "GA": "7",
-            "DIFF": "5"
-        },
-        {
-            "Team": "Bill Hogarth SS",
-            "W": "4",
-            "L": "0",
-            "T": "1",
-            "PTS": "13",
-            "GF": "17",
-            "GA": "6",
-            "DIFF": "11"
+            "GA": "8",
+            "DIFF": "4"
         },
         {
             "Team": "Bill Crothers SS",
@@ -151,24 +151,24 @@
             "DIFF": "-2"
         },
         {
-            "Team": "Bur Oak SS",
-            "W": "1",
-            "L": "3",
-            "T": "1",
-            "PTS": "4",
-            "GF": "10",
-            "GA": "14",
-            "DIFF": "-4"
-        },
-        {
             "Team": "Milliken Mills",
-            "W": "1",
+            "W": "2",
             "L": "4",
             "T": "0",
-            "PTS": "3",
-            "GF": "6",
-            "GA": "12",
-            "DIFF": "-6"
+            "PTS": "6",
+            "GF": "12",
+            "GA": "17",
+            "DIFF": "-5"
+        },
+        {
+            "Team": "Bur Oak SS",
+            "W": "1",
+            "L": "4",
+            "T": "1",
+            "PTS": "4",
+            "GF": "15",
+            "GA": "20",
+            "DIFF": "-5"
         },
         {
             "Team": "Stouffville",
@@ -191,34 +191,34 @@
             "DIFF": "DIFF"
         },
         {
-            "Team": "Newmarket HS",
-            "W": "4",
-            "L": "0",
-            "T": "1",
-            "PTS": "13",
-            "GF": "16",
-            "GA": "3",
-            "DIFF": "10"
-        },
-        {
             "Team": "Dr. J.M. Denison",
-            "W": "4",
+            "W": "5",
             "L": "1",
             "T": "0",
-            "PTS": "12",
-            "GF": "29",
-            "GA": "7",
-            "DIFF": "17"
+            "PTS": "15",
+            "GF": "32",
+            "GA": "8",
+            "DIFF": "19"
+        },
+        {
+            "Team": "Newmarket HS",
+            "W": "4",
+            "L": "1",
+            "T": "1",
+            "PTS": "13",
+            "GF": "17",
+            "GA": "6",
+            "DIFF": "8"
         },
         {
             "Team": "Huron Heights",
             "W": "3",
-            "L": "1",
+            "L": "2",
             "T": "1",
             "PTS": "10",
-            "GF": "16",
-            "GA": "7",
-            "DIFF": "8"
+            "GF": "17",
+            "GA": "9",
+            "DIFF": "7"
         },
         {
             "Team": "Aurora HS",
@@ -252,13 +252,13 @@
         },
         {
             "Team": "Keswick High School",
-            "W": "1",
+            "W": "2",
             "L": "4",
             "T": "0",
-            "PTS": "3",
-            "GF": "4",
-            "GA": "12",
-            "DIFF": "-7"
+            "PTS": "6",
+            "GF": "6",
+            "GA": "13",
+            "DIFF": "-6"
         },
         {
             "Team": "Sutton District",
@@ -283,12 +283,12 @@
         {
             "Team": "Tommy Douglas SS",
             "W": "3",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "9",
             "GF": "17",
-            "GA": "6",
-            "DIFF": "10"
+            "GA": "8",
+            "DIFF": "8"
         },
         {
             "Team": "St. Elizabeth",
@@ -342,13 +342,13 @@
         },
         {
             "Team": "King City SS",
-            "W": "0",
+            "W": "1",
             "L": "5",
             "T": "0",
-            "PTS": "0",
-            "GF": "4",
+            "PTS": "3",
+            "GF": "6",
             "GA": "15",
-            "DIFF": "-11"
+            "DIFF": "-9"
         }
     ]
 }

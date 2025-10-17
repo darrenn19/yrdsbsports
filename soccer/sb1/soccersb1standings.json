@@ -33,12 +33,22 @@
         {
             "Team": "Stephen Lewis SS",
             "W": "2",
+            "L": "4",
+            "T": "0",
+            "PTS": "6",
+            "GF": "14",
+            "GA": "20",
+            "DIFF": "-6"
+        },
+        {
+            "Team": "Hodan Nalayeh SS",
+            "W": "2",
             "L": "3",
             "T": "0",
             "PTS": "6",
-            "GF": "11",
+            "GF": "8",
             "GA": "15",
-            "DIFF": "-4"
+            "DIFF": "-6"
         },
         {
             "Team": "St. Joan Of Arc",
@@ -51,34 +61,24 @@
             "DIFF": "-1"
         },
         {
+            "Team": "Father Bressani",
+            "W": "1",
+            "L": "2",
+            "T": "2",
+            "PTS": "5",
+            "GF": "8",
+            "GA": "12",
+            "DIFF": "-4"
+        },
+        {
             "Team": "St. Theresa Of Lisieux",
             "W": "1",
-            "L": "1",
+            "L": "2",
             "T": "2",
             "PTS": "5",
             "GF": "5",
-            "GA": "7",
-            "DIFF": "-2"
-        },
-        {
-            "Team": "Hodan Nalayeh SS",
-            "W": "1",
-            "L": "3",
-            "T": "0",
-            "PTS": "3",
-            "GF": "7",
-            "GA": "15",
-            "DIFF": "-7"
-        },
-        {
-            "Team": "Father Bressani",
-            "W": "0",
-            "L": "2",
-            "T": "2",
-            "PTS": "2",
-            "GF": "3",
-            "GA": "9",
-            "DIFF": "-6"
+            "GA": "8",
+            "DIFF": "-3"
         },
         {
             "Team": "North-East",
