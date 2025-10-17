@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, October 15, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
-        },
-        {
             "date": "Thursday, October 16, 2025",
             "home_team": "Newmarket HS",
             "away_team": "Keswick High School",
@@ -74,6 +65,15 @@
         },
         {
             "date": "Tuesday, October 21, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, October 22, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
