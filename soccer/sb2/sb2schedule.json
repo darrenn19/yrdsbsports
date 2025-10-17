@@ -64,6 +64,15 @@
             "final_score": "Langstaff SS 0, Thornhill SS 2"
         },
         {
+            "date": "Thursday, October 16, 2025",
+            "home_team": "Markham District",
+            "away_team": "Middlefield",
+            "time": "3:45 PM",
+            "location": "Markham DHS",
+            "game_played": true,
+            "final_score": "Markham District 2, Middlefield 1"
+        },
+        {
             "date": "Friday, October 17, 2025",
             "home_team": null,
             "away_team": null,
