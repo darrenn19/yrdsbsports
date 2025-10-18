@@ -1,60 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, October 16, 2025",
-            "home_team": "Markham District",
-            "away_team": "Middlefield",
-            "time": "3:45 PM",
-            "location": "Markham DHS",
-            "game_played": true,
-            "final_score": "Markham District 57, Middlefield 25"
-        },
-        {
-            "date": "Thursday, October 16, 2025",
-            "home_team": "Newmarket HS",
-            "away_team": "Sacred Heart",
-            "time": "4:45 PM",
-            "location": "Newmarket HS",
-            "game_played": true,
-            "final_score": "Newmarket HS 26, Sacred Heart 46"
-        },
-        {
-            "date": "Thursday, October 16, 2025",
-            "home_team": "Richmond Green SS",
-            "away_team": "Thornlea SS",
-            "time": "4:00 PM",
-            "location": "Richmond Green SS",
-            "game_played": true,
-            "final_score": "Richmond Green SS 26, Thornlea SS 53"
-        },
-        {
-            "date": "Thursday, October 16, 2025",
-            "home_team": "St. Augustine",
-            "away_team": "Our Lady Queen Of The World",
-            "time": "3:45 PM",
-            "location": "St Augustine CHS",
-            "game_played": true,
-            "final_score": "St. Augustine 45, Our Lady Queen Of The World 44"
-        },
-        {
-            "date": "Thursday, October 16, 2025",
-            "home_team": "St. Robert",
-            "away_team": "St. Theresa Of Lisieux",
-            "time": "3:45 PM",
-            "location": "St Robert CHS",
-            "game_played": true,
-            "final_score": "St. Robert 30, St. Theresa Of Lisieux 42"
-        },
-        {
-            "date": "Thursday, October 16, 2025",
-            "home_team": "Toronto District Christian",
-            "away_team": "Maple High School",
-            "time": "3:45 PM",
-            "location": "Toronto District Christian HS",
-            "game_played": true,
-            "final_score": "Toronto District Christian 42, Maple High School 25"
-        },
-        {
             "date": "Friday, October 17, 2025",
             "home_team": null,
             "away_team": null,
@@ -101,6 +47,15 @@
         },
         {
             "date": "Wednesday, October 22, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, October 23, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

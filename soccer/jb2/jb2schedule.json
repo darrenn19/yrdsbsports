@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, October 16, 2025",
-            "home_team": "Dr. G.W. Williams",
-            "away_team": "St. Augustine",
-            "time": "3:00 PM",
-            "location": "Dr G W Williams SS",
-            "game_played": true,
-            "final_score": "Dr. G.W. Williams 0, St. Augustine 3"
-        },
-        {
             "date": "Friday, October 17, 2025",
             "home_team": null,
             "away_team": null,
@@ -56,6 +47,15 @@
         },
         {
             "date": "Wednesday, October 22, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, October 23, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

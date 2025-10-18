@@ -1,42 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, October 16, 2025",
-            "home_team": "Newmarket HS",
-            "away_team": "Keswick High School",
-            "time": "3:30 PM",
-            "location": "Newmarket HS",
-            "game_played": true,
-            "final_score": "Newmarket HS 45, Keswick High School 24"
-        },
-        {
-            "date": "Thursday, October 16, 2025",
-            "home_team": "St. Katharine Drexel",
-            "away_team": "Bill Crothers SS",
-            "time": "3:45 PM",
-            "location": "St Katharine Drexel CHS",
-            "game_played": true,
-            "final_score": "St. Katharine Drexel 10, Bill Crothers SS 48"
-        },
-        {
-            "date": "Thursday, October 16, 2025",
-            "home_team": "Stephen Lewis SS",
-            "away_team": "Richmond Hill HS",
-            "time": "3:45 PM",
-            "location": "Stephen Lewis SS",
-            "game_played": true,
-            "final_score": "Stephen Lewis SS 43, Richmond Hill HS 33"
-        },
-        {
-            "date": "Thursday, October 16, 2025",
-            "home_team": "Unionville HS",
-            "away_team": "St. Theresa Of Lisieux",
-            "time": "3:45 PM",
-            "location": "Unionville HS",
-            "game_played": true,
-            "final_score": "Unionville HS 22, St. Theresa Of Lisieux 62"
-        },
-        {
             "date": "Friday, October 17, 2025",
             "home_team": null,
             "away_team": null,
@@ -83,6 +47,15 @@
         },
         {
             "date": "Wednesday, October 22, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, October 23, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

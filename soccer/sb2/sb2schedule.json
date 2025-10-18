@@ -1,123 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, October 16, 2025",
-            "home_team": "Bill Crothers SS",
-            "away_team": "Stouffville",
-            "time": "3:45 PM",
-            "location": "Bill Crothers SS",
-            "game_played": true,
-            "final_score": "Bill Crothers SS 3, Stouffville 0"
-        },
-        {
-            "date": "Thursday, October 16, 2025",
-            "home_team": "Bill Hogarth SS",
-            "away_team": "Pierre Elliott Trudeau",
-            "time": "3:45 PM",
-            "location": "Bill Hogarth SS",
-            "game_played": true,
-            "final_score": "Bill Hogarth SS 1, Pierre Elliott Trudeau 0"
-        },
-        {
-            "date": "Thursday, October 16, 2025",
-            "home_team": "Bur Oak SS",
-            "away_team": "Milliken Mills",
-            "time": "3:45 PM",
-            "location": "Bur Oak SS",
-            "game_played": true,
-            "final_score": "Bur Oak SS 5, Milliken Mills 6"
-        },
-        {
-            "date": "Thursday, October 16, 2025",
-            "home_team": "Dr. G.W. Williams",
-            "away_team": "Sir William Mulock",
-            "time": "3:45 PM",
-            "location": "Dr G W Williams SS",
-            "game_played": true,
-            "final_score": "Dr. G.W. Williams 2, Sir William Mulock 1"
-        },
-        {
-            "date": "Thursday, October 16, 2025",
-            "home_team": "Dr. J.M. Denison",
-            "away_team": "Newmarket HS",
-            "time": "3:45 PM",
-            "location": "Dr J M Denison SS",
-            "game_played": true,
-            "final_score": "Dr. J.M. Denison 3, Newmarket HS 1"
-        },
-        {
-            "date": "Thursday, October 16, 2025",
-            "home_team": "Huron Heights",
-            "away_team": "Keswick High School",
-            "time": "3:45 PM",
-            "location": "Huron Heights SS",
-            "game_played": true,
-            "final_score": "Huron Heights 1, Keswick High School 2"
-        },
-        {
-            "date": "Thursday, October 16, 2025",
-            "home_team": "King City SS",
-            "away_team": "Tommy Douglas SS",
-            "time": "3:45 PM",
-            "location": "King City SS",
-            "game_played": true,
-            "final_score": "King City SS 2, Tommy Douglas SS 0"
-        },
-        {
-            "date": "Thursday, October 16, 2025",
-            "home_team": "Langstaff SS",
-            "away_team": "Thornhill SS",
-            "time": "3:45 PM",
-            "location": "Langstaff SS",
-            "game_played": true,
-            "final_score": "Langstaff SS 0, Thornhill SS 2"
-        },
-        {
-            "date": "Thursday, October 16, 2025",
-            "home_team": "Markham District",
-            "away_team": "Middlefield",
-            "time": "3:45 PM",
-            "location": "Markham DHS",
-            "game_played": true,
-            "final_score": "Markham District 2, Middlefield 1"
-        },
-        {
-            "date": "Thursday, October 16, 2025",
-            "home_team": "Our Lady Queen Of The World",
-            "away_team": "St. Robert",
-            "time": "3:30 PM",
-            "location": "Our Lady Queen Of The World",
-            "game_played": true,
-            "final_score": "Our Lady Queen Of The World 3, St. Robert 4"
-        },
-        {
-            "date": "Thursday, October 16, 2025",
-            "home_team": "Renaissance ESC",
-            "away_team": "Toronto District Christian",
-            "time": "3:30 PM",
-            "location": "Renaissance ESC",
-            "game_played": true,
-            "final_score": "Renaissance ESC 1, Toronto District Christian 1"
-        },
-        {
-            "date": "Thursday, October 16, 2025",
-            "home_team": "Richmond Green SS",
-            "away_team": "Richmond Hill HS",
-            "time": "3:45 PM",
-            "location": "Richmond Green SS",
-            "game_played": true,
-            "final_score": "Richmond Green SS 1, Richmond Hill HS 1"
-        },
-        {
-            "date": "Thursday, October 16, 2025",
-            "home_team": "Aurora HS",
-            "away_team": "Sutton District",
-            "time": "3:00 PM",
-            "location": "Sheppards Bush",
-            "game_played": true,
-            "final_score": "Aurora HS 13, Sutton District 0"
-        },
-        {
             "date": "Friday, October 17, 2025",
             "home_team": null,
             "away_team": null,
@@ -164,6 +47,15 @@
         },
         {
             "date": "Wednesday, October 22, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, October 23, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

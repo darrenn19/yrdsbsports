@@ -1,42 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, October 16, 2025",
-            "home_team": "Father Bressani",
-            "away_team": "Stephen Lewis SS",
-            "time": "3:00 PM",
-            "location": "Father Bressani CHS",
-            "game_played": true,
-            "final_score": "Father Bressani 5, Stephen Lewis SS 3"
-        },
-        {
-            "date": "Thursday, October 16, 2025",
-            "home_team": "St. Augustine",
-            "away_team": "St. Brother Andre",
-            "time": "3:30 PM",
-            "location": "St Augustine CHS",
-            "game_played": true,
-            "final_score": "St. Augustine 1, St. Brother Andre 0"
-        },
-        {
-            "date": "Thursday, October 16, 2025",
-            "home_team": "St. Joan Of Arc",
-            "away_team": "St. Jean De Brebeuf CHS",
-            "time": "1:00 PM",
-            "location": "St Joan Of Arc CHS",
-            "game_played": true,
-            "final_score": "St. Joan Of Arc 1, St. Jean De Brebeuf CHS 1"
-        },
-        {
-            "date": "Thursday, October 16, 2025",
-            "home_team": "St. Theresa Of Lisieux",
-            "away_team": "Hodan Nalayeh SS",
-            "time": "3:30 PM",
-            "location": "St Theresa Of Lisieux CHS",
-            "game_played": true,
-            "final_score": "St. Theresa Of Lisieux 0, Hodan Nalayeh SS 1"
-        },
-        {
             "date": "Friday, October 17, 2025",
             "home_team": null,
             "away_team": null,
@@ -83,6 +47,15 @@
         },
         {
             "date": "Wednesday, October 22, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, October 23, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
