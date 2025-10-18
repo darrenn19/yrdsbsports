@@ -49,6 +49,18 @@
             "DIFF": "58"
         },
         {
+            "Team": "Bill Crothers SS",
+            "MP": "10",
+            "MW": "5",
+            "ML": "5",
+            "GW": "14",
+            "GL": "11",
+            "PTS": "5",
+            "PF": "507",
+            "PA": "492",
+            "DIFF": "15"
+        },
+        {
             "Team": "Pierre Elliott Trudeau",
             "MP": "10",
             "MW": "5",
@@ -73,18 +85,6 @@
             "DIFF": "-28"
         },
         {
-            "Team": "Bill Crothers SS",
-            "MP": "9",
-            "MW": "4",
-            "ML": "5",
-            "GW": "12",
-            "GL": "11",
-            "PTS": "4",
-            "PF": "457",
-            "PA": "460",
-            "DIFF": "-3"
-        },
-        {
             "Team": "Bill Hogarth SS",
             "MP": "10",
             "MW": "3",
@@ -98,15 +98,15 @@
         },
         {
             "Team": "Milliken Mills",
-            "MP": "7",
+            "MP": "8",
             "MW": "0",
-            "ML": "7",
+            "ML": "8",
             "GW": "1",
-            "GL": "14",
+            "GL": "16",
             "PTS": "0",
-            "PF": "246",
-            "PA": "362",
-            "DIFF": "-116"
+            "PF": "278",
+            "PA": "412",
+            "DIFF": "-134"
         },
         {
             "Team": "Bur Oak SS",

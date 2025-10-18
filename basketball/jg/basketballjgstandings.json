@@ -23,6 +23,17 @@
             "DIFF": "90"
         },
         {
+            "Team": "Bill Crothers SS",
+            "GP": "6",
+            "W": "5",
+            "L": "1",
+            "T": "0",
+            "PTS": "10",
+            "PF": "295",
+            "PA": "116",
+            "DIFF": "60"
+        },
+        {
             "Team": "Markham District",
             "GP": "6",
             "W": "4",
@@ -32,17 +43,6 @@
             "PF": "208",
             "PA": "195",
             "DIFF": "27"
-        },
-        {
-            "Team": "Bill Crothers SS",
-            "GP": "5",
-            "W": "4",
-            "L": "1",
-            "T": "0",
-            "PTS": "8",
-            "PF": "247",
-            "PA": "106",
-            "DIFF": "45"
         },
         {
             "Team": "Stephen Lewis SS",
@@ -79,14 +79,14 @@
         },
         {
             "Team": "St. Katharine Drexel",
-            "GP": "5",
+            "GP": "6",
             "W": "0",
-            "L": "5",
+            "L": "6",
             "T": "0",
             "PTS": "0",
-            "PF": "110",
-            "PA": "249",
-            "DIFF": "-71"
+            "PF": "120",
+            "PA": "297",
+            "DIFF": "-86"
         },
         {
             "Team": "North-West",

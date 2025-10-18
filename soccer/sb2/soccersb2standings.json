@@ -11,6 +11,16 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "St. Robert",
+            "W": "5",
+            "L": "0",
+            "T": "1",
+            "PTS": "16",
+            "GF": "28",
+            "GA": "9",
+            "DIFF": "15"
+        },
+        {
             "Team": "Thornhill SS",
             "W": "5",
             "L": "1",
@@ -19,16 +29,6 @@
             "GF": "24",
             "GA": "5",
             "DIFF": "18"
-        },
-        {
-            "Team": "St. Robert",
-            "W": "4",
-            "L": "0",
-            "T": "1",
-            "PTS": "13",
-            "GF": "24",
-            "GA": "6",
-            "DIFF": "14"
         },
         {
             "Team": "Richmond Green SS",
@@ -53,12 +53,12 @@
         {
             "Team": "Our Lady Queen Of The World",
             "W": "2",
-            "L": "2",
+            "L": "3",
             "T": "1",
             "PTS": "7",
-            "GF": "10",
-            "GA": "9",
-            "DIFF": "1"
+            "GF": "13",
+            "GA": "13",
+            "DIFF": "0"
         },
         {
             "Team": "Richmond Hill HS",
@@ -301,6 +301,16 @@
             "DIFF": "5"
         },
         {
+            "Team": "Toronto District Christian",
+            "W": "2",
+            "L": "1",
+            "T": "2",
+            "PTS": "8",
+            "GF": "16",
+            "GA": "12",
+            "DIFF": "4"
+        },
+        {
             "Team": "Maple High School",
             "W": "2",
             "L": "0",
@@ -308,16 +318,6 @@
             "PTS": "8",
             "GF": "8",
             "GA": "4",
-            "DIFF": "4"
-        },
-        {
-            "Team": "Toronto District Christian",
-            "W": "2",
-            "L": "1",
-            "T": "1",
-            "PTS": "7",
-            "GF": "15",
-            "GA": "11",
             "DIFF": "4"
         },
         {
@@ -334,10 +334,10 @@
             "Team": "Renaissance ESC",
             "W": "1",
             "L": "2",
-            "T": "1",
-            "PTS": "4",
-            "GF": "6",
-            "GA": "15",
+            "T": "2",
+            "PTS": "5",
+            "GF": "7",
+            "GA": "16",
             "DIFF": "-8"
         },
         {
