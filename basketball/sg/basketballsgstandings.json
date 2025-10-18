@@ -100,17 +100,6 @@
             "DIFF": "DIFF"
         },
         {
-            "Team": "Father McGivney",
-            "GP": "5",
-            "W": "5",
-            "L": "0",
-            "T": "0",
-            "PTS": "10",
-            "PF": "266",
-            "PA": "172",
-            "DIFF": "64"
-        },
-        {
             "Team": "Markham District",
             "GP": "6",
             "W": "5",
@@ -120,6 +109,17 @@
             "PF": "315",
             "PA": "222",
             "DIFF": "50"
+        },
+        {
+            "Team": "Father McGivney",
+            "GP": "5",
+            "W": "5",
+            "L": "0",
+            "T": "0",
+            "PTS": "10",
+            "PF": "266",
+            "PA": "172",
+            "DIFF": "64"
         },
         {
             "Team": "Unionville HS",
@@ -144,17 +144,6 @@
             "DIFF": "18"
         },
         {
-            "Team": "Markville",
-            "GP": "6",
-            "W": "2",
-            "L": "4",
-            "T": "0",
-            "PTS": "4",
-            "PF": "150",
-            "PA": "253",
-            "DIFF": "-58"
-        },
-        {
             "Team": "Middlefield",
             "GP": "6",
             "W": "2",
@@ -166,26 +155,37 @@
             "DIFF": "-24"
         },
         {
-            "Team": "Pierre Elliott Trudeau",
-            "GP": "4",
-            "W": "1",
+            "Team": "Bur Oak SS",
+            "GP": "5",
+            "W": "2",
             "L": "3",
             "T": "0",
-            "PTS": "2",
-            "PF": "183",
-            "PA": "228",
-            "DIFF": "-27"
+            "PTS": "4",
+            "PF": "219",
+            "PA": "221",
+            "DIFF": "-2"
         },
         {
-            "Team": "Bur Oak SS",
-            "GP": "4",
+            "Team": "Markville",
+            "GP": "6",
+            "W": "2",
+            "L": "4",
+            "T": "0",
+            "PTS": "4",
+            "PF": "150",
+            "PA": "253",
+            "DIFF": "-58"
+        },
+        {
+            "Team": "Pierre Elliott Trudeau",
+            "GP": "5",
             "W": "1",
-            "L": "3",
+            "L": "4",
             "T": "0",
             "PTS": "2",
-            "PF": "171",
-            "PA": "190",
-            "DIFF": "-17"
+            "PF": "214",
+            "PA": "276",
+            "DIFF": "-42"
         },
         {
             "Team": "St. Brother Andre",
