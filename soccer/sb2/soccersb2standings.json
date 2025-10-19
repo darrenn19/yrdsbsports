@@ -281,6 +281,16 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "St. Elizabeth",
+            "W": "3",
+            "L": "1",
+            "T": "1",
+            "PTS": "10",
+            "GF": "14",
+            "GA": "9",
+            "DIFF": "5"
+        },
+        {
             "Team": "Tommy Douglas SS",
             "W": "3",
             "L": "2",
@@ -291,14 +301,14 @@
             "DIFF": "8"
         },
         {
-            "Team": "St. Elizabeth",
-            "W": "3",
-            "L": "1",
-            "T": "0",
+            "Team": "Maple High School",
+            "W": "2",
+            "L": "0",
+            "T": "3",
             "PTS": "9",
             "GF": "11",
-            "GA": "6",
-            "DIFF": "5"
+            "GA": "7",
+            "DIFF": "4"
         },
         {
             "Team": "Toronto District Christian",
@@ -308,16 +318,6 @@
             "PTS": "8",
             "GF": "16",
             "GA": "12",
-            "DIFF": "4"
-        },
-        {
-            "Team": "Maple High School",
-            "W": "2",
-            "L": "0",
-            "T": "2",
-            "PTS": "8",
-            "GF": "8",
-            "GA": "4",
             "DIFF": "4"
         },
         {
