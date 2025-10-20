@@ -71,24 +71,24 @@
             "DIFF": "-9"
         },
         {
-            "Team": "Unionville HS",
-            "W": "0",
+            "Team": "Alexander Mackenzie",
+            "W": "1",
             "L": "5",
             "T": "0",
-            "PTS": "0",
-            "GF": "2",
-            "GA": "24",
-            "DIFF": "-20"
+            "PTS": "3",
+            "GF": "4",
+            "GA": "23",
+            "DIFF": "-17"
         },
         {
-            "Team": "Alexander Mackenzie",
+            "Team": "Unionville HS",
             "W": "0",
-            "L": "5",
+            "L": "6",
             "T": "0",
             "PTS": "0",
-            "GF": "2",
-            "GA": "22",
-            "DIFF": "-18"
+            "GF": "3",
+            "GA": "26",
+            "DIFF": "-21"
         },
         {
             "Team": "East",

@@ -446,15 +446,15 @@
         },
         {
             "Team": "Tommy Douglas SS",
-            "MP": "9",
-            "MW": "8",
+            "MP": "10",
+            "MW": "9",
             "ML": "1",
-            "GW": "16",
+            "GW": "18",
             "GL": "5",
-            "PTS": "8",
-            "PF": "466",
-            "PA": "384",
-            "DIFF": "82"
+            "PTS": "9",
+            "PF": "516",
+            "PA": "427",
+            "DIFF": "89"
         },
         {
             "Team": "Woodbridge College",
@@ -493,6 +493,18 @@
             "DIFF": "-81"
         },
         {
+            "Team": "Toronto District Christian",
+            "MP": "8",
+            "MW": "3",
+            "ML": "5",
+            "GW": "6",
+            "GL": "11",
+            "PTS": "3",
+            "PF": "310",
+            "PA": "374",
+            "DIFF": "-64"
+        },
+        {
             "Team": "Stephen Lewis SS",
             "MP": "10",
             "MW": "3",
@@ -506,27 +518,15 @@
         },
         {
             "Team": "St. Jean De Brebeuf CHS",
-            "MP": "6",
+            "MP": "8",
             "MW": "3",
-            "ML": "3",
-            "GW": "7",
-            "GL": "6",
-            "PTS": "3",
-            "PF": "295",
-            "PA": "285",
-            "DIFF": "10"
-        },
-        {
-            "Team": "Toronto District Christian",
-            "MP": "7",
-            "MW": "2",
             "ML": "5",
-            "GW": "4",
-            "GL": "11",
-            "PTS": "2",
-            "PF": "260",
-            "PA": "331",
-            "DIFF": "-71"
+            "GW": "7",
+            "GL": "10",
+            "PTS": "3",
+            "PF": "381",
+            "PA": "385",
+            "DIFF": "-4"
         },
         {
             "Team": "Emily Carr",
