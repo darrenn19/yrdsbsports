@@ -11,6 +11,15 @@
         },
         {
             "date": "Monday, October 20, 2025",
+            "home_team": "Father McGivney",
+            "away_team": "St. Brother Andre",
+            "time": "3:30 PM",
+            "location": "Father Michael McGivney CA",
+            "game_played": true,
+            "final_score": "Father McGivney 1, St. Brother Andre 6"
+        },
+        {
+            "date": "Monday, October 20, 2025",
             "home_team": "St. Maximilian",
             "away_team": "Sacred Heart",
             "time": "3:30 PM",
