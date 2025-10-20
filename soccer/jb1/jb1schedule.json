@@ -11,6 +11,15 @@
         },
         {
             "date": "Monday, October 20, 2025",
+            "home_team": "St. Joan Of Arc",
+            "away_team": "Holy Cross",
+            "time": "4:15 PM",
+            "location": "St Joan Of Arc CHS",
+            "game_played": true,
+            "final_score": "St. Joan Of Arc 3, Holy Cross 6"
+        },
+        {
+            "date": "Monday, October 20, 2025",
             "home_team": "St. Theresa Of Lisieux",
             "away_team": "St. Jean De Brebeuf CHS",
             "time": "4:15 PM",
