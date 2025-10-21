@@ -11,6 +11,15 @@
         },
         {
             "date": "Tuesday, October 21, 2025",
+            "home_team": "ESC De L Ascension",
+            "away_team": "Sir William Mulock",
+            "time": "3:45 PM",
+            "location": "ESC De L Ascension",
+            "game_played": true,
+            "final_score": "ESC De L Ascension 42, Sir William Mulock 38"
+        },
+        {
+            "date": "Tuesday, October 21, 2025",
             "home_team": "St. Katharine Drexel",
             "away_team": "Markham District",
             "time": "3:45 PM",

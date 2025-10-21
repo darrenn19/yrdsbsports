@@ -19,6 +19,15 @@
             "final_score": "Maple High School 1, Tommy Douglas SS 5"
         },
         {
+            "date": "Tuesday, October 21, 2025",
+            "home_team": "Pierre Elliott Trudeau",
+            "away_team": "Bur Oak SS",
+            "time": "3:45 PM",
+            "location": "PE Trudeau HS",
+            "game_played": true,
+            "final_score": "Pierre Elliott Trudeau 3, Bur Oak SS 1"
+        },
+        {
             "date": "Wednesday, October 22, 2025",
             "home_team": null,
             "away_team": null,
