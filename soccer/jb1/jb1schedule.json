@@ -11,6 +11,15 @@
         },
         {
             "date": "Monday, October 20, 2025",
+            "home_team": "Our Lady Queen Of The World",
+            "away_team": "Father Bressani",
+            "time": "3:30 PM",
+            "location": "Our Lady Queen Of The World",
+            "game_played": true,
+            "final_score": "Our Lady Queen Of The World 3, Father Bressani 3"
+        },
+        {
+            "date": "Monday, October 20, 2025",
             "home_team": "St. Joan Of Arc",
             "away_team": "Holy Cross",
             "time": "4:15 PM",
