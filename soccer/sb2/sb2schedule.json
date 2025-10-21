@@ -28,6 +28,15 @@
             "final_score": "Pierre Elliott Trudeau 3, Bur Oak SS 1"
         },
         {
+            "date": "Tuesday, October 21, 2025",
+            "home_team": "St. Robert",
+            "away_team": "Langstaff SS",
+            "time": "3:30 PM",
+            "location": "St Robert CHS",
+            "game_played": true,
+            "final_score": "St. Robert 2, Langstaff SS 1"
+        },
+        {
             "date": "Wednesday, October 22, 2025",
             "home_team": null,
             "away_team": null,
