@@ -110,6 +110,15 @@
         },
         {
             "date": "Tuesday, October 21, 2025",
+            "home_team": "Stouffville",
+            "away_team": "Bill Hogarth SS",
+            "time": "3:45 PM",
+            "location": "Stouffville DSS",
+            "game_played": true,
+            "final_score": "Stouffville 0, Bill Hogarth SS 3"
+        },
+        {
+            "date": "Tuesday, October 21, 2025",
             "home_team": "Sutton District",
             "away_team": "Dr. J.M. Denison",
             "time": "3:45 PM",
