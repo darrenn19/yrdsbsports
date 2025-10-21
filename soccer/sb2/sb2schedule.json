@@ -38,12 +38,30 @@
         },
         {
             "date": "Tuesday, October 21, 2025",
+            "home_team": "Sir William Mulock",
+            "away_team": "Huron Heights",
+            "time": "3:45 PM",
+            "location": "Sir William Mulock",
+            "game_played": true,
+            "final_score": "Sir William Mulock 3, Huron Heights 6"
+        },
+        {
+            "date": "Tuesday, October 21, 2025",
             "home_team": "St. Robert",
             "away_team": "Langstaff SS",
             "time": "3:30 PM",
             "location": "St Robert CHS",
             "game_played": true,
             "final_score": "St. Robert 2, Langstaff SS 1"
+        },
+        {
+            "date": "Tuesday, October 21, 2025",
+            "home_team": "Sutton District",
+            "away_team": "Dr. J.M. Denison",
+            "time": "3:45 PM",
+            "location": "Sutton DHS",
+            "game_played": true,
+            "final_score": "Sutton District 0, Dr. J.M. Denison 11"
         },
         {
             "date": "Wednesday, October 22, 2025",
