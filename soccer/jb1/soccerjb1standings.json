@@ -11,6 +11,46 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Bill Hogarth SS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Markham District",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Milliken Mills",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Alexander Mackenzie",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
             "Team": "Dr. J.M. Denison",
             "W": "0",
             "L": "0",
@@ -74,20 +114,20 @@
             "Team": "Our Lady Queen Of The World",
             "W": "2",
             "L": "2",
-            "T": "0",
-            "PTS": "6",
-            "GF": "5",
-            "GA": "6",
+            "T": "1",
+            "PTS": "7",
+            "GF": "8",
+            "GA": "9",
             "DIFF": "-1"
         },
         {
             "Team": "Father Bressani",
             "W": "1",
             "L": "2",
-            "T": "1",
-            "PTS": "4",
-            "GF": "7",
-            "GA": "10",
+            "T": "2",
+            "PTS": "5",
+            "GF": "10",
+            "GA": "13",
             "DIFF": "-3"
         },
         {

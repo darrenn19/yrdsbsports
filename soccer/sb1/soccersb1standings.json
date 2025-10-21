@@ -12,33 +12,33 @@
         },
         {
             "Team": "Holy Cross",
-            "W": "3",
+            "W": "4",
             "L": "0",
             "T": "2",
-            "PTS": "11",
-            "GF": "16",
+            "PTS": "14",
+            "GF": "21",
             "GA": "4",
-            "DIFF": "11"
+            "DIFF": "16"
         },
         {
             "Team": "St. Jean De Brebeuf CHS",
-            "W": "3",
+            "W": "4",
             "L": "1",
             "T": "1",
-            "PTS": "10",
-            "GF": "14",
-            "GA": "5",
-            "DIFF": "9"
+            "PTS": "13",
+            "GF": "22",
+            "GA": "6",
+            "DIFF": "14"
         },
         {
             "Team": "St. Joan Of Arc",
             "W": "2",
-            "L": "2",
+            "L": "3",
             "T": "1",
             "PTS": "7",
             "GF": "12",
-            "GA": "13",
-            "DIFF": "-1"
+            "GA": "18",
+            "DIFF": "-6"
         },
         {
             "Team": "Stephen Lewis SS",
@@ -73,12 +73,12 @@
         {
             "Team": "St. Theresa Of Lisieux",
             "W": "1",
-            "L": "2",
+            "L": "3",
             "T": "2",
             "PTS": "5",
-            "GF": "5",
-            "GA": "8",
-            "DIFF": "-3"
+            "GF": "6",
+            "GA": "16",
+            "DIFF": "-8"
         },
         {
             "Team": "North-East",
