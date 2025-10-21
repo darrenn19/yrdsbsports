@@ -11,6 +11,15 @@
         },
         {
             "date": "Tuesday, October 21, 2025",
+            "home_team": "Markville",
+            "away_team": "Bur Oak SS",
+            "time": "3:45 PM",
+            "location": "Markville SS",
+            "game_played": true,
+            "final_score": "Markville 35, Bur Oak SS 36"
+        },
+        {
+            "date": "Tuesday, October 21, 2025",
             "home_team": "Middlefield",
             "away_team": "Father McGivney",
             "time": "3:45 PM",
@@ -44,6 +53,15 @@
             "location": "Stephen Lewis SS",
             "game_played": true,
             "final_score": "Stephen Lewis SS 39, Hodan Nalayeh SS 38"
+        },
+        {
+            "date": "Tuesday, October 21, 2025",
+            "home_team": "Woodbridge College",
+            "away_team": "Maple High School",
+            "time": "3:45 PM",
+            "location": "Woodbridge College",
+            "game_played": true,
+            "final_score": "Woodbridge College 40, Maple High School 29"
         },
         {
             "date": "Wednesday, October 22, 2025",
