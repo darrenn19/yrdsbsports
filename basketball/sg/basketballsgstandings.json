@@ -12,15 +12,15 @@
             "DIFF": "DIFF"
         },
         {
-            "Team": "Thornlea SS",
-            "GP": "6",
+            "Team": "Our Lady Queen Of The World",
+            "GP": "7",
             "W": "5",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "10",
-            "PF": "304",
-            "PA": "231",
-            "DIFF": "54"
+            "PF": "302",
+            "PA": "208",
+            "DIFF": "50"
         },
         {
             "Team": "Alexander Mackenzie",
@@ -34,15 +34,15 @@
             "DIFF": "54"
         },
         {
-            "Team": "Our Lady Queen Of The World",
+            "Team": "Thornlea SS",
             "GP": "6",
-            "W": "4",
-            "L": "2",
+            "W": "5",
+            "L": "1",
             "T": "0",
-            "PTS": "8",
-            "PF": "253",
-            "PA": "163",
-            "DIFF": "46"
+            "PTS": "10",
+            "PF": "304",
+            "PA": "231",
+            "DIFF": "54"
         },
         {
             "Team": "St. Augustine",
@@ -57,14 +57,14 @@
         },
         {
             "Team": "St. Theresa Of Lisieux",
-            "GP": "6",
+            "GP": "7",
             "W": "2",
-            "L": "4",
+            "L": "5",
             "T": "0",
             "PTS": "4",
-            "PF": "253",
-            "PA": "260",
-            "DIFF": "-8"
+            "PF": "298",
+            "PA": "309",
+            "DIFF": "-12"
         },
         {
             "Team": "St. Robert",

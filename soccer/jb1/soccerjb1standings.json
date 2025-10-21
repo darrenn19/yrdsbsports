@@ -1,6 +1,36 @@
 {
     "standings": [
         {
+            "Team": "Central 1",
+            "W": "W",
+            "L": "L",
+            "T": "T",
+            "PTS": "PTS",
+            "GF": "GF",
+            "GA": "GA",
+            "DIFF": "DIFF"
+        },
+        {
+            "Team": "Dr. J.M. Denison",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Keswick High School",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
             "Team": "Central-West",
             "W": "W",
             "L": "L",
@@ -12,23 +42,33 @@
         },
         {
             "Team": "Holy Cross",
-            "W": "3",
+            "W": "4",
             "L": "0",
             "T": "1",
-            "PTS": "10",
-            "GF": "10",
-            "GA": "5",
-            "DIFF": "5"
+            "PTS": "13",
+            "GF": "16",
+            "GA": "8",
+            "DIFF": "8"
+        },
+        {
+            "Team": "St. Theresa Of Lisieux",
+            "W": "3",
+            "L": "2",
+            "T": "0",
+            "PTS": "9",
+            "GF": "17",
+            "GA": "9",
+            "DIFF": "7"
         },
         {
             "Team": "St. Jean De Brebeuf CHS",
             "W": "3",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "9",
-            "GF": "14",
-            "GA": "3",
-            "DIFF": "8"
+            "GF": "15",
+            "GA": "5",
+            "DIFF": "7"
         },
         {
             "Team": "Our Lady Queen Of The World",
@@ -39,16 +79,6 @@
             "GF": "5",
             "GA": "6",
             "DIFF": "-1"
-        },
-        {
-            "Team": "St. Theresa Of Lisieux",
-            "W": "2",
-            "L": "2",
-            "T": "0",
-            "PTS": "6",
-            "GF": "15",
-            "GA": "8",
-            "DIFF": "6"
         },
         {
             "Team": "Father Bressani",
@@ -63,12 +93,12 @@
         {
             "Team": "St. Joan Of Arc",
             "W": "0",
-            "L": "4",
+            "L": "5",
             "T": "0",
             "PTS": "0",
-            "GF": "3",
-            "GA": "22",
-            "DIFF": "-15"
+            "GF": "6",
+            "GA": "28",
+            "DIFF": "-18"
         },
         {
             "Team": "North-East",
