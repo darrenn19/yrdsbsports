@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Sunday, October 19, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
-        },
-        {
             "date": "Monday, October 20, 2025",
             "home_team": "Our Lady Queen Of The World",
             "away_team": "Father Bressani",
@@ -74,6 +65,15 @@
         },
         {
             "date": "Saturday, October 25, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Sunday, October 26, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
