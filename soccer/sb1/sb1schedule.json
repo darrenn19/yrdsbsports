@@ -46,6 +46,15 @@
             "final_score": "Hodan Nalayeh SS 2, Father Bressani 1"
         },
         {
+            "date": "Tuesday, October 21, 2025",
+            "home_team": "Thornlea SS",
+            "away_team": "Cardinal Carter",
+            "time": "3:00 PM",
+            "location": "Thornlea SS",
+            "game_played": true,
+            "final_score": "Thornlea SS 0, Cardinal Carter 0"
+        },
+        {
             "date": "Wednesday, October 22, 2025",
             "home_team": null,
             "away_team": null,

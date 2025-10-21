@@ -11,12 +11,39 @@
         },
         {
             "date": "Tuesday, October 21, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Middlefield",
+            "away_team": "Father McGivney",
+            "time": "3:45 PM",
+            "location": "Middlefield CI",
+            "game_played": true,
+            "final_score": "Middlefield 31, Father McGivney 54"
+        },
+        {
+            "date": "Tuesday, October 21, 2025",
+            "home_team": "Pierre Elliott Trudeau",
+            "away_team": "St. Brother Andre",
+            "time": "3:45 PM",
+            "location": "PE Trudeau HS",
+            "game_played": true,
+            "final_score": "Pierre Elliott Trudeau 28, St. Brother Andre 55"
+        },
+        {
+            "date": "Tuesday, October 21, 2025",
+            "home_team": "St. Augustine",
+            "away_team": "St. Robert",
+            "time": "3:45 PM",
+            "location": "St Augustine CHS",
+            "game_played": true,
+            "final_score": "St. Augustine 46, St. Robert 40"
+        },
+        {
+            "date": "Tuesday, October 21, 2025",
+            "home_team": "Stephen Lewis SS",
+            "away_team": "Hodan Nalayeh SS",
+            "time": "3:45 PM",
+            "location": "Stephen Lewis SS",
+            "game_played": true,
+            "final_score": "Stephen Lewis SS 39, Hodan Nalayeh SS 38"
         },
         {
             "date": "Wednesday, October 22, 2025",
