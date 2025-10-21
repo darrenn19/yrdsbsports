@@ -11,6 +11,15 @@
         },
         {
             "date": "Tuesday, October 21, 2025",
+            "home_team": "Keswick High School",
+            "away_team": "Aurora HS",
+            "time": "3:45 PM",
+            "location": "Keswick HS",
+            "game_played": true,
+            "final_score": "Keswick High School 3, Aurora HS 1"
+        },
+        {
+            "date": "Tuesday, October 21, 2025",
             "home_team": "Maple High School",
             "away_team": "Tommy Douglas SS",
             "time": "3:45 PM",
