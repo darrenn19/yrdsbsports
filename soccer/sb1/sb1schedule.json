@@ -28,6 +28,15 @@
             "final_score": "St. Maximilian 3, Sacred Heart 1"
         },
         {
+            "date": "Monday, October 20, 2025",
+            "home_team": "St. Theresa Of Lisieux",
+            "away_team": "St. Jean De Brebeuf CHS",
+            "time": "3:00 PM",
+            "location": "St Theresa Of Lisieux CHS",
+            "game_played": true,
+            "final_score": "St. Theresa Of Lisieux 1, St. Jean De Brebeuf CHS 8"
+        },
+        {
             "date": "Tuesday, October 21, 2025",
             "home_team": null,
             "away_team": null,
