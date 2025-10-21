@@ -56,6 +56,15 @@
         },
         {
             "date": "Tuesday, October 21, 2025",
+            "home_team": "Tommy Douglas SS",
+            "away_team": "St. Jean De Brebeuf CHS",
+            "time": "3:45 PM",
+            "location": "Tommy Douglas SS",
+            "game_played": true,
+            "final_score": "Tommy Douglas SS 35, St. Jean De Brebeuf CHS 31"
+        },
+        {
+            "date": "Tuesday, October 21, 2025",
             "home_team": "Woodbridge College",
             "away_team": "Maple High School",
             "time": "3:45 PM",

@@ -74,6 +74,15 @@
         },
         {
             "date": "Tuesday, October 21, 2025",
+            "home_team": "St. Elizabeth",
+            "away_team": "Toronto District Christian",
+            "time": "1:45 PM",
+            "location": "St Elizabeth CHS",
+            "game_played": true,
+            "final_score": "St. Elizabeth 5, Toronto District Christian 2"
+        },
+        {
+            "date": "Tuesday, October 21, 2025",
             "home_team": "St. Robert",
             "away_team": "Langstaff SS",
             "time": "3:30 PM",
