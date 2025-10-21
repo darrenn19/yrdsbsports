@@ -29,12 +29,30 @@
         },
         {
             "date": "Tuesday, October 21, 2025",
+            "home_team": "Newmarket HS",
+            "away_team": "Dr. G.W. Williams",
+            "time": "3:45 PM",
+            "location": "Newmarket HS",
+            "game_played": true,
+            "final_score": "Newmarket HS 3, Dr. G.W. Williams 1"
+        },
+        {
+            "date": "Tuesday, October 21, 2025",
             "home_team": "Pierre Elliott Trudeau",
             "away_team": "Bur Oak SS",
             "time": "3:45 PM",
             "location": "PE Trudeau HS",
             "game_played": true,
             "final_score": "Pierre Elliott Trudeau 3, Bur Oak SS 1"
+        },
+        {
+            "date": "Tuesday, October 21, 2025",
+            "home_team": "Renaissance ESC",
+            "away_team": "Woodbridge College",
+            "time": "3:30 PM",
+            "location": "Renaissance ESC",
+            "game_played": true,
+            "final_score": "Renaissance ESC 1, Woodbridge College 1"
         },
         {
             "date": "Tuesday, October 21, 2025",

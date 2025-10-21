@@ -28,6 +28,15 @@
             "final_score": "St. Katharine Drexel 18, Markham District 36"
         },
         {
+            "date": "Tuesday, October 21, 2025",
+            "home_team": "Unionville HS",
+            "away_team": "Bill Crothers SS",
+            "time": "3:30 PM",
+            "location": "Unionville HS",
+            "game_played": true,
+            "final_score": "Unionville HS 20, Bill Crothers SS 51"
+        },
+        {
             "date": "Wednesday, October 22, 2025",
             "home_team": null,
             "away_team": null,

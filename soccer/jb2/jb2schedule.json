@@ -11,12 +11,12 @@
         },
         {
             "date": "Tuesday, October 21, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Milliken Mills",
+            "away_team": "Markham District",
+            "time": "4:15 PM",
+            "location": "Milliken Mills HS",
+            "game_played": true,
+            "final_score": "Milliken Mills 2, Markham District 4"
         },
         {
             "date": "Wednesday, October 22, 2025",
