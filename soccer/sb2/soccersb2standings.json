@@ -51,6 +51,16 @@
             "DIFF": "9"
         },
         {
+            "Team": "Our Lady Queen Of The World",
+            "W": "3",
+            "L": "3",
+            "T": "1",
+            "PTS": "10",
+            "GF": "18",
+            "GA": "14",
+            "DIFF": "4"
+        },
+        {
             "Team": "Richmond Hill HS",
             "W": "2",
             "L": "3",
@@ -59,16 +69,6 @@
             "GF": "23",
             "GA": "25",
             "DIFF": "-4"
-        },
-        {
-            "Team": "Our Lady Queen Of The World",
-            "W": "2",
-            "L": "3",
-            "T": "1",
-            "PTS": "7",
-            "GF": "13",
-            "GA": "13",
-            "DIFF": "0"
         },
         {
             "Team": "Alexander Mackenzie",
@@ -83,12 +83,12 @@
         {
             "Team": "Unionville HS",
             "W": "0",
-            "L": "6",
+            "L": "7",
             "T": "0",
             "PTS": "0",
-            "GF": "3",
-            "GA": "26",
-            "DIFF": "-21"
+            "GF": "4",
+            "GA": "31",
+            "DIFF": "-25"
         },
         {
             "Team": "East",

@@ -1,6 +1,116 @@
 {
     "standings": [
         {
+            "Team": "Central 1",
+            "W": "W",
+            "L": "L",
+            "T": "T",
+            "PTS": "PTS",
+            "GF": "GF",
+            "GA": "GA",
+            "DIFF": "DIFF"
+        },
+        {
+            "Team": "Newmarket HS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Bill Hogarth SS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Bill Crothers SS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Tommy Douglas SS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Pierre Elliott Trudeau",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Huron Heights",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Richmond Green SS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Our Lady Queen Of The World",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "St. Elizabeth",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "St. Robert",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
             "Team": "Central-West",
             "W": "W",
             "L": "L",
