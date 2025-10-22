@@ -91,6 +91,15 @@
             "final_score": "St. Maximilian 46, Cardinal Carter 24"
         },
         {
+            "date": "Wednesday, October 22, 2025",
+            "home_team": "Thornlea SS",
+            "away_team": "Alexander Mackenzie",
+            "time": "3:45 PM",
+            "location": "Thornlea SS",
+            "game_played": true,
+            "final_score": "Thornlea SS 23, Alexander Mackenzie 48"
+        },
+        {
             "date": "Thursday, October 23, 2025",
             "home_team": null,
             "away_team": null,
