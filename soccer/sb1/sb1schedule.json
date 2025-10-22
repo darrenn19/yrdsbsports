@@ -1,42 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, October 20, 2025",
-            "home_team": "Father McGivney",
-            "away_team": "St. Brother Andre",
-            "time": "3:30 PM",
-            "location": "Father Michael McGivney CA",
-            "game_played": true,
-            "final_score": "Father McGivney 1, St. Brother Andre 6"
-        },
-        {
-            "date": "Monday, October 20, 2025",
-            "home_team": "St. Joan Of Arc",
-            "away_team": "Holy Cross",
-            "time": "3:00 PM",
-            "location": "St Joan Of Arc CHS",
-            "game_played": true,
-            "final_score": "St. Joan Of Arc 0, Holy Cross 5"
-        },
-        {
-            "date": "Monday, October 20, 2025",
-            "home_team": "St. Maximilian",
-            "away_team": "Sacred Heart",
-            "time": "3:30 PM",
-            "location": "St Maximilian Kolbe CHS",
-            "game_played": true,
-            "final_score": "St. Maximilian 3, Sacred Heart 1"
-        },
-        {
-            "date": "Monday, October 20, 2025",
-            "home_team": "St. Theresa Of Lisieux",
-            "away_team": "St. Jean De Brebeuf CHS",
-            "time": "3:00 PM",
-            "location": "St Theresa Of Lisieux CHS",
-            "game_played": true,
-            "final_score": "St. Theresa Of Lisieux 1, St. Jean De Brebeuf CHS 8"
-        },
-        {
             "date": "Tuesday, October 21, 2025",
             "home_team": "Hodan Nalayeh SS",
             "away_team": "Father Bressani",
@@ -92,6 +56,15 @@
         },
         {
             "date": "Sunday, October 26, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, October 27, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

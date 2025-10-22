@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, October 20, 2025",
-            "home_team": "Our Lady Queen Of The World",
-            "away_team": "St. Theresa Of Lisieux",
-            "time": "3:45 PM",
-            "location": "Our Lady Queen Of The World",
-            "game_played": true,
-            "final_score": "Our Lady Queen Of The World 49, St. Theresa Of Lisieux 45"
-        },
-        {
             "date": "Tuesday, October 21, 2025",
             "home_team": "Markville",
             "away_team": "Bur Oak SS",
@@ -128,6 +119,15 @@
         },
         {
             "date": "Sunday, October 26, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, October 27, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
