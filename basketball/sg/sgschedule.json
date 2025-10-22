@@ -65,6 +65,15 @@
         },
         {
             "date": "Tuesday, October 21, 2025",
+            "home_team": "Unionville HS",
+            "away_team": "Bill Hogarth SS",
+            "time": "4:45 PM",
+            "location": "Unionville HS",
+            "game_played": true,
+            "final_score": "Unionville HS 77, Bill Hogarth SS 52"
+        },
+        {
+            "date": "Tuesday, October 21, 2025",
             "home_team": "Woodbridge College",
             "away_team": "Maple High School",
             "time": "3:45 PM",
