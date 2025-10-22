@@ -146,12 +146,12 @@
         },
         {
             "date": "Thursday, October 23, 2025 - PLAYOFFS",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Dr. J.M. Denison",
+            "away_team": "Renaissance ESC",
+            "time": "3:30 PM",
+            "location": "Dr J M Denison SS",
+            "game_played": true,
+            "final_score": "Dr. J.M. Denison 1, Renaissance ESC 1"
         },
         {
             "date": "Friday, October 24, 2025",
