@@ -83,6 +83,15 @@
         },
         {
             "date": "Wednesday, October 22, 2025",
+            "home_team": "Newmarket HS",
+            "away_team": "Stouffville",
+            "time": "3:30 PM",
+            "location": "Newmarket HS",
+            "game_played": true,
+            "final_score": "Newmarket HS 48, Stouffville 37"
+        },
+        {
+            "date": "Wednesday, October 22, 2025",
             "home_team": "Sacred Heart",
             "away_team": "King City SS",
             "time": "3:45 PM",
