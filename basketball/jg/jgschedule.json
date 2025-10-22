@@ -20,6 +20,15 @@
         },
         {
             "date": "Tuesday, October 21, 2025",
+            "home_team": "Keswick High School",
+            "away_team": "Dr. G.W. Williams",
+            "time": "3:45 PM",
+            "location": "Keswick HS",
+            "game_played": true,
+            "final_score": "Keswick High School 35, Dr. G.W. Williams 44"
+        },
+        {
+            "date": "Tuesday, October 21, 2025",
             "home_team": "St. Katharine Drexel",
             "away_team": "Markham District",
             "time": "3:45 PM",

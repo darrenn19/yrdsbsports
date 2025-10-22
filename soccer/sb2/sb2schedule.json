@@ -127,6 +127,24 @@
             "final_score": "Sutton District 0, Dr. J.M. Denison 11"
         },
         {
+            "date": "Tuesday, October 21, 2025",
+            "home_team": "Thornhill SS",
+            "away_team": "Richmond Green SS",
+            "time": "3:45 PM",
+            "location": "Thornhill SS",
+            "game_played": true,
+            "final_score": "Thornhill SS 0, Richmond Green SS 0"
+        },
+        {
+            "date": "Tuesday, October 21, 2025",
+            "home_team": "Unionville HS",
+            "away_team": "Our Lady Queen Of The World",
+            "time": "3:45 PM",
+            "location": "Unionville HS",
+            "game_played": true,
+            "final_score": "Unionville HS 1, Our Lady Queen Of The World 5"
+        },
+        {
             "date": "Wednesday, October 22, 2025",
             "home_team": null,
             "away_team": null,
@@ -136,7 +154,7 @@
             "final_score": null
         },
         {
-            "date": "Thursday, October 23, 2025",
+            "date": "Thursday, October 23, 2025 - PLAYOFFS",
             "home_team": null,
             "away_team": null,
             "time": null,

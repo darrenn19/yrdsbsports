@@ -47,6 +47,15 @@
         },
         {
             "date": "Tuesday, October 21, 2025",
+            "home_team": "St. Elizabeth",
+            "away_team": "Emily Carr",
+            "time": "3:45 PM",
+            "location": "St Elizabeth CHS",
+            "game_played": true,
+            "final_score": "St. Elizabeth 39, Emily Carr 48"
+        },
+        {
+            "date": "Tuesday, October 21, 2025",
             "home_team": "Stephen Lewis SS",
             "away_team": "Hodan Nalayeh SS",
             "time": "3:45 PM",
