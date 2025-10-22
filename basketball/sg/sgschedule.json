@@ -83,6 +83,15 @@
         },
         {
             "date": "Wednesday, October 22, 2025",
+            "home_team": "Sir William Mulock",
+            "away_team": "Aurora HS",
+            "time": "3:45 PM",
+            "location": "Sir William Mulock",
+            "game_played": true,
+            "final_score": "Sir William Mulock 57, Aurora HS 28"
+        },
+        {
+            "date": "Wednesday, October 22, 2025",
             "home_team": "St. Maximilian",
             "away_team": "Cardinal Carter",
             "time": "3:45 PM",
