@@ -31,6 +31,16 @@
             "DIFF": "14"
         },
         {
+            "Team": "Hodan Nalayeh SS",
+            "W": "3",
+            "L": "3",
+            "T": "0",
+            "PTS": "9",
+            "GF": "10",
+            "GA": "16",
+            "DIFF": "-5"
+        },
+        {
             "Team": "St. Joan Of Arc",
             "W": "2",
             "L": "3",
@@ -51,24 +61,14 @@
             "DIFF": "-6"
         },
         {
-            "Team": "Hodan Nalayeh SS",
-            "W": "2",
-            "L": "3",
-            "T": "0",
-            "PTS": "6",
-            "GF": "8",
-            "GA": "15",
-            "DIFF": "-6"
-        },
-        {
             "Team": "Father Bressani",
             "W": "1",
-            "L": "2",
+            "L": "3",
             "T": "2",
             "PTS": "5",
-            "GF": "8",
-            "GA": "12",
-            "DIFF": "-4"
+            "GF": "9",
+            "GA": "14",
+            "DIFF": "-5"
         },
         {
             "Team": "St. Theresa Of Lisieux",
@@ -104,8 +104,8 @@
             "Team": "Thornlea SS",
             "W": "4",
             "L": "1",
-            "T": "0",
-            "PTS": "12",
+            "T": "1",
+            "PTS": "13",
             "GF": "17",
             "GA": "6",
             "DIFF": "9"
@@ -114,8 +114,8 @@
             "Team": "Cardinal Carter",
             "W": "3",
             "L": "1",
-            "T": "1",
-            "PTS": "10",
+            "T": "2",
+            "PTS": "11",
             "GF": "17",
             "GA": "5",
             "DIFF": "11"
