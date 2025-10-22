@@ -150,8 +150,8 @@
             "away_team": "Renaissance ESC",
             "time": "3:30 PM",
             "location": "Dr J M Denison SS",
-            "game_played": true,
-            "final_score": "Dr. J.M. Denison 1, Renaissance ESC 1"
+            "game_played": false,
+            "final_score": null
         },
         {
             "date": "Friday, October 24, 2025",
