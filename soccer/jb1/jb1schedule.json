@@ -11,12 +11,21 @@
         },
         {
             "date": "Thursday, October 23, 2025 - PLAYOFFS",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "St. Jean De Brebeuf CHS",
+            "away_team": "Markham District",
+            "time": "3:00 PM",
+            "location": "St Jean De Brebeuf CHS",
+            "game_played": true,
+            "final_score": "St. Jean De Brebeuf CHS 4, Markham District 0"
+        },
+        {
+            "date": "Thursday, October 23, 2025 - PLAYOFFS",
+            "home_team": "St. Theresa Of Lisieux",
+            "away_team": "Alexander Mackenzie",
+            "time": "3:00 PM",
+            "location": "St Theresa Of Lisieux CHS",
+            "game_played": true,
+            "final_score": "St. Theresa Of Lisieux 10, Alexander Mackenzie 0"
         },
         {
             "date": "Friday, October 24, 2025",
