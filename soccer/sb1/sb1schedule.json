@@ -11,12 +11,12 @@
         },
         {
             "date": "Thursday, October 23, 2025 - PLAYOFFS",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "St. Theresa Of Lisieux",
+            "away_team": "Richmond Green SS",
+            "time": "1:30 PM",
+            "location": "St Theresa Of Lisieux CHS",
+            "game_played": true,
+            "final_score": "St. Theresa Of Lisieux 3, Richmond Green SS 1"
         },
         {
             "date": "Friday, October 24, 2025",
