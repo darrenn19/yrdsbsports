@@ -64,6 +64,15 @@
             "final_score": "Markville 26, Markham District 61"
         },
         {
+            "date": "Thursday, October 23, 2025",
+            "home_team": "Unionville HS",
+            "away_team": "Bur Oak SS",
+            "time": "3:45 PM",
+            "location": "Unionville HS",
+            "game_played": true,
+            "final_score": "Unionville HS 78, Bur Oak SS 46"
+        },
+        {
             "date": "Friday, October 24, 2025",
             "home_team": null,
             "away_team": null,

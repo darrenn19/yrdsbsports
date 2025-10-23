@@ -38,6 +38,15 @@
         },
         {
             "date": "Thursday, October 23, 2025 - PLAYOFFS",
+            "home_team": "St. Maximilian",
+            "away_team": "Milliken Mills",
+            "time": "3:00 PM",
+            "location": "St Maximilian Kolbe CHS",
+            "game_played": true,
+            "final_score": "St. Maximilian 8, Milliken Mills 0"
+        },
+        {
+            "date": "Thursday, October 23, 2025 - PLAYOFFS",
             "home_team": "St. Theresa Of Lisieux",
             "away_team": "Alexander Mackenzie",
             "time": "3:00 PM",
