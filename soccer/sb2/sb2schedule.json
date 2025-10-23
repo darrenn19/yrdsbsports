@@ -15,8 +15,8 @@
             "away_team": "Renaissance ESC",
             "time": "3:30 PM",
             "location": "Dr J M Denison SS",
-            "game_played": false,
-            "final_score": null
+            "game_played": true,
+            "final_score": "Dr. J.M. Denison 5, Renaissance ESC 0"
         },
         {
             "date": "Thursday, October 23, 2025 - PLAYOFFS",
