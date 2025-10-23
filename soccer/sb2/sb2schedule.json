@@ -20,6 +20,15 @@
         },
         {
             "date": "Thursday, October 23, 2025 - PLAYOFFS",
+            "home_team": "Langstaff SS",
+            "away_team": "Woodbridge College",
+            "time": "3:00 PM",
+            "location": "Langstaff SS",
+            "game_played": true,
+            "final_score": "Langstaff SS 1, Woodbridge College 0"
+        },
+        {
+            "date": "Thursday, October 23, 2025 - PLAYOFFS",
             "home_team": "Toronto District Christian",
             "away_team": "Keswick High School",
             "time": "3:00 PM",
