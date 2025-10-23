@@ -11,6 +11,15 @@
         },
         {
             "date": "Thursday, October 23, 2025 - PLAYOFFS",
+            "home_team": "Our Lady Queen Of The World",
+            "away_team": "St. Augustine",
+            "time": "3:00 PM",
+            "location": "Our Lady Queen Of The World",
+            "game_played": true,
+            "final_score": "Our Lady Queen Of The World 5, St. Augustine 1"
+        },
+        {
+            "date": "Thursday, October 23, 2025 - PLAYOFFS",
             "home_team": "St. Jean De Brebeuf CHS",
             "away_team": "Markham District",
             "time": "3:00 PM",

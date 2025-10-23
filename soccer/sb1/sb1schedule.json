@@ -11,6 +11,24 @@
         },
         {
             "date": "Thursday, October 23, 2025 - PLAYOFFS",
+            "home_team": "Bill Crothers SS",
+            "away_team": "St. Brother Andre",
+            "time": "3:00 PM",
+            "location": "Bill Crothers SS",
+            "game_played": true,
+            "final_score": "Bill Crothers SS 0, St. Brother Andre 7"
+        },
+        {
+            "date": "Thursday, October 23, 2025 - PLAYOFFS",
+            "home_team": "Father McGivney",
+            "away_team": "Huron Heights",
+            "time": "3:00 PM",
+            "location": "Father Michael McGivney CA",
+            "game_played": true,
+            "final_score": "Father McGivney 1, Huron Heights 0"
+        },
+        {
+            "date": "Thursday, October 23, 2025 - PLAYOFFS",
             "home_team": "St. Theresa Of Lisieux",
             "away_team": "Richmond Green SS",
             "time": "1:30 PM",
