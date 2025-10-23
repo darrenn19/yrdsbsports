@@ -10,6 +10,15 @@
             "final_score": "Newmarket HS 57, Dr. G.W. Williams 23"
         },
         {
+            "date": "Wednesday, October 22, 2025",
+            "home_team": "St. Theresa Of Lisieux",
+            "away_team": "Richmond Hill HS",
+            "time": "3:45 PM",
+            "location": "St Theresa Of Lisieux CHS",
+            "game_played": true,
+            "final_score": "St. Theresa Of Lisieux 65, Richmond Hill HS 40"
+        },
+        {
             "date": "Thursday, October 23, 2025",
             "home_team": null,
             "away_team": null,
