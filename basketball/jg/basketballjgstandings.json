@@ -13,14 +13,14 @@
         },
         {
             "Team": "St. Theresa Of Lisieux",
-            "GP": "6",
-            "W": "6",
+            "GP": "7",
+            "W": "7",
             "L": "0",
             "T": "0",
-            "PTS": "12",
-            "PF": "364",
-            "PA": "130",
-            "DIFF": "90"
+            "PTS": "14",
+            "PF": "429",
+            "PA": "170",
+            "DIFF": "105"
         },
         {
             "Team": "Bill Crothers SS",
@@ -68,14 +68,14 @@
         },
         {
             "Team": "Richmond Hill HS",
-            "GP": "6",
+            "GP": "7",
             "W": "1",
-            "L": "5",
+            "L": "6",
             "T": "0",
             "PTS": "2",
-            "PF": "177",
-            "PA": "265",
-            "DIFF": "-45"
+            "PF": "217",
+            "PA": "330",
+            "DIFF": "-60"
         },
         {
             "Team": "St. Katharine Drexel",
