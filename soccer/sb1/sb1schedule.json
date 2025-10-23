@@ -29,6 +29,15 @@
         },
         {
             "date": "Thursday, October 23, 2025 - PLAYOFFS",
+            "home_team": "Father Bressani",
+            "away_team": "Tommy Douglas SS",
+            "time": "3:00 PM",
+            "location": "Father Bressani CHS",
+            "game_played": true,
+            "final_score": "Father Bressani 0, Tommy Douglas SS 4"
+        },
+        {
+            "date": "Thursday, October 23, 2025 - PLAYOFFS",
             "home_team": "Father McGivney",
             "away_team": "Huron Heights",
             "time": "3:00 PM",
