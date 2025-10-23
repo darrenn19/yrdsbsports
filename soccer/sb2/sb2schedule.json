@@ -19,6 +19,15 @@
             "final_score": null
         },
         {
+            "date": "Thursday, October 23, 2025 - PLAYOFFS",
+            "home_team": "Toronto District Christian",
+            "away_team": "Keswick High School",
+            "time": "3:00 PM",
+            "location": "Toronto District Christian HS",
+            "game_played": true,
+            "final_score": "Toronto District Christian 1, Keswick High School 2"
+        },
+        {
             "date": "Friday, October 24, 2025",
             "home_team": null,
             "away_team": null,
