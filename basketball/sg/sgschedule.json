@@ -55,6 +55,15 @@
             "final_score": "Emily Carr 45, Hodan Nalayeh SS 49"
         },
         {
+            "date": "Thursday, October 23, 2025",
+            "home_team": "Markville",
+            "away_team": "Markham District",
+            "time": "3:45 PM",
+            "location": "Markville SS",
+            "game_played": true,
+            "final_score": "Markville 26, Markham District 61"
+        },
+        {
             "date": "Friday, October 24, 2025",
             "home_team": null,
             "away_team": null,
