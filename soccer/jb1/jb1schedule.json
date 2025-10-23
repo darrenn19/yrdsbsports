@@ -20,6 +20,15 @@
         },
         {
             "date": "Thursday, October 23, 2025 - PLAYOFFS",
+            "home_team": "Sacred Heart",
+            "away_team": "Bill Hogarth SS",
+            "time": "3:00 PM",
+            "location": "Sacred Heart CHS",
+            "game_played": true,
+            "final_score": "Sacred Heart 6, Bill Hogarth SS 2"
+        },
+        {
+            "date": "Thursday, October 23, 2025 - PLAYOFFS",
             "home_team": "St. Jean De Brebeuf CHS",
             "away_team": "Markham District",
             "time": "3:00 PM",

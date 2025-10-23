@@ -20,12 +20,12 @@
         },
         {
             "date": "Thursday, October 23, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Bill Crothers SS",
+            "away_team": "St. Katharine Drexel",
+            "time": "3:45 PM",
+            "location": "Bill Crothers SS",
+            "game_played": true,
+            "final_score": "Bill Crothers SS 70, St. Katharine Drexel 0"
         },
         {
             "date": "Friday, October 24, 2025",
