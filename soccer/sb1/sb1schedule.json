@@ -1,24 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, October 21, 2025",
-            "home_team": "Hodan Nalayeh SS",
-            "away_team": "Father Bressani",
-            "time": "3:15 PM",
-            "location": "Hodan Nalayeh Secondary School",
-            "game_played": true,
-            "final_score": "Hodan Nalayeh SS 2, Father Bressani 1"
-        },
-        {
-            "date": "Tuesday, October 21, 2025",
-            "home_team": "Thornlea SS",
-            "away_team": "Cardinal Carter",
-            "time": "3:00 PM",
-            "location": "Thornlea SS",
-            "game_played": true,
-            "final_score": "Thornlea SS 0, Cardinal Carter 0"
-        },
-        {
             "date": "Wednesday, October 22, 2025",
             "home_team": null,
             "away_team": null,
@@ -65,6 +47,15 @@
         },
         {
             "date": "Monday, October 27, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, October 28, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
