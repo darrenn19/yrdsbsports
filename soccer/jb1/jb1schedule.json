@@ -11,6 +11,15 @@
         },
         {
             "date": "Thursday, October 23, 2025 - PLAYOFFS",
+            "home_team": "Father Bressani",
+            "away_team": "St. Brother Andre",
+            "time": "4:15 PM",
+            "location": "Father Bressani CHS",
+            "game_played": true,
+            "final_score": "Father Bressani 7, St. Brother Andre 0"
+        },
+        {
+            "date": "Thursday, October 23, 2025 - PLAYOFFS",
             "home_team": "Our Lady Queen Of The World",
             "away_team": "St. Augustine",
             "time": "3:00 PM",
