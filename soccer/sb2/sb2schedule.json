@@ -20,6 +20,15 @@
         },
         {
             "date": "Thursday, October 23, 2025 - PLAYOFFS",
+            "home_team": "Thornhill SS",
+            "away_team": "Aurora HS",
+            "time": "3:00 PM",
+            "location": "Thornhill SS",
+            "game_played": true,
+            "final_score": "Thornhill SS 3, Aurora HS 2"
+        },
+        {
+            "date": "Thursday, October 23, 2025 - PLAYOFFS",
             "home_team": "Toronto District Christian",
             "away_team": "Keswick High School",
             "time": "3:00 PM",
