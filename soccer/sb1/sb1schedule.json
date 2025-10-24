@@ -38,6 +38,15 @@
         },
         {
             "date": "Thursday, October 23, 2025 - PLAYOFFS",
+            "home_team": "St. Augustine",
+            "away_team": "Pierre Elliott Trudeau",
+            "time": "3:00 PM",
+            "location": "St Augustine CHS",
+            "game_played": true,
+            "final_score": "St. Augustine 3, Pierre Elliott Trudeau 1"
+        },
+        {
+            "date": "Thursday, October 23, 2025 - PLAYOFFS",
             "home_team": "St. Robert",
             "away_team": "St. Elizabeth",
             "time": "3:00 PM",
