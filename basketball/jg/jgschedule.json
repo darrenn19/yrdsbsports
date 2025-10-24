@@ -1,24 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, October 22, 2025",
-            "home_team": "Newmarket HS",
-            "away_team": "Dr. G.W. Williams",
-            "time": "4:45 PM",
-            "location": "Newmarket HS",
-            "game_played": true,
-            "final_score": "Newmarket HS 57, Dr. G.W. Williams 23"
-        },
-        {
-            "date": "Wednesday, October 22, 2025",
-            "home_team": "St. Theresa Of Lisieux",
-            "away_team": "Richmond Hill HS",
-            "time": "3:45 PM",
-            "location": "St Theresa Of Lisieux CHS",
-            "game_played": true,
-            "final_score": "St. Theresa Of Lisieux 65, Richmond Hill HS 40"
-        },
-        {
             "date": "Thursday, October 23, 2025",
             "home_team": "Bill Crothers SS",
             "away_team": "St. Katharine Drexel",
@@ -74,6 +56,15 @@
         },
         {
             "date": "Tuesday, October 28, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, October 29, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

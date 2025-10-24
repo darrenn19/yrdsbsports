@@ -1,51 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, October 22, 2025",
-            "home_team": "Newmarket HS",
-            "away_team": "Stouffville",
-            "time": "3:30 PM",
-            "location": "Newmarket HS",
-            "game_played": true,
-            "final_score": "Newmarket HS 48, Stouffville 37"
-        },
-        {
-            "date": "Wednesday, October 22, 2025",
-            "home_team": "Sacred Heart",
-            "away_team": "King City SS",
-            "time": "3:45 PM",
-            "location": "Sacred Heart CHS",
-            "game_played": true,
-            "final_score": "Sacred Heart 27, King City SS 32"
-        },
-        {
-            "date": "Wednesday, October 22, 2025",
-            "home_team": "Sir William Mulock",
-            "away_team": "Aurora HS",
-            "time": "3:45 PM",
-            "location": "Sir William Mulock",
-            "game_played": true,
-            "final_score": "Sir William Mulock 57, Aurora HS 28"
-        },
-        {
-            "date": "Wednesday, October 22, 2025",
-            "home_team": "St. Maximilian",
-            "away_team": "Cardinal Carter",
-            "time": "3:45 PM",
-            "location": "St Maximilian Kolbe CHS",
-            "game_played": true,
-            "final_score": "St. Maximilian 46, Cardinal Carter 24"
-        },
-        {
-            "date": "Wednesday, October 22, 2025",
-            "home_team": "Thornlea SS",
-            "away_team": "Alexander Mackenzie",
-            "time": "3:45 PM",
-            "location": "Thornlea SS",
-            "game_played": true,
-            "final_score": "Thornlea SS 23, Alexander Mackenzie 48"
-        },
-        {
             "date": "Thursday, October 23, 2025",
             "home_team": "Emily Carr",
             "away_team": "Hodan Nalayeh SS",
@@ -128,6 +83,15 @@
         },
         {
             "date": "Tuesday, October 28, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, October 29, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

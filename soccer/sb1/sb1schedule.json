@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, October 22, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
-        },
-        {
             "date": "Thursday, October 23, 2025 - PLAYOFFS",
             "home_team": "Bill Crothers SS",
             "away_team": "St. Brother Andre",
@@ -101,6 +92,15 @@
         },
         {
             "date": "Tuesday, October 28, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, October 29, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
