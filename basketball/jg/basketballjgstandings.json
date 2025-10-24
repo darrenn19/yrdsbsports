@@ -24,14 +24,14 @@
         },
         {
             "Team": "Bill Crothers SS",
-            "GP": "7",
-            "W": "6",
+            "GP": "8",
+            "W": "7",
             "L": "1",
             "T": "0",
-            "PTS": "12",
-            "PF": "346",
+            "PTS": "14",
+            "PF": "416",
             "PA": "136",
-            "DIFF": "75"
+            "DIFF": "90"
         },
         {
             "Team": "Markham District",
@@ -79,14 +79,14 @@
         },
         {
             "Team": "St. Katharine Drexel",
-            "GP": "7",
+            "GP": "8",
             "W": "0",
-            "L": "7",
+            "L": "8",
             "T": "0",
             "PTS": "0",
             "PF": "138",
-            "PA": "333",
-            "DIFF": "-101"
+            "PA": "403",
+            "DIFF": "-116"
         },
         {
             "Team": "North-West",
@@ -123,14 +123,14 @@
         },
         {
             "Team": "Sacred Heart",
-            "GP": "5",
-            "W": "3",
+            "GP": "6",
+            "W": "4",
             "L": "2",
             "T": "0",
-            "PTS": "6",
-            "PF": "208",
-            "PA": "172",
-            "DIFF": "25"
+            "PTS": "8",
+            "PF": "238",
+            "PA": "183",
+            "DIFF": "40"
         },
         {
             "Team": "ESC De L Ascension",
@@ -145,14 +145,14 @@
         },
         {
             "Team": "Keswick High School",
-            "GP": "6",
+            "GP": "7",
             "W": "1",
-            "L": "5",
+            "L": "6",
             "T": "0",
             "PTS": "2",
-            "PF": "167",
-            "PA": "255",
-            "DIFF": "-65"
+            "PF": "178",
+            "PA": "285",
+            "DIFF": "-80"
         },
         {
             "Team": "Sir William Mulock",
