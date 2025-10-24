@@ -2,6 +2,15 @@
     "schedule": [
         {
             "date": "Thursday, October 23, 2025 - PLAYOFFS",
+            "home_team": "Dr. J.M. Denison",
+            "away_team": "St. Katharine Drexel",
+            "time": "4:45 PM",
+            "location": "Dr J M Denison SS",
+            "game_played": true,
+            "final_score": "Dr. J.M. Denison 2, St. Katharine Drexel 1"
+        },
+        {
+            "date": "Thursday, October 23, 2025 - PLAYOFFS",
             "home_team": "Father Bressani",
             "away_team": "St. Brother Andre",
             "time": "4:15 PM",

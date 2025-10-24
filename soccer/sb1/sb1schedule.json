@@ -64,6 +64,15 @@
             "final_score": "St. Theresa Of Lisieux 3, Richmond Green SS 1"
         },
         {
+            "date": "Thursday, October 23, 2025 - PLAYOFFS",
+            "home_team": "Stephen Lewis SS",
+            "away_team": "Our Lady Queen Of The World",
+            "time": "3:00 PM",
+            "location": "Stephen Lewis SS",
+            "game_played": true,
+            "final_score": "Stephen Lewis SS 4, Our Lady Queen Of The World 2"
+        },
+        {
             "date": "Friday, October 24, 2025",
             "home_team": null,
             "away_team": null,
