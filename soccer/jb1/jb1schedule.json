@@ -1,78 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, October 23, 2025 - PLAYOFFS",
-            "home_team": "Dr. J.M. Denison",
-            "away_team": "St. Katharine Drexel",
-            "time": "4:45 PM",
-            "location": "Dr J M Denison SS",
-            "game_played": true,
-            "final_score": "Dr. J.M. Denison 2, St. Katharine Drexel 1"
-        },
-        {
-            "date": "Thursday, October 23, 2025 - PLAYOFFS",
-            "home_team": "Father Bressani",
-            "away_team": "St. Brother Andre",
-            "time": "4:15 PM",
-            "location": "Father Bressani CHS",
-            "game_played": true,
-            "final_score": "Father Bressani 7, St. Brother Andre 0"
-        },
-        {
-            "date": "Thursday, October 23, 2025 - PLAYOFFS",
-            "home_team": "Our Lady Queen Of The World",
-            "away_team": "St. Augustine",
-            "time": "3:00 PM",
-            "location": "Our Lady Queen Of The World",
-            "game_played": true,
-            "final_score": "Our Lady Queen Of The World 5, St. Augustine 1"
-        },
-        {
-            "date": "Thursday, October 23, 2025 - PLAYOFFS",
-            "home_team": "Sacred Heart",
-            "away_team": "Bill Hogarth SS",
-            "time": "3:00 PM",
-            "location": "Sacred Heart CHS",
-            "game_played": true,
-            "final_score": "Sacred Heart 6, Bill Hogarth SS 2"
-        },
-        {
-            "date": "Thursday, October 23, 2025 - PLAYOFFS",
-            "home_team": "St. Jean De Brebeuf CHS",
-            "away_team": "Markham District",
-            "time": "3:00 PM",
-            "location": "St Jean De Brebeuf CHS",
-            "game_played": true,
-            "final_score": "St. Jean De Brebeuf CHS 4, Markham District 0"
-        },
-        {
-            "date": "Thursday, October 23, 2025 - PLAYOFFS",
-            "home_team": "St. Joan Of Arc",
-            "away_team": "Keswick High School",
-            "time": "3:00 PM",
-            "location": "St Joan Of Arc CHS",
-            "game_played": true,
-            "final_score": "St. Joan Of Arc 6, Keswick High School 1"
-        },
-        {
-            "date": "Thursday, October 23, 2025 - PLAYOFFS",
-            "home_team": "St. Maximilian",
-            "away_team": "Milliken Mills",
-            "time": "3:00 PM",
-            "location": "St Maximilian Kolbe CHS",
-            "game_played": true,
-            "final_score": "St. Maximilian 8, Milliken Mills 0"
-        },
-        {
-            "date": "Thursday, October 23, 2025 - PLAYOFFS",
-            "home_team": "St. Theresa Of Lisieux",
-            "away_team": "Alexander Mackenzie",
-            "time": "3:00 PM",
-            "location": "St Theresa Of Lisieux CHS",
-            "game_played": true,
-            "final_score": "St. Theresa Of Lisieux 10, Alexander Mackenzie 0"
-        },
-        {
             "date": "Friday, October 24, 2025",
             "home_team": null,
             "away_team": null,
@@ -119,6 +47,15 @@
         },
         {
             "date": "Wednesday, October 29, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, October 30, 2025 - PLAYOFFS",
             "home_team": null,
             "away_team": null,
             "time": null,

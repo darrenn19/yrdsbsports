@@ -1,51 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, October 23, 2025",
-            "home_team": "Emily Carr",
-            "away_team": "Hodan Nalayeh SS",
-            "time": "3:45 PM",
-            "location": "Emily Carr SS",
-            "game_played": true,
-            "final_score": "Emily Carr 45, Hodan Nalayeh SS 49"
-        },
-        {
-            "date": "Thursday, October 23, 2025",
-            "home_team": "Markville",
-            "away_team": "Markham District",
-            "time": "3:45 PM",
-            "location": "Markville SS",
-            "game_played": true,
-            "final_score": "Markville 26, Markham District 61"
-        },
-        {
-            "date": "Thursday, October 23, 2025",
-            "home_team": "St. Elizabeth",
-            "away_team": "Maple High School",
-            "time": "3:45 PM",
-            "location": "St Elizabeth CHS",
-            "game_played": true,
-            "final_score": "St. Elizabeth 54, Maple High School 18"
-        },
-        {
-            "date": "Thursday, October 23, 2025",
-            "home_team": "Unionville HS",
-            "away_team": "Bur Oak SS",
-            "time": "3:45 PM",
-            "location": "Unionville HS",
-            "game_played": true,
-            "final_score": "Unionville HS 78, Bur Oak SS 46"
-        },
-        {
-            "date": "Thursday, October 23, 2025",
-            "home_team": "Woodbridge College",
-            "away_team": "Toronto District Christian",
-            "time": "3:45 PM",
-            "location": "Woodbridge College",
-            "game_played": true,
-            "final_score": "Woodbridge College 39, Toronto District Christian 50"
-        },
-        {
             "date": "Friday, October 24, 2025",
             "home_team": null,
             "away_team": null,
@@ -92,6 +47,15 @@
         },
         {
             "date": "Wednesday, October 29, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, October 30, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

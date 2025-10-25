@@ -1,42 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, October 23, 2025 - PLAYOFFS",
-            "home_team": "Dr. J.M. Denison",
-            "away_team": "Renaissance ESC",
-            "time": "3:30 PM",
-            "location": "Dr J M Denison SS",
-            "game_played": true,
-            "final_score": "Dr. J.M. Denison 5, Renaissance ESC 0"
-        },
-        {
-            "date": "Thursday, October 23, 2025 - PLAYOFFS",
-            "home_team": "Langstaff SS",
-            "away_team": "Woodbridge College",
-            "time": "3:00 PM",
-            "location": "Langstaff SS",
-            "game_played": true,
-            "final_score": "Langstaff SS 1, Woodbridge College 0"
-        },
-        {
-            "date": "Thursday, October 23, 2025 - PLAYOFFS",
-            "home_team": "Thornhill SS",
-            "away_team": "Aurora HS",
-            "time": "3:00 PM",
-            "location": "Thornhill SS",
-            "game_played": true,
-            "final_score": "Thornhill SS 3, Aurora HS 2"
-        },
-        {
-            "date": "Thursday, October 23, 2025 - PLAYOFFS",
-            "home_team": "Toronto District Christian",
-            "away_team": "Keswick High School",
-            "time": "3:00 PM",
-            "location": "Toronto District Christian HS",
-            "game_played": true,
-            "final_score": "Toronto District Christian 1, Keswick High School 2"
-        },
-        {
             "date": "Friday, October 24, 2025",
             "home_team": null,
             "away_team": null,
@@ -83,6 +47,15 @@
         },
         {
             "date": "Wednesday, October 29, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, October 30, 2025 - PLAYOFFS",
             "home_team": null,
             "away_team": null,
             "time": null,
