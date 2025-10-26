@@ -1,3 +1,88 @@
 {
-    "standings": []
+    "standings": [
+        {
+            "Team": "Central",
+            "W": "W",
+            "L": "L",
+            "T": "T",
+            "PTS": "PTS",
+            "EW": "EW",
+            "EL": "EL",
+            "PF": "PF",
+            "PA": "PA",
+            "DIFF": "DIFF"
+        },
+        {
+            "Team": "St. Robert",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "EW": "0",
+            "EL": "0",
+            "PF": "0",
+            "PA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Sacred Heart",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "EW": "0",
+            "EL": "0",
+            "PF": "0",
+            "PA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "St. Theresa Of Lisieux",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "EW": "0",
+            "EL": "0",
+            "PF": "0",
+            "PA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Bill Crothers SS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "EW": "0",
+            "EL": "0",
+            "PF": "0",
+            "PA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Bill Hogarth SS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "EW": "0",
+            "EL": "0",
+            "PF": "0",
+            "PA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "St. Augustine",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "EW": "0",
+            "EL": "0",
+            "PF": "0",
+            "PA": "0",
+            "DIFF": "0"
+        }
+    ]
 }
