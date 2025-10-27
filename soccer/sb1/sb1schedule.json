@@ -20,6 +20,24 @@
         },
         {
             "date": "Monday, October 27, 2025 - PLAYOFFS",
+            "home_team": "St. Joan Of Arc",
+            "away_team": "St. Brother Andre",
+            "time": "3:30 PM",
+            "location": "St Joan Of Arc CHS",
+            "game_played": true,
+            "final_score": "St. Joan Of Arc 1, St. Brother Andre 3"
+        },
+        {
+            "date": "Monday, October 27, 2025 - PLAYOFFS",
+            "home_team": "St. Maximilian",
+            "away_team": "Bill Hogarth SS",
+            "time": "3:30 PM",
+            "location": "St Maximilian Kolbe CHS",
+            "game_played": true,
+            "final_score": "St. Maximilian 7, Bill Hogarth SS 0"
+        },
+        {
+            "date": "Monday, October 27, 2025 - PLAYOFFS",
             "home_team": "Thornlea SS",
             "away_team": "St. Theresa Of Lisieux",
             "time": "3:30 PM",
