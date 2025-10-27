@@ -20,6 +20,15 @@
         },
         {
             "date": "Monday, October 27, 2025 - PLAYOFFS",
+            "home_team": "St. Jean De Brebeuf CHS",
+            "away_team": "St. Augustine",
+            "time": "3:30 PM",
+            "location": "St Jean De Brebeuf CHS",
+            "game_played": true,
+            "final_score": "St. Jean De Brebeuf CHS 2, St. Augustine 1"
+        },
+        {
+            "date": "Monday, October 27, 2025 - PLAYOFFS",
             "home_team": "St. Joan Of Arc",
             "away_team": "St. Brother Andre",
             "time": "3:30 PM",
