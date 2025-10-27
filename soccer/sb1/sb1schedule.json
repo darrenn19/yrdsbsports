@@ -55,6 +55,15 @@
             "final_score": "Thornlea SS 3, St. Theresa Of Lisieux 0"
         },
         {
+            "date": "Monday, October 27, 2025 - PLAYOFFS",
+            "home_team": "Holy Cross",
+            "away_team": "St. Elizabeth",
+            "time": "3:30 PM",
+            "location": "Vaughan Grove 1",
+            "game_played": true,
+            "final_score": "Holy Cross 12, St. Elizabeth 1"
+        },
+        {
             "date": "Tuesday, October 28, 2025",
             "home_team": null,
             "away_team": null,
@@ -64,7 +73,7 @@
             "final_score": null
         },
         {
-            "date": "Wednesday, October 29, 2025",
+            "date": "Wednesday, October 29, 2025 - PLAYOFFS",
             "home_team": null,
             "away_team": null,
             "time": null,
