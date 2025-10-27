@@ -11,12 +11,21 @@
         },
         {
             "date": "Monday, October 27, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "King City SS",
+            "away_team": "Newmarket HS",
+            "time": "3:45 PM",
+            "location": "King City SS",
+            "game_played": true,
+            "final_score": "King City SS 43, Newmarket HS 42"
+        },
+        {
+            "date": "Monday, October 27, 2025",
+            "home_team": "Pierre Elliott Trudeau",
+            "away_team": "Father McGivney",
+            "time": "3:45 PM",
+            "location": "PE Trudeau HS",
+            "game_played": true,
+            "final_score": "Pierre Elliott Trudeau 24, Father McGivney 55"
         },
         {
             "date": "Tuesday, October 28, 2025",
