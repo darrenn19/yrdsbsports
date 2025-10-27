@@ -37,6 +37,15 @@
             "final_score": "Pierre Elliott Trudeau 24, Father McGivney 55"
         },
         {
+            "date": "Monday, October 27, 2025",
+            "home_team": "Stephen Lewis SS",
+            "away_team": "St. Jean De Brebeuf CHS",
+            "time": "3:45 PM",
+            "location": "Stephen Lewis SS",
+            "game_played": true,
+            "final_score": "Stephen Lewis SS 41, St. Jean De Brebeuf CHS 27"
+        },
+        {
             "date": "Tuesday, October 28, 2025",
             "home_team": null,
             "away_team": null,
