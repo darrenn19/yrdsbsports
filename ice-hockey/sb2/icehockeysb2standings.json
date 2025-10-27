@@ -1,3 +1,202 @@
 {
-    "standings": []
+    "standings": [
+        {
+            "Team": "East",
+            "GP": "GP",
+            "W": "W",
+            "L": "L",
+            "T": "T",
+            "PTS": "PTS",
+            "GF": "GF",
+            "GA": "GA",
+            "DIFF": "DIFF"
+        },
+        {
+            "Team": "St. Augustine",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Bill Hogarth SS",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Markham District",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Markville",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "St. Robert",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "North-Central",
+            "GP": "GP",
+            "W": "W",
+            "L": "L",
+            "T": "T",
+            "PTS": "PTS",
+            "GF": "GF",
+            "GA": "GA",
+            "DIFF": "DIFF"
+        },
+        {
+            "Team": "Keswick High School",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Sacred Heart",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Dr. J.M. Denison",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Huron Heights",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Sutton District",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "West",
+            "GP": "GP",
+            "W": "W",
+            "L": "L",
+            "T": "T",
+            "PTS": "PTS",
+            "GF": "GF",
+            "GA": "GA",
+            "DIFF": "DIFF"
+        },
+        {
+            "Team": "Alexander Mackenzie",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "St. Joan Of Arc",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Aurora HS",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Father Bressani",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Westmount",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        }
+    ]
 }
