@@ -20,6 +20,15 @@
         },
         {
             "date": "Monday, October 27, 2025 - PLAYOFFS",
+            "home_team": "Sacred Heart",
+            "away_team": "Stephen Lewis SS",
+            "time": "3:30 PM",
+            "location": "Sheppards Bush",
+            "game_played": true,
+            "final_score": "Sacred Heart 5, Stephen Lewis SS 2"
+        },
+        {
+            "date": "Monday, October 27, 2025 - PLAYOFFS",
             "home_team": "St. Jean De Brebeuf CHS",
             "away_team": "St. Augustine",
             "time": "3:30 PM",
