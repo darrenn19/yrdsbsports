@@ -56,6 +56,15 @@
         },
         {
             "date": "Monday, October 27, 2025 - PLAYOFFS",
+            "home_team": "Cardinal Carter",
+            "away_team": "Tommy Douglas SS",
+            "time": "3:30 PM",
+            "location": "Stewart Burnett Park",
+            "game_played": true,
+            "final_score": "Cardinal Carter 7, Tommy Douglas SS 1"
+        },
+        {
+            "date": "Monday, October 27, 2025 - PLAYOFFS",
             "home_team": "Thornlea SS",
             "away_team": "St. Theresa Of Lisieux",
             "time": "3:30 PM",
