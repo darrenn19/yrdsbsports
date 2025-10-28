@@ -29,12 +29,12 @@
         },
         {
             "date": "Tuesday, October 28, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Richmond Hill HS",
+            "away_team": "Stephen Lewis SS",
+            "time": "3:45 PM",
+            "location": "Richmond Hill HS",
+            "game_played": true,
+            "final_score": "Richmond Hill HS 48, Stephen Lewis SS 51"
         },
         {
             "date": "Wednesday, October 29, 2025",
