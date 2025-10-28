@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Sunday, October 26, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
-        },
-        {
             "date": "Monday, October 27, 2025",
             "home_team": "Dr. G.W. Williams",
             "away_team": "Sacred Heart",
@@ -74,6 +65,15 @@
         },
         {
             "date": "Saturday, November 1, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Sunday, November 2, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
