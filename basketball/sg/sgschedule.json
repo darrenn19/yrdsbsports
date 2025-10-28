@@ -74,12 +74,30 @@
         },
         {
             "date": "Tuesday, October 28, 2025",
+            "home_team": "St. Augustine",
+            "away_team": "St. Theresa Of Lisieux",
+            "time": "3:45 PM",
+            "location": "St Augustine CHS",
+            "game_played": true,
+            "final_score": "St. Augustine 43, St. Theresa Of Lisieux 40"
+        },
+        {
+            "date": "Tuesday, October 28, 2025",
             "home_team": "Tommy Douglas SS",
             "away_team": "Woodbridge College",
             "time": "3:45 PM",
             "location": "Tommy Douglas SS",
             "game_played": true,
             "final_score": "Tommy Douglas SS 51, Woodbridge College 39"
+        },
+        {
+            "date": "Tuesday, October 28, 2025",
+            "home_team": "Toronto District Christian",
+            "away_team": "Emily Carr",
+            "time": "3:45 PM",
+            "location": "Toronto District Christian HS",
+            "game_played": true,
+            "final_score": "Toronto District Christian 46, Emily Carr 47"
         },
         {
             "date": "Wednesday, October 29, 2025",
