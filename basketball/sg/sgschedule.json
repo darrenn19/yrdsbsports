@@ -74,6 +74,15 @@
         },
         {
             "date": "Wednesday, October 29, 2025",
+            "home_team": "Stouffville",
+            "away_team": "Sacred Heart",
+            "time": "4:00 PM",
+            "location": "Stouffville DSS",
+            "game_played": true,
+            "final_score": "Stouffville 38, Sacred Heart 47"
+        },
+        {
+            "date": "Wednesday, October 29, 2025",
             "home_team": "Unionville HS",
             "away_team": "Markham District",
             "time": "3:45 PM",
