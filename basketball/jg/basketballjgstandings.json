@@ -46,14 +46,14 @@
         },
         {
             "Team": "Stephen Lewis SS",
-            "GP": "6",
-            "W": "3",
+            "GP": "7",
+            "W": "4",
             "L": "3",
             "T": "0",
-            "PTS": "6",
-            "PF": "207",
-            "PA": "262",
-            "DIFF": "-9"
+            "PTS": "8",
+            "PF": "258",
+            "PA": "310",
+            "DIFF": "-6"
         },
         {
             "Team": "Unionville HS",
@@ -68,14 +68,14 @@
         },
         {
             "Team": "Richmond Hill HS",
-            "GP": "7",
+            "GP": "8",
             "W": "1",
-            "L": "6",
+            "L": "7",
             "T": "0",
             "PTS": "2",
-            "PF": "217",
-            "PA": "330",
-            "DIFF": "-60"
+            "PF": "265",
+            "PA": "381",
+            "DIFF": "-63"
         },
         {
             "Team": "St. Katharine Drexel",
