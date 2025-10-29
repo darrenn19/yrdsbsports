@@ -65,6 +65,15 @@
         },
         {
             "date": "Wednesday, October 29, 2025",
+            "home_team": "Bur Oak SS",
+            "away_team": "St. Brother Andre",
+            "time": "3:45 PM",
+            "location": "Bur Oak SS",
+            "game_played": true,
+            "final_score": "Bur Oak SS 37, St. Brother Andre 42"
+        },
+        {
+            "date": "Wednesday, October 29, 2025",
             "home_team": "Dr. J.M. Denison",
             "away_team": "St. Maximilian",
             "time": "3:45 PM",
