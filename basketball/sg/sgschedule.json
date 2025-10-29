@@ -1,69 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, October 27, 2025",
-            "home_team": "Aurora HS",
-            "away_team": "St. Maximilian",
-            "time": "3:45 PM",
-            "location": "Aurora HS",
-            "game_played": true,
-            "final_score": "Aurora HS 34, St. Maximilian 60"
-        },
-        {
-            "date": "Monday, October 27, 2025",
-            "home_team": "Bill Hogarth SS",
-            "away_team": "St. Brother Andre",
-            "time": "3:45 PM",
-            "location": "Bill Hogarth SS",
-            "game_played": true,
-            "final_score": "Bill Hogarth SS 29, St. Brother Andre 38"
-        },
-        {
-            "date": "Monday, October 27, 2025",
-            "home_team": "Cardinal Carter",
-            "away_team": "Dr. J.M. Denison",
-            "time": "3:45 PM",
-            "location": "Cardinal Carter CHS",
-            "game_played": true,
-            "final_score": "Cardinal Carter 25, Dr. J.M. Denison 37"
-        },
-        {
-            "date": "Monday, October 27, 2025",
-            "home_team": "King City SS",
-            "away_team": "Newmarket HS",
-            "time": "3:45 PM",
-            "location": "King City SS",
-            "game_played": true,
-            "final_score": "King City SS 43, Newmarket HS 42"
-        },
-        {
-            "date": "Monday, October 27, 2025",
-            "home_team": "Pierre Elliott Trudeau",
-            "away_team": "Father McGivney",
-            "time": "3:45 PM",
-            "location": "PE Trudeau HS",
-            "game_played": true,
-            "final_score": "Pierre Elliott Trudeau 24, Father McGivney 55"
-        },
-        {
-            "date": "Monday, October 27, 2025",
-            "home_team": "Stephen Lewis SS",
-            "away_team": "St. Jean De Brebeuf CHS",
-            "time": "3:45 PM",
-            "location": "Stephen Lewis SS",
-            "game_played": true,
-            "final_score": "Stephen Lewis SS 41, St. Jean De Brebeuf CHS 27"
-        },
-        {
-            "date": "Monday, October 27, 2025",
-            "home_team": "Stouffville",
-            "away_team": "Sir William Mulock",
-            "time": "4:00 PM",
-            "location": "Stouffville DSS",
-            "game_played": true,
-            "final_score": "Stouffville 24, Sir William Mulock 50"
-        },
-        {
             "date": "Tuesday, October 28, 2025",
             "home_team": "Our Lady Queen Of The World",
             "away_team": "Thornlea SS",
@@ -146,6 +83,15 @@
         },
         {
             "date": "Sunday, November 2, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, November 3, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

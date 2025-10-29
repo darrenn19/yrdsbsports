@@ -1,78 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, October 27, 2025 - PLAYOFFS",
-            "home_team": "Hodan Nalayeh SS",
-            "away_team": "Father McGivney",
-            "time": "3:30 PM",
-            "location": "Hodan Nalayeh Secondary School",
-            "game_played": true,
-            "final_score": "Hodan Nalayeh SS 5, Father McGivney 1"
-        },
-        {
-            "date": "Monday, October 27, 2025 - PLAYOFFS",
-            "home_team": "Sacred Heart",
-            "away_team": "Stephen Lewis SS",
-            "time": "3:30 PM",
-            "location": "Sheppards Bush",
-            "game_played": true,
-            "final_score": "Sacred Heart 5, Stephen Lewis SS 2"
-        },
-        {
-            "date": "Monday, October 27, 2025 - PLAYOFFS",
-            "home_team": "St. Jean De Brebeuf CHS",
-            "away_team": "St. Augustine",
-            "time": "3:30 PM",
-            "location": "St Jean De Brebeuf CHS",
-            "game_played": true,
-            "final_score": "St. Jean De Brebeuf CHS 2, St. Augustine 1"
-        },
-        {
-            "date": "Monday, October 27, 2025 - PLAYOFFS",
-            "home_team": "St. Joan Of Arc",
-            "away_team": "St. Brother Andre",
-            "time": "3:30 PM",
-            "location": "St Joan Of Arc CHS",
-            "game_played": true,
-            "final_score": "St. Joan Of Arc 1, St. Brother Andre 3"
-        },
-        {
-            "date": "Monday, October 27, 2025 - PLAYOFFS",
-            "home_team": "St. Maximilian",
-            "away_team": "Bill Hogarth SS",
-            "time": "3:30 PM",
-            "location": "St Maximilian Kolbe CHS",
-            "game_played": true,
-            "final_score": "St. Maximilian 7, Bill Hogarth SS 0"
-        },
-        {
-            "date": "Monday, October 27, 2025 - PLAYOFFS",
-            "home_team": "Cardinal Carter",
-            "away_team": "Tommy Douglas SS",
-            "time": "3:30 PM",
-            "location": "Stewart Burnett Park",
-            "game_played": true,
-            "final_score": "Cardinal Carter 7, Tommy Douglas SS 1"
-        },
-        {
-            "date": "Monday, October 27, 2025 - PLAYOFFS",
-            "home_team": "Thornlea SS",
-            "away_team": "St. Theresa Of Lisieux",
-            "time": "3:30 PM",
-            "location": "Thornlea SS",
-            "game_played": true,
-            "final_score": "Thornlea SS 3, St. Theresa Of Lisieux 0"
-        },
-        {
-            "date": "Monday, October 27, 2025 - PLAYOFFS",
-            "home_team": "Holy Cross",
-            "away_team": "St. Elizabeth",
-            "time": "3:30 PM",
-            "location": "Vaughan Grove 1",
-            "game_played": true,
-            "final_score": "Holy Cross 12, St. Elizabeth 1"
-        },
-        {
             "date": "Tuesday, October 28, 2025",
             "home_team": null,
             "away_team": null,
@@ -119,6 +47,15 @@
         },
         {
             "date": "Sunday, November 2, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, November 3, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

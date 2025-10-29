@@ -1,33 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, October 27, 2025",
-            "home_team": "Dr. G.W. Williams",
-            "away_team": "Sacred Heart",
-            "time": "3:45 PM",
-            "location": "Dr G W Williams SS",
-            "game_played": true,
-            "final_score": "Dr. G.W. Williams 51, Sacred Heart 43"
-        },
-        {
-            "date": "Monday, October 27, 2025",
-            "home_team": "Markham District",
-            "away_team": "Unionville HS",
-            "time": "3:45 PM",
-            "location": "Markham DHS",
-            "game_played": true,
-            "final_score": "Markham District 41, Unionville HS 28"
-        },
-        {
-            "date": "Monday, October 27, 2025",
-            "home_team": "Newmarket HS",
-            "away_team": "Sir William Mulock",
-            "time": "3:45 PM",
-            "location": "Newmarket HS",
-            "game_played": true,
-            "final_score": "Newmarket HS 59, Sir William Mulock 32"
-        },
-        {
             "date": "Tuesday, October 28, 2025",
             "home_team": "Richmond Hill HS",
             "away_team": "Stephen Lewis SS",
@@ -74,6 +47,15 @@
         },
         {
             "date": "Sunday, November 2, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, November 3, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
