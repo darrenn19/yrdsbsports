@@ -47,6 +47,15 @@
         },
         {
             "date": "Wednesday, October 29, 2025",
+            "home_team": "Aurora HS",
+            "away_team": "Newmarket HS",
+            "time": "3:45 PM",
+            "location": "Aurora HS",
+            "game_played": true,
+            "final_score": "Aurora HS 26, Newmarket HS 37"
+        },
+        {
+            "date": "Wednesday, October 29, 2025",
             "home_team": "Bill Hogarth SS",
             "away_team": "Father McGivney",
             "time": "3:45 PM",
