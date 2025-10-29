@@ -11,12 +11,12 @@
         },
         {
             "date": "Wednesday, October 29, 2025 - PLAYOFFS",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Thornlea SS",
+            "away_team": "Hodan Nalayeh SS",
+            "time": "3:30 PM",
+            "location": "Thornlea SS",
+            "game_played": true,
+            "final_score": "Thornlea SS 6, Hodan Nalayeh SS 0"
         },
         {
             "date": "Thursday, October 30, 2025",
