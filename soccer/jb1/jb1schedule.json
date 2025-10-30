@@ -11,12 +11,12 @@
         },
         {
             "date": "Thursday, October 30, 2025 - PLAYOFFS",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "St. Theresa Of Lisieux",
+            "away_team": "Sacred Heart",
+            "time": "3:30 PM",
+            "location": "St Theresa Of Lisieux CHS",
+            "game_played": true,
+            "final_score": "St. Theresa Of Lisieux 5, Sacred Heart 0"
         },
         {
             "date": "Friday, October 31, 2025",
