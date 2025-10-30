@@ -11,6 +11,15 @@
         },
         {
             "date": "Thursday, October 30, 2025 - PLAYOFFS",
+            "home_team": "Holy Cross",
+            "away_team": "Father Bressani",
+            "time": "3:30 PM",
+            "location": "Holy Cross CA",
+            "game_played": true,
+            "final_score": "Holy Cross 2, Father Bressani 1"
+        },
+        {
+            "date": "Thursday, October 30, 2025 - PLAYOFFS",
             "home_team": "St. Theresa Of Lisieux",
             "away_team": "Sacred Heart",
             "time": "3:30 PM",
