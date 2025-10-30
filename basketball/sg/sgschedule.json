@@ -74,12 +74,12 @@
         },
         {
             "date": "Thursday, October 30, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Tommy Douglas SS",
+            "away_team": "St. Elizabeth",
+            "time": "3:45 PM",
+            "location": "Tommy Douglas SS",
+            "game_played": true,
+            "final_score": "Tommy Douglas SS 40, St. Elizabeth 34"
         },
         {
             "date": "Friday, October 31, 2025",
