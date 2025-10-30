@@ -25,6 +25,18 @@
             "DIFF": "89"
         },
         {
+            "Team": "Bayview SS",
+            "MP": "12",
+            "MW": "10",
+            "ML": "2",
+            "GW": "22",
+            "GL": "7",
+            "PTS": "10",
+            "PF": "653",
+            "PA": "555",
+            "DIFF": "98"
+        },
+        {
             "Team": "St. Theresa Of Lisieux",
             "MP": "12",
             "MW": "9",
@@ -49,16 +61,16 @@
             "DIFF": "88"
         },
         {
-            "Team": "Bayview SS",
-            "MP": "10",
-            "MW": "8",
-            "ML": "2",
-            "GW": "18",
-            "GL": "7",
-            "PTS": "8",
-            "PF": "547",
-            "PA": "468",
-            "DIFF": "79"
+            "Team": "Thornlea SS",
+            "MP": "12",
+            "MW": "6",
+            "ML": "6",
+            "GW": "13",
+            "GL": "14",
+            "PTS": "6",
+            "PF": "594",
+            "PA": "563",
+            "DIFF": "31"
         },
         {
             "Team": "Thornhill SS",
@@ -73,28 +85,16 @@
             "DIFF": "-23"
         },
         {
-            "Team": "Thornlea SS",
-            "MP": "10",
-            "MW": "5",
-            "ML": "5",
-            "GW": "11",
-            "GL": "11",
-            "PTS": "5",
-            "PF": "493",
-            "PA": "459",
-            "DIFF": "34"
-        },
-        {
             "Team": "Our Lady Queen Of The World",
-            "MP": "10",
+            "MP": "12",
             "MW": "3",
-            "ML": "7",
-            "GW": "9",
-            "GL": "15",
+            "ML": "9",
+            "GW": "10",
+            "GL": "19",
             "PTS": "3",
-            "PF": "491",
-            "PA": "535",
-            "DIFF": "-44"
+            "PF": "587",
+            "PA": "647",
+            "DIFF": "-60"
         },
         {
             "Team": "Langstaff SS",
