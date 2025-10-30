@@ -29,6 +29,15 @@
         },
         {
             "date": "Wednesday, October 29, 2025",
+            "home_team": "Cardinal Carter",
+            "away_team": "Sir William Mulock",
+            "time": "3:45 PM",
+            "location": "Cardinal Carter CHS",
+            "game_played": true,
+            "final_score": "Cardinal Carter 40, Sir William Mulock 54"
+        },
+        {
+            "date": "Wednesday, October 29, 2025",
             "home_team": "Dr. J.M. Denison",
             "away_team": "St. Maximilian",
             "time": "3:45 PM",
