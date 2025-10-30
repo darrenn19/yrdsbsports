@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, October 28, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
-        },
-        {
             "date": "Wednesday, October 29, 2025 - PLAYOFFS",
             "home_team": "St. Jean De Brebeuf CHS",
             "away_team": "Cardinal Carter",
@@ -83,6 +74,15 @@
         },
         {
             "date": "Monday, November 3, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, November 4, 2025 - PLAYOFFS",
             "home_team": null,
             "away_team": null,
             "time": null,
