@@ -337,18 +337,6 @@
             "DIFF": "-13"
         },
         {
-            "Team": "Keswick High School",
-            "MP": "12",
-            "MW": "6",
-            "ML": "6",
-            "GW": "14",
-            "GL": "14",
-            "PTS": "6",
-            "PF": "572",
-            "PA": "564",
-            "DIFF": "8"
-        },
-        {
             "Team": "Sutton District",
             "MP": "12",
             "MW": "6",
@@ -359,6 +347,18 @@
             "PF": "561",
             "PA": "596",
             "DIFF": "-35"
+        },
+        {
+            "Team": "Keswick High School",
+            "MP": "12",
+            "MW": "6",
+            "ML": "6",
+            "GW": "14",
+            "GL": "14",
+            "PTS": "6",
+            "PF": "572",
+            "PA": "564",
+            "DIFF": "8"
         },
         {
             "Team": "Dr. G.W. Williams",
@@ -373,40 +373,40 @@
             "DIFF": "-38"
         },
         {
-            "Team": "Huron Heights",
-            "MP": "11",
-            "MW": "4",
+            "Team": "Cardinal Carter",
+            "MP": "12",
+            "MW": "5",
             "ML": "7",
-            "GW": "9",
-            "GL": "17",
-            "PTS": "4",
-            "PF": "516",
-            "PA": "579",
-            "DIFF": "-63"
+            "GW": "12",
+            "GL": "15",
+            "PTS": "5",
+            "PF": "572",
+            "PA": "571",
+            "DIFF": "1"
         },
         {
-            "Team": "Cardinal Carter",
-            "MP": "10",
-            "MW": "3",
-            "ML": "7",
-            "GW": "8",
-            "GL": "14",
-            "PTS": "3",
-            "PF": "446",
-            "PA": "479",
-            "DIFF": "-33"
+            "Team": "Huron Heights",
+            "MP": "12",
+            "MW": "4",
+            "ML": "8",
+            "GW": "10",
+            "GL": "19",
+            "PTS": "4",
+            "PF": "575",
+            "PA": "655",
+            "DIFF": "-80"
         },
         {
             "Team": "St. Maximilian",
-            "MP": "11",
+            "MP": "12",
             "MW": "1",
-            "ML": "10",
+            "ML": "11",
             "GW": "5",
-            "GL": "20",
+            "GL": "22",
             "PTS": "1",
-            "PF": "450",
-            "PA": "575",
-            "DIFF": "-125"
+            "PF": "483",
+            "PA": "625",
+            "DIFF": "-142"
         },
         {
             "Team": "Sir William Mulock",

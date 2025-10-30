@@ -37,6 +37,30 @@
             "DIFF": "138"
         },
         {
+            "Team": "Tommy Douglas SS",
+            "MP": "12",
+            "MW": "8",
+            "ML": "4",
+            "GW": "16",
+            "GL": "10",
+            "PTS": "8",
+            "PF": "575",
+            "PA": "507",
+            "DIFF": "68"
+        },
+        {
+            "Team": "Toronto District Christian",
+            "MP": "11",
+            "MW": "7",
+            "ML": "4",
+            "GW": "17",
+            "GL": "8",
+            "PTS": "7",
+            "PF": "544",
+            "PA": "466",
+            "DIFF": "78"
+        },
+        {
             "Team": "Hodan Nalayeh SS",
             "MP": "12",
             "MW": "7",
@@ -49,52 +73,28 @@
             "DIFF": "56"
         },
         {
-            "Team": "Toronto District Christian",
-            "MP": "10",
-            "MW": "6",
-            "ML": "4",
-            "GW": "15",
-            "GL": "8",
-            "PTS": "6",
-            "PF": "494",
-            "PA": "436",
-            "DIFF": "58"
-        },
-        {
-            "Team": "Tommy Douglas SS",
-            "MP": "10",
-            "MW": "6",
-            "ML": "4",
-            "GW": "12",
-            "GL": "10",
-            "PTS": "6",
-            "PF": "475",
-            "PA": "454",
-            "DIFF": "21"
-        },
-        {
             "Team": "Father Bressani",
-            "MP": "10",
+            "MP": "12",
             "MW": "5",
-            "ML": "5",
+            "ML": "7",
             "GW": "11",
-            "GL": "12",
+            "GL": "16",
             "PTS": "5",
-            "PF": "465",
-            "PA": "480",
-            "DIFF": "-15"
+            "PF": "522",
+            "PA": "580",
+            "DIFF": "-58"
         },
         {
             "Team": "Emily Carr",
-            "MP": "10",
+            "MP": "11",
             "MW": "3",
-            "ML": "7",
+            "ML": "8",
             "GW": "6",
-            "GL": "15",
+            "GL": "17",
             "PTS": "3",
-            "PF": "401",
-            "PA": "495",
-            "DIFF": "-94"
+            "PF": "427",
+            "PA": "545",
+            "DIFF": "-118"
         },
         {
             "Team": "St. Joan Of Arc",
@@ -206,27 +206,27 @@
         },
         {
             "Team": "Keswick High School",
-            "MP": "11",
-            "MW": "3",
+            "MP": "12",
+            "MW": "4",
             "ML": "8",
-            "GW": "9",
+            "GW": "11",
             "GL": "17",
-            "PTS": "3",
-            "PF": "503",
-            "PA": "543",
-            "DIFF": "-40"
+            "PTS": "4",
+            "PF": "556",
+            "PA": "589",
+            "DIFF": "-33"
         },
         {
             "Team": "Dr. J.M. Denison",
-            "MP": "10",
+            "MP": "11",
             "MW": "3",
-            "ML": "7",
+            "ML": "8",
             "GW": "7",
-            "GL": "15",
+            "GL": "17",
             "PTS": "3",
-            "PF": "430",
-            "PA": "507",
-            "DIFF": "-77"
+            "PF": "476",
+            "PA": "560",
+            "DIFF": "-84"
         },
         {
             "Team": "Sutton District",
