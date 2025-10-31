@@ -1,78 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, October 29, 2025",
-            "home_team": "Aurora HS",
-            "away_team": "Newmarket HS",
-            "time": "3:45 PM",
-            "location": "Aurora HS",
-            "game_played": true,
-            "final_score": "Aurora HS 26, Newmarket HS 37"
-        },
-        {
-            "date": "Wednesday, October 29, 2025",
-            "home_team": "Bill Hogarth SS",
-            "away_team": "Father McGivney",
-            "time": "3:45 PM",
-            "location": "Bill Hogarth SS",
-            "game_played": true,
-            "final_score": "Bill Hogarth SS 45, Father McGivney 58"
-        },
-        {
-            "date": "Wednesday, October 29, 2025",
-            "home_team": "Bur Oak SS",
-            "away_team": "St. Brother Andre",
-            "time": "3:45 PM",
-            "location": "Bur Oak SS",
-            "game_played": true,
-            "final_score": "Bur Oak SS 37, St. Brother Andre 42"
-        },
-        {
-            "date": "Wednesday, October 29, 2025",
-            "home_team": "Cardinal Carter",
-            "away_team": "Sir William Mulock",
-            "time": "3:45 PM",
-            "location": "Cardinal Carter CHS",
-            "game_played": true,
-            "final_score": "Cardinal Carter 40, Sir William Mulock 54"
-        },
-        {
-            "date": "Wednesday, October 29, 2025",
-            "home_team": "Dr. J.M. Denison",
-            "away_team": "St. Maximilian",
-            "time": "3:45 PM",
-            "location": "Dr J M Denison SS",
-            "game_played": true,
-            "final_score": "Dr. J.M. Denison 12, St. Maximilian 52"
-        },
-        {
-            "date": "Wednesday, October 29, 2025",
-            "home_team": "Pierre Elliott Trudeau",
-            "away_team": "Middlefield",
-            "time": "3:45 PM",
-            "location": "PE Trudeau HS",
-            "game_played": true,
-            "final_score": "Pierre Elliott Trudeau 41, Middlefield 37"
-        },
-        {
-            "date": "Wednesday, October 29, 2025",
-            "home_team": "Stouffville",
-            "away_team": "Sacred Heart",
-            "time": "4:00 PM",
-            "location": "Stouffville DSS",
-            "game_played": true,
-            "final_score": "Stouffville 38, Sacred Heart 47"
-        },
-        {
-            "date": "Wednesday, October 29, 2025",
-            "home_team": "Unionville HS",
-            "away_team": "Markham District",
-            "time": "3:45 PM",
-            "location": "Unionville HS",
-            "game_played": true,
-            "final_score": "Unionville HS 41, Markham District 56"
-        },
-        {
             "date": "Thursday, October 30, 2025",
             "home_team": "Alexander Mackenzie",
             "away_team": "Richmond Green SS",
@@ -146,6 +74,15 @@
         },
         {
             "date": "Tuesday, November 4, 2025 - PLAYOFFS",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, November 5, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

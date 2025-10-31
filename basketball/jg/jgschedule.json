@@ -1,24 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, October 29, 2025",
-            "home_team": "Dr. G.W. Williams",
-            "away_team": "ESC De L Ascension",
-            "time": "3:45 PM",
-            "location": "Dr G W Williams SS",
-            "game_played": true,
-            "final_score": "Dr. G.W. Williams 61, ESC De L Ascension 16"
-        },
-        {
-            "date": "Wednesday, October 29, 2025",
-            "home_team": "Sir William Mulock",
-            "away_team": "Sacred Heart",
-            "time": "3:45 PM",
-            "location": "Sir William Mulock",
-            "game_played": true,
-            "final_score": "Sir William Mulock 19, Sacred Heart 44"
-        },
-        {
             "date": "Thursday, October 30, 2025",
             "home_team": "Stephen Lewis SS",
             "away_team": "St. Theresa Of Lisieux",
@@ -65,6 +47,15 @@
         },
         {
             "date": "Tuesday, November 4, 2025 - PLAYOFFS",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, November 5, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

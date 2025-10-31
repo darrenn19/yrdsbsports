@@ -1,42 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, October 29, 2025 - PLAYOFFS",
-            "home_team": "St. Jean De Brebeuf CHS",
-            "away_team": "Cardinal Carter",
-            "time": "3:30 PM",
-            "location": "St Jean De Brebeuf CHS",
-            "game_played": true,
-            "final_score": "St. Jean De Brebeuf CHS 2, Cardinal Carter 0"
-        },
-        {
-            "date": "Wednesday, October 29, 2025 - PLAYOFFS",
-            "home_team": "St. Maximilian",
-            "away_team": "St. Brother Andre",
-            "time": "3:30 PM",
-            "location": "St Maximilian Kolbe CHS",
-            "game_played": true,
-            "final_score": "St. Maximilian 4, St. Brother Andre 1"
-        },
-        {
-            "date": "Wednesday, October 29, 2025 - PLAYOFFS",
-            "home_team": "Thornlea SS",
-            "away_team": "Hodan Nalayeh SS",
-            "time": "3:30 PM",
-            "location": "Thornlea SS",
-            "game_played": true,
-            "final_score": "Thornlea SS 6, Hodan Nalayeh SS 0"
-        },
-        {
-            "date": "Wednesday, October 29, 2025 - PLAYOFFS",
-            "home_team": "Holy Cross",
-            "away_team": "Sacred Heart",
-            "time": "3:30 PM",
-            "location": "Vaughan Grove 2",
-            "game_played": true,
-            "final_score": "Holy Cross 3, Sacred Heart 0"
-        },
-        {
             "date": "Thursday, October 30, 2025",
             "home_team": null,
             "away_team": null,
@@ -83,6 +47,15 @@
         },
         {
             "date": "Tuesday, November 4, 2025 - PLAYOFFS",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, November 5, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
