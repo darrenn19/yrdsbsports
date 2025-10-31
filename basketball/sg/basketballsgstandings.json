@@ -320,15 +320,15 @@
             "DIFF": "DIFF"
         },
         {
-            "Team": "Toronto District Christian",
+            "Team": "Hodan Nalayeh SS",
             "GP": "8",
-            "W": "6",
-            "L": "2",
+            "W": "7",
+            "L": "1",
             "T": "0",
-            "PTS": "12",
-            "PF": "360",
-            "PA": "275",
-            "DIFF": "65"
+            "PTS": "14",
+            "PF": "346",
+            "PA": "245",
+            "DIFF": "90"
         },
         {
             "Team": "Emily Carr",
@@ -342,15 +342,15 @@
             "DIFF": "45"
         },
         {
-            "Team": "Hodan Nalayeh SS",
-            "GP": "7",
+            "Team": "Toronto District Christian",
+            "GP": "8",
             "W": "6",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "12",
-            "PF": "297",
-            "PA": "211",
-            "DIFF": "75"
+            "PF": "360",
+            "PA": "275",
+            "DIFF": "65"
         },
         {
             "Team": "Stephen Lewis SS",
@@ -409,14 +409,14 @@
         },
         {
             "Team": "St. Jean De Brebeuf CHS",
-            "GP": "7",
+            "GP": "8",
             "W": "0",
-            "L": "7",
+            "L": "8",
             "T": "0",
             "PTS": "0",
-            "PF": "196",
-            "PA": "271",
-            "DIFF": "-66"
+            "PF": "230",
+            "PA": "320",
+            "DIFF": "-81"
         }
     ]
 }
