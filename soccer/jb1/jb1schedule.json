@@ -20,6 +20,15 @@
         },
         {
             "date": "Thursday, October 30, 2025 - PLAYOFFS",
+            "home_team": "St. Joan Of Arc",
+            "away_team": "Dr. J.M. Denison",
+            "time": "3:30 PM",
+            "location": "St Joan Of Arc CHS",
+            "game_played": true,
+            "final_score": "St. Joan Of Arc 4, Dr. J.M. Denison 5"
+        },
+        {
+            "date": "Thursday, October 30, 2025 - PLAYOFFS",
             "home_team": "St. Theresa Of Lisieux",
             "away_team": "Sacred Heart",
             "time": "3:30 PM",
