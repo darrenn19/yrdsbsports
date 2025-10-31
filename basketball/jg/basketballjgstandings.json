@@ -13,14 +13,14 @@
         },
         {
             "Team": "St. Theresa Of Lisieux",
-            "GP": "7",
-            "W": "7",
+            "GP": "8",
+            "W": "8",
             "L": "0",
             "T": "0",
-            "PTS": "14",
-            "PF": "429",
-            "PA": "170",
-            "DIFF": "105"
+            "PTS": "16",
+            "PF": "499",
+            "PA": "203",
+            "DIFF": "120"
         },
         {
             "Team": "Bill Crothers SS",
@@ -46,14 +46,14 @@
         },
         {
             "Team": "Stephen Lewis SS",
-            "GP": "7",
+            "GP": "8",
             "W": "4",
-            "L": "3",
+            "L": "4",
             "T": "0",
             "PTS": "8",
-            "PF": "258",
-            "PA": "310",
-            "DIFF": "-6"
+            "PF": "291",
+            "PA": "380",
+            "DIFF": "-21"
         },
         {
             "Team": "Unionville HS",
