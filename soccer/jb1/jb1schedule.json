@@ -1,42 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, October 30, 2025 - PLAYOFFS",
-            "home_team": "Holy Cross",
-            "away_team": "Father Bressani",
-            "time": "3:30 PM",
-            "location": "Holy Cross CA",
-            "game_played": true,
-            "final_score": "Holy Cross 2, Father Bressani 1"
-        },
-        {
-            "date": "Thursday, October 30, 2025 - PLAYOFFS",
-            "home_team": "Cardinal Carter",
-            "away_team": "Our Lady Queen Of The World",
-            "time": "3:30 PM",
-            "location": "Sheppards Bush",
-            "game_played": true,
-            "final_score": "Cardinal Carter 0, Our Lady Queen Of The World 2"
-        },
-        {
-            "date": "Thursday, October 30, 2025 - PLAYOFFS",
-            "home_team": "St. Joan Of Arc",
-            "away_team": "Dr. J.M. Denison",
-            "time": "3:30 PM",
-            "location": "St Joan Of Arc CHS",
-            "game_played": true,
-            "final_score": "St. Joan Of Arc 4, Dr. J.M. Denison 5"
-        },
-        {
-            "date": "Thursday, October 30, 2025 - PLAYOFFS",
-            "home_team": "St. Theresa Of Lisieux",
-            "away_team": "Sacred Heart",
-            "time": "3:30 PM",
-            "location": "St Theresa Of Lisieux CHS",
-            "game_played": true,
-            "final_score": "St. Theresa Of Lisieux 5, Sacred Heart 0"
-        },
-        {
             "date": "Friday, October 31, 2025",
             "home_team": null,
             "away_team": null,
@@ -83,6 +47,15 @@
         },
         {
             "date": "Wednesday, November 5, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, November 6, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
