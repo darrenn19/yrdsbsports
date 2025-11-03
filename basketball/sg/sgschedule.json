@@ -11,6 +11,15 @@
         },
         {
             "date": "Monday, November 3, 2025 - PLAYOFFS",
+            "home_team": "Cardinal Carter",
+            "away_team": "Pierre Elliott Trudeau",
+            "time": "3:45 PM",
+            "location": "Cardinal Carter CHS",
+            "game_played": true,
+            "final_score": "Cardinal Carter 32, Pierre Elliott Trudeau 41"
+        },
+        {
+            "date": "Monday, November 3, 2025 - PLAYOFFS",
             "home_team": "St. Robert",
             "away_team": "Middlefield",
             "time": "3:45 PM",
