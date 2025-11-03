@@ -11,12 +11,12 @@
         },
         {
             "date": "Monday, November 3, 2025 - PLAYOFFS",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "St. Robert",
+            "away_team": "Middlefield",
+            "time": "3:45 PM",
+            "location": "St Robert CHS",
+            "game_played": true,
+            "final_score": "St. Robert 29, Middlefield 43"
         },
         {
             "date": "Tuesday, November 4, 2025 - PLAYOFFS",
