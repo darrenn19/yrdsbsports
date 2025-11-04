@@ -74,6 +74,15 @@
         },
         {
             "date": "Tuesday, November 4, 2025 - PLAYOFFS",
+            "home_team": "St. Elizabeth",
+            "away_team": "Bill Hogarth SS",
+            "time": "3:45 PM",
+            "location": "St Elizabeth CHS",
+            "game_played": true,
+            "final_score": "St. Elizabeth 26, Bill Hogarth SS 38"
+        },
+        {
+            "date": "Tuesday, November 4, 2025 - PLAYOFFS",
             "home_team": "Stephen Lewis SS",
             "away_team": "Bur Oak SS",
             "time": "3:00 PM",
