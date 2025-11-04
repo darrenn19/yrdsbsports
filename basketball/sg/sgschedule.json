@@ -38,12 +38,12 @@
         },
         {
             "date": "Tuesday, November 4, 2025 - PLAYOFFS",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Stephen Lewis SS",
+            "away_team": "Bur Oak SS",
+            "time": "3:00 PM",
+            "location": "Stephen Lewis SS",
+            "game_played": true,
+            "final_score": "Stephen Lewis SS 39, Bur Oak SS 42"
         },
         {
             "date": "Wednesday, November 5, 2025",
