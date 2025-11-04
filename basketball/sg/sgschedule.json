@@ -37,6 +37,15 @@
             "final_score": "St. Robert 29, Middlefield 43"
         },
         {
+            "date": "Monday, November 3, 2025 - PLAYOFFS",
+            "home_team": "Unionville HS",
+            "away_team": "Richmond Green SS",
+            "time": "3:45 PM",
+            "location": "Unionville HS",
+            "game_played": true,
+            "final_score": "Unionville HS 66, Richmond Green SS 41"
+        },
+        {
             "date": "Tuesday, November 4, 2025 - PLAYOFFS",
             "home_team": null,
             "away_team": null,
@@ -55,7 +64,7 @@
             "final_score": null
         },
         {
-            "date": "Thursday, November 6, 2025",
+            "date": "Thursday, November 6, 2025 - PLAYOFFS",
             "home_team": null,
             "away_team": null,
             "time": null,
