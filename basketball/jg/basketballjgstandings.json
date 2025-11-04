@@ -133,26 +133,26 @@
             "DIFF": "47"
         },
         {
-            "Team": "ESC De L Ascension",
-            "GP": "7",
-            "W": "2",
-            "L": "5",
-            "T": "0",
-            "PTS": "4",
-            "PF": "215",
-            "PA": "308",
-            "DIFF": "-41"
-        },
-        {
             "Team": "Keswick High School",
-            "GP": "7",
-            "W": "1",
+            "GP": "8",
+            "W": "2",
             "L": "6",
             "T": "0",
-            "PTS": "2",
-            "PF": "178",
-            "PA": "285",
-            "DIFF": "-80"
+            "PTS": "4",
+            "PF": "216",
+            "PA": "314",
+            "DIFF": "-71"
+        },
+        {
+            "Team": "ESC De L Ascension",
+            "GP": "8",
+            "W": "2",
+            "L": "6",
+            "T": "0",
+            "PTS": "4",
+            "PF": "244",
+            "PA": "346",
+            "DIFF": "-50"
         },
         {
             "Team": "Sir William Mulock",
