@@ -38,12 +38,30 @@
         },
         {
             "date": "Tuesday, November 4, 2025 - PLAYOFFS",
+            "home_team": "Aurora HS",
+            "away_team": "Woodbridge College",
+            "time": "3:45 PM",
+            "location": "Aurora HS",
+            "game_played": true,
+            "final_score": "Aurora HS 41, Woodbridge College 40"
+        },
+        {
+            "date": "Tuesday, November 4, 2025 - PLAYOFFS",
             "home_team": "Newmarket HS",
             "away_team": "St. Theresa Of Lisieux",
             "time": "3:45 PM",
             "location": "Newmarket HS",
             "game_played": true,
             "final_score": "Newmarket HS 21, St. Theresa Of Lisieux 27"
+        },
+        {
+            "date": "Tuesday, November 4, 2025 - PLAYOFFS",
+            "home_team": "Our Lady Queen Of The World",
+            "away_team": "Pierre Elliott Trudeau",
+            "time": "3:45 PM",
+            "location": "Our Lady Queen Of The World",
+            "game_played": true,
+            "final_score": "Our Lady Queen Of The World 64, Pierre Elliott Trudeau 34"
         },
         {
             "date": "Tuesday, November 4, 2025 - PLAYOFFS",
