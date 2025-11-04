@@ -11,6 +11,15 @@
         },
         {
             "date": "Tuesday, November 4, 2025 - PLAYOFFS",
+            "home_team": "St. Maximilian",
+            "away_team": "St. Jean De Brebeuf CHS",
+            "time": "3:30 PM",
+            "location": "St Maximilian Kolbe CHS",
+            "game_played": true,
+            "final_score": "St. Maximilian 2, St. Jean De Brebeuf CHS 3"
+        },
+        {
+            "date": "Tuesday, November 4, 2025 - PLAYOFFS",
             "home_team": "Holy Cross",
             "away_team": "Thornlea SS",
             "time": "3:30 PM",
