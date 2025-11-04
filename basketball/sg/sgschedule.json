@@ -38,6 +38,15 @@
         },
         {
             "date": "Tuesday, November 4, 2025 - PLAYOFFS",
+            "home_team": "Newmarket HS",
+            "away_team": "St. Theresa Of Lisieux",
+            "time": "3:45 PM",
+            "location": "Newmarket HS",
+            "game_played": true,
+            "final_score": "Newmarket HS 21, St. Theresa Of Lisieux 27"
+        },
+        {
+            "date": "Tuesday, November 4, 2025 - PLAYOFFS",
             "home_team": "Stephen Lewis SS",
             "away_team": "Bur Oak SS",
             "time": "3:00 PM",
