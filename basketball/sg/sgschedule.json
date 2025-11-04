@@ -47,12 +47,30 @@
         },
         {
             "date": "Tuesday, November 4, 2025 - PLAYOFFS",
+            "home_team": "St. Augustine",
+            "away_team": "Stouffville",
+            "time": "3:45 PM",
+            "location": "St Augustine CHS",
+            "game_played": true,
+            "final_score": "St. Augustine 62, Stouffville 54"
+        },
+        {
+            "date": "Tuesday, November 4, 2025 - PLAYOFFS",
             "home_team": "Stephen Lewis SS",
             "away_team": "Bur Oak SS",
             "time": "3:00 PM",
             "location": "Stephen Lewis SS",
             "game_played": true,
             "final_score": "Stephen Lewis SS 39, Bur Oak SS 42"
+        },
+        {
+            "date": "Tuesday, November 4, 2025 - PLAYOFFS",
+            "home_team": "Toronto District Christian",
+            "away_team": "Dr. J.M. Denison",
+            "time": "3:45 PM",
+            "location": "Toronto District Christian HS",
+            "game_played": true,
+            "final_score": "Toronto District Christian 43, Dr. J.M. Denison 34"
         },
         {
             "date": "Wednesday, November 5, 2025",

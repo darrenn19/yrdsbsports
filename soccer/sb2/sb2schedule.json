@@ -11,12 +11,12 @@
         },
         {
             "date": "Tuesday, November 4, 2025 - PLAYOFFS",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Thornhill SS",
+            "away_team": "Keswick High School",
+            "time": "3:30 PM",
+            "location": "Thornhill SS",
+            "game_played": true,
+            "final_score": "Thornhill SS 2, Keswick High School 0"
         },
         {
             "date": "Wednesday, November 5, 2025",

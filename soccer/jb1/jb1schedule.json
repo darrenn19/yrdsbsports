@@ -11,12 +11,12 @@
         },
         {
             "date": "Tuesday, November 4, 2025 - PLAYOFFS",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Holy Cross",
+            "away_team": "St. Jean De Brebeuf CHS",
+            "time": "3:30 PM",
+            "location": "Holy Cross CA",
+            "game_played": true,
+            "final_score": "Holy Cross 4, St. Jean De Brebeuf CHS 3"
         },
         {
             "date": "Wednesday, November 5, 2025",

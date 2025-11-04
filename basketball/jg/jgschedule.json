@@ -11,12 +11,30 @@
         },
         {
             "date": "Tuesday, November 4, 2025 - PLAYOFFS",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Dr. G.W. Williams",
+            "away_team": "St. Katharine Drexel",
+            "time": "3:45 PM",
+            "location": "Dr G W Williams SS",
+            "game_played": true,
+            "final_score": "Dr. G.W. Williams 42, St. Katharine Drexel 23"
+        },
+        {
+            "date": "Tuesday, November 4, 2025 - PLAYOFFS",
+            "home_team": "Keswick High School",
+            "away_team": "Unionville HS",
+            "time": "3:45 PM",
+            "location": "Keswick HS",
+            "game_played": true,
+            "final_score": "Keswick High School 29, Unionville HS 39"
+        },
+        {
+            "date": "Tuesday, November 4, 2025 - PLAYOFFS",
+            "home_team": "Markham District",
+            "away_team": "Sir William Mulock",
+            "time": "3:45 PM",
+            "location": "Markham DHS",
+            "game_played": true,
+            "final_score": "Markham District 46, Sir William Mulock 33"
         },
         {
             "date": "Wednesday, November 5, 2025",
