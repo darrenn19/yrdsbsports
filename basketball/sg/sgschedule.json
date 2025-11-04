@@ -74,6 +74,15 @@
         },
         {
             "date": "Tuesday, November 4, 2025 - PLAYOFFS",
+            "home_team": "St. Brother Andre",
+            "away_team": "St. Jean De Brebeuf CHS",
+            "time": "3:45 PM",
+            "location": "St Brother Andre CHS",
+            "game_played": true,
+            "final_score": "St. Brother Andre 31, St. Jean De Brebeuf CHS 23"
+        },
+        {
+            "date": "Tuesday, November 4, 2025 - PLAYOFFS",
             "home_team": "St. Elizabeth",
             "away_team": "Bill Hogarth SS",
             "time": "3:45 PM",
