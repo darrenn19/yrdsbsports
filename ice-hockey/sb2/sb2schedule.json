@@ -2,12 +2,12 @@
     "schedule": [
         {
             "date": "Monday, November 3, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Markville",
+            "away_team": "St. Robert",
+            "time": "2:30 PM",
+            "location": "Markham Centennial Arena",
+            "game_played": true,
+            "final_score": "Markville 2, St. Robert 4"
         },
         {
             "date": "Tuesday, November 4, 2025",
