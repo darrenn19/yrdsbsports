@@ -1,42 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, November 3, 2025 - PLAYOFFS",
-            "home_team": "Bur Oak SS",
-            "away_team": "Markville",
-            "time": "3:45 PM",
-            "location": "Bur Oak SS",
-            "game_played": true,
-            "final_score": "Bur Oak SS 50, Markville 36"
-        },
-        {
-            "date": "Monday, November 3, 2025 - PLAYOFFS",
-            "home_team": "Cardinal Carter",
-            "away_team": "Pierre Elliott Trudeau",
-            "time": "3:45 PM",
-            "location": "Cardinal Carter CHS",
-            "game_played": true,
-            "final_score": "Cardinal Carter 32, Pierre Elliott Trudeau 41"
-        },
-        {
-            "date": "Monday, November 3, 2025 - PLAYOFFS",
-            "home_team": "St. Robert",
-            "away_team": "Middlefield",
-            "time": "3:45 PM",
-            "location": "St Robert CHS",
-            "game_played": true,
-            "final_score": "St. Robert 29, Middlefield 43"
-        },
-        {
-            "date": "Monday, November 3, 2025 - PLAYOFFS",
-            "home_team": "Unionville HS",
-            "away_team": "Richmond Green SS",
-            "time": "3:45 PM",
-            "location": "Unionville HS",
-            "game_played": true,
-            "final_score": "Unionville HS 66, Richmond Green SS 41"
-        },
-        {
             "date": "Tuesday, November 4, 2025 - PLAYOFFS",
             "home_team": "Aurora HS",
             "away_team": "Woodbridge College",
@@ -146,6 +110,15 @@
         },
         {
             "date": "Sunday, November 9, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, November 10, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
