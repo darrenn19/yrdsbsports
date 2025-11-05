@@ -38,6 +38,15 @@
         },
         {
             "date": "Tuesday, November 4, 2025 - PLAYOFFS",
+            "home_team": "Sacred Heart",
+            "away_team": "Richmond Hill HS",
+            "time": "3:30 PM",
+            "location": "Sacred Heart CHS",
+            "game_played": true,
+            "final_score": "Sacred Heart 39, Richmond Hill HS 37"
+        },
+        {
+            "date": "Tuesday, November 4, 2025 - PLAYOFFS",
             "home_team": "Stephen Lewis SS",
             "away_team": "ESC De L Ascension",
             "time": "4:15 PM",
