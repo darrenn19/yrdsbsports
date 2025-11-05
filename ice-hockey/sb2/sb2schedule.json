@@ -11,12 +11,12 @@
         },
         {
             "date": "Wednesday, November 5, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Westmount",
+            "away_team": "Aurora HS",
+            "time": "2:30 PM",
+            "location": "Rosemount Arena",
+            "game_played": true,
+            "final_score": "Westmount 3, Aurora HS 6"
         },
         {
             "date": "Thursday, November 6, 2025",
