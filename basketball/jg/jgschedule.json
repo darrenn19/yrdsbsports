@@ -37,6 +37,15 @@
             "final_score": "Markham District 46, Sir William Mulock 33"
         },
         {
+            "date": "Tuesday, November 4, 2025 - PLAYOFFS",
+            "home_team": "Stephen Lewis SS",
+            "away_team": "ESC De L Ascension",
+            "time": "4:15 PM",
+            "location": "Stephen Lewis SS",
+            "game_played": true,
+            "final_score": "Stephen Lewis SS 56, ESC De L Ascension 34"
+        },
+        {
             "date": "Wednesday, November 5, 2025",
             "home_team": null,
             "away_team": null,
@@ -46,7 +55,7 @@
             "final_score": null
         },
         {
-            "date": "Thursday, November 6, 2025",
+            "date": "Thursday, November 6, 2025 - PLAYOFFS",
             "home_team": null,
             "away_team": null,
             "time": null,
