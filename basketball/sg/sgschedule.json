@@ -65,6 +65,15 @@
         },
         {
             "date": "Thursday, November 6, 2025 - PLAYOFFS",
+            "home_team": "Sir William Mulock",
+            "away_team": "St. Brother Andre",
+            "time": "3:45 PM",
+            "location": "Sir William Mulock",
+            "game_played": true,
+            "final_score": "Sir William Mulock 53, St. Brother Andre 37"
+        },
+        {
+            "date": "Thursday, November 6, 2025 - PLAYOFFS",
             "home_team": "St. Maximilian",
             "away_team": "Unionville HS",
             "time": "3:45 PM",
