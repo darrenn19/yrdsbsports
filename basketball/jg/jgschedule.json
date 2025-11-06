@@ -11,12 +11,30 @@
         },
         {
             "date": "Thursday, November 6, 2025 - PLAYOFFS",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Bill Crothers SS",
+            "away_team": "Sacred Heart",
+            "time": "3:45 PM",
+            "location": "Bill Crothers SS",
+            "game_played": true,
+            "final_score": "Bill Crothers SS 32, Sacred Heart 29"
+        },
+        {
+            "date": "Thursday, November 6, 2025 - PLAYOFFS",
+            "home_team": "Dr. G.W. Williams",
+            "away_team": "Markham District",
+            "time": "3:45 PM",
+            "location": "Dr G W Williams SS",
+            "game_played": true,
+            "final_score": "Dr. G.W. Williams 55, Markham District 38"
+        },
+        {
+            "date": "Thursday, November 6, 2025 - PLAYOFFS",
+            "home_team": "Newmarket HS",
+            "away_team": "Stephen Lewis SS",
+            "time": "3:45 PM",
+            "location": "Newmarket HS",
+            "game_played": true,
+            "final_score": "Newmarket HS 39, Stephen Lewis SS 28"
         },
         {
             "date": "Friday, November 7, 2025",

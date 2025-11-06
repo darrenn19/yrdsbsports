@@ -37,6 +37,51 @@
             "final_score": "Hodan Nalayeh SS 53, St. Augustine 42"
         },
         {
+            "date": "Thursday, November 6, 2025 - PLAYOFFS",
+            "home_team": "King City SS",
+            "away_team": "Toronto District Christian",
+            "time": "3:45 PM",
+            "location": "King City SS",
+            "game_played": true,
+            "final_score": "King City SS 50, Toronto District Christian 49"
+        },
+        {
+            "date": "Thursday, November 6, 2025 - PLAYOFFS",
+            "home_team": "Markham District",
+            "away_team": "Sacred Heart",
+            "time": "3:45 PM",
+            "location": "Markham DHS",
+            "game_played": true,
+            "final_score": "Markham District 53, Sacred Heart 37"
+        },
+        {
+            "date": "Thursday, November 6, 2025 - PLAYOFFS",
+            "home_team": "St. Maximilian",
+            "away_team": "Unionville HS",
+            "time": "3:45 PM",
+            "location": "St Maximilian Kolbe CHS",
+            "game_played": true,
+            "final_score": "St. Maximilian 57, Unionville HS 35"
+        },
+        {
+            "date": "Thursday, November 6, 2025 - PLAYOFFS",
+            "home_team": "Thornlea SS",
+            "away_team": "Bur Oak SS",
+            "time": "3:45 PM",
+            "location": "Thornlea SS",
+            "game_played": true,
+            "final_score": "Thornlea SS 56, Bur Oak SS 48"
+        },
+        {
+            "date": "Thursday, November 6, 2025 - PLAYOFFS",
+            "home_team": "Tommy Douglas SS",
+            "away_team": "Our Lady Queen Of The World",
+            "time": "3:45 PM",
+            "location": "Tommy Douglas SS",
+            "game_played": true,
+            "final_score": "Tommy Douglas SS 45, Our Lady Queen Of The World 46"
+        },
+        {
             "date": "Friday, November 7, 2025",
             "home_team": null,
             "away_team": null,
