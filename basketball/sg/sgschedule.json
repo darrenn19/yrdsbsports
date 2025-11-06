@@ -11,12 +11,30 @@
         },
         {
             "date": "Thursday, November 6, 2025 - PLAYOFFS",
+            "home_team": "Emily Carr",
+            "away_team": "Aurora HS",
+            "time": "3:45 PM",
+            "location": "Emily Carr SS",
+            "game_played": true,
+            "final_score": "Emily Carr 45, Aurora HS 38"
+        },
+        {
+            "date": "Thursday, November 6, 2025 - PLAYOFFS",
             "home_team": "Father McGivney",
             "away_team": "St. Theresa Of Lisieux",
             "time": "2:00 PM",
             "location": "Father Michael McGivney CA",
             "game_played": true,
             "final_score": "Father McGivney 54, St. Theresa Of Lisieux 30"
+        },
+        {
+            "date": "Thursday, November 6, 2025 - PLAYOFFS",
+            "home_team": "Hodan Nalayeh SS",
+            "away_team": "St. Augustine",
+            "time": "3:45 PM",
+            "location": "Hodan Nalayeh Secondary School",
+            "game_played": true,
+            "final_score": "Hodan Nalayeh SS 53, St. Augustine 42"
         },
         {
             "date": "Friday, November 7, 2025",
