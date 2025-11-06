@@ -37,6 +37,15 @@
             "final_score": "Newmarket HS 39, Stephen Lewis SS 28"
         },
         {
+            "date": "Thursday, November 6, 2025 - PLAYOFFS",
+            "home_team": "St. Theresa Of Lisieux",
+            "away_team": "Unionville HS",
+            "time": "3:45 PM",
+            "location": "St Theresa Of Lisieux CHS",
+            "game_played": true,
+            "final_score": "St. Theresa Of Lisieux 67, Unionville HS 5"
+        },
+        {
             "date": "Friday, November 7, 2025",
             "home_team": null,
             "away_team": null,
