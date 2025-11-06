@@ -1,51 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, November 4, 2025 - PLAYOFFS",
-            "home_team": "Dr. G.W. Williams",
-            "away_team": "St. Katharine Drexel",
-            "time": "3:45 PM",
-            "location": "Dr G W Williams SS",
-            "game_played": true,
-            "final_score": "Dr. G.W. Williams 42, St. Katharine Drexel 23"
-        },
-        {
-            "date": "Tuesday, November 4, 2025 - PLAYOFFS",
-            "home_team": "Keswick High School",
-            "away_team": "Unionville HS",
-            "time": "3:45 PM",
-            "location": "Keswick HS",
-            "game_played": true,
-            "final_score": "Keswick High School 29, Unionville HS 39"
-        },
-        {
-            "date": "Tuesday, November 4, 2025 - PLAYOFFS",
-            "home_team": "Markham District",
-            "away_team": "Sir William Mulock",
-            "time": "3:45 PM",
-            "location": "Markham DHS",
-            "game_played": true,
-            "final_score": "Markham District 46, Sir William Mulock 33"
-        },
-        {
-            "date": "Tuesday, November 4, 2025 - PLAYOFFS",
-            "home_team": "Sacred Heart",
-            "away_team": "Richmond Hill HS",
-            "time": "3:30 PM",
-            "location": "Sacred Heart CHS",
-            "game_played": true,
-            "final_score": "Sacred Heart 39, Richmond Hill HS 37"
-        },
-        {
-            "date": "Tuesday, November 4, 2025 - PLAYOFFS",
-            "home_team": "Stephen Lewis SS",
-            "away_team": "ESC De L Ascension",
-            "time": "4:15 PM",
-            "location": "Stephen Lewis SS",
-            "game_played": true,
-            "final_score": "Stephen Lewis SS 56, ESC De L Ascension 34"
-        },
-        {
             "date": "Wednesday, November 5, 2025",
             "home_team": null,
             "away_team": null,
@@ -92,6 +47,15 @@
         },
         {
             "date": "Monday, November 10, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, November 11, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

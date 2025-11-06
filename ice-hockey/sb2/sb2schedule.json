@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, November 4, 2025",
-            "home_team": "Bill Hogarth SS",
-            "away_team": "Markham District",
-            "time": "2:30 PM",
-            "location": "Stouffville Arena",
-            "game_played": true,
-            "final_score": "Bill Hogarth SS 2, Markham District 12"
-        },
-        {
             "date": "Wednesday, November 5, 2025",
             "home_team": "Westmount",
             "away_team": "Aurora HS",
@@ -56,6 +47,15 @@
         },
         {
             "date": "Monday, November 10, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, November 11, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

@@ -1,87 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, November 4, 2025 - PLAYOFFS",
-            "home_team": "Aurora HS",
-            "away_team": "Woodbridge College",
-            "time": "3:45 PM",
-            "location": "Aurora HS",
-            "game_played": true,
-            "final_score": "Aurora HS 41, Woodbridge College 40"
-        },
-        {
-            "date": "Tuesday, November 4, 2025 - PLAYOFFS",
-            "home_team": "Newmarket HS",
-            "away_team": "St. Theresa Of Lisieux",
-            "time": "3:45 PM",
-            "location": "Newmarket HS",
-            "game_played": true,
-            "final_score": "Newmarket HS 21, St. Theresa Of Lisieux 27"
-        },
-        {
-            "date": "Tuesday, November 4, 2025 - PLAYOFFS",
-            "home_team": "Our Lady Queen Of The World",
-            "away_team": "Pierre Elliott Trudeau",
-            "time": "3:45 PM",
-            "location": "Our Lady Queen Of The World",
-            "game_played": true,
-            "final_score": "Our Lady Queen Of The World 64, Pierre Elliott Trudeau 34"
-        },
-        {
-            "date": "Tuesday, November 4, 2025 - PLAYOFFS",
-            "home_team": "Sacred Heart",
-            "away_team": "Middlefield",
-            "time": "4:45 PM",
-            "location": "Sacred Heart CHS",
-            "game_played": true,
-            "final_score": "Sacred Heart 39, Middlefield 36"
-        },
-        {
-            "date": "Tuesday, November 4, 2025 - PLAYOFFS",
-            "home_team": "St. Augustine",
-            "away_team": "Stouffville",
-            "time": "3:45 PM",
-            "location": "St Augustine CHS",
-            "game_played": true,
-            "final_score": "St. Augustine 62, Stouffville 54"
-        },
-        {
-            "date": "Tuesday, November 4, 2025 - PLAYOFFS",
-            "home_team": "St. Brother Andre",
-            "away_team": "St. Jean De Brebeuf CHS",
-            "time": "3:45 PM",
-            "location": "St Brother Andre CHS",
-            "game_played": true,
-            "final_score": "St. Brother Andre 31, St. Jean De Brebeuf CHS 23"
-        },
-        {
-            "date": "Tuesday, November 4, 2025 - PLAYOFFS",
-            "home_team": "St. Elizabeth",
-            "away_team": "Bill Hogarth SS",
-            "time": "3:45 PM",
-            "location": "St Elizabeth CHS",
-            "game_played": true,
-            "final_score": "St. Elizabeth 26, Bill Hogarth SS 38"
-        },
-        {
-            "date": "Tuesday, November 4, 2025 - PLAYOFFS",
-            "home_team": "Stephen Lewis SS",
-            "away_team": "Bur Oak SS",
-            "time": "3:00 PM",
-            "location": "Stephen Lewis SS",
-            "game_played": true,
-            "final_score": "Stephen Lewis SS 39, Bur Oak SS 42"
-        },
-        {
-            "date": "Tuesday, November 4, 2025 - PLAYOFFS",
-            "home_team": "Toronto District Christian",
-            "away_team": "Dr. J.M. Denison",
-            "time": "3:45 PM",
-            "location": "Toronto District Christian HS",
-            "game_played": true,
-            "final_score": "Toronto District Christian 43, Dr. J.M. Denison 34"
-        },
-        {
             "date": "Wednesday, November 5, 2025",
             "home_team": null,
             "away_team": null,
@@ -128,6 +47,15 @@
         },
         {
             "date": "Monday, November 10, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, November 11, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
