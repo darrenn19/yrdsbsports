@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, November 5, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
-        },
-        {
             "date": "Thursday, November 6, 2025 - PLAYOFFS",
             "home_team": "Bill Crothers SS",
             "away_team": "Sacred Heart",
@@ -83,6 +74,15 @@
         },
         {
             "date": "Tuesday, November 11, 2025 - PLAYOFFS",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, November 12, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
