@@ -2,12 +2,12 @@
     "schedule": [
         {
             "date": "Thursday, November 6, 2025 - PLAYOFFS",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Thornhill SS",
+            "away_team": "Langstaff SS",
+            "time": "2:00 PM",
+            "location": "Stewart Burnett Park",
+            "game_played": true,
+            "final_score": "Thornhill SS 1, Langstaff SS 0"
         },
         {
             "date": "Friday, November 7, 2025",
