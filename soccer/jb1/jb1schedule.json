@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, November 6, 2025 - PLAYOFFS",
-            "home_team": "Holy Cross",
-            "away_team": "Our Lady Queen Of The World",
-            "time": "2:00 PM",
-            "location": "Concord Regional 1",
-            "game_played": true,
-            "final_score": "Holy Cross 3, Our Lady Queen Of The World 2"
-        },
-        {
             "date": "Friday, November 7, 2025",
             "home_team": null,
             "away_team": null,
@@ -56,6 +47,15 @@
         },
         {
             "date": "Wednesday, November 12, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, November 13, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
