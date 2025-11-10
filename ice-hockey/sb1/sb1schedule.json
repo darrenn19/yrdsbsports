@@ -19,6 +19,15 @@
             "final_score": "Cardinal Carter 3, Father Bressani 5"
         },
         {
+            "date": "Monday, November 10, 2025",
+            "home_team": "St. Theresa Of Lisieux",
+            "away_team": "King City SS",
+            "time": "2:30 PM",
+            "location": "Honey And Barry Memorial Arena",
+            "game_played": true,
+            "final_score": "St. Theresa Of Lisieux 2, King City SS 1"
+        },
+        {
             "date": "Tuesday, November 11, 2025",
             "home_team": null,
             "away_team": null,
