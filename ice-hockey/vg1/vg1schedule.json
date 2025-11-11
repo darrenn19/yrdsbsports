@@ -11,12 +11,12 @@
         },
         {
             "date": "Tuesday, November 11, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Sacred Heart",
+            "away_team": "Dr. G.W. Williams",
+            "time": "2:30 PM",
+            "location": "Magna Centre",
+            "game_played": true,
+            "final_score": "Sacred Heart 4, Dr. G.W. Williams 3"
         },
         {
             "date": "Wednesday, November 12, 2025",
