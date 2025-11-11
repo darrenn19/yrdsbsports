@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Sunday, November 9, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
-        },
-        {
             "date": "Monday, November 10, 2025",
             "home_team": "St. Joan Of Arc",
             "away_team": "Aurora HS",
@@ -65,6 +56,15 @@
         },
         {
             "date": "Saturday, November 15, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Sunday, November 16, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
