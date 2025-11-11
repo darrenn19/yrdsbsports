@@ -38,12 +38,12 @@
         },
         {
             "date": "Tuesday, November 11, 2025 - PLAYOFFS",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "St. Maximilian",
+            "away_team": "Markham District",
+            "time": "3:45 PM",
+            "location": "St Maximilian Kolbe CHS",
+            "game_played": true,
+            "final_score": "St. Maximilian 59, Markham District 50"
         },
         {
             "date": "Wednesday, November 12, 2025",
