@@ -12,6 +12,17 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Markham District",
+            "GP": "2",
+            "W": "2",
+            "L": "0",
+            "T": "0",
+            "PTS": "4",
+            "GF": "17",
+            "GA": "2",
+            "DIFF": "15"
+        },
+        {
             "Team": "St. Robert",
             "GP": "2",
             "W": "2",
@@ -21,17 +32,6 @@
             "GF": "11",
             "GA": "3",
             "DIFF": "8"
-        },
-        {
-            "Team": "Markham District",
-            "GP": "1",
-            "W": "1",
-            "L": "0",
-            "T": "0",
-            "PTS": "2",
-            "GF": "12",
-            "GA": "2",
-            "DIFF": "10"
         },
         {
             "Team": "St. Augustine",
@@ -57,14 +57,14 @@
         },
         {
             "Team": "Markville",
-            "GP": "2",
+            "GP": "3",
             "W": "0",
-            "L": "2",
+            "L": "3",
             "T": "0",
             "PTS": "0",
             "GF": "3",
-            "GA": "11",
-            "DIFF": "-8"
+            "GA": "16",
+            "DIFF": "-13"
         },
         {
             "Team": "North-Central",
