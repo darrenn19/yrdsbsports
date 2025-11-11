@@ -20,12 +20,12 @@
         },
         {
             "date": "Tuesday, November 11, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "St. Jean De Brebeuf CHS",
+            "away_team": "Stouffville",
+            "time": "2:00 PM",
+            "location": "Al Paladini Community Centre",
+            "game_played": true,
+            "final_score": "St. Jean De Brebeuf CHS 5, Stouffville 1"
         },
         {
             "date": "Wednesday, November 12, 2025",
