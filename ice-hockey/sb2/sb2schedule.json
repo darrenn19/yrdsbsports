@@ -11,6 +11,15 @@
         },
         {
             "date": "Monday, November 10, 2025",
+            "home_team": "St. Joan Of Arc",
+            "away_team": "Aurora HS",
+            "time": "2:15 PM",
+            "location": "Maple Community Centre",
+            "game_played": true,
+            "final_score": "St. Joan Of Arc 4, Aurora HS 2"
+        },
+        {
+            "date": "Monday, November 10, 2025",
             "home_team": "Markville",
             "away_team": "Markham District",
             "time": "2:30 PM",
