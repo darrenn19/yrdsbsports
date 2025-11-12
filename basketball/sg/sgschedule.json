@@ -1,42 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, November 10, 2025 - PLAYOFFS",
-            "home_team": "Alexander Mackenzie",
-            "away_team": "St. Maximilian",
-            "time": "3:45 PM",
-            "location": "Alexander Mackenzie HS",
-            "game_played": true,
-            "final_score": "Alexander Mackenzie 32, St. Maximilian 49"
-        },
-        {
-            "date": "Monday, November 10, 2025 - PLAYOFFS",
-            "home_team": "Father McGivney",
-            "away_team": "Our Lady Queen Of The World",
-            "time": "3:45 PM",
-            "location": "Father Michael McGivney CA",
-            "game_played": true,
-            "final_score": "Father McGivney 34, Our Lady Queen Of The World 47"
-        },
-        {
-            "date": "Monday, November 10, 2025 - PLAYOFFS",
-            "home_team": "Hodan Nalayeh SS",
-            "away_team": "Markham District",
-            "time": "3:45 PM",
-            "location": "Hodan Nalayeh Secondary School",
-            "game_played": true,
-            "final_score": "Hodan Nalayeh SS 45, Markham District 49"
-        },
-        {
-            "date": "Monday, November 10, 2025 - PLAYOFFS",
-            "home_team": "Sir William Mulock",
-            "away_team": "Bur Oak SS",
-            "time": "3:45 PM",
-            "location": "Sir William Mulock",
-            "game_played": true,
-            "final_score": "Sir William Mulock 36, Bur Oak SS 41"
-        },
-        {
             "date": "Tuesday, November 11, 2025 - PLAYOFFS",
             "home_team": "Our Lady Queen Of The World",
             "away_team": "Bur Oak SS",
@@ -92,6 +56,15 @@
         },
         {
             "date": "Sunday, November 16, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, November 17, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

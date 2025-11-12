@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, November 10, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
-        },
-        {
             "date": "Tuesday, November 11, 2025",
             "home_team": "St. Maximilian",
             "away_team": "Huron Heights",
@@ -74,6 +65,15 @@
         },
         {
             "date": "Sunday, November 16, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, November 17, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
