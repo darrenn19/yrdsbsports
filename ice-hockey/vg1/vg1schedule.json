@@ -11,6 +11,15 @@
         },
         {
             "date": "Tuesday, November 11, 2025",
+            "home_team": "St. Maximilian",
+            "away_team": "Huron Heights",
+            "time": "3:00 PM",
+            "location": "Aurora Family Leisure Complex",
+            "game_played": true,
+            "final_score": "St. Maximilian 6, Huron Heights 1"
+        },
+        {
+            "date": "Tuesday, November 11, 2025",
             "home_team": "Sacred Heart",
             "away_team": "Dr. G.W. Williams",
             "time": "2:30 PM",
