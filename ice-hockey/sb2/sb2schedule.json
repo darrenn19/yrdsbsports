@@ -28,6 +28,15 @@
             "final_score": "Father Bressani 5, St. Joan Of Arc 3"
         },
         {
+            "date": "Wednesday, November 12, 2025",
+            "home_team": "St. Augustine",
+            "away_team": "St. Robert",
+            "time": "2:30 PM",
+            "location": "Angus Glen Arena",
+            "game_played": true,
+            "final_score": "St. Augustine 4, St. Robert 4"
+        },
+        {
             "date": "Thursday, November 13, 2025",
             "home_team": null,
             "away_team": null,
