@@ -28,6 +28,15 @@
             "final_score": "Sacred Heart 4, Dr. G.W. Williams 3"
         },
         {
+            "date": "Tuesday, November 11, 2025",
+            "home_team": "King City SS",
+            "away_team": "St. Theresa Of Lisieux",
+            "time": "3:00 PM",
+            "location": "Trisan Centre",
+            "game_played": true,
+            "final_score": "King City SS 2, St. Theresa Of Lisieux 1"
+        },
+        {
             "date": "Wednesday, November 12, 2025",
             "home_team": null,
             "away_team": null,
