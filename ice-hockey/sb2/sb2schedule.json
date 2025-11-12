@@ -10,6 +10,15 @@
             "final_score": "Aurora HS 5, Westmount 5"
         },
         {
+            "date": "Tuesday, November 11, 2025",
+            "home_team": "Huron Heights",
+            "away_team": "Sutton District",
+            "time": "2:15 PM",
+            "location": "Magna Centre",
+            "game_played": true,
+            "final_score": "Huron Heights 3, Sutton District 3"
+        },
+        {
             "date": "Wednesday, November 12, 2025",
             "home_team": null,
             "away_team": null,

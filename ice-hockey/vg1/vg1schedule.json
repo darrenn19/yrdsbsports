@@ -20,6 +20,15 @@
         },
         {
             "date": "Tuesday, November 11, 2025",
+            "home_team": "Stouffville",
+            "away_team": "Bill Hogarth SS",
+            "time": "2:45 PM",
+            "location": "Stouffville Clippers Sports Complex",
+            "game_played": true,
+            "final_score": "Stouffville 7, Bill Hogarth SS 1"
+        },
+        {
+            "date": "Tuesday, November 11, 2025",
             "home_team": "King City SS",
             "away_team": "St. Theresa Of Lisieux",
             "time": "3:00 PM",
