@@ -37,6 +37,15 @@
             "final_score": "St. Augustine 4, St. Robert 4"
         },
         {
+            "date": "Wednesday, November 12, 2025",
+            "home_team": "Sacred Heart",
+            "away_team": "Keswick High School",
+            "time": "2:00 PM",
+            "location": "Magna Centre",
+            "game_played": true,
+            "final_score": "Sacred Heart 0, Keswick High School 4"
+        },
+        {
             "date": "Thursday, November 13, 2025",
             "home_team": null,
             "away_team": null,
