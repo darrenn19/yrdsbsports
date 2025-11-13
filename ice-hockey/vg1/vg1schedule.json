@@ -1,42 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, November 11, 2025",
-            "home_team": "St. Maximilian",
-            "away_team": "Huron Heights",
-            "time": "3:00 PM",
-            "location": "Aurora Family Leisure Complex",
-            "game_played": true,
-            "final_score": "St. Maximilian 6, Huron Heights 1"
-        },
-        {
-            "date": "Tuesday, November 11, 2025",
-            "home_team": "Sacred Heart",
-            "away_team": "Dr. G.W. Williams",
-            "time": "2:30 PM",
-            "location": "Magna Centre",
-            "game_played": true,
-            "final_score": "Sacred Heart 4, Dr. G.W. Williams 3"
-        },
-        {
-            "date": "Tuesday, November 11, 2025",
-            "home_team": "Stouffville",
-            "away_team": "Bill Hogarth SS",
-            "time": "2:45 PM",
-            "location": "Stouffville Clippers Sports Complex",
-            "game_played": true,
-            "final_score": "Stouffville 7, Bill Hogarth SS 1"
-        },
-        {
-            "date": "Tuesday, November 11, 2025",
-            "home_team": "King City SS",
-            "away_team": "St. Theresa Of Lisieux",
-            "time": "3:00 PM",
-            "location": "Trisan Centre",
-            "game_played": true,
-            "final_score": "King City SS 2, St. Theresa Of Lisieux 1"
-        },
-        {
             "date": "Wednesday, November 12, 2025",
             "home_team": "Newmarket HS",
             "away_team": "Keswick High School",
@@ -83,6 +47,15 @@
         },
         {
             "date": "Monday, November 17, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, November 18, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

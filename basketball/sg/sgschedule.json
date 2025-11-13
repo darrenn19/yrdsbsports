@@ -1,24 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, November 11, 2025 - PLAYOFFS",
-            "home_team": "Our Lady Queen Of The World",
-            "away_team": "Bur Oak SS",
-            "time": "3:45 PM",
-            "location": "Our Lady Queen Of The World",
-            "game_played": true,
-            "final_score": "Our Lady Queen Of The World 42, Bur Oak SS 38"
-        },
-        {
-            "date": "Tuesday, November 11, 2025 - PLAYOFFS",
-            "home_team": "St. Maximilian",
-            "away_team": "Markham District",
-            "time": "3:45 PM",
-            "location": "St Maximilian Kolbe CHS",
-            "game_played": true,
-            "final_score": "St. Maximilian 59, Markham District 50"
-        },
-        {
             "date": "Wednesday, November 12, 2025",
             "home_team": null,
             "away_team": null,
@@ -65,6 +47,15 @@
         },
         {
             "date": "Monday, November 17, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, November 18, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

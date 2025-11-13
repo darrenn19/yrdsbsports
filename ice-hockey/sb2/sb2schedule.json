@@ -1,24 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, November 11, 2025",
-            "home_team": "Aurora HS",
-            "away_team": "Westmount",
-            "time": "2:45 PM",
-            "location": "Aurora Community Centre",
-            "game_played": true,
-            "final_score": "Aurora HS 5, Westmount 5"
-        },
-        {
-            "date": "Tuesday, November 11, 2025",
-            "home_team": "Huron Heights",
-            "away_team": "Sutton District",
-            "time": "2:15 PM",
-            "location": "Magna Centre",
-            "game_played": true,
-            "final_score": "Huron Heights 3, Sutton District 3"
-        },
-        {
             "date": "Wednesday, November 12, 2025",
             "home_team": "Father Bressani",
             "away_team": "St. Joan Of Arc",
@@ -83,6 +65,15 @@
         },
         {
             "date": "Monday, November 17, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, November 18, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
