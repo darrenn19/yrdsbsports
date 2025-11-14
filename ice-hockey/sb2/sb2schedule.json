@@ -1,33 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, November 12, 2025",
-            "home_team": "Father Bressani",
-            "away_team": "St. Joan Of Arc",
-            "time": "2:15 PM",
-            "location": "Al Paladini Community Centre",
-            "game_played": true,
-            "final_score": "Father Bressani 5, St. Joan Of Arc 3"
-        },
-        {
-            "date": "Wednesday, November 12, 2025",
-            "home_team": "St. Augustine",
-            "away_team": "St. Robert",
-            "time": "2:30 PM",
-            "location": "Angus Glen Arena",
-            "game_played": true,
-            "final_score": "St. Augustine 4, St. Robert 4"
-        },
-        {
-            "date": "Wednesday, November 12, 2025",
-            "home_team": "Sacred Heart",
-            "away_team": "Keswick High School",
-            "time": "2:00 PM",
-            "location": "Magna Centre",
-            "game_played": true,
-            "final_score": "Sacred Heart 0, Keswick High School 4"
-        },
-        {
             "date": "Thursday, November 13, 2025",
             "home_team": null,
             "away_team": null,
@@ -74,6 +47,15 @@
         },
         {
             "date": "Tuesday, November 18, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, November 19, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
