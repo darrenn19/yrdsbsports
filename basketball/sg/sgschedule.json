@@ -11,12 +11,21 @@
         },
         {
             "date": "Thursday, November 13, 2025 - PLAYOFFS",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Emily Carr",
+            "away_team": "King City SS",
+            "time": "4:00 PM",
+            "location": "Bill Crothers SS",
+            "game_played": true,
+            "final_score": "Emily Carr 34, King City SS 56"
+        },
+        {
+            "date": "Thursday, November 13, 2025 - PLAYOFFS",
+            "home_team": "St. Maximilian",
+            "away_team": "Our Lady Queen Of The World",
+            "time": "8:15 PM",
+            "location": "Bill Crothers SS",
+            "game_played": true,
+            "final_score": "St. Maximilian 49, Our Lady Queen Of The World 43"
         },
         {
             "date": "Friday, November 14, 2025",
