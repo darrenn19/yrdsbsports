@@ -100,6 +100,17 @@
             "DIFF": "1"
         },
         {
+            "Team": "Markham District",
+            "GP": "1",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "2",
+            "GF": "6",
+            "GA": "0",
+            "DIFF": "6"
+        },
+        {
             "Team": "Stouffville",
             "GP": "1",
             "W": "1",
@@ -123,14 +134,14 @@
         },
         {
             "Team": "Cardinal Carter",
-            "GP": "0",
+            "GP": "1",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
             "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
+            "GA": "6",
+            "DIFF": "-6"
         },
         {
             "Team": "Bill Hogarth SS",
@@ -142,17 +153,6 @@
             "GF": "1",
             "GA": "7",
             "DIFF": "-6"
-        },
-        {
-            "Team": "Markham District",
-            "GP": "0",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
         }
     ]
 }
