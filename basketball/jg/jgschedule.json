@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, November 13, 2025 - PLAYOFFS",
-            "home_team": "St. Theresa Of Lisieux",
-            "away_team": "Bill Crothers SS",
-            "time": "5:30 PM",
-            "location": "Bill Crothers SS",
-            "game_played": true,
-            "final_score": "St. Theresa Of Lisieux 35, Bill Crothers SS 33"
-        },
-        {
             "date": "Friday, November 14, 2025",
             "home_team": null,
             "away_team": null,
@@ -56,6 +47,15 @@
         },
         {
             "date": "Wednesday, November 19, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, November 20, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
