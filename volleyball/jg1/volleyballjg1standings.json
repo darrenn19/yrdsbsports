@@ -1,6 +1,78 @@
 {
     "standings": [
         {
+            "Team": "Central",
+            "MP": "MP",
+            "MW": "MW",
+            "ML": "ML",
+            "GW": "GW",
+            "GL": "GL",
+            "PTS": "PTS",
+            "PF": "PF",
+            "PA": "PA",
+            "DIFF": "DIFF"
+        },
+        {
+            "Team": "Richmond Hill HS",
+            "MP": "0",
+            "MW": "0",
+            "ML": "0",
+            "GW": "0",
+            "GL": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Thornlea SS",
+            "MP": "0",
+            "MW": "0",
+            "ML": "0",
+            "GW": "0",
+            "GL": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Alexander Mackenzie",
+            "MP": "0",
+            "MW": "0",
+            "ML": "0",
+            "GW": "0",
+            "GL": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "St. Robert",
+            "MP": "0",
+            "MW": "0",
+            "ML": "0",
+            "GW": "0",
+            "GL": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "St. Theresa Of Lisieux",
+            "MP": "0",
+            "MW": "0",
+            "ML": "0",
+            "GW": "0",
+            "GL": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0",
+            "DIFF": "0"
+        },
+        {
             "Team": "East",
             "MP": "MP",
             "MW": "MW",
