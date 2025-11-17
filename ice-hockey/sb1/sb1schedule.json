@@ -11,12 +11,12 @@
         },
         {
             "date": "Monday, November 17, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Father Bressani",
+            "away_team": "St. Jean De Brebeuf CHS",
+            "time": "2:15 PM",
+            "location": "Al Palladini Community Centre",
+            "game_played": true,
+            "final_score": "Father Bressani 6, St. Jean De Brebeuf CHS 3"
         },
         {
             "date": "Tuesday, November 18, 2025",
