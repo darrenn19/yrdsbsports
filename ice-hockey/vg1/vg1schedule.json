@@ -11,12 +11,12 @@
         },
         {
             "date": "Monday, November 17, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Huron Heights",
+            "away_team": "Dr. G.W. Williams",
+            "time": "2:30 PM",
+            "location": "Magna Centre",
+            "game_played": true,
+            "final_score": "Huron Heights 0, Dr. G.W. Williams 4"
         },
         {
             "date": "Tuesday, November 18, 2025",
