@@ -11,6 +11,15 @@
         },
         {
             "date": "Monday, November 17, 2025",
+            "home_team": "Bill Crothers SS",
+            "away_team": "Tommy Douglas SS",
+            "time": "2:30 PM",
+            "location": "York Curling Club",
+            "game_played": true,
+            "final_score": "Bill Crothers SS 2, Tommy Douglas SS 12"
+        },
+        {
+            "date": "Monday, November 17, 2025",
             "home_team": "Sacred Heart",
             "away_team": "St. Robert",
             "time": "2:30 PM",
