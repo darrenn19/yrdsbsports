@@ -13,6 +13,18 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "St. Augustine",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "2",
+            "EW": "4",
+            "EL": "2",
+            "PF": "6",
+            "PA": "2",
+            "DIFF": "4"
+        },
+        {
             "Team": "St. Robert",
             "W": "0",
             "L": "0",
@@ -39,14 +51,14 @@
         {
             "Team": "St. Theresa Of Lisieux",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
-            "EW": "0",
-            "EL": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "EW": "2",
+            "EL": "4",
+            "PF": "2",
+            "PA": "6",
+            "DIFF": "-4"
         },
         {
             "Team": "Bill Crothers SS",
@@ -74,18 +86,6 @@
         },
         {
             "Team": "Tommy Douglas SS",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "EW": "0",
-            "EL": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "St. Augustine",
             "W": "0",
             "L": "0",
             "T": "0",
