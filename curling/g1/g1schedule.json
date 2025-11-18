@@ -2,15 +2,6 @@
     "schedule": [
         {
             "date": "Monday, November 17, 2025",
-            "home_team": "St. Augustine",
-            "away_team": "St. Theresa Of Lisieux",
-            "time": "2:30 PM",
-            "location": "York Curling Club",
-            "game_played": true,
-            "final_score": "St. Augustine 6, St. Theresa Of Lisieux 7"
-        },
-        {
-            "date": "Monday, November 17, 2025",
             "home_team": "Bill Hogarth SS",
             "away_team": "Bill Crothers SS",
             "time": "2:30 PM",
@@ -26,6 +17,15 @@
             "location": "York Curling Club",
             "game_played": true,
             "final_score": "Sacred Heart 12, St. Robert 0"
+        },
+        {
+            "date": "Monday, November 17, 2025",
+            "home_team": "St. Augustine",
+            "away_team": "St. Theresa Of Lisieux",
+            "time": "2:30 PM",
+            "location": "York Curling Club",
+            "game_played": true,
+            "final_score": "St. Augustine 6, St. Theresa Of Lisieux 7"
         },
         {
             "date": "Tuesday, November 18, 2025",
