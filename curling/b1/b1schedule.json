@@ -10,6 +10,15 @@
             "final_score": "St. Augustine 6, St. Theresa Of Lisieux 2"
         },
         {
+            "date": "Monday, November 17, 2025",
+            "home_team": "Sacred Heart",
+            "away_team": "St. Robert",
+            "time": "2:30 PM",
+            "location": "York Curling Club",
+            "game_played": true,
+            "final_score": "Sacred Heart 9, St. Robert 2"
+        },
+        {
             "date": "Tuesday, November 18, 2025",
             "home_team": null,
             "away_team": null,
