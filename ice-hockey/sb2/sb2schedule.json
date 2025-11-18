@@ -11,12 +11,12 @@
         },
         {
             "date": "Tuesday, November 18, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Bill Hogarth SS",
+            "away_team": "St. Robert",
+            "time": "2:30 PM",
+            "location": "Stouffville Arena",
+            "game_played": true,
+            "final_score": "Bill Hogarth SS 0, St. Robert 3"
         },
         {
             "date": "Wednesday, November 19, 2025",
