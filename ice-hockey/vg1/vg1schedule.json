@@ -11,6 +11,15 @@
         },
         {
             "date": "Monday, November 17, 2025",
+            "home_team": "Cardinal Carter",
+            "away_team": "Bill Hogarth SS",
+            "time": "2:30 PM",
+            "location": "Aurora Community Centre",
+            "game_played": true,
+            "final_score": "Cardinal Carter 4, Bill Hogarth SS 12"
+        },
+        {
+            "date": "Monday, November 17, 2025",
             "home_team": "Huron Heights",
             "away_team": "Dr. G.W. Williams",
             "time": "2:30 PM",
