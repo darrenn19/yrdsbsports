@@ -11,12 +11,12 @@
         },
         {
             "date": "Wednesday, November 19, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Keswick High School",
+            "away_team": "Sacred Heart",
+            "time": "2:00 PM",
+            "location": "Georgina Ice Palace",
+            "game_played": true,
+            "final_score": "Keswick High School 3, Sacred Heart 0"
         },
         {
             "date": "Thursday, November 20, 2025",
