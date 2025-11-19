@@ -2,6 +2,15 @@
     "schedule": [
         {
             "date": "Tuesday, November 18, 2025",
+            "home_team": "Huron Heights",
+            "away_team": "Keswick High School",
+            "time": "2:15 PM",
+            "location": "Magna Centre",
+            "game_played": true,
+            "final_score": "Huron Heights 1, Keswick High School 1"
+        },
+        {
+            "date": "Tuesday, November 18, 2025",
             "home_team": "Markham District",
             "away_team": "Markville",
             "time": "2:30 PM",
