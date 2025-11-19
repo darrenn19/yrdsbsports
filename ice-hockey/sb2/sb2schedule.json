@@ -37,6 +37,15 @@
             "final_score": "Father Bressani 1, Aurora HS 3"
         },
         {
+            "date": "Wednesday, November 19, 2025",
+            "home_team": "Westmount",
+            "away_team": "Alexander Mackenzie",
+            "time": "2:30 PM",
+            "location": "Rosemount Arena",
+            "game_played": true,
+            "final_score": "Westmount 13, Alexander Mackenzie 1"
+        },
+        {
             "date": "Thursday, November 20, 2025",
             "home_team": null,
             "away_team": null,
