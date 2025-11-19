@@ -1,24 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, November 17, 2025",
-            "home_team": "Cardinal Carter",
-            "away_team": "Bill Hogarth SS",
-            "time": "2:30 PM",
-            "location": "Aurora Community Centre",
-            "game_played": true,
-            "final_score": "Cardinal Carter 4, Bill Hogarth SS 12"
-        },
-        {
-            "date": "Monday, November 17, 2025",
-            "home_team": "Huron Heights",
-            "away_team": "Dr. G.W. Williams",
-            "time": "2:30 PM",
-            "location": "Magna Centre",
-            "game_played": true,
-            "final_score": "Huron Heights 0, Dr. G.W. Williams 4"
-        },
-        {
             "date": "Tuesday, November 18, 2025",
             "home_team": null,
             "away_team": null,
@@ -65,6 +47,15 @@
         },
         {
             "date": "Sunday, November 23, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, November 24, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
