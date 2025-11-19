@@ -11,6 +11,15 @@
         },
         {
             "date": "Tuesday, November 18, 2025",
+            "home_team": "Markham District",
+            "away_team": "Markville",
+            "time": "2:30 PM",
+            "location": "Markham Village Arena",
+            "game_played": true,
+            "final_score": "Markham District 4, Markville 1"
+        },
+        {
+            "date": "Tuesday, November 18, 2025",
             "home_team": "Bill Hogarth SS",
             "away_team": "St. Robert",
             "time": "2:30 PM",
