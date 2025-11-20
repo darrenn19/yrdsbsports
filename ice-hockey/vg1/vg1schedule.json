@@ -19,6 +19,15 @@
             "final_score": "Keswick High School 3, Sacred Heart 0"
         },
         {
+            "date": "Wednesday, November 19, 2025",
+            "home_team": "St. Theresa Of Lisieux",
+            "away_team": "Stouffville",
+            "time": "2:15 PM",
+            "location": "Tom Graham Arena",
+            "game_played": true,
+            "final_score": "St. Theresa Of Lisieux 2, Stouffville 4"
+        },
+        {
             "date": "Thursday, November 20, 2025",
             "home_team": null,
             "away_team": null,
