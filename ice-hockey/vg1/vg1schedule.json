@@ -20,12 +20,12 @@
         },
         {
             "date": "Thursday, November 20, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "St. Maximilian",
+            "away_team": "Newmarket HS",
+            "time": "3:00 PM",
+            "location": "Aurora Family Leisure Complex",
+            "game_played": true,
+            "final_score": "St. Maximilian 0, Newmarket HS 0"
         },
         {
             "date": "Friday, November 21, 2025",
