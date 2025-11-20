@@ -1,33 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, November 18, 2025",
-            "home_team": "Huron Heights",
-            "away_team": "Keswick High School",
-            "time": "2:15 PM",
-            "location": "Magna Centre",
-            "game_played": true,
-            "final_score": "Huron Heights 1, Keswick High School 1"
-        },
-        {
-            "date": "Tuesday, November 18, 2025",
-            "home_team": "Markham District",
-            "away_team": "Markville",
-            "time": "2:30 PM",
-            "location": "Markham Village Arena",
-            "game_played": true,
-            "final_score": "Markham District 4, Markville 1"
-        },
-        {
-            "date": "Tuesday, November 18, 2025",
-            "home_team": "Bill Hogarth SS",
-            "away_team": "St. Robert",
-            "time": "2:30 PM",
-            "location": "Stouffville Arena",
-            "game_played": true,
-            "final_score": "Bill Hogarth SS 0, St. Robert 3"
-        },
-        {
             "date": "Wednesday, November 19, 2025",
             "home_team": "Father Bressani",
             "away_team": "Aurora HS",
@@ -83,6 +56,15 @@
         },
         {
             "date": "Monday, November 24, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, November 25, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
