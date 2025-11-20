@@ -89,6 +89,17 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Stouffville",
+            "GP": "2",
+            "W": "2",
+            "L": "0",
+            "T": "0",
+            "PTS": "4",
+            "GF": "11",
+            "GA": "3",
+            "DIFF": "8"
+        },
+        {
             "Team": "Bill Hogarth SS",
             "GP": "2",
             "W": "1",
@@ -122,26 +133,15 @@
             "DIFF": "6"
         },
         {
-            "Team": "Stouffville",
-            "GP": "1",
-            "W": "1",
-            "L": "0",
-            "T": "0",
-            "PTS": "2",
-            "GF": "7",
-            "GA": "1",
-            "DIFF": "6"
-        },
-        {
             "Team": "St. Theresa Of Lisieux",
-            "GP": "1",
+            "GP": "2",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "0",
-            "GF": "1",
-            "GA": "2",
-            "DIFF": "-1"
+            "GF": "3",
+            "GA": "6",
+            "DIFF": "-3"
         },
         {
             "Team": "Cardinal Carter",
