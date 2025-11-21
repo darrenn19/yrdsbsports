@@ -10,6 +10,15 @@
             "final_score": "Alexander Mackenzie 0, Westmount 7"
         },
         {
+            "date": "Thursday, November 20, 2025",
+            "home_team": "Dr. J.M. Denison",
+            "away_team": "Sutton District",
+            "time": "2:45 PM",
+            "location": "Ray Twinney Recreation Complex 1",
+            "game_played": true,
+            "final_score": "Dr. J.M. Denison 7, Sutton District 5"
+        },
+        {
             "date": "Friday, November 21, 2025",
             "home_team": null,
             "away_team": null,
