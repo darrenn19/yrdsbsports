@@ -1,24 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, November 19, 2025",
-            "home_team": "Father Bressani",
-            "away_team": "Aurora HS",
-            "time": "2:15 PM",
-            "location": "Al Palladini Community Centre",
-            "game_played": true,
-            "final_score": "Father Bressani 1, Aurora HS 3"
-        },
-        {
-            "date": "Wednesday, November 19, 2025",
-            "home_team": "Westmount",
-            "away_team": "Alexander Mackenzie",
-            "time": "2:30 PM",
-            "location": "Rosemount Arena",
-            "game_played": true,
-            "final_score": "Westmount 13, Alexander Mackenzie 1"
-        },
-        {
             "date": "Thursday, November 20, 2025",
             "home_team": "Alexander Mackenzie",
             "away_team": "Westmount",
@@ -65,6 +47,15 @@
         },
         {
             "date": "Tuesday, November 25, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, November 26, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

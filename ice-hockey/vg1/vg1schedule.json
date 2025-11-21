@@ -1,24 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, November 19, 2025",
-            "home_team": "Keswick High School",
-            "away_team": "Sacred Heart",
-            "time": "2:00 PM",
-            "location": "Georgina Ice Palace",
-            "game_played": true,
-            "final_score": "Keswick High School 3, Sacred Heart 0"
-        },
-        {
-            "date": "Wednesday, November 19, 2025",
-            "home_team": "St. Theresa Of Lisieux",
-            "away_team": "Stouffville",
-            "time": "2:15 PM",
-            "location": "Tom Graham Arena",
-            "game_played": true,
-            "final_score": "St. Theresa Of Lisieux 2, Stouffville 4"
-        },
-        {
             "date": "Thursday, November 20, 2025",
             "home_team": "St. Maximilian",
             "away_team": "Newmarket HS",
@@ -65,6 +47,15 @@
         },
         {
             "date": "Tuesday, November 25, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, November 26, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
