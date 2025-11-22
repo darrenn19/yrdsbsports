@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, November 20, 2025",
-            "home_team": "King City SS",
-            "away_team": "Stouffville",
-            "time": "2:30 PM",
-            "location": "Zancor Centre",
-            "game_played": true,
-            "final_score": "King City SS 6, Stouffville 3"
-        },
-        {
             "date": "Friday, November 21, 2025",
             "home_team": null,
             "away_team": null,
@@ -56,6 +47,15 @@
         },
         {
             "date": "Wednesday, November 26, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, November 27, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
