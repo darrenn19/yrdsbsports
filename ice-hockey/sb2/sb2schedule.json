@@ -11,12 +11,12 @@
         },
         {
             "date": "Monday, November 24, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Aurora HS",
+            "away_team": "Father Bressani",
+            "time": "2:45 PM",
+            "location": "Aurora Community Centre",
+            "game_played": true,
+            "final_score": "Aurora HS 3, Father Bressani 2"
         },
         {
             "date": "Tuesday, November 25, 2025",
