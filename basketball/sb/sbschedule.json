@@ -47,6 +47,15 @@
         },
         {
             "date": "Monday, November 24, 2025",
+            "home_team": "Renaissance ESC",
+            "away_team": "Sutton District",
+            "time": "3:30 PM",
+            "location": "Renaissance ESC",
+            "game_played": true,
+            "final_score": "Renaissance ESC 65, Sutton District 21"
+        },
+        {
+            "date": "Monday, November 24, 2025",
             "home_team": "St. Jean De Brebeuf CHS",
             "away_team": "Toronto District Christian",
             "time": "3:00 PM",

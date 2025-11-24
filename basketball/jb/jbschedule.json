@@ -11,12 +11,30 @@
         },
         {
             "date": "Monday, November 24, 2025",
+            "home_team": "Dr. G.W. Williams",
+            "away_team": "Dr. J.M. Denison",
+            "time": "4:45 PM",
+            "location": "Dr G W Williams SS",
+            "game_played": true,
+            "final_score": "Dr. G.W. Williams 62, Dr. J.M. Denison 49"
+        },
+        {
+            "date": "Monday, November 24, 2025",
             "home_team": "Father McGivney",
             "away_team": "St. Katharine Drexel",
             "time": "4:45 PM",
             "location": "Father Michael McGivney CA",
             "game_played": true,
             "final_score": "Father McGivney 64, St. Katharine Drexel 27"
+        },
+        {
+            "date": "Monday, November 24, 2025",
+            "home_team": "Renaissance ESC",
+            "away_team": "Sir William Mulock",
+            "time": "4:45 PM",
+            "location": "Renaissance ESC",
+            "game_played": true,
+            "final_score": "Renaissance ESC 65, Sir William Mulock 24"
         },
         {
             "date": "Monday, November 24, 2025",
