@@ -29,6 +29,15 @@
         },
         {
             "date": "Monday, November 24, 2025",
+            "home_team": "Markham District",
+            "away_team": "Pierre Elliott Trudeau",
+            "time": "4:45 PM",
+            "location": "Markham DHS",
+            "game_played": true,
+            "final_score": "Markham District 63, Pierre Elliott Trudeau 55"
+        },
+        {
+            "date": "Monday, November 24, 2025",
             "home_team": "Renaissance ESC",
             "away_team": "Sir William Mulock",
             "time": "4:45 PM",
