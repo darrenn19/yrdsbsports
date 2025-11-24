@@ -11,6 +11,15 @@
         },
         {
             "date": "Monday, November 24, 2025",
+            "home_team": "Father Bressani",
+            "away_team": "Woodbridge College",
+            "time": "3:30 PM",
+            "location": "Father Bressani CHS",
+            "game_played": true,
+            "final_score": "Father Bressani 25, Woodbridge College 83"
+        },
+        {
+            "date": "Monday, November 24, 2025",
             "home_team": "St. Jean De Brebeuf CHS",
             "away_team": "Toronto District Christian",
             "time": "3:00 PM",
