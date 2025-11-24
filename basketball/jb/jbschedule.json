@@ -11,12 +11,12 @@
         },
         {
             "date": "Monday, November 24, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "St. Jean De Brebeuf CHS",
+            "away_team": "Toronto District Christian",
+            "time": "4:15 PM",
+            "location": "St Jean De Brebeuf CHS",
+            "game_played": true,
+            "final_score": "St. Jean De Brebeuf CHS 57, Toronto District Christian 26"
         },
         {
             "date": "Tuesday, November 25, 2025",
