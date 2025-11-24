@@ -38,6 +38,15 @@
         },
         {
             "date": "Monday, November 24, 2025",
+            "home_team": "Maple High School",
+            "away_team": "Holy Cross",
+            "time": "3:30 PM",
+            "location": "Maple HS",
+            "game_played": true,
+            "final_score": "Maple High School 80, Holy Cross 74"
+        },
+        {
+            "date": "Monday, November 24, 2025",
             "home_team": "St. Jean De Brebeuf CHS",
             "away_team": "Toronto District Christian",
             "time": "3:00 PM",
