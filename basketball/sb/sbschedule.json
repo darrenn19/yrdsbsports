@@ -11,12 +11,30 @@
         },
         {
             "date": "Monday, November 24, 2025",
+            "home_team": "Emily Carr",
+            "away_team": "St. Joan Of Arc",
+            "time": "3:30 PM",
+            "location": "Emily Carr SS",
+            "game_played": true,
+            "final_score": "Emily Carr 46, St. Joan Of Arc 84"
+        },
+        {
+            "date": "Monday, November 24, 2025",
             "home_team": "Father Bressani",
             "away_team": "Woodbridge College",
             "time": "3:30 PM",
             "location": "Father Bressani CHS",
             "game_played": true,
             "final_score": "Father Bressani 25, Woodbridge College 83"
+        },
+        {
+            "date": "Monday, November 24, 2025",
+            "home_team": "Father McGivney",
+            "away_team": "St. Katharine Drexel",
+            "time": "3:30 PM",
+            "location": "Father Michael McGivney CA",
+            "game_played": true,
+            "final_score": "Father McGivney 61, St. Katharine Drexel 47"
         },
         {
             "date": "Monday, November 24, 2025",
