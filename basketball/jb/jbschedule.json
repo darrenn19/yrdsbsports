@@ -11,6 +11,15 @@
         },
         {
             "date": "Monday, November 24, 2025",
+            "home_team": "Father McGivney",
+            "away_team": "St. Katharine Drexel",
+            "time": "4:45 PM",
+            "location": "Father Michael McGivney CA",
+            "game_played": true,
+            "final_score": "Father McGivney 64, St. Katharine Drexel 27"
+        },
+        {
+            "date": "Monday, November 24, 2025",
             "home_team": "St. Jean De Brebeuf CHS",
             "away_team": "Toronto District Christian",
             "time": "4:15 PM",
