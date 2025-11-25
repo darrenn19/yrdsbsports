@@ -11,6 +11,15 @@
         },
         {
             "date": "Monday, November 24, 2025",
+            "home_team": "Emily Carr",
+            "away_team": "St. Joan Of Arc",
+            "time": "4:45 PM",
+            "location": "Emily Carr SS",
+            "game_played": true,
+            "final_score": "Emily Carr 72, St. Joan Of Arc 60"
+        },
+        {
+            "date": "Monday, November 24, 2025",
             "home_team": "Father McGivney",
             "away_team": "St. Katharine Drexel",
             "time": "4:45 PM",
