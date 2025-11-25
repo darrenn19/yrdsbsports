@@ -19,6 +19,15 @@
             "final_score": "Aurora HS 3, Father Bressani 2"
         },
         {
+            "date": "Monday, November 24, 2025",
+            "home_team": "Markville",
+            "away_team": "St. Augustine",
+            "time": "2:30 PM",
+            "location": "Markham Centennial Arena",
+            "game_played": true,
+            "final_score": "Markville 2, St. Augustine 5"
+        },
+        {
             "date": "Tuesday, November 25, 2025",
             "home_team": null,
             "away_team": null,
