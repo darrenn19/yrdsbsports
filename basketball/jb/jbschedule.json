@@ -47,6 +47,15 @@
         },
         {
             "date": "Monday, November 24, 2025",
+            "home_team": "Middlefield",
+            "away_team": "Milliken Mills",
+            "time": "4:45 PM",
+            "location": "Middlefield CI",
+            "game_played": true,
+            "final_score": "Middlefield 53, Milliken Mills 47"
+        },
+        {
+            "date": "Monday, November 24, 2025",
             "home_team": "Renaissance ESC",
             "away_team": "Sir William Mulock",
             "time": "4:45 PM",
