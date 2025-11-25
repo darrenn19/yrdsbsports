@@ -91,6 +91,24 @@
             "final_score": "Bill Hogarth SS 48, Markville 74"
         },
         {
+            "date": "Tuesday, November 25, 2025",
+            "home_team": "Bur Oak SS",
+            "away_team": "St. Augustine",
+            "time": "4:45 PM",
+            "location": "Bur Oak SS",
+            "game_played": true,
+            "final_score": "Bur Oak SS 69, St. Augustine 32"
+        },
+        {
+            "date": "Tuesday, November 25, 2025",
+            "home_team": "St. Theresa Of Lisieux",
+            "away_team": "King City SS",
+            "time": "4:45 PM",
+            "location": "St Theresa Of Lisieux CHS",
+            "game_played": true,
+            "final_score": "St. Theresa Of Lisieux 82, King City SS 78"
+        },
+        {
             "date": "Wednesday, November 26, 2025",
             "home_team": null,
             "away_team": null,

@@ -20,12 +20,12 @@
         },
         {
             "date": "Tuesday, November 25, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Markham District",
+            "away_team": "St. Robert",
+            "time": "2:30 PM",
+            "location": "Markham Village Arena",
+            "game_played": true,
+            "final_score": "Markham District 5, St. Robert 2"
         },
         {
             "date": "Wednesday, November 26, 2025",

@@ -128,12 +128,30 @@
         },
         {
             "date": "Tuesday, November 25, 2025",
+            "home_team": "St. Robert",
+            "away_team": "Langstaff SS",
+            "time": "3:30 PM",
+            "location": "St Robert CHS",
+            "game_played": true,
+            "final_score": "St. Robert 62, Langstaff SS 24"
+        },
+        {
+            "date": "Tuesday, November 25, 2025",
             "home_team": "St. Theresa Of Lisieux",
             "away_team": "Our Lady Queen Of The World",
             "time": "3:30 PM",
             "location": "St Theresa Of Lisieux CHS",
             "game_played": true,
             "final_score": "St. Theresa Of Lisieux 55, Our Lady Queen Of The World 46"
+        },
+        {
+            "date": "Tuesday, November 25, 2025",
+            "home_team": "Stephen Lewis SS",
+            "away_team": "Thornhill SS",
+            "time": "3:45 PM",
+            "location": "Stephen Lewis SS",
+            "game_played": true,
+            "final_score": "Stephen Lewis SS 77, Thornhill SS 70"
         },
         {
             "date": "Wednesday, November 26, 2025",
