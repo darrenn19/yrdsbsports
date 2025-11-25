@@ -11,6 +11,15 @@
         },
         {
             "date": "Monday, November 24, 2025",
+            "home_team": "Dr. G.W. Williams",
+            "away_team": "King City SS",
+            "time": "3:30 PM",
+            "location": "Dr G W Williams SS",
+            "game_played": true,
+            "final_score": "Dr. G.W. Williams 53, King City SS 33"
+        },
+        {
+            "date": "Monday, November 24, 2025",
             "home_team": "Emily Carr",
             "away_team": "St. Joan Of Arc",
             "time": "3:30 PM",
@@ -44,6 +53,15 @@
             "location": "Maple HS",
             "game_played": true,
             "final_score": "Maple High School 80, Holy Cross 74"
+        },
+        {
+            "date": "Monday, November 24, 2025",
+            "home_team": "Middlefield",
+            "away_team": "Milliken Mills",
+            "time": "3:30 PM",
+            "location": "Middlefield CI",
+            "game_played": true,
+            "final_score": "Middlefield 65, Milliken Mills 51"
         },
         {
             "date": "Monday, November 24, 2025",

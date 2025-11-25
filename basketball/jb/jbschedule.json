@@ -29,6 +29,15 @@
         },
         {
             "date": "Monday, November 24, 2025",
+            "home_team": "Maple High School",
+            "away_team": "Holy Cross",
+            "time": "4:45 PM",
+            "location": "Maple HS",
+            "game_played": true,
+            "final_score": "Maple High School 69, Holy Cross 64"
+        },
+        {
+            "date": "Monday, November 24, 2025",
             "home_team": "Markham District",
             "away_team": "Pierre Elliott Trudeau",
             "time": "4:45 PM",
