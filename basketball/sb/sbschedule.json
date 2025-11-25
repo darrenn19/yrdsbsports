@@ -92,12 +92,12 @@
         },
         {
             "date": "Tuesday, November 25, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "St. Theresa Of Lisieux",
+            "away_team": "Our Lady Queen Of The World",
+            "time": "3:30 PM",
+            "location": "St Theresa Of Lisieux CHS",
+            "game_played": true,
+            "final_score": "St. Theresa Of Lisieux 55, Our Lady Queen Of The World 46"
         },
         {
             "date": "Wednesday, November 26, 2025",
