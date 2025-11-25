@@ -92,6 +92,24 @@
         },
         {
             "date": "Tuesday, November 25, 2025",
+            "home_team": "Bill Hogarth SS",
+            "away_team": "Bill Crothers SS",
+            "time": "3:30 PM",
+            "location": "Bill Hogarth SS",
+            "game_played": true,
+            "final_score": "Bill Hogarth SS 66, Bill Crothers SS 70"
+        },
+        {
+            "date": "Tuesday, November 25, 2025",
+            "home_team": "Richmond Green SS",
+            "away_team": "Richmond Hill HS",
+            "time": "3:45 PM",
+            "location": "Richmond Green SS",
+            "game_played": true,
+            "final_score": "Richmond Green SS 70, Richmond Hill HS 63"
+        },
+        {
+            "date": "Tuesday, November 25, 2025",
             "home_team": "St. Theresa Of Lisieux",
             "away_team": "Our Lady Queen Of The World",
             "time": "3:30 PM",
