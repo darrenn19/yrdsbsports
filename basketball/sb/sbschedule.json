@@ -47,6 +47,15 @@
         },
         {
             "date": "Monday, November 24, 2025",
+            "home_team": "Markham District",
+            "away_team": "Pierre Elliott Trudeau",
+            "time": "3:30 PM",
+            "location": "Markham DHS",
+            "game_played": true,
+            "final_score": "Markham District 37, Pierre Elliott Trudeau 62"
+        },
+        {
+            "date": "Monday, November 24, 2025",
             "home_team": "Middlefield",
             "away_team": "Milliken Mills",
             "time": "3:30 PM",
