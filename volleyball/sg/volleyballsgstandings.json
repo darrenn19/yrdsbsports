@@ -14,15 +14,39 @@
         },
         {
             "Team": "King City SS",
-            "MP": "0",
-            "MW": "0",
+            "MP": "2",
+            "MW": "2",
             "ML": "0",
-            "GW": "0",
+            "GW": "4",
             "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "PTS": "2",
+            "PF": "100",
+            "PA": "52",
+            "DIFF": "48"
+        },
+        {
+            "Team": "St. Augustine",
+            "MP": "1",
+            "MW": "1",
+            "ML": "0",
+            "GW": "2",
+            "GL": "0",
+            "PTS": "1",
+            "PF": "50",
+            "PA": "32",
+            "DIFF": "18"
+        },
+        {
+            "Team": "St. Robert",
+            "MP": "2",
+            "MW": "1",
+            "ML": "1",
+            "GW": "2",
+            "GL": "3",
+            "PTS": "1",
+            "PF": "87",
+            "PA": "99",
+            "DIFF": "-12"
         },
         {
             "Team": "Richmond Hill HS",
@@ -62,27 +86,27 @@
         },
         {
             "Team": "Our Lady Queen Of The World",
-            "MP": "0",
+            "MP": "1",
             "MW": "0",
-            "ML": "0",
+            "ML": "1",
             "GW": "0",
-            "GL": "0",
+            "GL": "2",
             "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "PF": "22",
+            "PA": "50",
+            "DIFF": "-28"
         },
         {
             "Team": "Renaissance ESC",
-            "MP": "0",
+            "MP": "1",
             "MW": "0",
-            "ML": "0",
+            "ML": "1",
             "GW": "0",
-            "GL": "0",
+            "GL": "2",
             "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "PF": "30",
+            "PA": "50",
+            "DIFF": "-20"
         },
         {
             "Team": "Thornhill SS",
@@ -98,39 +122,15 @@
         },
         {
             "Team": "St. Theresa Of Lisieux",
-            "MP": "0",
+            "MP": "1",
             "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
+            "ML": "1",
+            "GW": "1",
+            "GL": "2",
             "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "St. Augustine",
-            "MP": "0",
-            "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "St. Robert",
-            "MP": "0",
-            "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "PF": "49",
+            "PA": "55",
+            "DIFF": "-6"
         },
         {
             "Team": "East",
@@ -433,6 +433,42 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Maple High School",
+            "MP": "2",
+            "MW": "2",
+            "ML": "0",
+            "GW": "4",
+            "GL": "0",
+            "PTS": "2",
+            "PF": "102",
+            "PA": "73",
+            "DIFF": "29"
+        },
+        {
+            "Team": "Holy Cross",
+            "MP": "2",
+            "MW": "1",
+            "ML": "1",
+            "GW": "2",
+            "GL": "2",
+            "PTS": "1",
+            "PF": "90",
+            "PA": "68",
+            "DIFF": "22"
+        },
+        {
+            "Team": "Hodan Nalayeh SS",
+            "MP": "1",
+            "MW": "1",
+            "ML": "0",
+            "GW": "2",
+            "GL": "0",
+            "PTS": "1",
+            "PF": "50",
+            "PA": "40",
+            "DIFF": "10"
+        },
+        {
             "Team": "Stephen Lewis SS",
             "MP": "0",
             "MW": "0",
@@ -445,43 +481,7 @@
             "DIFF": "0"
         },
         {
-            "Team": "Holy Cross",
-            "MP": "0",
-            "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "Hodan Nalayeh SS",
-            "MP": "0",
-            "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
-        },
-        {
             "Team": "Woodbridge College",
-            "MP": "0",
-            "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "Maple High School",
             "MP": "0",
             "MW": "0",
             "ML": "0",
@@ -530,15 +530,15 @@
         },
         {
             "Team": "St. Joan Of Arc",
-            "MP": "0",
+            "MP": "1",
             "MW": "0",
-            "ML": "0",
+            "ML": "1",
             "GW": "0",
-            "GL": "0",
+            "GL": "2",
             "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "PF": "42",
+            "PA": "52",
+            "DIFF": "-10"
         },
         {
             "Team": "Tommy Douglas SS",
@@ -554,27 +554,27 @@
         },
         {
             "Team": "Langstaff SS",
-            "MP": "0",
+            "MP": "1",
             "MW": "0",
-            "ML": "0",
+            "ML": "1",
             "GW": "0",
-            "GL": "0",
+            "GL": "2",
             "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "PF": "31",
+            "PA": "50",
+            "DIFF": "-19"
         },
         {
             "Team": "Father Bressani",
-            "MP": "0",
+            "MP": "1",
             "MW": "0",
-            "ML": "0",
+            "ML": "1",
             "GW": "0",
-            "GL": "0",
+            "GL": "2",
             "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "PF": "18",
+            "PA": "50",
+            "DIFF": "-32"
         }
     ]
 }
