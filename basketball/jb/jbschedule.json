@@ -20,6 +20,15 @@
         },
         {
             "date": "Monday, November 24, 2025",
+            "home_team": "Father Bressani",
+            "away_team": "Woodbridge College",
+            "time": "4:45 PM",
+            "location": "Father Bressani CHS",
+            "game_played": true,
+            "final_score": "Father Bressani 78, Woodbridge College 42"
+        },
+        {
+            "date": "Monday, November 24, 2025",
             "home_team": "Father McGivney",
             "away_team": "St. Katharine Drexel",
             "time": "4:45 PM",
