@@ -83,6 +83,15 @@
         },
         {
             "date": "Tuesday, November 25, 2025",
+            "home_team": "Alexander Mackenzie",
+            "away_team": "Unionville HS",
+            "time": "4:45 PM",
+            "location": "Alexander Mackenzie HS",
+            "game_played": true,
+            "final_score": "Alexander Mackenzie 63, Unionville HS 68"
+        },
+        {
+            "date": "Tuesday, November 25, 2025",
             "home_team": "Bill Hogarth SS",
             "away_team": "Markville",
             "time": "4:45 PM",
