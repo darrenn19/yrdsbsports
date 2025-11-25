@@ -13,18 +13,6 @@
             "DIFF": "DIFF"
         },
         {
-            "Team": "Sacred Heart",
-            "W": "1",
-            "L": "0",
-            "T": "0",
-            "PTS": "2",
-            "EW": "4",
-            "EL": "2",
-            "PF": "9",
-            "PA": "2",
-            "DIFF": "7"
-        },
-        {
             "Team": "Tommy Douglas SS",
             "W": "1",
             "L": "0",
@@ -37,6 +25,18 @@
             "DIFF": "10"
         },
         {
+            "Team": "Bill Crothers SS",
+            "W": "1",
+            "L": "1",
+            "T": "0",
+            "PTS": "2",
+            "EW": "6",
+            "EL": "6",
+            "PF": "9",
+            "PA": "14",
+            "DIFF": "-5"
+        },
+        {
             "Team": "St. Augustine",
             "W": "1",
             "L": "0",
@@ -47,6 +47,18 @@
             "PF": "6",
             "PA": "2",
             "DIFF": "4"
+        },
+        {
+            "Team": "Sacred Heart",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "2",
+            "EW": "4",
+            "EL": "2",
+            "PF": "9",
+            "PA": "2",
+            "DIFF": "7"
         },
         {
             "Team": "St. Robert",
@@ -63,26 +75,14 @@
         {
             "Team": "St. Theresa Of Lisieux",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "0",
-            "EW": "2",
-            "EL": "4",
-            "PF": "2",
-            "PA": "6",
-            "DIFF": "-4"
-        },
-        {
-            "Team": "Bill Crothers SS",
-            "W": "0",
-            "L": "1",
-            "T": "0",
-            "PTS": "0",
-            "EW": "2",
-            "EL": "4",
-            "PF": "2",
-            "PA": "12",
-            "DIFF": "-10"
+            "EW": "4",
+            "EL": "8",
+            "PF": "4",
+            "PA": "13",
+            "DIFF": "-9"
         },
         {
             "Team": "King City SS",
