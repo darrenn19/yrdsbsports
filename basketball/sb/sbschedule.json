@@ -101,6 +101,24 @@
         },
         {
             "date": "Tuesday, November 25, 2025",
+            "home_team": "Bur Oak SS",
+            "away_team": "St. Augustine",
+            "time": "3:30 PM",
+            "location": "Bur Oak SS",
+            "game_played": true,
+            "final_score": "Bur Oak SS 66, St. Augustine 55"
+        },
+        {
+            "date": "Tuesday, November 25, 2025",
+            "home_team": "Cardinal Carter",
+            "away_team": "Aurora HS",
+            "time": "3:30 PM",
+            "location": "Cardinal Carter CHS",
+            "game_played": true,
+            "final_score": "Cardinal Carter 40, Aurora HS 54"
+        },
+        {
+            "date": "Tuesday, November 25, 2025",
             "home_team": "Richmond Green SS",
             "away_team": "Richmond Hill HS",
             "time": "3:45 PM",

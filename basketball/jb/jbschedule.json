@@ -83,12 +83,12 @@
         },
         {
             "date": "Tuesday, November 25, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Bill Hogarth SS",
+            "away_team": "Markville",
+            "time": "4:45 PM",
+            "location": "Bill Hogarth SS",
+            "game_played": true,
+            "final_score": "Bill Hogarth SS 48, Markville 74"
         },
         {
             "date": "Wednesday, November 26, 2025",
