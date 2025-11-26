@@ -83,12 +83,12 @@
         },
         {
             "date": "Wednesday, November 26, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Emily Carr",
+            "away_team": "Woodbridge College",
+            "time": "3:30 PM",
+            "location": "Emily Carr SS",
+            "game_played": true,
+            "final_score": "Emily Carr 36, Woodbridge College 76"
         },
         {
             "date": "Thursday, November 27, 2025",
