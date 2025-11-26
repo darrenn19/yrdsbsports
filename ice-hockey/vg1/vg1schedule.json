@@ -11,12 +11,12 @@
         },
         {
             "date": "Wednesday, November 26, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Keswick High School",
+            "away_team": "St. Maximilian",
+            "time": "2:00 PM",
+            "location": "Georgina Ice Palace",
+            "game_played": true,
+            "final_score": "Keswick High School 1, St. Maximilian 4"
         },
         {
             "date": "Thursday, November 27, 2025",
