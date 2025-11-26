@@ -56,6 +56,24 @@
         },
         {
             "date": "Wednesday, November 26, 2025",
+            "home_team": "Emily Carr",
+            "away_team": "Woodbridge College",
+            "time": "4:45 PM",
+            "location": "Emily Carr SS",
+            "game_played": true,
+            "final_score": "Emily Carr 48, Woodbridge College 64"
+        },
+        {
+            "date": "Wednesday, November 26, 2025",
+            "home_team": "Huron Heights",
+            "away_team": "St. Maximilian",
+            "time": "4:45 PM",
+            "location": "Huron Heights SS",
+            "game_played": true,
+            "final_score": "Huron Heights 33, St. Maximilian 56"
+        },
+        {
+            "date": "Wednesday, November 26, 2025",
             "home_team": "Westmount",
             "away_team": "Toronto District Christian",
             "time": "3:45 PM",
