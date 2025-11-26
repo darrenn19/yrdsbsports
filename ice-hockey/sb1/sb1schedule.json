@@ -20,12 +20,12 @@
         },
         {
             "date": "Wednesday, November 26, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Father Bressani",
+            "away_team": "St. Theresa Of Lisieux",
+            "time": "2:15 PM",
+            "location": "Al Palladini Community Centre",
+            "game_played": true,
+            "final_score": "Father Bressani 7, St. Theresa Of Lisieux 0"
         },
         {
             "date": "Thursday, November 27, 2025",
