@@ -20,12 +20,12 @@
         },
         {
             "date": "Wednesday, November 26, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "St. Augustine",
+            "away_team": "Bill Hogarth SS",
+            "time": "2:30 PM",
+            "location": "Angus Glen Arena",
+            "game_played": true,
+            "final_score": "St. Augustine 5, Bill Hogarth SS 3"
         },
         {
             "date": "Thursday, November 27, 2025",
