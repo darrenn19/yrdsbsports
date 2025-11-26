@@ -91,6 +91,33 @@
             "final_score": "Emily Carr 36, Woodbridge College 76"
         },
         {
+            "date": "Wednesday, November 26, 2025",
+            "home_team": "Hodan Nalayeh SS",
+            "away_team": "Toronto District Christian",
+            "time": "3:45 PM",
+            "location": "Hodan Nalayeh Secondary School",
+            "game_played": true,
+            "final_score": "Hodan Nalayeh SS 79, Toronto District Christian 74"
+        },
+        {
+            "date": "Wednesday, November 26, 2025",
+            "home_team": "Huron Heights",
+            "away_team": "St. Maximilian",
+            "time": "3:30 PM",
+            "location": "Huron Heights SS",
+            "game_played": true,
+            "final_score": "Huron Heights 33, St. Maximilian 56"
+        },
+        {
+            "date": "Wednesday, November 26, 2025",
+            "home_team": "Pierre Elliott Trudeau",
+            "away_team": "Father McGivney",
+            "time": "3:30 PM",
+            "location": "PE Trudeau HS",
+            "game_played": true,
+            "final_score": "Pierre Elliott Trudeau 81, Father McGivney 56"
+        },
+        {
             "date": "Thursday, November 27, 2025",
             "home_team": null,
             "away_team": null,
