@@ -110,6 +110,15 @@
         },
         {
             "date": "Wednesday, November 26, 2025",
+            "home_team": "Newmarket HS",
+            "away_team": "Sacred Heart",
+            "time": "3:45 PM",
+            "location": "Newmarket HS",
+            "game_played": true,
+            "final_score": "Newmarket HS 62, Sacred Heart 56"
+        },
+        {
+            "date": "Wednesday, November 26, 2025",
             "home_team": "Pierre Elliott Trudeau",
             "away_team": "Father McGivney",
             "time": "3:30 PM",
