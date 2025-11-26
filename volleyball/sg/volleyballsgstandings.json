@@ -301,6 +301,78 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Aurora HS",
+            "MP": "2",
+            "MW": "2",
+            "ML": "0",
+            "GW": "4",
+            "GL": "0",
+            "PTS": "2",
+            "PF": "101",
+            "PA": "59",
+            "DIFF": "42"
+        },
+        {
+            "Team": "Sir William Mulock",
+            "MP": "2",
+            "MW": "2",
+            "ML": "0",
+            "GW": "4",
+            "GL": "1",
+            "PTS": "2",
+            "PF": "110",
+            "PA": "73",
+            "DIFF": "37"
+        },
+        {
+            "Team": "Huron Heights",
+            "MP": "2",
+            "MW": "1",
+            "ML": "1",
+            "GW": "3",
+            "GL": "2",
+            "PTS": "1",
+            "PF": "117",
+            "PA": "101",
+            "DIFF": "16"
+        },
+        {
+            "Team": "Newmarket HS",
+            "MP": "2",
+            "MW": "1",
+            "ML": "1",
+            "GW": "3",
+            "GL": "2",
+            "PTS": "1",
+            "PF": "103",
+            "PA": "106",
+            "DIFF": "-3"
+        },
+        {
+            "Team": "Dr. G.W. Williams",
+            "MP": "2",
+            "MW": "1",
+            "ML": "1",
+            "GW": "2",
+            "GL": "3",
+            "PTS": "1",
+            "PF": "102",
+            "PA": "118",
+            "DIFF": "-16"
+        },
+        {
+            "Team": "St. Maximilian",
+            "MP": "2",
+            "MW": "1",
+            "ML": "1",
+            "GW": "2",
+            "GL": "2",
+            "PTS": "1",
+            "PF": "96",
+            "PA": "87",
+            "DIFF": "9"
+        },
+        {
             "Team": "Sutton District",
             "MP": "0",
             "MW": "0",
@@ -313,64 +385,16 @@
             "DIFF": "0"
         },
         {
-            "Team": "Newmarket HS",
-            "MP": "0",
-            "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "Sir William Mulock",
-            "MP": "0",
-            "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "St. Maximilian",
-            "MP": "0",
-            "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
-        },
-        {
             "Team": "Keswick High School",
-            "MP": "0",
+            "MP": "2",
             "MW": "0",
-            "ML": "0",
+            "ML": "2",
             "GW": "0",
-            "GL": "0",
+            "GL": "4",
             "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "Dr. G.W. Williams",
-            "MP": "0",
-            "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "PF": "57",
+            "PA": "100",
+            "DIFF": "-43"
         },
         {
             "Team": "Sacred Heart",
@@ -385,40 +409,16 @@
             "DIFF": "0"
         },
         {
-            "Team": "Aurora HS",
-            "MP": "0",
-            "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "Huron Heights",
-            "MP": "0",
-            "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
-        },
-        {
             "Team": "Dr. J.M. Denison",
-            "MP": "0",
+            "MP": "2",
             "MW": "0",
-            "ML": "0",
+            "ML": "2",
             "GW": "0",
-            "GL": "0",
+            "GL": "4",
             "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "PF": "58",
+            "PA": "100",
+            "DIFF": "-42"
         },
         {
             "Team": "West",
@@ -431,6 +431,18 @@
             "PF": "PF",
             "PA": "PA",
             "DIFF": "DIFF"
+        },
+        {
+            "Team": "Woodbridge College",
+            "MP": "2",
+            "MW": "2",
+            "ML": "0",
+            "GW": "4",
+            "GL": "0",
+            "PTS": "2",
+            "PF": "100",
+            "PA": "75",
+            "DIFF": "25"
         },
         {
             "Team": "Hodan Nalayeh SS",
@@ -458,27 +470,15 @@
         },
         {
             "Team": "Tommy Douglas SS",
-            "MP": "1",
-            "MW": "1",
-            "ML": "0",
-            "GW": "2",
-            "GL": "1",
-            "PTS": "1",
-            "PF": "64",
-            "PA": "57",
-            "DIFF": "7"
-        },
-        {
-            "Team": "Emily Carr",
             "MP": "2",
             "MW": "1",
             "ML": "1",
             "GW": "2",
-            "GL": "2",
+            "GL": "3",
             "PTS": "1",
-            "PF": "82",
-            "PA": "83",
-            "DIFF": "-1"
+            "PF": "98",
+            "PA": "107",
+            "DIFF": "-9"
         },
         {
             "Team": "Toronto District Christian",
@@ -491,6 +491,18 @@
             "PF": "107",
             "PA": "101",
             "DIFF": "6"
+        },
+        {
+            "Team": "Emily Carr",
+            "MP": "2",
+            "MW": "1",
+            "ML": "1",
+            "GW": "2",
+            "GL": "2",
+            "PTS": "1",
+            "PF": "82",
+            "PA": "83",
+            "DIFF": "-1"
         },
         {
             "Team": "Holy Cross",
@@ -517,28 +529,16 @@
             "DIFF": "0"
         },
         {
-            "Team": "Woodbridge College",
-            "MP": "0",
-            "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
-        },
-        {
             "Team": "St. Elizabeth",
-            "MP": "1",
+            "MP": "2",
             "MW": "0",
-            "ML": "1",
+            "ML": "2",
             "GW": "0",
-            "GL": "2",
+            "GL": "4",
             "PTS": "0",
-            "PF": "37",
-            "PA": "50",
-            "DIFF": "-13"
+            "PF": "78",
+            "PA": "100",
+            "DIFF": "-22"
         },
         {
             "Team": "St. Joan Of Arc",
