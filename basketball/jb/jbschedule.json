@@ -1,87 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, November 24, 2025",
-            "home_team": "Dr. G.W. Williams",
-            "away_team": "Dr. J.M. Denison",
-            "time": "4:45 PM",
-            "location": "Dr G W Williams SS",
-            "game_played": true,
-            "final_score": "Dr. G.W. Williams 62, Dr. J.M. Denison 49"
-        },
-        {
-            "date": "Monday, November 24, 2025",
-            "home_team": "Emily Carr",
-            "away_team": "St. Joan Of Arc",
-            "time": "4:45 PM",
-            "location": "Emily Carr SS",
-            "game_played": true,
-            "final_score": "Emily Carr 72, St. Joan Of Arc 60"
-        },
-        {
-            "date": "Monday, November 24, 2025",
-            "home_team": "Father Bressani",
-            "away_team": "Woodbridge College",
-            "time": "4:45 PM",
-            "location": "Father Bressani CHS",
-            "game_played": true,
-            "final_score": "Father Bressani 78, Woodbridge College 42"
-        },
-        {
-            "date": "Monday, November 24, 2025",
-            "home_team": "Father McGivney",
-            "away_team": "St. Katharine Drexel",
-            "time": "4:45 PM",
-            "location": "Father Michael McGivney CA",
-            "game_played": true,
-            "final_score": "Father McGivney 64, St. Katharine Drexel 27"
-        },
-        {
-            "date": "Monday, November 24, 2025",
-            "home_team": "Maple High School",
-            "away_team": "Holy Cross",
-            "time": "4:45 PM",
-            "location": "Maple HS",
-            "game_played": true,
-            "final_score": "Maple High School 69, Holy Cross 64"
-        },
-        {
-            "date": "Monday, November 24, 2025",
-            "home_team": "Markham District",
-            "away_team": "Pierre Elliott Trudeau",
-            "time": "4:45 PM",
-            "location": "Markham DHS",
-            "game_played": true,
-            "final_score": "Markham District 63, Pierre Elliott Trudeau 55"
-        },
-        {
-            "date": "Monday, November 24, 2025",
-            "home_team": "Middlefield",
-            "away_team": "Milliken Mills",
-            "time": "4:45 PM",
-            "location": "Middlefield CI",
-            "game_played": true,
-            "final_score": "Middlefield 53, Milliken Mills 47"
-        },
-        {
-            "date": "Monday, November 24, 2025",
-            "home_team": "Renaissance ESC",
-            "away_team": "Sir William Mulock",
-            "time": "4:45 PM",
-            "location": "Renaissance ESC",
-            "game_played": true,
-            "final_score": "Renaissance ESC 65, Sir William Mulock 24"
-        },
-        {
-            "date": "Monday, November 24, 2025",
-            "home_team": "St. Jean De Brebeuf CHS",
-            "away_team": "Toronto District Christian",
-            "time": "4:15 PM",
-            "location": "St Jean De Brebeuf CHS",
-            "game_played": true,
-            "final_score": "St. Jean De Brebeuf CHS 57, Toronto District Christian 26"
-        },
-        {
             "date": "Tuesday, November 25, 2025",
             "home_team": "Alexander Mackenzie",
             "away_team": "Unionville HS",
@@ -164,6 +83,15 @@
         },
         {
             "date": "Sunday, November 30, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, December 1, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

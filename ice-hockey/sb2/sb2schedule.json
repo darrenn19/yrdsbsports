@@ -1,24 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, November 24, 2025",
-            "home_team": "Aurora HS",
-            "away_team": "Father Bressani",
-            "time": "2:45 PM",
-            "location": "Aurora Community Centre",
-            "game_played": true,
-            "final_score": "Aurora HS 3, Father Bressani 2"
-        },
-        {
-            "date": "Monday, November 24, 2025",
-            "home_team": "Markville",
-            "away_team": "St. Augustine",
-            "time": "2:30 PM",
-            "location": "Markham Centennial Arena",
-            "game_played": true,
-            "final_score": "Markville 2, St. Augustine 5"
-        },
-        {
             "date": "Tuesday, November 25, 2025",
             "home_team": "Markham District",
             "away_team": "St. Robert",
@@ -65,6 +47,15 @@
         },
         {
             "date": "Sunday, November 30, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, December 1, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

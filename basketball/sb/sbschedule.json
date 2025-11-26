@@ -1,96 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, November 24, 2025",
-            "home_team": "Dr. G.W. Williams",
-            "away_team": "King City SS",
-            "time": "3:30 PM",
-            "location": "Dr G W Williams SS",
-            "game_played": true,
-            "final_score": "Dr. G.W. Williams 53, King City SS 33"
-        },
-        {
-            "date": "Monday, November 24, 2025",
-            "home_team": "Emily Carr",
-            "away_team": "St. Joan Of Arc",
-            "time": "3:30 PM",
-            "location": "Emily Carr SS",
-            "game_played": true,
-            "final_score": "Emily Carr 46, St. Joan Of Arc 84"
-        },
-        {
-            "date": "Monday, November 24, 2025",
-            "home_team": "Father Bressani",
-            "away_team": "Woodbridge College",
-            "time": "3:30 PM",
-            "location": "Father Bressani CHS",
-            "game_played": true,
-            "final_score": "Father Bressani 25, Woodbridge College 83"
-        },
-        {
-            "date": "Monday, November 24, 2025",
-            "home_team": "Father McGivney",
-            "away_team": "St. Katharine Drexel",
-            "time": "3:30 PM",
-            "location": "Father Michael McGivney CA",
-            "game_played": true,
-            "final_score": "Father McGivney 61, St. Katharine Drexel 47"
-        },
-        {
-            "date": "Monday, November 24, 2025",
-            "home_team": "Maple High School",
-            "away_team": "Holy Cross",
-            "time": "3:30 PM",
-            "location": "Maple HS",
-            "game_played": true,
-            "final_score": "Maple High School 80, Holy Cross 74"
-        },
-        {
-            "date": "Monday, November 24, 2025",
-            "home_team": "Markham District",
-            "away_team": "Pierre Elliott Trudeau",
-            "time": "3:30 PM",
-            "location": "Markham DHS",
-            "game_played": true,
-            "final_score": "Markham District 37, Pierre Elliott Trudeau 62"
-        },
-        {
-            "date": "Monday, November 24, 2025",
-            "home_team": "Middlefield",
-            "away_team": "Milliken Mills",
-            "time": "3:30 PM",
-            "location": "Middlefield CI",
-            "game_played": true,
-            "final_score": "Middlefield 65, Milliken Mills 51"
-        },
-        {
-            "date": "Monday, November 24, 2025",
-            "home_team": "Renaissance ESC",
-            "away_team": "Sutton District",
-            "time": "3:30 PM",
-            "location": "Renaissance ESC",
-            "game_played": true,
-            "final_score": "Renaissance ESC 65, Sutton District 21"
-        },
-        {
-            "date": "Monday, November 24, 2025",
-            "home_team": "St. Jean De Brebeuf CHS",
-            "away_team": "Toronto District Christian",
-            "time": "3:00 PM",
-            "location": "St Jean De Brebeuf CHS",
-            "game_played": true,
-            "final_score": "St. Jean De Brebeuf CHS 50, Toronto District Christian 54"
-        },
-        {
-            "date": "Monday, November 24, 2025",
-            "home_team": "Tommy Douglas SS",
-            "away_team": "Westmount",
-            "time": "3:45 PM",
-            "location": "Tommy Douglas SS",
-            "game_played": true,
-            "final_score": "Tommy Douglas SS 62, Westmount 37"
-        },
-        {
             "date": "Tuesday, November 25, 2025",
             "home_team": "Bill Hogarth SS",
             "away_team": "Bill Crothers SS",
@@ -200,6 +110,15 @@
         },
         {
             "date": "Sunday, November 30, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, December 1, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
