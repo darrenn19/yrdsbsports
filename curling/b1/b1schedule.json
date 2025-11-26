@@ -2,15 +2,6 @@
     "schedule": [
         {
             "date": "Monday, November 24, 2025",
-            "home_team": "King City SS",
-            "away_team": "St. Robert",
-            "time": "2:30 PM",
-            "location": "York Curling Club",
-            "game_played": true,
-            "final_score": "King City SS 7, St. Robert 4"
-        },
-        {
-            "date": "Monday, November 24, 2025",
             "home_team": "Bill Crothers SS",
             "away_team": "St. Theresa Of Lisieux",
             "time": "2:30 PM",
@@ -26,6 +17,15 @@
             "location": "York Curling Club",
             "game_played": true,
             "final_score": "Sacred Heart 11, St. Augustine 3"
+        },
+        {
+            "date": "Monday, November 24, 2025",
+            "home_team": "King City SS",
+            "away_team": "St. Robert",
+            "time": "2:30 PM",
+            "location": "York Curling Club",
+            "game_played": true,
+            "final_score": "King City SS 7, St. Robert 4"
         },
         {
             "date": "Tuesday, November 25, 2025",
