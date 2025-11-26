@@ -38,6 +38,15 @@
         },
         {
             "date": "Tuesday, November 25, 2025",
+            "home_team": "St. Robert",
+            "away_team": "Langstaff SS",
+            "time": "4:45 PM",
+            "location": "St Robert CHS",
+            "game_played": true,
+            "final_score": "St. Robert 48, Langstaff SS 28"
+        },
+        {
+            "date": "Tuesday, November 25, 2025",
             "home_team": "St. Theresa Of Lisieux",
             "away_team": "King City SS",
             "time": "4:45 PM",
