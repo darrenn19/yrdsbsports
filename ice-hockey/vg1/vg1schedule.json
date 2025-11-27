@@ -19,6 +19,15 @@
             "final_score": "Newmarket HS 3, Huron Heights 2"
         },
         {
+            "date": "Wednesday, November 26, 2025",
+            "home_team": "Bill Hogarth SS",
+            "away_team": "Markham District",
+            "time": "3:00 PM",
+            "location": "Stouffville Clippers Sports Complex",
+            "game_played": true,
+            "final_score": "Bill Hogarth SS 3, Markham District 0"
+        },
+        {
             "date": "Thursday, November 27, 2025",
             "home_team": null,
             "away_team": null,
