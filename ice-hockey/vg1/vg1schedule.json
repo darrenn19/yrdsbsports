@@ -10,6 +10,15 @@
             "final_score": "Keswick High School 1, St. Maximilian 4"
         },
         {
+            "date": "Wednesday, November 26, 2025",
+            "home_team": "Newmarket HS",
+            "away_team": "Huron Heights",
+            "time": "2:15 PM",
+            "location": "Magna Centre",
+            "game_played": true,
+            "final_score": "Newmarket HS 3, Huron Heights 2"
+        },
+        {
             "date": "Thursday, November 27, 2025",
             "home_team": null,
             "away_team": null,
