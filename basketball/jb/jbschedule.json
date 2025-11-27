@@ -20,6 +20,15 @@
         },
         {
             "date": "Wednesday, November 26, 2025",
+            "home_team": "Keswick High School",
+            "away_team": "Dr. J.M. Denison",
+            "time": "3:30 PM",
+            "location": "Keswick HS",
+            "game_played": true,
+            "final_score": "Keswick High School 56, Dr. J.M. Denison 54"
+        },
+        {
+            "date": "Wednesday, November 26, 2025",
             "home_team": "Pierre Elliott Trudeau",
             "away_team": "Father McGivney",
             "time": "4:45 PM",
