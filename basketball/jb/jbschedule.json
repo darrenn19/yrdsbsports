@@ -74,6 +74,15 @@
         },
         {
             "date": "Wednesday, November 26, 2025",
+            "home_team": "Pierre Elliott Trudeau",
+            "away_team": "Father McGivney",
+            "time": "4:45 PM",
+            "location": "PE Trudeau HS",
+            "game_played": true,
+            "final_score": "Pierre Elliott Trudeau 51, Father McGivney 56"
+        },
+        {
+            "date": "Wednesday, November 26, 2025",
             "home_team": "Westmount",
             "away_team": "Toronto District Christian",
             "time": "3:45 PM",
