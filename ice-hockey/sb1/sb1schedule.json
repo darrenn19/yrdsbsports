@@ -1,24 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, November 25, 2025",
-            "home_team": "St. Jean De Brebeuf CHS",
-            "away_team": "Cardinal Carter",
-            "time": "2:00 PM",
-            "location": "Al Palladini Community Centre",
-            "game_played": true,
-            "final_score": "St. Jean De Brebeuf CHS 2, Cardinal Carter 5"
-        },
-        {
-            "date": "Tuesday, November 25, 2025",
-            "home_team": "St. Maximilian",
-            "away_team": "Stouffville",
-            "time": "2:30 PM",
-            "location": "Aurora Family Leisure Complex",
-            "game_played": true,
-            "final_score": "St. Maximilian 4, Stouffville 1"
-        },
-        {
             "date": "Wednesday, November 26, 2025",
             "home_team": "Father Bressani",
             "away_team": "St. Theresa Of Lisieux",
@@ -65,6 +47,15 @@
         },
         {
             "date": "Monday, December 1, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, December 2, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

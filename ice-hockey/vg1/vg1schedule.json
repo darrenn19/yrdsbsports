@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, November 25, 2025",
-            "home_team": "Stouffville",
-            "away_team": "King City SS",
-            "time": "2:45 PM",
-            "location": "Stouffville Clippers Sports Complex",
-            "game_played": true,
-            "final_score": "Stouffville 7, King City SS 0"
-        },
-        {
             "date": "Wednesday, November 26, 2025",
             "home_team": "Keswick High School",
             "away_team": "St. Maximilian",
@@ -56,6 +47,15 @@
         },
         {
             "date": "Monday, December 1, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, December 2, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

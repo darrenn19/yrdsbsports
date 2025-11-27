@@ -1,60 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, November 25, 2025",
-            "home_team": "Alexander Mackenzie",
-            "away_team": "Unionville HS",
-            "time": "4:45 PM",
-            "location": "Alexander Mackenzie HS",
-            "game_played": true,
-            "final_score": "Alexander Mackenzie 63, Unionville HS 68"
-        },
-        {
-            "date": "Tuesday, November 25, 2025",
-            "home_team": "Bill Hogarth SS",
-            "away_team": "Markville",
-            "time": "4:45 PM",
-            "location": "Bill Hogarth SS",
-            "game_played": true,
-            "final_score": "Bill Hogarth SS 48, Markville 74"
-        },
-        {
-            "date": "Tuesday, November 25, 2025",
-            "home_team": "Bur Oak SS",
-            "away_team": "St. Augustine",
-            "time": "4:45 PM",
-            "location": "Bur Oak SS",
-            "game_played": true,
-            "final_score": "Bur Oak SS 69, St. Augustine 32"
-        },
-        {
-            "date": "Tuesday, November 25, 2025",
-            "home_team": "Cardinal Carter",
-            "away_team": "Aurora HS",
-            "time": "4:45 PM",
-            "location": "Cardinal Carter CHS",
-            "game_played": true,
-            "final_score": "Cardinal Carter 51, Aurora HS 42"
-        },
-        {
-            "date": "Tuesday, November 25, 2025",
-            "home_team": "St. Robert",
-            "away_team": "Langstaff SS",
-            "time": "4:45 PM",
-            "location": "St Robert CHS",
-            "game_played": true,
-            "final_score": "St. Robert 48, Langstaff SS 28"
-        },
-        {
-            "date": "Tuesday, November 25, 2025",
-            "home_team": "St. Theresa Of Lisieux",
-            "away_team": "King City SS",
-            "time": "4:45 PM",
-            "location": "St Theresa Of Lisieux CHS",
-            "game_played": true,
-            "final_score": "St. Theresa Of Lisieux 82, King City SS 78"
-        },
-        {
             "date": "Wednesday, November 26, 2025",
             "home_team": "Emily Carr",
             "away_team": "Woodbridge College",
@@ -128,6 +74,15 @@
         },
         {
             "date": "Monday, December 1, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, December 2, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
