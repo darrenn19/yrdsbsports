@@ -12,26 +12,26 @@
             "DIFF": "DIFF"
         },
         {
-            "Team": "Keswick High School",
-            "GP": "2",
+            "Team": "St. Maximilian",
+            "GP": "3",
             "W": "2",
             "L": "0",
-            "T": "0",
-            "PTS": "4",
-            "GF": "5",
-            "GA": "1",
-            "DIFF": "4"
+            "T": "1",
+            "PTS": "5",
+            "GF": "10",
+            "GA": "2",
+            "DIFF": "8"
         },
         {
-            "Team": "St. Maximilian",
-            "GP": "2",
-            "W": "1",
-            "L": "0",
-            "T": "1",
-            "PTS": "3",
+            "Team": "Keswick High School",
+            "GP": "3",
+            "W": "2",
+            "L": "1",
+            "T": "0",
+            "PTS": "4",
             "GF": "6",
-            "GA": "1",
-            "DIFF": "5"
+            "GA": "5",
+            "DIFF": "1"
         },
         {
             "Team": "Sacred Heart",
