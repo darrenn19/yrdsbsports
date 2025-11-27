@@ -10,6 +10,15 @@
             "final_score": "St. Augustine 5, Bill Hogarth SS 3"
         },
         {
+            "date": "Wednesday, November 26, 2025",
+            "home_team": "Sacred Heart",
+            "away_team": "Huron Heights",
+            "time": "2:00 PM",
+            "location": "Magna Centre",
+            "game_played": true,
+            "final_score": "Sacred Heart 2, Huron Heights 2"
+        },
+        {
             "date": "Thursday, November 27, 2025",
             "home_team": null,
             "away_team": null,
