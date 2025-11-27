@@ -55,6 +55,24 @@
             "final_score": "Markville 81, Middlefield 33"
         },
         {
+            "date": "Thursday, November 27, 2025",
+            "home_team": "St. Katharine Drexel",
+            "away_team": "Bur Oak SS",
+            "time": "4:45 PM",
+            "location": "St Katharine Drexel CHS",
+            "game_played": true,
+            "final_score": "St. Katharine Drexel 11, Bur Oak SS 59"
+        },
+        {
+            "date": "Thursday, November 27, 2025",
+            "home_team": "Stouffville",
+            "away_team": "Bill Hogarth SS",
+            "time": "4:45 PM",
+            "location": "Stouffville DSS",
+            "game_played": true,
+            "final_score": "Stouffville 60, Bill Hogarth SS 33"
+        },
+        {
             "date": "Friday, November 28, 2025",
             "home_team": null,
             "away_team": null,
