@@ -20,12 +20,12 @@
         },
         {
             "date": "Thursday, November 27, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Alexander Mackenzie",
+            "away_team": "St. Joan Of Arc",
+            "time": "2:15 PM",
+            "location": "Elgin Barrow Arena",
+            "game_played": true,
+            "final_score": "Alexander Mackenzie 1, St. Joan Of Arc 6"
         },
         {
             "date": "Friday, November 28, 2025",
