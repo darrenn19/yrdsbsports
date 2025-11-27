@@ -25,6 +25,18 @@
             "DIFF": "61"
         },
         {
+            "Team": "Renaissance ESC",
+            "MP": "4",
+            "MW": "3",
+            "ML": "1",
+            "GW": "6",
+            "GL": "3",
+            "PTS": "3",
+            "PF": "192",
+            "PA": "176",
+            "DIFF": "16"
+        },
+        {
             "Team": "St. Robert",
             "MP": "4",
             "MW": "3",
@@ -35,6 +47,18 @@
             "PF": "187",
             "PA": "162",
             "DIFF": "25"
+        },
+        {
+            "Team": "Richmond Green SS",
+            "MP": "4",
+            "MW": "2",
+            "ML": "2",
+            "GW": "5",
+            "GL": "4",
+            "PTS": "2",
+            "PF": "200",
+            "PA": "177",
+            "DIFF": "23"
         },
         {
             "Team": "King City SS",
@@ -49,16 +73,16 @@
             "DIFF": "48"
         },
         {
-            "Team": "Renaissance ESC",
+            "Team": "Thornhill SS",
             "MP": "2",
             "MW": "1",
             "ML": "1",
             "GW": "2",
-            "GL": "2",
+            "GL": "3",
             "PTS": "1",
-            "PF": "80",
-            "PA": "93",
-            "DIFF": "-13"
+            "PF": "95",
+            "PA": "107",
+            "DIFF": "-12"
         },
         {
             "Team": "St. Theresa Of Lisieux",
@@ -71,18 +95,6 @@
             "PF": "155",
             "PA": "201",
             "DIFF": "-46"
-        },
-        {
-            "Team": "Richmond Green SS",
-            "MP": "2",
-            "MW": "1",
-            "ML": "1",
-            "GW": "2",
-            "GL": "2",
-            "PTS": "1",
-            "PF": "93",
-            "PA": "88",
-            "DIFF": "5"
         },
         {
             "Team": "Richmond Hill HS",
@@ -98,15 +110,15 @@
         },
         {
             "Team": "Thornlea SS",
-            "MP": "0",
+            "MP": "2",
             "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
+            "ML": "2",
+            "GW": "1",
+            "GL": "4",
             "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "PF": "77",
+            "PA": "112",
+            "DIFF": "-35"
         },
         {
             "Team": "Our Lady Queen Of The World",
@@ -119,18 +131,6 @@
             "PF": "60",
             "PA": "100",
             "DIFF": "-40"
-        },
-        {
-            "Team": "Thornhill SS",
-            "MP": "0",
-            "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
         },
         {
             "Team": "East",

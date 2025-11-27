@@ -12,17 +12,6 @@
             "DIFF": "DIFF"
         },
         {
-            "Team": "St. Robert",
-            "GP": "1",
-            "W": "1",
-            "L": "0",
-            "T": "0",
-            "PTS": "2",
-            "PF": "62",
-            "PA": "24",
-            "DIFF": "15"
-        },
-        {
             "Team": "St. Theresa Of Lisieux",
             "GP": "1",
             "W": "1",
@@ -45,6 +34,28 @@
             "DIFF": "7"
         },
         {
+            "Team": "Richmond Green SS",
+            "GP": "1",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "2",
+            "PF": "70",
+            "PA": "63",
+            "DIFF": "7"
+        },
+        {
+            "Team": "Alexander Mackenzie",
+            "GP": "1",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "2",
+            "PF": "81",
+            "PA": "66",
+            "DIFF": "15"
+        },
+        {
             "Team": "Thornlea SS",
             "GP": "1",
             "W": "1",
@@ -56,15 +67,15 @@
             "DIFF": "9"
         },
         {
-            "Team": "Richmond Green SS",
+            "Team": "St. Robert",
             "GP": "1",
             "W": "1",
             "L": "0",
             "T": "0",
             "PTS": "2",
-            "PF": "70",
-            "PA": "63",
-            "DIFF": "7"
+            "PF": "62",
+            "PA": "24",
+            "DIFF": "15"
         },
         {
             "Team": "Richmond Hill HS",
@@ -78,26 +89,15 @@
             "DIFF": "-7"
         },
         {
-            "Team": "Alexander Mackenzie",
-            "GP": "0",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
-        },
-        {
             "Team": "Unionville HS",
-            "GP": "0",
+            "GP": "1",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "PF": "66",
+            "PA": "81",
+            "DIFF": "-15"
         },
         {
             "Team": "Our Lady Queen Of The World",
@@ -298,6 +298,17 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Newmarket HS",
+            "GP": "1",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "2",
+            "PF": "62",
+            "PA": "56",
+            "DIFF": "6"
+        },
+        {
             "Team": "Aurora HS",
             "GP": "1",
             "W": "1",
@@ -320,6 +331,17 @@
             "DIFF": "15"
         },
         {
+            "Team": "Keswick High School",
+            "GP": "1",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "2",
+            "PF": "68",
+            "PA": "57",
+            "DIFF": "11"
+        },
+        {
             "Team": "Dr. G.W. Williams",
             "GP": "1",
             "W": "1",
@@ -340,17 +362,6 @@
             "PF": "56",
             "PA": "33",
             "DIFF": "15"
-        },
-        {
-            "Team": "Newmarket HS",
-            "GP": "1",
-            "W": "1",
-            "L": "0",
-            "T": "0",
-            "PTS": "2",
-            "PF": "62",
-            "PA": "56",
-            "DIFF": "6"
         },
         {
             "Team": "Sutton District",
@@ -386,17 +397,6 @@
             "DIFF": "-6"
         },
         {
-            "Team": "Keswick High School",
-            "GP": "0",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
-        },
-        {
             "Team": "Cardinal Carter",
             "GP": "1",
             "W": "0",
@@ -420,14 +420,14 @@
         },
         {
             "Team": "Dr. J.M. Denison",
-            "GP": "0",
+            "GP": "1",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "PF": "57",
+            "PA": "68",
+            "DIFF": "-11"
         },
         {
             "Team": "West",
