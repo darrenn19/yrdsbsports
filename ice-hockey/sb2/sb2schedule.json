@@ -10,6 +10,15 @@
             "final_score": "Alexander Mackenzie 1, St. Joan Of Arc 6"
         },
         {
+            "date": "Thursday, November 27, 2025",
+            "home_team": "Sutton District",
+            "away_team": "Keswick High School",
+            "time": "2:30 PM",
+            "location": "Sutton Community Centre",
+            "game_played": true,
+            "final_score": "Sutton District 3, Keswick High School 3"
+        },
+        {
             "date": "Friday, November 28, 2025",
             "home_team": null,
             "away_team": null,
