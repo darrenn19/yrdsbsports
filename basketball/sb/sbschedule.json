@@ -38,12 +38,12 @@
         },
         {
             "date": "Friday, November 28, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "St. Brother Andre",
+            "away_team": "St. Augustine",
+            "time": "1:30 PM",
+            "location": "St Brother Andre CHS",
+            "game_played": true,
+            "final_score": "St. Brother Andre 59, St. Augustine 62"
         },
         {
             "date": "Saturday, November 29, 2025",
