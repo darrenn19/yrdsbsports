@@ -46,6 +46,15 @@
             "final_score": "Stouffville 60, Bill Hogarth SS 33"
         },
         {
+            "date": "Thursday, November 27, 2025",
+            "home_team": "Thornlea SS",
+            "away_team": "Stephen Lewis SS",
+            "time": "3:45 PM",
+            "location": "Thornlea SS",
+            "game_played": true,
+            "final_score": "Thornlea SS 43, Stephen Lewis SS 71"
+        },
+        {
             "date": "Friday, November 28, 2025",
             "home_team": null,
             "away_team": null,
