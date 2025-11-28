@@ -56,6 +56,15 @@
         },
         {
             "date": "Thursday, November 27, 2025",
+            "home_team": "Milliken Mills",
+            "away_team": "Markham District",
+            "time": "4:45 PM",
+            "location": "Milliken Mills HS",
+            "game_played": true,
+            "final_score": "Milliken Mills 36, Markham District 77"
+        },
+        {
+            "date": "Thursday, November 27, 2025",
             "home_team": "St. Katharine Drexel",
             "away_team": "Bur Oak SS",
             "time": "4:45 PM",
