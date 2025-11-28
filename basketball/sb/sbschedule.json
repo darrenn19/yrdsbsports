@@ -20,6 +20,15 @@
         },
         {
             "date": "Thursday, November 27, 2025",
+            "home_team": "St. Katharine Drexel",
+            "away_team": "Bur Oak SS",
+            "time": "3:30 PM",
+            "location": "St Katharine Drexel CHS",
+            "game_played": true,
+            "final_score": "St. Katharine Drexel 54, Bur Oak SS 69"
+        },
+        {
+            "date": "Thursday, November 27, 2025",
             "home_team": "Stouffville",
             "away_team": "Bill Hogarth SS",
             "time": "3:30 PM",
