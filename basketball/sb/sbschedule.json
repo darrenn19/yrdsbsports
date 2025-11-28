@@ -1,60 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, November 26, 2025",
-            "home_team": "Emily Carr",
-            "away_team": "Woodbridge College",
-            "time": "3:30 PM",
-            "location": "Emily Carr SS",
-            "game_played": true,
-            "final_score": "Emily Carr 36, Woodbridge College 76"
-        },
-        {
-            "date": "Wednesday, November 26, 2025",
-            "home_team": "Hodan Nalayeh SS",
-            "away_team": "Toronto District Christian",
-            "time": "3:45 PM",
-            "location": "Hodan Nalayeh Secondary School",
-            "game_played": true,
-            "final_score": "Hodan Nalayeh SS 79, Toronto District Christian 74"
-        },
-        {
-            "date": "Wednesday, November 26, 2025",
-            "home_team": "Huron Heights",
-            "away_team": "St. Maximilian",
-            "time": "3:30 PM",
-            "location": "Huron Heights SS",
-            "game_played": true,
-            "final_score": "Huron Heights 33, St. Maximilian 56"
-        },
-        {
-            "date": "Wednesday, November 26, 2025",
-            "home_team": "Keswick High School",
-            "away_team": "Dr. J.M. Denison",
-            "time": "4:45 PM",
-            "location": "Keswick HS",
-            "game_played": true,
-            "final_score": "Keswick High School 68, Dr. J.M. Denison 57"
-        },
-        {
-            "date": "Wednesday, November 26, 2025",
-            "home_team": "Newmarket HS",
-            "away_team": "Sacred Heart",
-            "time": "3:45 PM",
-            "location": "Newmarket HS",
-            "game_played": true,
-            "final_score": "Newmarket HS 62, Sacred Heart 56"
-        },
-        {
-            "date": "Wednesday, November 26, 2025",
-            "home_team": "Pierre Elliott Trudeau",
-            "away_team": "Father McGivney",
-            "time": "3:30 PM",
-            "location": "PE Trudeau HS",
-            "game_played": true,
-            "final_score": "Pierre Elliott Trudeau 81, Father McGivney 56"
-        },
-        {
             "date": "Thursday, November 27, 2025",
             "home_team": "Alexander Mackenzie",
             "away_team": "Richmond Green SS",
@@ -119,6 +65,15 @@
         },
         {
             "date": "Tuesday, December 2, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, December 3, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

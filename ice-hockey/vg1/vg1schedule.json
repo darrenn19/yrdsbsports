@@ -1,33 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, November 26, 2025",
-            "home_team": "Keswick High School",
-            "away_team": "St. Maximilian",
-            "time": "2:00 PM",
-            "location": "Georgina Ice Palace",
-            "game_played": true,
-            "final_score": "Keswick High School 1, St. Maximilian 4"
-        },
-        {
-            "date": "Wednesday, November 26, 2025",
-            "home_team": "Newmarket HS",
-            "away_team": "Huron Heights",
-            "time": "2:15 PM",
-            "location": "Magna Centre",
-            "game_played": true,
-            "final_score": "Newmarket HS 3, Huron Heights 2"
-        },
-        {
-            "date": "Wednesday, November 26, 2025",
-            "home_team": "Bill Hogarth SS",
-            "away_team": "Markham District",
-            "time": "3:00 PM",
-            "location": "Stouffville Clippers Sports Complex",
-            "game_played": true,
-            "final_score": "Bill Hogarth SS 3, Markham District 0"
-        },
-        {
             "date": "Thursday, November 27, 2025",
             "home_team": "St. Theresa Of Lisieux",
             "away_team": "Cardinal Carter",
@@ -74,6 +47,15 @@
         },
         {
             "date": "Tuesday, December 2, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, December 3, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
