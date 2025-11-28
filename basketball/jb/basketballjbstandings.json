@@ -11,16 +11,6 @@
             "PA": "PA"
         },
         {
-            "Team": "Unionville HS",
-            "GP": "1",
-            "W": "1",
-            "L": "0",
-            "T": "0",
-            "PTS": "2",
-            "PF": "68",
-            "PA": "63"
-        },
-        {
             "Team": "St. Theresa Of Lisieux",
             "GP": "1",
             "W": "1",
@@ -29,6 +19,26 @@
             "PTS": "2",
             "PF": "82",
             "PA": "78"
+        },
+        {
+            "Team": "Richmond Hill HS",
+            "GP": "1",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "2",
+            "PF": "43",
+            "PA": "39"
+        },
+        {
+            "Team": "Unionville HS",
+            "GP": "1",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "2",
+            "PF": "68",
+            "PA": "63"
         },
         {
             "Team": "St. Robert",
@@ -51,16 +61,6 @@
             "PA": "82"
         },
         {
-            "Team": "Richmond Hill HS",
-            "GP": "0",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0"
-        },
-        {
             "Team": "Thornlea SS",
             "GP": "0",
             "W": "0",
@@ -72,13 +72,13 @@
         },
         {
             "Team": "Alexander Mackenzie",
-            "GP": "1",
+            "GP": "2",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "0",
-            "PF": "63",
-            "PA": "68"
+            "PF": "102",
+            "PA": "111"
         },
         {
             "Team": "Bayview SS",
