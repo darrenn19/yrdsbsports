@@ -21,14 +21,14 @@
             "PA": "78"
         },
         {
-            "Team": "Richmond Hill HS",
+            "Team": "Stephen Lewis SS",
             "GP": "1",
             "W": "1",
             "L": "0",
             "T": "0",
             "PTS": "2",
-            "PF": "43",
-            "PA": "39"
+            "PF": "71",
+            "PA": "43"
         },
         {
             "Team": "Unionville HS",
@@ -39,6 +39,16 @@
             "PTS": "2",
             "PF": "68",
             "PA": "63"
+        },
+        {
+            "Team": "Richmond Hill HS",
+            "GP": "1",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "2",
+            "PF": "43",
+            "PA": "39"
         },
         {
             "Team": "St. Robert",
@@ -62,13 +72,13 @@
         },
         {
             "Team": "Thornlea SS",
-            "GP": "0",
+            "GP": "1",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
-            "PF": "0",
-            "PA": "0"
+            "PF": "43",
+            "PA": "71"
         },
         {
             "Team": "Alexander Mackenzie",
@@ -82,16 +92,6 @@
         },
         {
             "Team": "Bayview SS",
-            "GP": "0",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0"
-        },
-        {
-            "Team": "Stephen Lewis SS",
             "GP": "0",
             "W": "0",
             "L": "0",
@@ -352,13 +352,13 @@
         },
         {
             "Team": "Father Bressani",
-            "GP": "1",
-            "W": "1",
+            "GP": "2",
+            "W": "2",
             "L": "0",
             "T": "0",
-            "PTS": "2",
-            "PF": "78",
-            "PA": "42"
+            "PTS": "4",
+            "PF": "140",
+            "PA": "82"
         },
         {
             "Team": "Emily Carr",
@@ -432,13 +432,13 @@
         },
         {
             "Team": "ESC De L Ascension",
-            "GP": "0",
+            "GP": "1",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
-            "PF": "0",
-            "PA": "0"
+            "PF": "40",
+            "PA": "62"
         },
         {
             "Team": "St. Joan Of Arc",

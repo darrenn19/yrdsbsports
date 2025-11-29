@@ -166,17 +166,6 @@
             "DIFF": "19"
         },
         {
-            "Team": "Pierre Elliott Trudeau",
-            "GP": "2",
-            "W": "2",
-            "L": "0",
-            "T": "0",
-            "PTS": "4",
-            "PF": "143",
-            "PA": "93",
-            "DIFF": "30"
-        },
-        {
             "Team": "Bur Oak SS",
             "GP": "2",
             "W": "2",
@@ -186,6 +175,17 @@
             "PF": "135",
             "PA": "109",
             "DIFF": "26"
+        },
+        {
+            "Team": "Pierre Elliott Trudeau",
+            "GP": "2",
+            "W": "2",
+            "L": "0",
+            "T": "0",
+            "PTS": "4",
+            "PF": "143",
+            "PA": "93",
+            "DIFF": "30"
         },
         {
             "Team": "Father McGivney",
@@ -221,6 +221,17 @@
             "DIFF": "-2"
         },
         {
+            "Team": "St. Augustine",
+            "GP": "2",
+            "W": "1",
+            "L": "1",
+            "T": "0",
+            "PTS": "2",
+            "PF": "117",
+            "PA": "125",
+            "DIFF": "-8"
+        },
+        {
             "Team": "Middlefield",
             "GP": "2",
             "W": "1",
@@ -233,14 +244,14 @@
         },
         {
             "Team": "St. Brother Andre",
-            "GP": "1",
+            "GP": "2",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "0",
-            "PF": "58",
-            "PA": "60",
-            "DIFF": "-2"
+            "PF": "117",
+            "PA": "122",
+            "DIFF": "-5"
         },
         {
             "Team": "Markham District",
@@ -274,17 +285,6 @@
             "PF": "51",
             "PA": "65",
             "DIFF": "-14"
-        },
-        {
-            "Team": "St. Augustine",
-            "GP": "1",
-            "W": "0",
-            "L": "1",
-            "T": "0",
-            "PTS": "0",
-            "PF": "55",
-            "PA": "66",
-            "DIFF": "-11"
         },
         {
             "Team": "North",
