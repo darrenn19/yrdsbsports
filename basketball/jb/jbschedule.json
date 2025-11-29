@@ -1,60 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, November 27, 2025",
-            "home_team": "Alexander Mackenzie",
-            "away_team": "Richmond Hill HS",
-            "time": "4:45 PM",
-            "location": "Alexander Mackenzie HS",
-            "game_played": true,
-            "final_score": "Alexander Mackenzie 39, Richmond Hill HS 43"
-        },
-        {
-            "date": "Thursday, November 27, 2025",
-            "home_team": "Markville",
-            "away_team": "Middlefield",
-            "time": "3:45 PM",
-            "location": "Markville SS",
-            "game_played": true,
-            "final_score": "Markville 81, Middlefield 33"
-        },
-        {
-            "date": "Thursday, November 27, 2025",
-            "home_team": "Milliken Mills",
-            "away_team": "Markham District",
-            "time": "4:45 PM",
-            "location": "Milliken Mills HS",
-            "game_played": true,
-            "final_score": "Milliken Mills 36, Markham District 77"
-        },
-        {
-            "date": "Thursday, November 27, 2025",
-            "home_team": "St. Katharine Drexel",
-            "away_team": "Bur Oak SS",
-            "time": "4:45 PM",
-            "location": "St Katharine Drexel CHS",
-            "game_played": true,
-            "final_score": "St. Katharine Drexel 11, Bur Oak SS 59"
-        },
-        {
-            "date": "Thursday, November 27, 2025",
-            "home_team": "Stouffville",
-            "away_team": "Bill Hogarth SS",
-            "time": "4:45 PM",
-            "location": "Stouffville DSS",
-            "game_played": true,
-            "final_score": "Stouffville 60, Bill Hogarth SS 33"
-        },
-        {
-            "date": "Thursday, November 27, 2025",
-            "home_team": "Thornlea SS",
-            "away_team": "Stephen Lewis SS",
-            "time": "3:45 PM",
-            "location": "Thornlea SS",
-            "game_played": true,
-            "final_score": "Thornlea SS 43, Stephen Lewis SS 71"
-        },
-        {
             "date": "Friday, November 28, 2025",
             "home_team": null,
             "away_team": null,
@@ -101,6 +47,15 @@
         },
         {
             "date": "Wednesday, December 3, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, December 4, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

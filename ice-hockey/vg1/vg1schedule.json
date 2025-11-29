@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, November 27, 2025",
-            "home_team": "St. Theresa Of Lisieux",
-            "away_team": "Cardinal Carter",
-            "time": "3:00 PM",
-            "location": "Bond Lake Arena",
-            "game_played": true,
-            "final_score": "St. Theresa Of Lisieux 9, Cardinal Carter 1"
-        },
-        {
             "date": "Friday, November 28, 2025",
             "home_team": null,
             "away_team": null,
@@ -56,6 +47,15 @@
         },
         {
             "date": "Wednesday, December 3, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, December 4, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

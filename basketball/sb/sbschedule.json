@@ -1,42 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, November 27, 2025",
-            "home_team": "Alexander Mackenzie",
-            "away_team": "Richmond Green SS",
-            "time": "3:30 PM",
-            "location": "Alexander Mackenzie HS",
-            "game_played": true,
-            "final_score": "Alexander Mackenzie 67, Richmond Green SS 63"
-        },
-        {
-            "date": "Thursday, November 27, 2025",
-            "home_team": "Bill Crothers SS",
-            "away_team": "Middlefield",
-            "time": "3:45 PM",
-            "location": "Bill Crothers SS",
-            "game_played": true,
-            "final_score": "Bill Crothers SS 67, Middlefield 51"
-        },
-        {
-            "date": "Thursday, November 27, 2025",
-            "home_team": "St. Katharine Drexel",
-            "away_team": "Bur Oak SS",
-            "time": "3:30 PM",
-            "location": "St Katharine Drexel CHS",
-            "game_played": true,
-            "final_score": "St. Katharine Drexel 54, Bur Oak SS 69"
-        },
-        {
-            "date": "Thursday, November 27, 2025",
-            "home_team": "Stouffville",
-            "away_team": "Bill Hogarth SS",
-            "time": "3:30 PM",
-            "location": "Stouffville DSS",
-            "game_played": true,
-            "final_score": "Stouffville 71, Bill Hogarth SS 75"
-        },
-        {
             "date": "Friday, November 28, 2025",
             "home_team": "St. Brother Andre",
             "away_team": "St. Augustine",
@@ -83,6 +47,15 @@
         },
         {
             "date": "Wednesday, December 3, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, December 4, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
