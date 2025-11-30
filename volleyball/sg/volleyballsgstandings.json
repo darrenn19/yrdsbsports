@@ -193,16 +193,16 @@
             "DIFF": "68"
         },
         {
-            "Team": "Father McGivney",
-            "MP": "2",
+            "Team": "Bur Oak SS",
+            "MP": "1",
             "MW": "1",
-            "ML": "1",
+            "ML": "0",
             "GW": "2",
-            "GL": "2",
+            "GL": "0",
             "PTS": "1",
-            "PF": "76",
-            "PA": "81",
-            "DIFF": "-5"
+            "PF": "53",
+            "PA": "47",
+            "DIFF": "6"
         },
         {
             "Team": "Middlefield",
@@ -215,6 +215,18 @@
             "PF": "98",
             "PA": "114",
             "DIFF": "-16"
+        },
+        {
+            "Team": "Father McGivney",
+            "MP": "2",
+            "MW": "1",
+            "ML": "1",
+            "GW": "2",
+            "GL": "2",
+            "PTS": "1",
+            "PF": "76",
+            "PA": "81",
+            "DIFF": "-5"
         },
         {
             "Team": "St. Brother Andre",
@@ -230,15 +242,15 @@
         },
         {
             "Team": "Bill Crothers SS",
-            "MP": "1",
+            "MP": "2",
             "MW": "0",
-            "ML": "1",
+            "ML": "2",
             "GW": "0",
-            "GL": "2",
+            "GL": "4",
             "PTS": "0",
-            "PF": "28",
-            "PA": "50",
-            "DIFF": "-22"
+            "PF": "75",
+            "PA": "103",
+            "DIFF": "-28"
         },
         {
             "Team": "Pierre Elliott Trudeau",
@@ -263,18 +275,6 @@
             "PF": "88",
             "PA": "101",
             "DIFF": "-13"
-        },
-        {
-            "Team": "Bur Oak SS",
-            "MP": "0",
-            "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
         },
         {
             "Team": "Milliken Mills",
