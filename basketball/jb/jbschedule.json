@@ -38,6 +38,15 @@
         },
         {
             "date": "Monday, December 1, 2025",
+            "home_team": "Markham District",
+            "away_team": "Middlefield",
+            "time": "3:30 PM",
+            "location": "Markham DHS",
+            "game_played": true,
+            "final_score": "Markham District 68, Middlefield 35"
+        },
+        {
+            "date": "Monday, December 1, 2025",
             "home_team": "St. Joan Of Arc",
             "away_team": "Toronto District Christian",
             "time": "3:30 PM",
