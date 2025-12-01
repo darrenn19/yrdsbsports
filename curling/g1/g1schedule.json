@@ -11,12 +11,12 @@
         },
         {
             "date": "Monday, December 1, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "St. Theresa Of Lisieux",
+            "away_team": "Bill Crothers SS",
+            "time": "2:30 PM",
+            "location": "York Curling Club",
+            "game_played": true,
+            "final_score": "St. Theresa Of Lisieux 3, Bill Crothers SS 4"
         },
         {
             "date": "Tuesday, December 2, 2025",
