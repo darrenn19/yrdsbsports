@@ -11,12 +11,48 @@
         },
         {
             "date": "Monday, December 1, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Bur Oak SS",
+            "away_team": "Pierre Elliott Trudeau",
+            "time": "3:30 PM",
+            "location": "Bur Oak SS",
+            "game_played": true,
+            "final_score": "Bur Oak SS 72, Pierre Elliott Trudeau 35"
+        },
+        {
+            "date": "Monday, December 1, 2025",
+            "home_team": "Father McGivney",
+            "away_team": "Milliken Mills",
+            "time": "3:30 PM",
+            "location": "Father Michael McGivney CA",
+            "game_played": true,
+            "final_score": "Father McGivney 53, Milliken Mills 46"
+        },
+        {
+            "date": "Monday, December 1, 2025",
+            "home_team": "Holy Cross",
+            "away_team": "Westmount",
+            "time": "3:30 PM",
+            "location": "Holy Cross CA",
+            "game_played": true,
+            "final_score": "Holy Cross 58, Westmount 71"
+        },
+        {
+            "date": "Monday, December 1, 2025",
+            "home_team": "St. Maximilian",
+            "away_team": "Dr. G.W. Williams",
+            "time": "3:30 PM",
+            "location": "St Maximilian Kolbe CHS",
+            "game_played": true,
+            "final_score": "St. Maximilian 72, Dr. G.W. Williams 73"
+        },
+        {
+            "date": "Monday, December 1, 2025",
+            "home_team": "Stouffville",
+            "away_team": "Markville",
+            "time": "3:30 PM",
+            "location": "Stouffville DSS",
+            "game_played": true,
+            "final_score": "Stouffville 25, Markville 72"
         },
         {
             "date": "Tuesday, December 2, 2025",
