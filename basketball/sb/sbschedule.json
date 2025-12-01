@@ -19,6 +19,15 @@
             "final_score": "King City SS 64, Aurora HS 63"
         },
         {
+            "date": "Monday, December 1, 2025",
+            "home_team": "Woodbridge College",
+            "away_team": "Tommy Douglas SS",
+            "time": "4:45 PM",
+            "location": "Woodbridge College",
+            "game_played": true,
+            "final_score": "Woodbridge College 34, Tommy Douglas SS 69"
+        },
+        {
             "date": "Tuesday, December 2, 2025",
             "home_team": null,
             "away_team": null,

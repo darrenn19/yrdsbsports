@@ -38,6 +38,15 @@
         },
         {
             "date": "Monday, December 1, 2025",
+            "home_team": "St. Joan Of Arc",
+            "away_team": "Toronto District Christian",
+            "time": "3:30 PM",
+            "location": "St Joan Of Arc CHS",
+            "game_played": true,
+            "final_score": "St. Joan Of Arc 60, Toronto District Christian 46"
+        },
+        {
+            "date": "Monday, December 1, 2025",
             "home_team": "St. Maximilian",
             "away_team": "Dr. G.W. Williams",
             "time": "3:30 PM",
@@ -53,6 +62,15 @@
             "location": "Stouffville DSS",
             "game_played": true,
             "final_score": "Stouffville 25, Markville 72"
+        },
+        {
+            "date": "Monday, December 1, 2025",
+            "home_team": "Woodbridge College",
+            "away_team": "ESC De L Ascension",
+            "time": "3:30 PM",
+            "location": "Woodbridge College",
+            "game_played": true,
+            "final_score": "Woodbridge College 61, ESC De L Ascension 25"
         },
         {
             "date": "Tuesday, December 2, 2025",
