@@ -83,6 +83,15 @@
         },
         {
             "date": "Tuesday, December 2, 2025",
+            "home_team": "Keswick High School",
+            "away_team": "Huron Heights",
+            "time": "3:30 PM",
+            "location": "Keswick HS",
+            "game_played": true,
+            "final_score": "Keswick High School 53, Huron Heights 39"
+        },
+        {
+            "date": "Tuesday, December 2, 2025",
             "home_team": "Langstaff SS",
             "away_team": "Richmond Hill HS",
             "time": "3:30 PM",
