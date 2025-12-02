@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Sunday, November 30, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
-        },
-        {
             "date": "Monday, December 1, 2025",
             "home_team": "Father Bressani",
             "away_team": "Alexander Mackenzie",
@@ -65,6 +56,15 @@
         },
         {
             "date": "Saturday, December 6, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Sunday, December 7, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
