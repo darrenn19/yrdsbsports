@@ -101,12 +101,12 @@
         },
         {
             "date": "Tuesday, December 2, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Emily Carr",
+            "away_team": "St. Jean De Brebeuf CHS",
+            "time": "4:45 PM",
+            "location": "Emily Carr SS",
+            "game_played": true,
+            "final_score": "Emily Carr 26, St. Jean De Brebeuf CHS 68"
         },
         {
             "date": "Wednesday, December 3, 2025",
