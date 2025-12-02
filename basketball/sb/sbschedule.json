@@ -83,6 +83,15 @@
         },
         {
             "date": "Monday, December 1, 2025",
+            "home_team": "Stouffville",
+            "away_team": "Bill Crothers SS",
+            "time": "4:45 PM",
+            "location": "Stouffville DSS",
+            "game_played": true,
+            "final_score": "Stouffville 76, Bill Crothers SS 91"
+        },
+        {
+            "date": "Monday, December 1, 2025",
             "home_team": "Woodbridge College",
             "away_team": "Tommy Douglas SS",
             "time": "4:45 PM",

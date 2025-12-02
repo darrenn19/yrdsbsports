@@ -19,6 +19,15 @@
             "final_score": "Father Bressani 11, Alexander Mackenzie 0"
         },
         {
+            "date": "Monday, December 1, 2025",
+            "home_team": "Dr. J.M. Denison",
+            "away_team": "Keswick High School",
+            "time": "2:45 PM",
+            "location": "Magna Centre",
+            "game_played": true,
+            "final_score": "Dr. J.M. Denison 4, Keswick High School 4"
+        },
+        {
             "date": "Tuesday, December 2, 2025",
             "home_team": null,
             "away_team": null,
