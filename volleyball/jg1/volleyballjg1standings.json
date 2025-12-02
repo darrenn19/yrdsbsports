@@ -13,6 +13,18 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "St. Theresa Of Lisieux",
+            "MP": "2",
+            "MW": "2",
+            "ML": "0",
+            "GW": "4",
+            "GL": "1",
+            "PTS": "2",
+            "PF": "112",
+            "PA": "82",
+            "DIFF": "30"
+        },
+        {
             "Team": "Thornlea SS",
             "MP": "2",
             "MW": "2",
@@ -25,28 +37,16 @@
             "DIFF": "30"
         },
         {
-            "Team": "St. Theresa Of Lisieux",
-            "MP": "2",
-            "MW": "1",
-            "ML": "0",
-            "GW": "3",
-            "GL": "1",
-            "PTS": "1",
-            "PF": "112",
-            "PA": "92",
-            "DIFF": "20"
-        },
-        {
             "Team": "Richmond Hill HS",
             "MP": "2",
             "MW": "0",
-            "ML": "1",
+            "ML": "2",
             "GW": "1",
-            "GL": "3",
+            "GL": "4",
             "PTS": "0",
-            "PF": "79",
+            "PF": "69",
             "PA": "111",
-            "DIFF": "-32"
+            "DIFF": "-42"
         },
         {
             "Team": "Alexander Mackenzie",
@@ -86,15 +86,15 @@
         },
         {
             "Team": "Markham District",
-            "MP": "1",
-            "MW": "1",
+            "MP": "2",
+            "MW": "2",
             "ML": "0",
-            "GW": "2",
-            "GL": "1",
-            "PTS": "1",
-            "PF": "49",
-            "PA": "61",
-            "DIFF": "-12"
+            "GW": "4",
+            "GL": "2",
+            "PTS": "2",
+            "PF": "113",
+            "PA": "122",
+            "DIFF": "-9"
         },
         {
             "Team": "Bill Crothers SS",
@@ -122,15 +122,15 @@
         },
         {
             "Team": "Milliken Mills",
-            "MP": "0",
+            "MP": "1",
             "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
+            "ML": "1",
+            "GW": "1",
+            "GL": "2",
             "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "PF": "61",
+            "PA": "64",
+            "DIFF": "-3"
         },
         {
             "Team": "St. Augustine",

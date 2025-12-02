@@ -12,6 +12,17 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Cardinal Carter",
+            "GP": "5",
+            "W": "4",
+            "L": "1",
+            "T": "0",
+            "PTS": "8",
+            "GF": "24",
+            "GA": "13",
+            "DIFF": "11"
+        },
+        {
             "Team": "Father Bressani",
             "GP": "3",
             "W": "3",
@@ -21,17 +32,6 @@
             "GF": "18",
             "GA": "6",
             "DIFF": "12"
-        },
-        {
-            "Team": "Cardinal Carter",
-            "GP": "4",
-            "W": "3",
-            "L": "1",
-            "T": "0",
-            "PTS": "6",
-            "GF": "20",
-            "GA": "11",
-            "DIFF": "9"
         },
         {
             "Team": "St. Maximilian",
@@ -68,14 +68,14 @@
         },
         {
             "Team": "King City SS",
-            "GP": "2",
+            "GP": "3",
             "W": "1",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "2",
-            "GF": "7",
-            "GA": "5",
-            "DIFF": "2"
+            "GF": "9",
+            "GA": "9",
+            "DIFF": "0"
         },
         {
             "Team": "Stouffville",
