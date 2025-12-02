@@ -20,12 +20,12 @@
         },
         {
             "date": "Tuesday, December 2, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Markham District",
+            "away_team": "St. Augustine",
+            "time": "2:30 PM",
+            "location": "Markham Village Arena",
+            "game_played": true,
+            "final_score": "Markham District 2, St. Augustine 1"
         },
         {
             "date": "Wednesday, December 3, 2025",
