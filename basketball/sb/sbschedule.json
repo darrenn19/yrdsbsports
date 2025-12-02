@@ -118,6 +118,15 @@
             "final_score": "Emily Carr 26, St. Jean De Brebeuf CHS 68"
         },
         {
+            "date": "Tuesday, December 2, 2025",
+            "home_team": "Unionville HS",
+            "away_team": "Stephen Lewis SS",
+            "time": "4:45 PM",
+            "location": "Unionville HS",
+            "game_played": true,
+            "final_score": "Unionville HS 64, Stephen Lewis SS 96"
+        },
+        {
             "date": "Wednesday, December 3, 2025",
             "home_team": null,
             "away_team": null,
