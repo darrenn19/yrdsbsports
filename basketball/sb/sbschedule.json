@@ -11,6 +11,15 @@
         },
         {
             "date": "Monday, December 1, 2025",
+            "home_team": "Bur Oak SS",
+            "away_team": "Pierre Elliott Trudeau",
+            "time": "4:45 PM",
+            "location": "Bur Oak SS",
+            "game_played": true,
+            "final_score": "Bur Oak SS 57, Pierre Elliott Trudeau 53"
+        },
+        {
+            "date": "Monday, December 1, 2025",
             "home_team": "Cardinal Carter",
             "away_team": "Dr. J.M. Denison",
             "time": "3:45 PM",
@@ -29,6 +38,15 @@
         },
         {
             "date": "Monday, December 1, 2025",
+            "home_team": "Holy Cross",
+            "away_team": "Hodan Nalayeh SS",
+            "time": "4:45 PM",
+            "location": "Holy Cross CA",
+            "game_played": true,
+            "final_score": "Holy Cross 67, Hodan Nalayeh SS 70"
+        },
+        {
+            "date": "Monday, December 1, 2025",
             "home_team": "King City SS",
             "away_team": "Aurora HS",
             "time": "3:45 PM",
@@ -38,12 +56,30 @@
         },
         {
             "date": "Monday, December 1, 2025",
+            "home_team": "St. Brother Andre",
+            "away_team": "St. Katharine Drexel",
+            "time": "3:45 PM",
+            "location": "St Brother Andre CHS",
+            "game_played": true,
+            "final_score": "St. Brother Andre 64, St. Katharine Drexel 44"
+        },
+        {
+            "date": "Monday, December 1, 2025",
             "home_team": "St. Joan Of Arc",
             "away_team": "Toronto District Christian",
             "time": "4:45 PM",
             "location": "St Joan Of Arc CHS",
             "game_played": true,
             "final_score": "St. Joan Of Arc 54, Toronto District Christian 76"
+        },
+        {
+            "date": "Monday, December 1, 2025",
+            "home_team": "St. Maximilian",
+            "away_team": "Dr. G.W. Williams",
+            "time": "4:45 PM",
+            "location": "St Maximilian Kolbe CHS",
+            "game_played": true,
+            "final_score": "St. Maximilian 67, Dr. G.W. Williams 61"
         },
         {
             "date": "Monday, December 1, 2025",
