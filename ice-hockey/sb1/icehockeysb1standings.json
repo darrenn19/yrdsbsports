@@ -34,6 +34,17 @@
             "DIFF": "9"
         },
         {
+            "Team": "St. Maximilian",
+            "GP": "3",
+            "W": "2",
+            "L": "1",
+            "T": "0",
+            "PTS": "4",
+            "GF": "11",
+            "GA": "7",
+            "DIFF": "4"
+        },
+        {
             "Team": "St. Jean De Brebeuf CHS",
             "GP": "3",
             "W": "1",
@@ -45,26 +56,15 @@
             "DIFF": "-2"
         },
         {
-            "Team": "St. Maximilian",
-            "GP": "2",
-            "W": "1",
-            "L": "1",
-            "T": "0",
-            "PTS": "2",
-            "GF": "6",
-            "GA": "7",
-            "DIFF": "-1"
-        },
-        {
             "Team": "St. Theresa Of Lisieux",
-            "GP": "2",
+            "GP": "3",
             "W": "1",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "2",
             "GF": "2",
-            "GA": "8",
-            "DIFF": "-6"
+            "GA": "13",
+            "DIFF": "-11"
         },
         {
             "Team": "King City SS",

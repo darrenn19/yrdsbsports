@@ -13,28 +13,40 @@
             "DIFF": "DIFF"
         },
         {
-            "Team": "Richmond Hill HS",
-            "MP": "0",
-            "MW": "0",
+            "Team": "Thornlea SS",
+            "MP": "2",
+            "MW": "2",
             "ML": "0",
-            "GW": "0",
+            "GW": "4",
             "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "PTS": "2",
+            "PF": "100",
+            "PA": "70",
+            "DIFF": "30"
         },
         {
-            "Team": "Thornlea SS",
-            "MP": "0",
-            "MW": "0",
+            "Team": "St. Theresa Of Lisieux",
+            "MP": "2",
+            "MW": "1",
             "ML": "0",
-            "GW": "0",
-            "GL": "0",
+            "GW": "3",
+            "GL": "1",
+            "PTS": "1",
+            "PF": "112",
+            "PA": "92",
+            "DIFF": "20"
+        },
+        {
+            "Team": "Richmond Hill HS",
+            "MP": "2",
+            "MW": "0",
+            "ML": "1",
+            "GW": "1",
+            "GL": "3",
             "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "PF": "79",
+            "PA": "111",
+            "DIFF": "-32"
         },
         {
             "Team": "Alexander Mackenzie",
@@ -50,27 +62,15 @@
         },
         {
             "Team": "St. Robert",
-            "MP": "0",
+            "MP": "2",
             "MW": "0",
-            "ML": "0",
+            "ML": "2",
             "GW": "0",
-            "GL": "0",
+            "GL": "4",
             "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "St. Theresa Of Lisieux",
-            "MP": "0",
-            "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "PF": "83",
+            "PA": "101",
+            "DIFF": "-18"
         },
         {
             "Team": "East",
@@ -85,28 +85,28 @@
             "DIFF": "DIFF"
         },
         {
-            "Team": "Bill Crothers SS",
-            "MP": "0",
-            "MW": "0",
+            "Team": "Markham District",
+            "MP": "1",
+            "MW": "1",
             "ML": "0",
-            "GW": "0",
-            "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "GW": "2",
+            "GL": "1",
+            "PTS": "1",
+            "PF": "49",
+            "PA": "61",
+            "DIFF": "-12"
         },
         {
-            "Team": "Markham District",
-            "MP": "0",
-            "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "Team": "Bill Crothers SS",
+            "MP": "2",
+            "MW": "1",
+            "ML": "1",
+            "GW": "3",
+            "GL": "3",
+            "PTS": "1",
+            "PF": "119",
+            "PA": "89",
+            "DIFF": "30"
         },
         {
             "Team": "Bill Hogarth SS",
@@ -134,15 +134,15 @@
         },
         {
             "Team": "St. Augustine",
-            "MP": "0",
+            "MP": "1",
             "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
+            "ML": "1",
+            "GW": "1",
+            "GL": "2",
             "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "PF": "40",
+            "PA": "58",
+            "DIFF": "-18"
         },
         {
             "Team": "North",
@@ -157,6 +157,42 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "St. Maximilian",
+            "MP": "2",
+            "MW": "2",
+            "ML": "0",
+            "GW": "4",
+            "GL": "1",
+            "PTS": "2",
+            "PF": "112",
+            "PA": "90",
+            "DIFF": "22"
+        },
+        {
+            "Team": "Dr. G.W. Williams",
+            "MP": "2",
+            "MW": "1",
+            "ML": "1",
+            "GW": "3",
+            "GL": "2",
+            "PTS": "1",
+            "PF": "108",
+            "PA": "88",
+            "DIFF": "20"
+        },
+        {
+            "Team": "Sir William Mulock",
+            "MP": "2",
+            "MW": "1",
+            "ML": "1",
+            "GW": "2",
+            "GL": "2",
+            "PTS": "1",
+            "PF": "82",
+            "PA": "92",
+            "DIFF": "-10"
+        },
+        {
             "Team": "Sacred Heart",
             "MP": "0",
             "MW": "0",
@@ -169,55 +205,19 @@
             "DIFF": "0"
         },
         {
-            "Team": "Sir William Mulock",
-            "MP": "0",
-            "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "St. Maximilian",
-            "MP": "0",
-            "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
-        },
-        {
             "Team": "Aurora HS",
-            "MP": "0",
+            "MP": "2",
             "MW": "0",
-            "ML": "0",
+            "ML": "2",
             "GW": "0",
-            "GL": "0",
+            "GL": "4",
             "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "PF": "68",
+            "PA": "100",
+            "DIFF": "-32"
         },
         {
             "Team": "Cardinal Carter",
-            "MP": "0",
-            "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "Dr. G.W. Williams",
             "MP": "0",
             "MW": "0",
             "ML": "0",
