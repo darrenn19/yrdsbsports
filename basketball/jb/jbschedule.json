@@ -91,6 +91,15 @@
             "final_score": "Langstaff SS 46, Richmond Hill HS 67"
         },
         {
+            "date": "Tuesday, December 2, 2025",
+            "home_team": "Unionville HS",
+            "away_team": "Stephen Lewis SS",
+            "time": "3:30 PM",
+            "location": "Unionville HS",
+            "game_played": true,
+            "final_score": "Unionville HS 52, Stephen Lewis SS 54"
+        },
+        {
             "date": "Wednesday, December 3, 2025",
             "home_team": null,
             "away_team": null,
