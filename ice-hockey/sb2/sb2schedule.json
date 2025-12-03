@@ -1,24 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, December 1, 2025",
-            "home_team": "Father Bressani",
-            "away_team": "Alexander Mackenzie",
-            "time": "2:15 PM",
-            "location": "Al Palladini Community Centre",
-            "game_played": true,
-            "final_score": "Father Bressani 11, Alexander Mackenzie 0"
-        },
-        {
-            "date": "Monday, December 1, 2025",
-            "home_team": "Dr. J.M. Denison",
-            "away_team": "Keswick High School",
-            "time": "2:45 PM",
-            "location": "Magna Centre",
-            "game_played": true,
-            "final_score": "Dr. J.M. Denison 4, Keswick High School 4"
-        },
-        {
             "date": "Tuesday, December 2, 2025",
             "home_team": "Markham District",
             "away_team": "St. Augustine",
@@ -65,6 +47,15 @@
         },
         {
             "date": "Sunday, December 7, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, December 8, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

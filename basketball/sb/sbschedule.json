@@ -1,105 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, December 1, 2025",
-            "home_team": "Bur Oak SS",
-            "away_team": "Pierre Elliott Trudeau",
-            "time": "4:45 PM",
-            "location": "Bur Oak SS",
-            "game_played": true,
-            "final_score": "Bur Oak SS 57, Pierre Elliott Trudeau 53"
-        },
-        {
-            "date": "Monday, December 1, 2025",
-            "home_team": "Cardinal Carter",
-            "away_team": "Dr. J.M. Denison",
-            "time": "3:45 PM",
-            "location": "Cardinal Carter CHS",
-            "game_played": true,
-            "final_score": "Cardinal Carter 36, Dr. J.M. Denison 70"
-        },
-        {
-            "date": "Monday, December 1, 2025",
-            "home_team": "Father McGivney",
-            "away_team": "Milliken Mills",
-            "time": "4:45 PM",
-            "location": "Father Michael McGivney CA",
-            "game_played": true,
-            "final_score": "Father McGivney 70, Milliken Mills 42"
-        },
-        {
-            "date": "Monday, December 1, 2025",
-            "home_team": "Holy Cross",
-            "away_team": "Hodan Nalayeh SS",
-            "time": "4:45 PM",
-            "location": "Holy Cross CA",
-            "game_played": true,
-            "final_score": "Holy Cross 67, Hodan Nalayeh SS 70"
-        },
-        {
-            "date": "Monday, December 1, 2025",
-            "home_team": "King City SS",
-            "away_team": "Aurora HS",
-            "time": "3:45 PM",
-            "location": "King City SS",
-            "game_played": true,
-            "final_score": "King City SS 64, Aurora HS 63"
-        },
-        {
-            "date": "Monday, December 1, 2025",
-            "home_team": "Markham District",
-            "away_team": "Middlefield",
-            "time": "4:45 PM",
-            "location": "Markham DHS",
-            "game_played": true,
-            "final_score": "Markham District 63, Middlefield 39"
-        },
-        {
-            "date": "Monday, December 1, 2025",
-            "home_team": "St. Brother Andre",
-            "away_team": "St. Katharine Drexel",
-            "time": "3:45 PM",
-            "location": "St Brother Andre CHS",
-            "game_played": true,
-            "final_score": "St. Brother Andre 64, St. Katharine Drexel 44"
-        },
-        {
-            "date": "Monday, December 1, 2025",
-            "home_team": "St. Joan Of Arc",
-            "away_team": "Toronto District Christian",
-            "time": "4:45 PM",
-            "location": "St Joan Of Arc CHS",
-            "game_played": true,
-            "final_score": "St. Joan Of Arc 54, Toronto District Christian 76"
-        },
-        {
-            "date": "Monday, December 1, 2025",
-            "home_team": "St. Maximilian",
-            "away_team": "Dr. G.W. Williams",
-            "time": "4:45 PM",
-            "location": "St Maximilian Kolbe CHS",
-            "game_played": true,
-            "final_score": "St. Maximilian 67, Dr. G.W. Williams 61"
-        },
-        {
-            "date": "Monday, December 1, 2025",
-            "home_team": "Stouffville",
-            "away_team": "Bill Crothers SS",
-            "time": "4:45 PM",
-            "location": "Stouffville DSS",
-            "game_played": true,
-            "final_score": "Stouffville 76, Bill Crothers SS 91"
-        },
-        {
-            "date": "Monday, December 1, 2025",
-            "home_team": "Woodbridge College",
-            "away_team": "Tommy Douglas SS",
-            "time": "4:45 PM",
-            "location": "Woodbridge College",
-            "game_played": true,
-            "final_score": "Woodbridge College 34, Tommy Douglas SS 69"
-        },
-        {
             "date": "Tuesday, December 2, 2025",
             "home_team": "Bill Hogarth SS",
             "away_team": "St. Augustine",
@@ -200,6 +101,15 @@
         },
         {
             "date": "Sunday, December 7, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, December 8, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

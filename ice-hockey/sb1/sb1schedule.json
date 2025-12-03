@@ -1,24 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, December 1, 2025",
-            "home_team": "Cardinal Carter",
-            "away_team": "King City SS",
-            "time": "2:45 PM",
-            "location": "Aurora Community Centre",
-            "game_played": true,
-            "final_score": "Cardinal Carter 4, King City SS 2"
-        },
-        {
-            "date": "Monday, December 1, 2025",
-            "home_team": "St. Theresa Of Lisieux",
-            "away_team": "St. Maximilian",
-            "time": "2:30 PM",
-            "location": "Honey And Barry Memorial Arena",
-            "game_played": true,
-            "final_score": "St. Theresa Of Lisieux 0, St. Maximilian 5"
-        },
-        {
             "date": "Tuesday, December 2, 2025",
             "home_team": null,
             "away_team": null,
@@ -65,6 +47,15 @@
         },
         {
             "date": "Sunday, December 7, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, December 8, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

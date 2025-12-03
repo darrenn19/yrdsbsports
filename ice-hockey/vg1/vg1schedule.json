@@ -1,24 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, December 1, 2025",
-            "home_team": "Keswick High School",
-            "away_team": "Huron Heights",
-            "time": "2:30 PM",
-            "location": "Georgina Ice Palace",
-            "game_played": true,
-            "final_score": "Keswick High School 1, Huron Heights 2"
-        },
-        {
-            "date": "Monday, December 1, 2025",
-            "home_team": "Newmarket HS",
-            "away_team": "Dr. G.W. Williams",
-            "time": "2:30 PM",
-            "location": "Magna Centre",
-            "game_played": true,
-            "final_score": "Newmarket HS 3, Dr. G.W. Williams 2"
-        },
-        {
             "date": "Tuesday, December 2, 2025",
             "home_team": null,
             "away_team": null,
@@ -65,6 +47,15 @@
         },
         {
             "date": "Sunday, December 7, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, December 8, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
