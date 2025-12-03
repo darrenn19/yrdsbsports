@@ -13,6 +13,18 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "St. Augustine",
+            "W": "2",
+            "L": "1",
+            "T": "0",
+            "PTS": "4",
+            "EW": "11",
+            "EL": "7",
+            "PF": "21",
+            "PA": "15",
+            "DIFF": "6"
+        },
+        {
             "Team": "Sacred Heart",
             "W": "2",
             "L": "0",
@@ -23,18 +35,6 @@
             "PF": "20",
             "PA": "5",
             "DIFF": "15"
-        },
-        {
-            "Team": "Tommy Douglas SS",
-            "W": "1",
-            "L": "0",
-            "T": "0",
-            "PTS": "2",
-            "EW": "4",
-            "EL": "2",
-            "PF": "12",
-            "PA": "2",
-            "DIFF": "10"
         },
         {
             "Team": "King City SS",
@@ -61,28 +61,28 @@
             "DIFF": "-5"
         },
         {
-            "Team": "St. Augustine",
+            "Team": "Tommy Douglas SS",
             "W": "1",
-            "L": "1",
+            "L": "0",
             "T": "0",
             "PTS": "2",
-            "EW": "6",
-            "EL": "6",
-            "PF": "9",
-            "PA": "13",
-            "DIFF": "-4"
+            "EW": "4",
+            "EL": "2",
+            "PF": "12",
+            "PA": "2",
+            "DIFF": "10"
         },
         {
             "Team": "St. Robert",
             "W": "0",
-            "L": "2",
+            "L": "3",
             "T": "0",
             "PTS": "0",
-            "EW": "5",
-            "EL": "7",
-            "PF": "6",
-            "PA": "16",
-            "DIFF": "-10"
+            "EW": "6",
+            "EL": "12",
+            "PF": "8",
+            "PA": "28",
+            "DIFF": "-20"
         },
         {
             "Team": "St. Theresa Of Lisieux",

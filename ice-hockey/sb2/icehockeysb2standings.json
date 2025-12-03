@@ -12,6 +12,17 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Markham District",
+            "GP": "5",
+            "W": "5",
+            "L": "0",
+            "T": "0",
+            "PTS": "10",
+            "GF": "28",
+            "GA": "6",
+            "DIFF": "22"
+        },
+        {
             "Team": "St. Robert",
             "GP": "6",
             "W": "4",
@@ -23,26 +34,15 @@
             "DIFF": "10"
         },
         {
-            "Team": "Markham District",
-            "GP": "4",
-            "W": "4",
-            "L": "0",
-            "T": "0",
-            "PTS": "8",
-            "GF": "26",
-            "GA": "5",
-            "DIFF": "21"
-        },
-        {
             "Team": "St. Augustine",
-            "GP": "3",
+            "GP": "4",
             "W": "2",
-            "L": "0",
+            "L": "1",
             "T": "1",
             "PTS": "5",
-            "GF": "14",
-            "GA": "9",
-            "DIFF": "5"
+            "GF": "15",
+            "GA": "11",
+            "DIFF": "4"
         },
         {
             "Team": "Bill Hogarth SS",

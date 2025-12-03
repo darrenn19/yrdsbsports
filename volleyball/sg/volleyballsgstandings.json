@@ -434,15 +434,27 @@
         },
         {
             "Team": "Hodan Nalayeh SS",
-            "MP": "4",
-            "MW": "4",
+            "MP": "6",
+            "MW": "6",
             "ML": "0",
-            "GW": "8",
+            "GW": "12",
             "GL": "0",
+            "PTS": "6",
+            "PF": "303",
+            "PA": "203",
+            "DIFF": "100"
+        },
+        {
+            "Team": "Stephen Lewis SS",
+            "MP": "5",
+            "MW": "4",
+            "ML": "1",
+            "GW": "8",
+            "GL": "2",
             "PTS": "4",
-            "PF": "203",
-            "PA": "158",
-            "DIFF": "45"
+            "PF": "238",
+            "PA": "166",
+            "DIFF": "72"
         },
         {
             "Team": "Woodbridge College",
@@ -455,18 +467,6 @@
             "PF": "214",
             "PA": "159",
             "DIFF": "55"
-        },
-        {
-            "Team": "Stephen Lewis SS",
-            "MP": "4",
-            "MW": "3",
-            "ML": "1",
-            "GW": "6",
-            "GL": "2",
-            "PTS": "3",
-            "PF": "188",
-            "PA": "130",
-            "DIFF": "58"
         },
         {
             "Team": "Holy Cross",
@@ -482,15 +482,15 @@
         },
         {
             "Team": "Maple High School",
-            "MP": "4",
+            "MP": "5",
             "MW": "2",
-            "ML": "2",
+            "ML": "3",
             "GW": "4",
-            "GL": "4",
+            "GL": "6",
             "PTS": "2",
-            "PF": "171",
-            "PA": "173",
-            "DIFF": "-2"
+            "PF": "192",
+            "PA": "223",
+            "DIFF": "-31"
         },
         {
             "Team": "Tommy Douglas SS",
@@ -506,15 +506,15 @@
         },
         {
             "Team": "Toronto District Christian",
-            "MP": "4",
+            "MP": "5",
             "MW": "2",
-            "ML": "2",
+            "ML": "3",
             "GW": "6",
-            "GL": "4",
+            "GL": "6",
             "PTS": "2",
-            "PF": "216",
-            "PA": "207",
-            "DIFF": "9"
+            "PF": "252",
+            "PA": "257",
+            "DIFF": "-5"
         },
         {
             "Team": "Emily Carr",
@@ -542,15 +542,15 @@
         },
         {
             "Team": "Father Bressani",
-            "MP": "4",
+            "MP": "5",
             "MW": "1",
-            "ML": "3",
+            "ML": "4",
             "GW": "2",
-            "GL": "6",
+            "GL": "8",
             "PTS": "1",
-            "PF": "123",
-            "PA": "188",
-            "DIFF": "-65"
+            "PF": "147",
+            "PA": "238",
+            "DIFF": "-91"
         },
         {
             "Team": "St. Joan Of Arc",
