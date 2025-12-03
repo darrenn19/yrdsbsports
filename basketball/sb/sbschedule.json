@@ -137,6 +137,15 @@
         },
         {
             "date": "Tuesday, December 2, 2025",
+            "home_team": "Thornhill SS",
+            "away_team": "Alexander Mackenzie",
+            "time": "3:45 PM",
+            "location": "Thornhill SS",
+            "game_played": true,
+            "final_score": "Thornhill SS 84, Alexander Mackenzie 74"
+        },
+        {
+            "date": "Tuesday, December 2, 2025",
             "home_team": "Thornlea SS",
             "away_team": "Our Lady Queen Of The World",
             "time": "3:45 PM",
