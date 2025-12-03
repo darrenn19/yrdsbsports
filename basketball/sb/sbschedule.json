@@ -92,6 +92,15 @@
         },
         {
             "date": "Wednesday, December 3, 2025",
+            "home_team": "Hodan Nalayeh SS",
+            "away_team": "Father Bressani",
+            "time": "3:45 PM",
+            "location": "Hodan Nalayeh Secondary School",
+            "game_played": true,
+            "final_score": "Hodan Nalayeh SS 82, Father Bressani 42"
+        },
+        {
+            "date": "Wednesday, December 3, 2025",
             "home_team": "Middlefield",
             "away_team": "St. Brother Andre",
             "time": "1:45 PM",
