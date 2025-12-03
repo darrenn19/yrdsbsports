@@ -83,6 +83,15 @@
         },
         {
             "date": "Wednesday, December 3, 2025",
+            "home_team": "Markham District",
+            "away_team": "Bur Oak SS",
+            "time": "3:30 PM",
+            "location": "Markham DHS",
+            "game_played": true,
+            "final_score": "Markham District 47, Bur Oak SS 53"
+        },
+        {
+            "date": "Wednesday, December 3, 2025",
             "home_team": "Markville",
             "away_team": "Father McGivney",
             "time": "3:45 PM",
