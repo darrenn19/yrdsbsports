@@ -92,6 +92,15 @@
         },
         {
             "date": "Wednesday, December 3, 2025",
+            "home_team": "Aurora HS",
+            "away_team": "St. Maximilian",
+            "time": "4:45 PM",
+            "location": "Aurora HS",
+            "game_played": true,
+            "final_score": "Aurora HS 37, St. Maximilian 76"
+        },
+        {
+            "date": "Wednesday, December 3, 2025",
             "home_team": "Hodan Nalayeh SS",
             "away_team": "Father Bressani",
             "time": "3:45 PM",
