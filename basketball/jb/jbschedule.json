@@ -56,12 +56,12 @@
         },
         {
             "date": "Wednesday, December 3, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Aurora HS",
+            "away_team": "St. Maximilian",
+            "time": "3:30 PM",
+            "location": "Aurora HS",
+            "game_played": true,
+            "final_score": "Aurora HS 33, St. Maximilian 74"
         },
         {
             "date": "Thursday, December 4, 2025",
