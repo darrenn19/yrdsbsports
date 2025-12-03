@@ -64,6 +64,15 @@
             "final_score": "Aurora HS 33, St. Maximilian 74"
         },
         {
+            "date": "Wednesday, December 3, 2025",
+            "home_team": "Dr. G.W. Williams",
+            "away_team": "Cardinal Carter",
+            "time": "3:30 PM",
+            "location": "Dr G W Williams SS",
+            "game_played": true,
+            "final_score": "Dr. G.W. Williams 50, Cardinal Carter 35"
+        },
+        {
             "date": "Thursday, December 4, 2025",
             "home_team": null,
             "away_team": null,
