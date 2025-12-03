@@ -101,6 +101,15 @@
         },
         {
             "date": "Wednesday, December 3, 2025",
+            "home_team": "Maple High School",
+            "away_team": "Westmount",
+            "time": "4:45 PM",
+            "location": "Maple HS",
+            "game_played": true,
+            "final_score": "Maple High School 56, Westmount 60"
+        },
+        {
+            "date": "Wednesday, December 3, 2025",
             "home_team": "Middlefield",
             "away_team": "St. Brother Andre",
             "time": "1:45 PM",
