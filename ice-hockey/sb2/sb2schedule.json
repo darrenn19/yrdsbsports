@@ -10,6 +10,15 @@
             "final_score": "Markham District 2, St. Augustine 1"
         },
         {
+            "date": "Tuesday, December 2, 2025",
+            "home_team": "Bill Hogarth SS",
+            "away_team": "Markville",
+            "time": "2:30 PM",
+            "location": "Stouffville Arena",
+            "game_played": true,
+            "final_score": "Bill Hogarth SS 0, Markville 4"
+        },
+        {
             "date": "Wednesday, December 3, 2025",
             "home_team": null,
             "away_team": null,
