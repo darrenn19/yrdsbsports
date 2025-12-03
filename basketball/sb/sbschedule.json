@@ -92,12 +92,12 @@
         },
         {
             "date": "Wednesday, December 3, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Middlefield",
+            "away_team": "St. Brother Andre",
+            "time": "1:45 PM",
+            "location": "Middlefield CI",
+            "game_played": true,
+            "final_score": "Middlefield 52, St. Brother Andre 59"
         },
         {
             "date": "Thursday, December 4, 2025",
