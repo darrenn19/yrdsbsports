@@ -445,40 +445,76 @@
             "DIFF": "100"
         },
         {
-            "Team": "Stephen Lewis SS",
-            "MP": "5",
-            "MW": "4",
-            "ML": "1",
-            "GW": "8",
-            "GL": "2",
-            "PTS": "4",
-            "PF": "238",
-            "PA": "166",
-            "DIFF": "72"
+            "Team": "Woodbridge College",
+            "MP": "6",
+            "MW": "6",
+            "ML": "0",
+            "GW": "12",
+            "GL": "1",
+            "PTS": "6",
+            "PF": "314",
+            "PA": "215",
+            "DIFF": "99"
         },
         {
-            "Team": "Woodbridge College",
-            "MP": "4",
+            "Team": "Emily Carr",
+            "MP": "6",
             "MW": "4",
-            "ML": "0",
-            "GW": "8",
-            "GL": "1",
+            "ML": "2",
+            "GW": "9",
+            "GL": "6",
             "PTS": "4",
-            "PF": "214",
-            "PA": "159",
-            "DIFF": "55"
+            "PF": "315",
+            "PA": "284",
+            "DIFF": "31"
         },
         {
             "Team": "Holy Cross",
-            "MP": "4",
+            "MP": "6",
+            "MW": "4",
+            "ML": "2",
+            "GW": "9",
+            "GL": "4",
+            "PTS": "4",
+            "PF": "294",
+            "PA": "238",
+            "DIFF": "56"
+        },
+        {
+            "Team": "Stephen Lewis SS",
+            "MP": "6",
+            "MW": "4",
+            "ML": "2",
+            "GW": "8",
+            "GL": "4",
+            "PTS": "4",
+            "PF": "270",
+            "PA": "216",
+            "DIFF": "54"
+        },
+        {
+            "Team": "Tommy Douglas SS",
+            "MP": "6",
             "MW": "3",
-            "ML": "1",
+            "ML": "3",
             "GW": "6",
-            "GL": "2",
+            "GL": "7",
             "PTS": "3",
-            "PF": "190",
-            "PA": "138",
-            "DIFF": "52"
+            "PF": "281",
+            "PA": "261",
+            "DIFF": "20"
+        },
+        {
+            "Team": "Toronto District Christian",
+            "MP": "6",
+            "MW": "3",
+            "ML": "3",
+            "GW": "8",
+            "GL": "6",
+            "PTS": "3",
+            "PF": "302",
+            "PA": "283",
+            "DIFF": "19"
         },
         {
             "Team": "Maple High School",
@@ -491,42 +527,6 @@
             "PF": "192",
             "PA": "223",
             "DIFF": "-31"
-        },
-        {
-            "Team": "Tommy Douglas SS",
-            "MP": "4",
-            "MW": "2",
-            "ML": "2",
-            "GW": "4",
-            "GL": "5",
-            "PTS": "2",
-            "PF": "190",
-            "PA": "194",
-            "DIFF": "-4"
-        },
-        {
-            "Team": "Toronto District Christian",
-            "MP": "5",
-            "MW": "2",
-            "ML": "3",
-            "GW": "6",
-            "GL": "6",
-            "PTS": "2",
-            "PF": "252",
-            "PA": "257",
-            "DIFF": "-5"
-        },
-        {
-            "Team": "Emily Carr",
-            "MP": "4",
-            "MW": "2",
-            "ML": "2",
-            "GW": "5",
-            "GL": "5",
-            "PTS": "2",
-            "PF": "206",
-            "PA": "206",
-            "DIFF": "0"
         },
         {
             "Team": "St. Elizabeth",
@@ -554,27 +554,27 @@
         },
         {
             "Team": "St. Joan Of Arc",
-            "MP": "4",
+            "MP": "6",
             "MW": "0",
-            "ML": "4",
+            "ML": "6",
             "GW": "0",
-            "GL": "8",
+            "GL": "12",
             "PTS": "0",
-            "PF": "146",
-            "PA": "202",
-            "DIFF": "-56"
+            "PF": "187",
+            "PA": "302",
+            "DIFF": "-115"
         },
         {
             "Team": "Langstaff SS",
-            "MP": "4",
+            "MP": "6",
             "MW": "0",
-            "ML": "4",
+            "ML": "6",
             "GW": "0",
-            "GL": "8",
+            "GL": "12",
             "PTS": "0",
-            "PF": "110",
-            "PA": "201",
-            "DIFF": "-91"
+            "PF": "160",
+            "PA": "301",
+            "DIFF": "-141"
         }
     ]
 }

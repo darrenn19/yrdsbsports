@@ -45,26 +45,26 @@
             "DIFF": "4"
         },
         {
-            "Team": "Bill Hogarth SS",
-            "GP": "4",
-            "W": "0",
-            "L": "4",
+            "Team": "Markville",
+            "GP": "6",
+            "W": "1",
+            "L": "5",
             "T": "0",
-            "PTS": "0",
-            "GF": "7",
-            "GA": "24",
-            "DIFF": "-17"
+            "PTS": "2",
+            "GF": "10",
+            "GA": "25",
+            "DIFF": "-15"
         },
         {
-            "Team": "Markville",
+            "Team": "Bill Hogarth SS",
             "GP": "5",
             "W": "0",
             "L": "5",
             "T": "0",
             "PTS": "0",
-            "GF": "6",
-            "GA": "25",
-            "DIFF": "-19"
+            "GF": "7",
+            "GA": "28",
+            "DIFF": "-21"
         },
         {
             "Team": "North-Central",
@@ -79,36 +79,36 @@
         },
         {
             "Team": "Keswick High School",
-            "GP": "5",
-            "W": "2",
+            "GP": "6",
+            "W": "3",
             "L": "0",
             "T": "3",
-            "PTS": "7",
-            "GF": "17",
-            "GA": "12",
-            "DIFF": "5"
+            "PTS": "9",
+            "GF": "22",
+            "GA": "13",
+            "DIFF": "9"
         },
         {
             "Team": "Huron Heights",
-            "GP": "3",
-            "W": "0",
+            "GP": "4",
+            "W": "1",
             "L": "0",
             "T": "3",
-            "PTS": "3",
-            "GF": "6",
-            "GA": "6",
-            "DIFF": "0"
+            "PTS": "5",
+            "GF": "14",
+            "GA": "9",
+            "DIFF": "5"
         },
         {
             "Team": "Dr. J.M. Denison",
-            "GP": "3",
+            "GP": "4",
             "W": "1",
-            "L": "1",
+            "L": "2",
             "T": "1",
             "PTS": "3",
-            "GF": "15",
-            "GA": "14",
-            "DIFF": "1"
+            "GF": "18",
+            "GA": "22",
+            "DIFF": "-4"
         },
         {
             "Team": "Sutton District",
@@ -123,14 +123,14 @@
         },
         {
             "Team": "Sacred Heart",
-            "GP": "2",
+            "GP": "3",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "1",
             "PTS": "1",
-            "GF": "2",
-            "GA": "6",
-            "DIFF": "-4"
+            "GF": "3",
+            "GA": "11",
+            "DIFF": "-8"
         },
         {
             "Team": "West",
