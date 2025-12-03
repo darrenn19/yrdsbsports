@@ -74,6 +74,15 @@
         },
         {
             "date": "Tuesday, December 2, 2025",
+            "home_team": "Bill Hogarth SS",
+            "away_team": "St. Augustine",
+            "time": "3:30 PM",
+            "location": "Bill Hogarth SS",
+            "game_played": true,
+            "final_score": "Bill Hogarth SS 37, St. Augustine 62"
+        },
+        {
+            "date": "Tuesday, December 2, 2025",
             "home_team": "Emily Carr",
             "away_team": "St. Jean De Brebeuf CHS",
             "time": "3:30 PM",
@@ -98,6 +107,15 @@
             "location": "Langstaff SS",
             "game_played": true,
             "final_score": "Langstaff SS 46, Richmond Hill HS 67"
+        },
+        {
+            "date": "Tuesday, December 2, 2025",
+            "home_team": "Sacred Heart",
+            "away_team": "Renaissance ESC",
+            "time": "3:30 PM",
+            "location": "Sacred Heart CHS",
+            "game_played": true,
+            "final_score": "Sacred Heart 36, Renaissance ESC 68"
         },
         {
             "date": "Tuesday, December 2, 2025",
