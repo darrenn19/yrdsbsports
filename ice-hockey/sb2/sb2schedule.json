@@ -2,6 +2,15 @@
     "schedule": [
         {
             "date": "Tuesday, December 2, 2025",
+            "home_team": "Keswick High School",
+            "away_team": "Sacred Heart",
+            "time": "2:30 PM",
+            "location": "Georgina Ice Palace",
+            "game_played": true,
+            "final_score": "Keswick High School 5, Sacred Heart 1"
+        },
+        {
+            "date": "Tuesday, December 2, 2025",
             "home_team": "Huron Heights",
             "away_team": "Dr. J.M. Denison",
             "time": "2:15 PM",
