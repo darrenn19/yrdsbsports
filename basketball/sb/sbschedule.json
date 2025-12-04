@@ -137,12 +137,30 @@
         },
         {
             "date": "Wednesday, December 3, 2025",
+            "home_team": "Markham District",
+            "away_team": "Bur Oak SS",
+            "time": "4:45 PM",
+            "location": "Markham DHS",
+            "game_played": true,
+            "final_score": "Markham District 47, Bur Oak SS 66"
+        },
+        {
+            "date": "Wednesday, December 3, 2025",
             "home_team": "Middlefield",
             "away_team": "St. Brother Andre",
             "time": "1:45 PM",
             "location": "Middlefield CI",
             "game_played": true,
             "final_score": "Middlefield 52, St. Brother Andre 59"
+        },
+        {
+            "date": "Wednesday, December 3, 2025",
+            "home_team": "Tommy Douglas SS",
+            "away_team": "Holy Cross",
+            "time": "3:45 PM",
+            "location": "Tommy Douglas SS",
+            "game_played": true,
+            "final_score": "Tommy Douglas SS 63, Holy Cross 32"
         },
         {
             "date": "Thursday, December 4, 2025",
