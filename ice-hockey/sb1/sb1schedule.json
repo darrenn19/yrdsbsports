@@ -11,12 +11,21 @@
         },
         {
             "date": "Thursday, December 4, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Stouffville",
+            "away_team": "Father Bressani",
+            "time": "2:30 PM",
+            "location": "Stouffville Clippers Sports Complex",
+            "game_played": true,
+            "final_score": "Stouffville 3, Father Bressani 5"
+        },
+        {
+            "date": "Thursday, December 4, 2025",
+            "home_team": "King City SS",
+            "away_team": "St. Jean De Brebeuf CHS",
+            "time": "2:30 PM",
+            "location": "Zancor Centre",
+            "game_played": true,
+            "final_score": "King City SS 2, St. Jean De Brebeuf CHS 3"
         },
         {
             "date": "Friday, December 5, 2025",

@@ -74,12 +74,12 @@
         },
         {
             "date": "Thursday, December 4, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Thornhill SS",
+            "away_team": "Thornlea SS",
+            "time": "3:45 PM",
+            "location": "Thornhill SS",
+            "game_played": true,
+            "final_score": "Thornhill SS 96, Thornlea SS 57"
         },
         {
             "date": "Friday, December 5, 2025",

@@ -91,6 +91,24 @@
             "final_score": "Richmond Hill HS 63, St. Theresa Of Lisieux 83"
         },
         {
+            "date": "Thursday, December 4, 2025",
+            "home_team": "Sir William Mulock",
+            "away_team": "Keswick High School",
+            "time": "3:45 PM",
+            "location": "Sir William Mulock",
+            "game_played": true,
+            "final_score": "Sir William Mulock 63, Keswick High School 47"
+        },
+        {
+            "date": "Thursday, December 4, 2025",
+            "home_team": "Stephen Lewis SS",
+            "away_team": "Alexander Mackenzie",
+            "time": "3:45 PM",
+            "location": "Stephen Lewis SS",
+            "game_played": true,
+            "final_score": "Stephen Lewis SS 70, Alexander Mackenzie 48"
+        },
+        {
             "date": "Friday, December 5, 2025",
             "home_team": null,
             "away_team": null,
