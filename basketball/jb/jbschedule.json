@@ -73,6 +73,15 @@
             "final_score": "Dr. J.M. Denison 52, Renaissance ESC 72"
         },
         {
+            "date": "Thursday, December 4, 2025",
+            "home_team": "Richmond Hill HS",
+            "away_team": "St. Theresa Of Lisieux",
+            "time": "3:30 PM",
+            "location": "Richmond Hill HS",
+            "game_played": true,
+            "final_score": "Richmond Hill HS 63, St. Theresa Of Lisieux 83"
+        },
+        {
             "date": "Friday, December 5, 2025",
             "home_team": null,
             "away_team": null,
