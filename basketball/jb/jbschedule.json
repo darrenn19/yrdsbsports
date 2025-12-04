@@ -1,60 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, December 2, 2025",
-            "home_team": "Bill Hogarth SS",
-            "away_team": "St. Augustine",
-            "time": "3:30 PM",
-            "location": "Bill Hogarth SS",
-            "game_played": true,
-            "final_score": "Bill Hogarth SS 37, St. Augustine 62"
-        },
-        {
-            "date": "Tuesday, December 2, 2025",
-            "home_team": "Emily Carr",
-            "away_team": "St. Jean De Brebeuf CHS",
-            "time": "3:30 PM",
-            "location": "Emily Carr SS",
-            "game_played": true,
-            "final_score": "Emily Carr 50, St. Jean De Brebeuf CHS 65"
-        },
-        {
-            "date": "Tuesday, December 2, 2025",
-            "home_team": "Keswick High School",
-            "away_team": "Huron Heights",
-            "time": "3:30 PM",
-            "location": "Keswick HS",
-            "game_played": true,
-            "final_score": "Keswick High School 53, Huron Heights 39"
-        },
-        {
-            "date": "Tuesday, December 2, 2025",
-            "home_team": "Langstaff SS",
-            "away_team": "Richmond Hill HS",
-            "time": "3:30 PM",
-            "location": "Langstaff SS",
-            "game_played": true,
-            "final_score": "Langstaff SS 46, Richmond Hill HS 67"
-        },
-        {
-            "date": "Tuesday, December 2, 2025",
-            "home_team": "Sacred Heart",
-            "away_team": "Renaissance ESC",
-            "time": "3:30 PM",
-            "location": "Sacred Heart CHS",
-            "game_played": true,
-            "final_score": "Sacred Heart 36, Renaissance ESC 68"
-        },
-        {
-            "date": "Tuesday, December 2, 2025",
-            "home_team": "Unionville HS",
-            "away_team": "Stephen Lewis SS",
-            "time": "3:30 PM",
-            "location": "Unionville HS",
-            "game_played": true,
-            "final_score": "Unionville HS 52, Stephen Lewis SS 54"
-        },
-        {
             "date": "Wednesday, December 3, 2025",
             "home_team": "Aurora HS",
             "away_team": "St. Maximilian",
@@ -155,6 +101,15 @@
         },
         {
             "date": "Monday, December 8, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, December 9, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
