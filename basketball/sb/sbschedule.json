@@ -101,6 +101,24 @@
         },
         {
             "date": "Wednesday, December 3, 2025",
+            "home_team": "Bill Crothers SS",
+            "away_team": "Father McGivney",
+            "time": "3:45 PM",
+            "location": "Bill Crothers SS",
+            "game_played": true,
+            "final_score": "Bill Crothers SS 73, Father McGivney 69"
+        },
+        {
+            "date": "Wednesday, December 3, 2025",
+            "home_team": "Dr. G.W. Williams",
+            "away_team": "Cardinal Carter",
+            "time": "4:45 PM",
+            "location": "Dr G W Williams SS",
+            "game_played": true,
+            "final_score": "Dr. G.W. Williams 64, Cardinal Carter 25"
+        },
+        {
+            "date": "Wednesday, December 3, 2025",
             "home_team": "Hodan Nalayeh SS",
             "away_team": "Father Bressani",
             "time": "3:45 PM",
