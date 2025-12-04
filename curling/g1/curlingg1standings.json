@@ -25,16 +25,16 @@
             "DIFF": "3"
         },
         {
-            "Team": "St. Theresa Of Lisieux",
-            "W": "1",
-            "L": "1",
+            "Team": "Sacred Heart",
+            "W": "2",
+            "L": "0",
             "T": "0",
-            "PTS": "2",
-            "EW": "7",
-            "EL": "5",
-            "PF": "10",
-            "PA": "10",
-            "DIFF": "0"
+            "PTS": "4",
+            "EW": "11",
+            "EL": "2",
+            "PF": "21",
+            "PA": "2",
+            "DIFF": "19"
         },
         {
             "Team": "St. Augustine",
@@ -49,16 +49,16 @@
             "DIFF": "11"
         },
         {
-            "Team": "Sacred Heart",
+            "Team": "St. Theresa Of Lisieux",
             "W": "1",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "2",
             "EW": "7",
-            "EL": "0",
-            "PF": "12",
-            "PA": "0",
-            "DIFF": "12"
+            "EL": "5",
+            "PF": "10",
+            "PA": "10",
+            "DIFF": "0"
         },
         {
             "Team": "St. Robert",
@@ -75,14 +75,14 @@
         {
             "Team": "Bill Hogarth SS",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "0",
-            "EW": "3",
-            "EL": "3",
-            "PF": "3",
-            "PA": "5",
-            "DIFF": "-2"
+            "EW": "5",
+            "EL": "7",
+            "PF": "5",
+            "PA": "14",
+            "DIFF": "-9"
         }
     ]
 }
