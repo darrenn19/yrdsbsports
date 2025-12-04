@@ -14,15 +14,15 @@
         },
         {
             "Team": "St. Augustine",
-            "MP": "5",
-            "MW": "5",
+            "MP": "6",
+            "MW": "6",
             "ML": "0",
-            "GW": "10",
+            "GW": "12",
             "GL": "1",
-            "PTS": "5",
-            "PF": "253",
-            "PA": "179",
-            "DIFF": "74"
+            "PTS": "6",
+            "PF": "303",
+            "PA": "209",
+            "DIFF": "94"
         },
         {
             "Team": "St. Robert",
@@ -122,15 +122,15 @@
         },
         {
             "Team": "Our Lady Queen Of The World",
-            "MP": "2",
+            "MP": "3",
             "MW": "0",
-            "ML": "2",
+            "ML": "3",
             "GW": "0",
-            "GL": "4",
+            "GL": "6",
             "PTS": "0",
-            "PF": "60",
-            "PA": "100",
-            "DIFF": "-40"
+            "PF": "90",
+            "PA": "150",
+            "DIFF": "-60"
         },
         {
             "Team": "East",
@@ -194,15 +194,15 @@
         },
         {
             "Team": "St. Katharine Drexel",
-            "MP": "3",
+            "MP": "4",
             "MW": "2",
-            "ML": "1",
+            "ML": "2",
             "GW": "5",
-            "GL": "3",
+            "GL": "5",
             "PTS": "2",
-            "PF": "157",
-            "PA": "116",
-            "DIFF": "41"
+            "PF": "198",
+            "PA": "166",
+            "DIFF": "32"
         },
         {
             "Team": "Bur Oak SS",
@@ -229,6 +229,18 @@
             "DIFF": "-11"
         },
         {
+            "Team": "Stouffville",
+            "MP": "4",
+            "MW": "1",
+            "ML": "3",
+            "GW": "3",
+            "GL": "7",
+            "PTS": "1",
+            "PF": "182",
+            "PA": "201",
+            "DIFF": "-19"
+        },
+        {
             "Team": "Middlefield",
             "MP": "3",
             "MW": "1",
@@ -241,16 +253,16 @@
             "DIFF": "-36"
         },
         {
-            "Team": "Stouffville",
-            "MP": "4",
+            "Team": "Milliken Mills",
+            "MP": "3",
             "MW": "1",
-            "ML": "3",
+            "ML": "2",
             "GW": "3",
-            "GL": "7",
+            "GL": "4",
             "PTS": "1",
-            "PF": "182",
-            "PA": "201",
-            "DIFF": "-19"
+            "PF": "145",
+            "PA": "157",
+            "DIFF": "-12"
         },
         {
             "Team": "Bill Crothers SS",
@@ -275,18 +287,6 @@
             "PF": "24",
             "PA": "150",
             "DIFF": "-126"
-        },
-        {
-            "Team": "Milliken Mills",
-            "MP": "2",
-            "MW": "0",
-            "ML": "2",
-            "GW": "1",
-            "GL": "4",
-            "PTS": "0",
-            "PF": "95",
-            "PA": "116",
-            "DIFF": "-21"
         },
         {
             "Team": "North",
@@ -469,18 +469,6 @@
             "DIFF": "31"
         },
         {
-            "Team": "Holy Cross",
-            "MP": "6",
-            "MW": "4",
-            "ML": "2",
-            "GW": "9",
-            "GL": "4",
-            "PTS": "4",
-            "PF": "294",
-            "PA": "238",
-            "DIFF": "56"
-        },
-        {
             "Team": "Stephen Lewis SS",
             "MP": "6",
             "MW": "4",
@@ -491,6 +479,18 @@
             "PF": "270",
             "PA": "216",
             "DIFF": "54"
+        },
+        {
+            "Team": "Holy Cross",
+            "MP": "6",
+            "MW": "4",
+            "ML": "2",
+            "GW": "9",
+            "GL": "4",
+            "PTS": "4",
+            "PF": "294",
+            "PA": "238",
+            "DIFF": "56"
         },
         {
             "Team": "Tommy Douglas SS",
@@ -517,40 +517,40 @@
             "DIFF": "19"
         },
         {
-            "Team": "Maple High School",
-            "MP": "5",
-            "MW": "2",
+            "Team": "St. Elizabeth",
+            "MP": "6",
+            "MW": "3",
             "ML": "3",
-            "GW": "4",
-            "GL": "6",
-            "PTS": "2",
-            "PF": "192",
-            "PA": "223",
-            "DIFF": "-31"
+            "GW": "6",
+            "GL": "8",
+            "PTS": "3",
+            "PF": "295",
+            "PA": "284",
+            "DIFF": "11"
         },
         {
-            "Team": "St. Elizabeth",
-            "MP": "4",
-            "MW": "1",
-            "ML": "3",
-            "GW": "2",
-            "GL": "6",
-            "PTS": "1",
-            "PF": "174",
-            "PA": "175",
-            "DIFF": "-1"
+            "Team": "Maple High School",
+            "MP": "6",
+            "MW": "2",
+            "ML": "4",
+            "GW": "5",
+            "GL": "8",
+            "PTS": "2",
+            "PF": "243",
+            "PA": "282",
+            "DIFF": "-39"
         },
         {
             "Team": "Father Bressani",
-            "MP": "5",
+            "MP": "6",
             "MW": "1",
-            "ML": "4",
-            "GW": "2",
-            "GL": "8",
+            "ML": "5",
+            "GW": "3",
+            "GL": "10",
             "PTS": "1",
-            "PF": "147",
-            "PA": "238",
-            "DIFF": "-91"
+            "PF": "205",
+            "PA": "300",
+            "DIFF": "-95"
         },
         {
             "Team": "St. Joan Of Arc",

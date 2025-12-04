@@ -167,14 +167,14 @@
         },
         {
             "Team": "Bur Oak SS",
-            "GP": "3",
-            "W": "3",
+            "GP": "4",
+            "W": "4",
             "L": "0",
             "T": "0",
-            "PTS": "6",
-            "PF": "192",
-            "PA": "162",
-            "DIFF": "30"
+            "PTS": "8",
+            "PF": "258",
+            "PA": "209",
+            "DIFF": "45"
         },
         {
             "Team": "St. Brother Andre",
@@ -189,14 +189,14 @@
         },
         {
             "Team": "Markham District",
-            "GP": "3",
+            "GP": "4",
             "W": "2",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "4",
-            "PF": "179",
-            "PA": "162",
-            "DIFF": "15"
+            "PF": "226",
+            "PA": "228",
+            "DIFF": "0"
         },
         {
             "Team": "Pierre Elliott Trudeau",
@@ -441,6 +441,17 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Tommy Douglas SS",
+            "GP": "3",
+            "W": "3",
+            "L": "0",
+            "T": "0",
+            "PTS": "6",
+            "PF": "194",
+            "PA": "103",
+            "DIFF": "45"
+        },
+        {
             "Team": "Hodan Nalayeh SS",
             "GP": "3",
             "W": "3",
@@ -452,28 +463,6 @@
             "DIFF": "23"
         },
         {
-            "Team": "Woodbridge College",
-            "GP": "3",
-            "W": "2",
-            "L": "1",
-            "T": "0",
-            "PTS": "4",
-            "PF": "193",
-            "PA": "130",
-            "DIFF": "15"
-        },
-        {
-            "Team": "Tommy Douglas SS",
-            "GP": "2",
-            "W": "2",
-            "L": "0",
-            "T": "0",
-            "PTS": "4",
-            "PF": "131",
-            "PA": "71",
-            "DIFF": "30"
-        },
-        {
             "Team": "Toronto District Christian",
             "GP": "3",
             "W": "2",
@@ -483,6 +472,17 @@
             "PF": "204",
             "PA": "183",
             "DIFF": "14"
+        },
+        {
+            "Team": "Woodbridge College",
+            "GP": "3",
+            "W": "2",
+            "L": "1",
+            "T": "0",
+            "PTS": "4",
+            "PF": "193",
+            "PA": "130",
+            "DIFF": "15"
         },
         {
             "Team": "Westmount",
@@ -530,14 +530,14 @@
         },
         {
             "Team": "Holy Cross",
-            "GP": "2",
+            "GP": "3",
             "W": "0",
-            "L": "2",
+            "L": "3",
             "T": "0",
             "PTS": "0",
-            "PF": "141",
-            "PA": "150",
-            "DIFF": "-9"
+            "PF": "173",
+            "PA": "213",
+            "DIFF": "-24"
         },
         {
             "Team": "Father Bressani",
