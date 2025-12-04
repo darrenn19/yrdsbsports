@@ -74,6 +74,15 @@
         },
         {
             "date": "Thursday, December 4, 2025",
+            "home_team": "St. Elizabeth",
+            "away_team": "Stephen Lewis SS",
+            "time": "3:45 PM",
+            "location": "St Elizabeth CHS",
+            "game_played": true,
+            "final_score": "St. Elizabeth 77, Stephen Lewis SS 61"
+        },
+        {
+            "date": "Thursday, December 4, 2025",
             "home_team": "Thornhill SS",
             "away_team": "Thornlea SS",
             "time": "3:45 PM",
