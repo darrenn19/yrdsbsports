@@ -110,6 +110,15 @@
         },
         {
             "date": "Thursday, December 4, 2025",
+            "home_team": "St. Augustine",
+            "away_team": "St. Katharine Drexel",
+            "time": "3:30 PM",
+            "location": "St Augustine CHS",
+            "game_played": true,
+            "final_score": "St. Augustine 75, St. Katharine Drexel 26"
+        },
+        {
+            "date": "Thursday, December 4, 2025",
             "home_team": "St. Jean De Brebeuf CHS",
             "away_team": "St. Joan Of Arc",
             "time": "4:15 PM",
