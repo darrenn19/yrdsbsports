@@ -157,6 +157,18 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Dr. G.W. Williams",
+            "MP": "3",
+            "MW": "2",
+            "ML": "1",
+            "GW": "5",
+            "GL": "3",
+            "PTS": "2",
+            "PF": "170",
+            "PA": "129",
+            "DIFF": "41"
+        },
+        {
             "Team": "St. Maximilian",
             "MP": "2",
             "MW": "2",
@@ -169,16 +181,16 @@
             "DIFF": "22"
         },
         {
-            "Team": "Dr. G.W. Williams",
-            "MP": "2",
+            "Team": "Cardinal Carter",
+            "MP": "1",
             "MW": "1",
-            "ML": "1",
-            "GW": "3",
-            "GL": "2",
+            "ML": "0",
+            "GW": "2",
+            "GL": "0",
             "PTS": "1",
-            "PF": "108",
-            "PA": "88",
-            "DIFF": "20"
+            "PF": "50",
+            "PA": "22",
+            "DIFF": "28"
         },
         {
             "Team": "Sir William Mulock",
@@ -206,27 +218,15 @@
         },
         {
             "Team": "Aurora HS",
-            "MP": "2",
+            "MP": "4",
             "MW": "0",
-            "ML": "2",
-            "GW": "0",
-            "GL": "4",
+            "ML": "4",
+            "GW": "1",
+            "GL": "8",
             "PTS": "0",
-            "PF": "68",
-            "PA": "100",
-            "DIFF": "-32"
-        },
-        {
-            "Team": "Cardinal Carter",
-            "MP": "0",
-            "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "PF": "131",
+            "PA": "212",
+            "DIFF": "-81"
         },
         {
             "Team": "West",

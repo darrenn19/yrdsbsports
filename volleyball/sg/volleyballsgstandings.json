@@ -73,16 +73,16 @@
             "DIFF": "42"
         },
         {
-            "Team": "Thornhill SS",
-            "MP": "4",
+            "Team": "Richmond Hill HS",
+            "MP": "6",
             "MW": "1",
-            "ML": "3",
-            "GW": "2",
-            "GL": "7",
+            "ML": "5",
+            "GW": "3",
+            "GL": "10",
             "PTS": "1",
-            "PF": "158",
-            "PA": "207",
-            "DIFF": "-49"
+            "PF": "258",
+            "PA": "299",
+            "DIFF": "-41"
         },
         {
             "Team": "St. Theresa Of Lisieux",
@@ -109,28 +109,28 @@
             "DIFF": "-28"
         },
         {
-            "Team": "Richmond Hill HS",
-            "MP": "5",
-            "MW": "0",
-            "ML": "5",
-            "GW": "1",
-            "GL": "10",
-            "PTS": "0",
-            "PF": "207",
-            "PA": "254",
-            "DIFF": "-47"
+            "Team": "Thornhill SS",
+            "MP": "4",
+            "MW": "1",
+            "ML": "3",
+            "GW": "2",
+            "GL": "7",
+            "PTS": "1",
+            "PF": "158",
+            "PA": "207",
+            "DIFF": "-49"
         },
         {
             "Team": "Our Lady Queen Of The World",
-            "MP": "3",
+            "MP": "4",
             "MW": "0",
-            "ML": "3",
+            "ML": "4",
             "GW": "0",
-            "GL": "6",
+            "GL": "8",
             "PTS": "0",
-            "PF": "90",
-            "PA": "150",
-            "DIFF": "-60"
+            "PF": "135",
+            "PA": "201",
+            "DIFF": "-66"
         },
         {
             "Team": "East",
@@ -143,6 +143,18 @@
             "PF": "PF",
             "PA": "PA",
             "DIFF": "DIFF"
+        },
+        {
+            "Team": "Bill Hogarth SS",
+            "MP": "4",
+            "MW": "4",
+            "ML": "0",
+            "GW": "8",
+            "GL": "0",
+            "PTS": "4",
+            "PF": "200",
+            "PA": "132",
+            "DIFF": "68"
         },
         {
             "Team": "Markham District",
@@ -158,27 +170,15 @@
         },
         {
             "Team": "Markville",
-            "MP": "3",
+            "MP": "4",
             "MW": "3",
-            "ML": "0",
+            "ML": "1",
             "GW": "6",
-            "GL": "0",
+            "GL": "2",
             "PTS": "3",
-            "PF": "150",
-            "PA": "62",
-            "DIFF": "88"
-        },
-        {
-            "Team": "Bill Hogarth SS",
-            "MP": "2",
-            "MW": "2",
-            "ML": "0",
-            "GW": "4",
-            "GL": "0",
-            "PTS": "2",
-            "PF": "100",
-            "PA": "70",
-            "DIFF": "30"
+            "PF": "182",
+            "PA": "112",
+            "DIFF": "70"
         },
         {
             "Team": "St. Brother Andre",
@@ -205,40 +205,28 @@
             "DIFF": "32"
         },
         {
-            "Team": "Bur Oak SS",
-            "MP": "1",
-            "MW": "1",
-            "ML": "0",
-            "GW": "2",
-            "GL": "0",
-            "PTS": "1",
-            "PF": "53",
-            "PA": "47",
-            "DIFF": "6"
-        },
-        {
-            "Team": "Father McGivney",
-            "MP": "3",
-            "MW": "1",
-            "ML": "2",
-            "GW": "3",
-            "GL": "4",
-            "PTS": "1",
-            "PF": "126",
-            "PA": "137",
-            "DIFF": "-11"
-        },
-        {
-            "Team": "Stouffville",
+            "Team": "Bill Crothers SS",
             "MP": "4",
             "MW": "1",
             "ML": "3",
-            "GW": "3",
+            "GW": "2",
+            "GL": "6",
+            "PTS": "1",
+            "PF": "173",
+            "PA": "193",
+            "DIFF": "-20"
+        },
+        {
+            "Team": "Pierre Elliott Trudeau",
+            "MP": "4",
+            "MW": "1",
+            "ML": "3",
+            "GW": "2",
             "GL": "7",
             "PTS": "1",
-            "PF": "182",
-            "PA": "201",
-            "DIFF": "-19"
+            "PF": "78",
+            "PA": "206",
+            "DIFF": "-128"
         },
         {
             "Team": "Middlefield",
@@ -253,40 +241,52 @@
             "DIFF": "-36"
         },
         {
-            "Team": "Milliken Mills",
-            "MP": "3",
+            "Team": "Stouffville",
+            "MP": "4",
             "MW": "1",
-            "ML": "2",
+            "ML": "3",
             "GW": "3",
-            "GL": "4",
+            "GL": "7",
             "PTS": "1",
-            "PF": "145",
-            "PA": "157",
-            "DIFF": "-12"
+            "PF": "182",
+            "PA": "201",
+            "DIFF": "-19"
         },
         {
-            "Team": "Bill Crothers SS",
-            "MP": "3",
-            "MW": "0",
+            "Team": "Father McGivney",
+            "MP": "4",
+            "MW": "1",
             "ML": "3",
-            "GW": "0",
+            "GW": "4",
             "GL": "6",
-            "PTS": "0",
-            "PF": "123",
-            "PA": "159",
-            "DIFF": "-36"
+            "PTS": "1",
+            "PF": "182",
+            "PA": "191",
+            "DIFF": "-9"
         },
         {
-            "Team": "Pierre Elliott Trudeau",
-            "MP": "3",
-            "MW": "0",
+            "Team": "Bur Oak SS",
+            "MP": "2",
+            "MW": "1",
+            "ML": "1",
+            "GW": "2",
+            "GL": "2",
+            "PTS": "1",
+            "PF": "83",
+            "PA": "97",
+            "DIFF": "-14"
+        },
+        {
+            "Team": "Milliken Mills",
+            "MP": "4",
+            "MW": "1",
             "ML": "3",
-            "GW": "0",
+            "GW": "3",
             "GL": "6",
-            "PTS": "0",
-            "PF": "24",
-            "PA": "150",
-            "DIFF": "-126"
+            "PTS": "1",
+            "PF": "179",
+            "PA": "207",
+            "DIFF": "-28"
         },
         {
             "Team": "North",
@@ -314,27 +314,27 @@
         },
         {
             "Team": "Aurora HS",
-            "MP": "2",
-            "MW": "2",
-            "ML": "0",
-            "GW": "4",
-            "GL": "0",
-            "PTS": "2",
-            "PF": "101",
-            "PA": "59",
-            "DIFF": "42"
+            "MP": "4",
+            "MW": "3",
+            "ML": "1",
+            "GW": "7",
+            "GL": "2",
+            "PTS": "3",
+            "PF": "205",
+            "PA": "141",
+            "DIFF": "64"
         },
         {
             "Team": "Sacred Heart",
-            "MP": "2",
-            "MW": "2",
+            "MP": "3",
+            "MW": "3",
             "ML": "0",
-            "GW": "4",
-            "GL": "1",
-            "PTS": "2",
-            "PF": "108",
-            "PA": "86",
-            "DIFF": "22"
+            "GW": "6",
+            "GL": "2",
+            "PTS": "3",
+            "PF": "166",
+            "PA": "140",
+            "DIFF": "26"
         },
         {
             "Team": "Huron Heights",
@@ -386,15 +386,15 @@
         },
         {
             "Team": "Sutton District",
-            "MP": "2",
+            "MP": "3",
             "MW": "0",
-            "ML": "2",
+            "ML": "3",
             "GW": "0",
-            "GL": "4",
+            "GL": "6",
             "PTS": "0",
-            "PF": "72",
-            "PA": "101",
-            "DIFF": "-29"
+            "PF": "96",
+            "PA": "151",
+            "DIFF": "-55"
         },
         {
             "Team": "Keswick High School",
