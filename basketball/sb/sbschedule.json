@@ -2,6 +2,15 @@
     "schedule": [
         {
             "date": "Thursday, December 4, 2025",
+            "home_team": "Dr. J.M. Denison",
+            "away_team": "Renaissance ESC",
+            "time": "4:45 PM",
+            "location": "Dr J M Denison SS",
+            "game_played": true,
+            "final_score": "Dr. J.M. Denison 49, Renaissance ESC 59"
+        },
+        {
+            "date": "Thursday, December 4, 2025",
             "home_team": "Milliken Mills",
             "away_team": "Bill Hogarth SS",
             "time": "4:45 PM",
@@ -71,6 +80,15 @@
             "location": "St Robert CHS",
             "game_played": true,
             "final_score": "St. Robert 63, Unionville HS 51"
+        },
+        {
+            "date": "Thursday, December 4, 2025",
+            "home_team": "Sutton District",
+            "away_team": "Keswick High School",
+            "time": "3:00 PM",
+            "location": "Sutton DHS",
+            "game_played": true,
+            "final_score": "Sutton District 53, Keswick High School 109"
         },
         {
             "date": "Thursday, December 4, 2025",
