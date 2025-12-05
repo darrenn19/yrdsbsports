@@ -177,14 +177,14 @@
             "DIFF": "38"
         },
         {
-            "Team": "Father McGivney",
+            "Team": "St. Augustine",
             "GP": "4",
-            "W": "2",
-            "L": "2",
+            "W": "3",
+            "L": "1",
             "T": "0",
-            "PTS": "4",
-            "PF": "256",
-            "PA": "243",
+            "PTS": "6",
+            "PF": "248",
+            "PA": "238",
             "DIFF": "10"
         },
         {
@@ -199,15 +199,15 @@
             "DIFF": "26"
         },
         {
-            "Team": "Bill Hogarth SS",
+            "Team": "Father McGivney",
             "GP": "4",
             "W": "2",
             "L": "2",
             "T": "0",
             "PTS": "4",
-            "PF": "280",
-            "PA": "261",
-            "DIFF": "12"
+            "PF": "256",
+            "PA": "243",
+            "DIFF": "10"
         },
         {
             "Team": "St. Brother Andre",
@@ -221,6 +221,17 @@
             "DIFF": "17"
         },
         {
+            "Team": "Bill Hogarth SS",
+            "GP": "4",
+            "W": "2",
+            "L": "2",
+            "T": "0",
+            "PTS": "4",
+            "PF": "280",
+            "PA": "261",
+            "DIFF": "12"
+        },
+        {
             "Team": "Markham District",
             "GP": "4",
             "W": "2",
@@ -230,17 +241,6 @@
             "PF": "226",
             "PA": "228",
             "DIFF": "0"
-        },
-        {
-            "Team": "St. Augustine",
-            "GP": "3",
-            "W": "2",
-            "L": "1",
-            "T": "0",
-            "PTS": "4",
-            "PF": "184",
-            "PA": "189",
-            "DIFF": "-5"
         },
         {
             "Team": "Stouffville",
@@ -266,14 +266,14 @@
         },
         {
             "Team": "St. Katharine Drexel",
-            "GP": "3",
+            "GP": "4",
             "W": "0",
-            "L": "3",
+            "L": "4",
             "T": "0",
             "PTS": "0",
-            "PF": "145",
-            "PA": "194",
-            "DIFF": "-44"
+            "PF": "194",
+            "PA": "258",
+            "DIFF": "-59"
         },
         {
             "Team": "Milliken Mills",
@@ -296,6 +296,17 @@
             "PF": "PF",
             "PA": "PA",
             "DIFF": "DIFF"
+        },
+        {
+            "Team": "Keswick High School",
+            "GP": "3",
+            "W": "3",
+            "L": "0",
+            "T": "0",
+            "PTS": "6",
+            "PF": "269",
+            "PA": "163",
+            "DIFF": "41"
         },
         {
             "Team": "Newmarket HS",
@@ -331,26 +342,15 @@
             "DIFF": "24"
         },
         {
-            "Team": "Keswick High School",
-            "GP": "2",
+            "Team": "Renaissance ESC",
+            "GP": "3",
             "W": "2",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "4",
-            "PF": "160",
-            "PA": "110",
-            "DIFF": "26"
-        },
-        {
-            "Team": "Aurora HS",
-            "GP": "3",
-            "W": "1",
-            "L": "2",
-            "T": "0",
-            "PTS": "2",
-            "PF": "154",
-            "PA": "180",
-            "DIFF": "-2"
+            "PF": "175",
+            "PA": "125",
+            "DIFF": "21"
         },
         {
             "Team": "King City SS",
@@ -364,26 +364,26 @@
             "DIFF": "-29"
         },
         {
-            "Team": "Renaissance ESC",
-            "GP": "2",
+            "Team": "Aurora HS",
+            "GP": "3",
             "W": "1",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "2",
-            "PF": "116",
-            "PA": "76",
-            "DIFF": "11"
+            "PF": "154",
+            "PA": "180",
+            "DIFF": "-2"
         },
         {
             "Team": "Dr. J.M. Denison",
-            "GP": "2",
+            "GP": "3",
             "W": "1",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "2",
-            "PF": "127",
-            "PA": "104",
-            "DIFF": "4"
+            "PF": "176",
+            "PA": "163",
+            "DIFF": "-6"
         },
         {
             "Team": "Sacred Heart",
@@ -398,14 +398,14 @@
         },
         {
             "Team": "Sutton District",
-            "GP": "2",
+            "GP": "3",
             "W": "0",
-            "L": "2",
+            "L": "3",
             "T": "0",
             "PTS": "0",
-            "PF": "59",
-            "PA": "144",
-            "DIFF": "-30"
+            "PF": "112",
+            "PA": "253",
+            "DIFF": "-45"
         },
         {
             "Team": "Cardinal Carter",

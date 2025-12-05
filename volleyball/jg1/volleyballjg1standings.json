@@ -242,15 +242,15 @@
         },
         {
             "Team": "St. Joan Of Arc",
-            "MP": "2",
+            "MP": "3",
             "MW": "2",
-            "ML": "0",
+            "ML": "1",
             "GW": "4",
-            "GL": "1",
+            "GL": "3",
             "PTS": "2",
-            "PF": "109",
-            "PA": "91",
-            "DIFF": "18"
+            "PF": "141",
+            "PA": "141",
+            "DIFF": "0"
         },
         {
             "Team": "Holy Cross",
@@ -265,28 +265,28 @@
             "DIFF": "51"
         },
         {
-            "Team": "St. Jean De Brebeuf CHS",
-            "MP": "2",
-            "MW": "0",
-            "ML": "2",
-            "GW": "1",
-            "GL": "4",
-            "PTS": "0",
-            "PF": "88",
-            "PA": "109",
-            "DIFF": "-21"
+            "Team": "Hodan Nalayeh SS",
+            "MP": "1",
+            "MW": "1",
+            "ML": "0",
+            "GW": "2",
+            "GL": "1",
+            "PTS": "1",
+            "PF": "50",
+            "PA": "50",
+            "DIFF": "0"
         },
         {
-            "Team": "Hodan Nalayeh SS",
-            "MP": "0",
-            "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "Team": "St. Jean De Brebeuf CHS",
+            "MP": "4",
+            "MW": "1",
+            "ML": "3",
+            "GW": "4",
+            "GL": "6",
+            "PTS": "1",
+            "PF": "188",
+            "PA": "191",
+            "DIFF": "-3"
         },
         {
             "Team": "ESC De L Ascension",
