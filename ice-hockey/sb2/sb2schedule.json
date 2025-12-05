@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, December 3, 2025",
-            "home_team": "Westmount",
-            "away_team": "St. Joan Of Arc",
-            "time": "2:30 PM",
-            "location": "Rosemount Arena",
-            "game_played": true,
-            "final_score": "Westmount 3, St. Joan Of Arc 3"
-        },
-        {
             "date": "Thursday, December 4, 2025",
             "home_team": "Alexander Mackenzie",
             "away_team": "Aurora HS",
@@ -65,6 +56,15 @@
         },
         {
             "date": "Tuesday, December 9, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, December 10, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

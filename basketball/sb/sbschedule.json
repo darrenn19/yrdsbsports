@@ -1,78 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, December 3, 2025",
-            "home_team": "Aurora HS",
-            "away_team": "St. Maximilian",
-            "time": "4:45 PM",
-            "location": "Aurora HS",
-            "game_played": true,
-            "final_score": "Aurora HS 37, St. Maximilian 76"
-        },
-        {
-            "date": "Wednesday, December 3, 2025",
-            "home_team": "Bill Crothers SS",
-            "away_team": "Father McGivney",
-            "time": "3:45 PM",
-            "location": "Bill Crothers SS",
-            "game_played": true,
-            "final_score": "Bill Crothers SS 73, Father McGivney 69"
-        },
-        {
-            "date": "Wednesday, December 3, 2025",
-            "home_team": "Dr. G.W. Williams",
-            "away_team": "Cardinal Carter",
-            "time": "4:45 PM",
-            "location": "Dr G W Williams SS",
-            "game_played": true,
-            "final_score": "Dr. G.W. Williams 64, Cardinal Carter 25"
-        },
-        {
-            "date": "Wednesday, December 3, 2025",
-            "home_team": "Hodan Nalayeh SS",
-            "away_team": "Father Bressani",
-            "time": "3:45 PM",
-            "location": "Hodan Nalayeh Secondary School",
-            "game_played": true,
-            "final_score": "Hodan Nalayeh SS 82, Father Bressani 42"
-        },
-        {
-            "date": "Wednesday, December 3, 2025",
-            "home_team": "Maple High School",
-            "away_team": "Westmount",
-            "time": "4:45 PM",
-            "location": "Maple HS",
-            "game_played": true,
-            "final_score": "Maple High School 56, Westmount 60"
-        },
-        {
-            "date": "Wednesday, December 3, 2025",
-            "home_team": "Markham District",
-            "away_team": "Bur Oak SS",
-            "time": "4:45 PM",
-            "location": "Markham DHS",
-            "game_played": true,
-            "final_score": "Markham District 47, Bur Oak SS 66"
-        },
-        {
-            "date": "Wednesday, December 3, 2025",
-            "home_team": "Middlefield",
-            "away_team": "St. Brother Andre",
-            "time": "1:45 PM",
-            "location": "Middlefield CI",
-            "game_played": true,
-            "final_score": "Middlefield 52, St. Brother Andre 59"
-        },
-        {
-            "date": "Wednesday, December 3, 2025",
-            "home_team": "Tommy Douglas SS",
-            "away_team": "Holy Cross",
-            "time": "3:45 PM",
-            "location": "Tommy Douglas SS",
-            "game_played": true,
-            "final_score": "Tommy Douglas SS 63, Holy Cross 32"
-        },
-        {
             "date": "Thursday, December 4, 2025",
             "home_team": "Milliken Mills",
             "away_team": "Bill Hogarth SS",
@@ -191,6 +119,15 @@
         },
         {
             "date": "Tuesday, December 9, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, December 10, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

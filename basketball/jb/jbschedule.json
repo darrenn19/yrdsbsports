@@ -1,69 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, December 3, 2025",
-            "home_team": "Aurora HS",
-            "away_team": "St. Maximilian",
-            "time": "3:30 PM",
-            "location": "Aurora HS",
-            "game_played": true,
-            "final_score": "Aurora HS 33, St. Maximilian 74"
-        },
-        {
-            "date": "Wednesday, December 3, 2025",
-            "home_team": "Dr. G.W. Williams",
-            "away_team": "Cardinal Carter",
-            "time": "3:30 PM",
-            "location": "Dr G W Williams SS",
-            "game_played": true,
-            "final_score": "Dr. G.W. Williams 50, Cardinal Carter 35"
-        },
-        {
-            "date": "Wednesday, December 3, 2025",
-            "home_team": "ESC De L Ascension",
-            "away_team": "Holy Cross",
-            "time": "3:45 PM",
-            "location": "ESC De L Ascension",
-            "game_played": true,
-            "final_score": "ESC De L Ascension 28, Holy Cross 68"
-        },
-        {
-            "date": "Wednesday, December 3, 2025",
-            "home_team": "Maple High School",
-            "away_team": "Woodbridge College",
-            "time": "3:30 PM",
-            "location": "Maple HS",
-            "game_played": true,
-            "final_score": "Maple High School 54, Woodbridge College 63"
-        },
-        {
-            "date": "Wednesday, December 3, 2025",
-            "home_team": "Markham District",
-            "away_team": "Bur Oak SS",
-            "time": "3:30 PM",
-            "location": "Markham DHS",
-            "game_played": true,
-            "final_score": "Markham District 47, Bur Oak SS 53"
-        },
-        {
-            "date": "Wednesday, December 3, 2025",
-            "home_team": "Markville",
-            "away_team": "Father McGivney",
-            "time": "3:45 PM",
-            "location": "Markville SS",
-            "game_played": true,
-            "final_score": "Markville 81, Father McGivney 39"
-        },
-        {
-            "date": "Wednesday, December 3, 2025",
-            "home_team": "Westmount",
-            "away_team": "Father Bressani",
-            "time": "3:45 PM",
-            "location": "Westmount CI",
-            "game_played": true,
-            "final_score": "Westmount 90, Father Bressani 76"
-        },
-        {
             "date": "Thursday, December 4, 2025",
             "home_team": "Dr. J.M. Denison",
             "away_team": "Renaissance ESC",
@@ -182,6 +119,15 @@
         },
         {
             "date": "Tuesday, December 9, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, December 10, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
