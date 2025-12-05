@@ -92,6 +92,15 @@
         },
         {
             "date": "Thursday, December 4, 2025",
+            "home_team": "Milliken Mills",
+            "away_team": "Bill Hogarth SS",
+            "time": "3:30 PM",
+            "location": "Milliken Mills HS",
+            "game_played": true,
+            "final_score": "Milliken Mills 55, Bill Hogarth SS 53"
+        },
+        {
+            "date": "Thursday, December 4, 2025",
             "home_team": "Richmond Hill HS",
             "away_team": "St. Theresa Of Lisieux",
             "time": "3:30 PM",
