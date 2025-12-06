@@ -1,24 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, December 4, 2025",
-            "home_team": "Alexander Mackenzie",
-            "away_team": "Aurora HS",
-            "time": "2:15 PM",
-            "location": "Elgin Barrow Arena",
-            "game_played": true,
-            "final_score": "Alexander Mackenzie 0, Aurora HS 5"
-        },
-        {
-            "date": "Thursday, December 4, 2025",
-            "home_team": "St. Robert",
-            "away_team": "St. Augustine",
-            "time": "2:30 PM",
-            "location": "RJ Clatworthy Arena",
-            "game_played": true,
-            "final_score": "St. Robert 2, St. Augustine 0"
-        },
-        {
             "date": "Friday, December 5, 2025",
             "home_team": null,
             "away_team": null,
@@ -65,6 +47,15 @@
         },
         {
             "date": "Wednesday, December 10, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, December 11, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

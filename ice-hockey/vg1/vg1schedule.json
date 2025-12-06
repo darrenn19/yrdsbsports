@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, December 4, 2025",
-            "home_team": "St. Maximilian",
-            "away_team": "Sacred Heart",
-            "time": "3:00 PM",
-            "location": "Aurora Family Leisure Complex",
-            "game_played": true,
-            "final_score": "St. Maximilian 9, Sacred Heart 0"
-        },
-        {
             "date": "Friday, December 5, 2025",
             "home_team": null,
             "away_team": null,
@@ -62,6 +53,15 @@
             "location": null,
             "game_played": false,
             "final_score": null
+        },
+        {
+            "date": "Thursday, December 11, 2025",
+            "home_team": "Stouffville",
+            "away_team": "Cardinal Carter",
+            "time": "2:45 PM",
+            "location": "Stouffville Clippers Sports Complex",
+            "game_played": true,
+            "final_score": "Stouffville 5, Cardinal Carter 0"
         }
     ]
 }

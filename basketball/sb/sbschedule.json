@@ -1,105 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, December 4, 2025",
-            "home_team": "Dr. J.M. Denison",
-            "away_team": "Renaissance ESC",
-            "time": "4:45 PM",
-            "location": "Dr J M Denison SS",
-            "game_played": true,
-            "final_score": "Dr. J.M. Denison 49, Renaissance ESC 59"
-        },
-        {
-            "date": "Thursday, December 4, 2025",
-            "home_team": "Milliken Mills",
-            "away_team": "Bill Hogarth SS",
-            "time": "4:45 PM",
-            "location": "Milliken Mills HS",
-            "game_played": true,
-            "final_score": "Milliken Mills 53, Bill Hogarth SS 75"
-        },
-        {
-            "date": "Thursday, December 4, 2025",
-            "home_team": "Newmarket HS",
-            "away_team": "King City SS",
-            "time": "3:45 PM",
-            "location": "Newmarket HS",
-            "game_played": true,
-            "final_score": "Newmarket HS 84, King City SS 66"
-        },
-        {
-            "date": "Thursday, December 4, 2025",
-            "home_team": "Our Lady Queen Of The World",
-            "away_team": "Langstaff SS",
-            "time": "3:45 PM",
-            "location": "Our Lady Queen Of The World",
-            "game_played": true,
-            "final_score": "Our Lady Queen Of The World 78, Langstaff SS 33"
-        },
-        {
-            "date": "Thursday, December 4, 2025",
-            "home_team": "Richmond Hill HS",
-            "away_team": "St. Theresa Of Lisieux",
-            "time": "4:45 PM",
-            "location": "Richmond Hill HS",
-            "game_played": true,
-            "final_score": "Richmond Hill HS 66, St. Theresa Of Lisieux 50"
-        },
-        {
-            "date": "Thursday, December 4, 2025",
-            "home_team": "St. Augustine",
-            "away_team": "St. Katharine Drexel",
-            "time": "4:45 PM",
-            "location": "St Augustine CHS",
-            "game_played": true,
-            "final_score": "St. Augustine 64, St. Katharine Drexel 49"
-        },
-        {
-            "date": "Thursday, December 4, 2025",
-            "home_team": "St. Elizabeth",
-            "away_team": "Stephen Lewis SS",
-            "time": "3:45 PM",
-            "location": "St Elizabeth CHS",
-            "game_played": true,
-            "final_score": "St. Elizabeth 77, Stephen Lewis SS 61"
-        },
-        {
-            "date": "Thursday, December 4, 2025",
-            "home_team": "St. Jean De Brebeuf CHS",
-            "away_team": "St. Joan Of Arc",
-            "time": "3:00 PM",
-            "location": "St Jean De Brebeuf CHS",
-            "game_played": true,
-            "final_score": "St. Jean De Brebeuf CHS 51, St. Joan Of Arc 49"
-        },
-        {
-            "date": "Thursday, December 4, 2025",
-            "home_team": "St. Robert",
-            "away_team": "Unionville HS",
-            "time": "4:45 PM",
-            "location": "St Robert CHS",
-            "game_played": true,
-            "final_score": "St. Robert 63, Unionville HS 51"
-        },
-        {
-            "date": "Thursday, December 4, 2025",
-            "home_team": "Sutton District",
-            "away_team": "Keswick High School",
-            "time": "3:00 PM",
-            "location": "Sutton DHS",
-            "game_played": true,
-            "final_score": "Sutton District 53, Keswick High School 109"
-        },
-        {
-            "date": "Thursday, December 4, 2025",
-            "home_team": "Thornhill SS",
-            "away_team": "Thornlea SS",
-            "time": "3:45 PM",
-            "location": "Thornhill SS",
-            "game_played": true,
-            "final_score": "Thornhill SS 96, Thornlea SS 57"
-        },
-        {
             "date": "Friday, December 5, 2025",
             "home_team": null,
             "away_team": null,
@@ -146,6 +47,15 @@
         },
         {
             "date": "Wednesday, December 10, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, December 11, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

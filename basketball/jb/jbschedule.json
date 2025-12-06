@@ -1,96 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, December 4, 2025",
-            "home_team": "Dr. J.M. Denison",
-            "away_team": "Renaissance ESC",
-            "time": "3:30 PM",
-            "location": "Dr J M Denison SS",
-            "game_played": true,
-            "final_score": "Dr. J.M. Denison 52, Renaissance ESC 72"
-        },
-        {
-            "date": "Thursday, December 4, 2025",
-            "home_team": "Huron Heights",
-            "away_team": "Sacred Heart",
-            "time": "3:30 PM",
-            "location": "Huron Heights SS",
-            "game_played": true,
-            "final_score": "Huron Heights 45, Sacred Heart 50"
-        },
-        {
-            "date": "Thursday, December 4, 2025",
-            "home_team": "Langstaff SS",
-            "away_team": "King City SS",
-            "time": "3:45 PM",
-            "location": "Langstaff SS",
-            "game_played": true,
-            "final_score": "Langstaff SS 54, King City SS 69"
-        },
-        {
-            "date": "Thursday, December 4, 2025",
-            "home_team": "Milliken Mills",
-            "away_team": "Bill Hogarth SS",
-            "time": "3:30 PM",
-            "location": "Milliken Mills HS",
-            "game_played": true,
-            "final_score": "Milliken Mills 55, Bill Hogarth SS 53"
-        },
-        {
-            "date": "Thursday, December 4, 2025",
-            "home_team": "Richmond Hill HS",
-            "away_team": "St. Theresa Of Lisieux",
-            "time": "3:30 PM",
-            "location": "Richmond Hill HS",
-            "game_played": true,
-            "final_score": "Richmond Hill HS 63, St. Theresa Of Lisieux 83"
-        },
-        {
-            "date": "Thursday, December 4, 2025",
-            "home_team": "Sir William Mulock",
-            "away_team": "Keswick High School",
-            "time": "3:45 PM",
-            "location": "Sir William Mulock",
-            "game_played": true,
-            "final_score": "Sir William Mulock 63, Keswick High School 47"
-        },
-        {
-            "date": "Thursday, December 4, 2025",
-            "home_team": "St. Augustine",
-            "away_team": "St. Katharine Drexel",
-            "time": "3:30 PM",
-            "location": "St Augustine CHS",
-            "game_played": true,
-            "final_score": "St. Augustine 75, St. Katharine Drexel 26"
-        },
-        {
-            "date": "Thursday, December 4, 2025",
-            "home_team": "St. Jean De Brebeuf CHS",
-            "away_team": "St. Joan Of Arc",
-            "time": "4:15 PM",
-            "location": "St Jean De Brebeuf CHS",
-            "game_played": true,
-            "final_score": "St. Jean De Brebeuf CHS 74, St. Joan Of Arc 31"
-        },
-        {
-            "date": "Thursday, December 4, 2025",
-            "home_team": "St. Robert",
-            "away_team": "Unionville HS",
-            "time": "3:30 PM",
-            "location": "St Robert CHS",
-            "game_played": true,
-            "final_score": "St. Robert 63, Unionville HS 48"
-        },
-        {
-            "date": "Thursday, December 4, 2025",
-            "home_team": "Stephen Lewis SS",
-            "away_team": "Alexander Mackenzie",
-            "time": "3:45 PM",
-            "location": "Stephen Lewis SS",
-            "game_played": true,
-            "final_score": "Stephen Lewis SS 70, Alexander Mackenzie 48"
-        },
-        {
             "date": "Friday, December 5, 2025",
             "home_team": null,
             "away_team": null,
@@ -137,6 +47,15 @@
         },
         {
             "date": "Wednesday, December 10, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, December 11, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
