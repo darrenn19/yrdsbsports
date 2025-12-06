@@ -325,6 +325,18 @@
             "DIFF": "48"
         },
         {
+            "Team": "Dr. G.W. Williams",
+            "MP": "6",
+            "MW": "3",
+            "ML": "3",
+            "GW": "7",
+            "GL": "7",
+            "PTS": "3",
+            "PF": "281",
+            "PA": "298",
+            "DIFF": "-17"
+        },
+        {
             "Team": "Aurora HS",
             "MP": "4",
             "MW": "3",
@@ -335,18 +347,6 @@
             "PF": "205",
             "PA": "141",
             "DIFF": "64"
-        },
-        {
-            "Team": "Huron Heights",
-            "MP": "5",
-            "MW": "2",
-            "ML": "3",
-            "GW": "5",
-            "GL": "6",
-            "PTS": "2",
-            "PF": "228",
-            "PA": "232",
-            "DIFF": "-4"
         },
         {
             "Team": "St. Maximilian",
@@ -361,28 +361,28 @@
             "DIFF": "19"
         },
         {
-            "Team": "Dr. G.W. Williams",
+            "Team": "Huron Heights",
+            "MP": "5",
+            "MW": "2",
+            "ML": "3",
+            "GW": "5",
+            "GL": "6",
+            "PTS": "2",
+            "PF": "228",
+            "PA": "232",
+            "DIFF": "-4"
+        },
+        {
+            "Team": "Newmarket HS",
             "MP": "5",
             "MW": "2",
             "ML": "3",
             "GW": "5",
             "GL": "7",
             "PTS": "2",
-            "PF": "231",
-            "PA": "267",
-            "DIFF": "-36"
-        },
-        {
-            "Team": "Newmarket HS",
-            "MP": "4",
-            "MW": "2",
-            "ML": "2",
-            "GW": "5",
-            "GL": "5",
-            "PTS": "2",
-            "PF": "204",
-            "PA": "204",
-            "DIFF": "0"
+            "PF": "235",
+            "PA": "254",
+            "DIFF": "-19"
         },
         {
             "Team": "Dr. J.M. Denison",
