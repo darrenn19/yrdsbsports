@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Friday, December 5, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
-        },
-        {
             "date": "Saturday, December 6, 2025",
             "home_team": null,
             "away_team": null,
@@ -56,6 +47,15 @@
         },
         {
             "date": "Thursday, December 11, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Friday, December 12, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
