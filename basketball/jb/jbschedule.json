@@ -20,6 +20,15 @@
         },
         {
             "date": "Monday, December 8, 2025",
+            "home_team": "Bur Oak SS",
+            "away_team": "Father McGivney",
+            "time": "4:45 PM",
+            "location": "Bur Oak SS",
+            "game_played": true,
+            "final_score": "Bur Oak SS 72, Father McGivney 41"
+        },
+        {
+            "date": "Monday, December 8, 2025",
             "home_team": "Dr. J.M. Denison",
             "away_team": "St. Maximilian",
             "time": "4:45 PM",
