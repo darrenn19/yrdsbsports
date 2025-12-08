@@ -11,12 +11,12 @@
         },
         {
             "date": "Monday, December 8, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Sir William Mulock",
+            "away_team": "Huron Heights",
+            "time": "3:45 PM",
+            "location": "Sir William Mulock",
+            "game_played": true,
+            "final_score": "Sir William Mulock 62, Huron Heights 58"
         },
         {
             "date": "Tuesday, December 9, 2025",

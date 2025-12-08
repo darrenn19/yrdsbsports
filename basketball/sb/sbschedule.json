@@ -11,6 +11,15 @@
         },
         {
             "date": "Monday, December 8, 2025",
+            "home_team": "Aurora HS",
+            "away_team": "Sacred Heart",
+            "time": "3:30 PM",
+            "location": "Aurora HS",
+            "game_played": true,
+            "final_score": "Aurora HS 46, Sacred Heart 66"
+        },
+        {
+            "date": "Monday, December 8, 2025",
             "home_team": "Bur Oak SS",
             "away_team": "Father McGivney",
             "time": "3:30 PM",
