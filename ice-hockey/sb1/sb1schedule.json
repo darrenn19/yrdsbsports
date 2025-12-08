@@ -11,12 +11,12 @@
         },
         {
             "date": "Monday, December 8, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Father Bressani",
+            "away_team": "King City SS",
+            "time": "2:15 PM",
+            "location": "Al Palladini Community Centre",
+            "game_played": true,
+            "final_score": "Father Bressani 5, King City SS 2"
         },
         {
             "date": "Tuesday, December 9, 2025",
