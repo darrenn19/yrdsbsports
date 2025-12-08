@@ -20,6 +20,15 @@
         },
         {
             "date": "Monday, December 8, 2025",
+            "home_team": "Bill Hogarth SS",
+            "away_team": "Middlefield",
+            "time": "3:30 PM",
+            "location": "Bill Hogarth SS",
+            "game_played": true,
+            "final_score": "Bill Hogarth SS 74, Middlefield 46"
+        },
+        {
+            "date": "Monday, December 8, 2025",
             "home_team": "Bur Oak SS",
             "away_team": "Father McGivney",
             "time": "3:30 PM",
