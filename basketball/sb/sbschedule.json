@@ -11,12 +11,39 @@
         },
         {
             "date": "Monday, December 8, 2025",
+            "home_team": "Bur Oak SS",
+            "away_team": "Father McGivney",
+            "time": "3:30 PM",
+            "location": "Bur Oak SS",
+            "game_played": true,
+            "final_score": "Bur Oak SS 50, Father McGivney 45"
+        },
+        {
+            "date": "Monday, December 8, 2025",
             "home_team": "Dr. J.M. Denison",
             "away_team": "St. Maximilian",
             "time": "3:30 PM",
             "location": "Dr J M Denison SS",
             "game_played": true,
             "final_score": "Dr. J.M. Denison 56, St. Maximilian 77"
+        },
+        {
+            "date": "Monday, December 8, 2025",
+            "home_team": "Sutton District",
+            "away_team": "Huron Heights",
+            "time": "3:45 PM",
+            "location": "Sutton DHS",
+            "game_played": true,
+            "final_score": "Sutton District 49, Huron Heights 65"
+        },
+        {
+            "date": "Monday, December 8, 2025",
+            "home_team": "Tommy Douglas SS",
+            "away_team": "Toronto District Christian",
+            "time": "3:45 PM",
+            "location": "Tommy Douglas SS",
+            "game_played": true,
+            "final_score": "Tommy Douglas SS 78, Toronto District Christian 49"
         },
         {
             "date": "Tuesday, December 9, 2025",
