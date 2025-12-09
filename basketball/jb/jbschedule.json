@@ -29,6 +29,15 @@
         },
         {
             "date": "Monday, December 8, 2025",
+            "home_team": "Father Bressani",
+            "away_team": "Holy Cross",
+            "time": "3:30 PM",
+            "location": "Father Bressani CHS",
+            "game_played": true,
+            "final_score": "Father Bressani 72, Holy Cross 56"
+        },
+        {
+            "date": "Monday, December 8, 2025",
             "home_team": "Maple High School",
             "away_team": "Emily Carr",
             "time": "4:45 PM",
