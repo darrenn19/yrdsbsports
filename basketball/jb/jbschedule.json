@@ -38,6 +38,24 @@
         },
         {
             "date": "Monday, December 8, 2025",
+            "home_team": "Maple High School",
+            "away_team": "Emily Carr",
+            "time": "4:45 PM",
+            "location": "Maple HS",
+            "game_played": true,
+            "final_score": "Maple High School 80, Emily Carr 54"
+        },
+        {
+            "date": "Monday, December 8, 2025",
+            "home_team": "Pierre Elliott Trudeau",
+            "away_team": "St. Augustine",
+            "time": "4:45 PM",
+            "location": "PE Trudeau HS",
+            "game_played": true,
+            "final_score": "Pierre Elliott Trudeau 50, St. Augustine 52"
+        },
+        {
+            "date": "Monday, December 8, 2025",
             "home_team": "Sir William Mulock",
             "away_team": "Huron Heights",
             "time": "3:45 PM",

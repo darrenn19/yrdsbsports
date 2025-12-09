@@ -47,6 +47,15 @@
         },
         {
             "date": "Monday, December 8, 2025",
+            "home_team": "Pierre Elliott Trudeau",
+            "away_team": "St. Augustine",
+            "time": "3:30 PM",
+            "location": "PE Trudeau HS",
+            "game_played": true,
+            "final_score": "Pierre Elliott Trudeau 57, St. Augustine 70"
+        },
+        {
+            "date": "Monday, December 8, 2025",
             "home_team": "Sutton District",
             "away_team": "Huron Heights",
             "time": "3:45 PM",
