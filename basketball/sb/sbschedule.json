@@ -47,6 +47,15 @@
         },
         {
             "date": "Monday, December 8, 2025",
+            "home_team": "Markham District",
+            "away_team": "St. Brother Andre",
+            "time": "3:45 PM",
+            "location": "Markham DHS",
+            "game_played": true,
+            "final_score": "Markham District 62, St. Brother Andre 66"
+        },
+        {
+            "date": "Monday, December 8, 2025",
             "home_team": "Pierre Elliott Trudeau",
             "away_team": "St. Augustine",
             "time": "3:30 PM",
