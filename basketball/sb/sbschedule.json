@@ -38,6 +38,15 @@
         },
         {
             "date": "Monday, December 8, 2025",
+            "home_team": "Father Bressani",
+            "away_team": "Holy Cross",
+            "time": "4:45 PM",
+            "location": "Father Bressani CHS",
+            "game_played": true,
+            "final_score": "Father Bressani 37, Holy Cross 68"
+        },
+        {
+            "date": "Monday, December 8, 2025",
             "home_team": "Pierre Elliott Trudeau",
             "away_team": "St. Augustine",
             "time": "3:30 PM",
