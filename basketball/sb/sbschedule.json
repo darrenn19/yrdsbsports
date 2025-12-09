@@ -47,6 +47,15 @@
         },
         {
             "date": "Monday, December 8, 2025",
+            "home_team": "Maple High School",
+            "away_team": "Emily Carr",
+            "time": "3:30 PM",
+            "location": "Maple HS",
+            "game_played": true,
+            "final_score": "Maple High School 76, Emily Carr 53"
+        },
+        {
+            "date": "Monday, December 8, 2025",
             "home_team": "Markham District",
             "away_team": "St. Brother Andre",
             "time": "3:45 PM",
