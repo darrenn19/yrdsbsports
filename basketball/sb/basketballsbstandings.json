@@ -177,6 +177,17 @@
             "DIFF": "38"
         },
         {
+            "Team": "St. Augustine",
+            "GP": "5",
+            "W": "4",
+            "L": "1",
+            "T": "0",
+            "PTS": "8",
+            "PF": "318",
+            "PA": "295",
+            "DIFF": "23"
+        },
+        {
             "Team": "Bill Hogarth SS",
             "GP": "5",
             "W": "3",
@@ -188,26 +199,15 @@
             "DIFF": "27"
         },
         {
-            "Team": "St. Augustine",
-            "GP": "4",
-            "W": "3",
-            "L": "1",
-            "T": "0",
-            "PTS": "6",
-            "PF": "248",
-            "PA": "238",
-            "DIFF": "10"
-        },
-        {
             "Team": "Pierre Elliott Trudeau",
-            "GP": "3",
+            "GP": "4",
             "W": "2",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "4",
-            "PF": "196",
-            "PA": "150",
-            "DIFF": "26"
+            "PF": "253",
+            "PA": "220",
+            "DIFF": "13"
         },
         {
             "Team": "Father McGivney",
@@ -453,14 +453,14 @@
         },
         {
             "Team": "Hodan Nalayeh SS",
-            "GP": "3",
-            "W": "3",
+            "GP": "4",
+            "W": "4",
             "L": "0",
             "T": "0",
-            "PTS": "6",
-            "PF": "231",
-            "PA": "183",
-            "DIFF": "23"
+            "PTS": "8",
+            "PF": "296",
+            "PA": "240",
+            "DIFF": "31"
         },
         {
             "Team": "Toronto District Christian",
@@ -497,14 +497,14 @@
         },
         {
             "Team": "Westmount",
-            "GP": "2",
+            "GP": "3",
             "W": "1",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "2",
-            "PF": "97",
-            "PA": "118",
-            "DIFF": "-11"
+            "PF": "154",
+            "PA": "183",
+            "DIFF": "-19"
         },
         {
             "Team": "Maple High School",

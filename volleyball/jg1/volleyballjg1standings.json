@@ -13,6 +13,18 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "St. Theresa Of Lisieux",
+            "MP": "4",
+            "MW": "4",
+            "ML": "0",
+            "GW": "8",
+            "GL": "2",
+            "PTS": "4",
+            "PF": "224",
+            "PA": "153",
+            "DIFF": "71"
+        },
+        {
             "Team": "St. Robert",
             "MP": "4",
             "MW": "2",
@@ -23,18 +35,6 @@
             "PF": "185",
             "PA": "184",
             "DIFF": "1"
-        },
-        {
-            "Team": "St. Theresa Of Lisieux",
-            "MP": "2",
-            "MW": "2",
-            "ML": "0",
-            "GW": "4",
-            "GL": "1",
-            "PTS": "2",
-            "PF": "112",
-            "PA": "82",
-            "DIFF": "30"
         },
         {
             "Team": "Thornlea SS",
@@ -50,27 +50,27 @@
         },
         {
             "Team": "Richmond Hill HS",
-            "MP": "3",
+            "MP": "4",
             "MW": "0",
-            "ML": "3",
-            "GW": "2",
-            "GL": "6",
+            "ML": "4",
+            "GW": "3",
+            "GL": "8",
             "PTS": "0",
-            "PF": "117",
-            "PA": "163",
-            "DIFF": "-46"
+            "PF": "162",
+            "PA": "225",
+            "DIFF": "-63"
         },
         {
             "Team": "Alexander Mackenzie",
-            "MP": "1",
+            "MP": "2",
             "MW": "0",
-            "ML": "1",
+            "ML": "2",
             "GW": "0",
-            "GL": "2",
+            "GL": "4",
             "PTS": "0",
-            "PF": "35",
-            "PA": "50",
-            "DIFF": "-15"
+            "PF": "61",
+            "PA": "100",
+            "DIFF": "-39"
         },
         {
             "Team": "East",
@@ -86,27 +86,39 @@
         },
         {
             "Team": "Markham District",
+            "MP": "4",
+            "MW": "4",
+            "ML": "0",
+            "GW": "8",
+            "GL": "2",
+            "PTS": "4",
+            "PF": "214",
+            "PA": "190",
+            "DIFF": "24"
+        },
+        {
+            "Team": "Bill Hogarth SS",
             "MP": "2",
             "MW": "2",
             "ML": "0",
             "GW": "4",
-            "GL": "2",
+            "GL": "0",
             "PTS": "2",
-            "PF": "113",
-            "PA": "122",
-            "DIFF": "-9"
+            "PF": "100",
+            "PA": "50",
+            "DIFF": "50"
         },
         {
             "Team": "Milliken Mills",
-            "MP": "2",
+            "MP": "4",
             "MW": "1",
-            "ML": "1",
+            "ML": "3",
             "GW": "3",
-            "GL": "2",
+            "GL": "6",
             "PTS": "1",
-            "PF": "111",
-            "PA": "105",
-            "DIFF": "6"
+            "PF": "172",
+            "PA": "205",
+            "DIFF": "-33"
         },
         {
             "Team": "Bill Crothers SS",
@@ -121,28 +133,16 @@
             "DIFF": "30"
         },
         {
-            "Team": "Bill Hogarth SS",
-            "MP": "0",
-            "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
-        },
-        {
             "Team": "St. Augustine",
-            "MP": "2",
+            "MP": "4",
             "MW": "0",
-            "ML": "2",
+            "ML": "4",
             "GW": "1",
-            "GL": "4",
+            "GL": "8",
             "PTS": "0",
-            "PF": "81",
-            "PA": "108",
-            "DIFF": "-27"
+            "PF": "138",
+            "PA": "209",
+            "DIFF": "-71"
         },
         {
             "Team": "North",
