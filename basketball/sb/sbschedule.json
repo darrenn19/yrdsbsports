@@ -119,6 +119,24 @@
         },
         {
             "date": "Tuesday, December 9, 2025",
+            "home_team": "Our Lady Queen Of The World",
+            "away_team": "Alexander Mackenzie",
+            "time": "3:45 PM",
+            "location": "Our Lady Queen Of The World",
+            "game_played": true,
+            "final_score": "Our Lady Queen Of The World 59, Alexander Mackenzie 56"
+        },
+        {
+            "date": "Tuesday, December 9, 2025",
+            "home_team": "St. Theresa Of Lisieux",
+            "away_team": "Thornlea SS",
+            "time": "3:30 PM",
+            "location": "St Theresa Of Lisieux CHS",
+            "game_played": true,
+            "final_score": "St. Theresa Of Lisieux 73, Thornlea SS 55"
+        },
+        {
+            "date": "Tuesday, December 9, 2025",
             "home_team": "Thornhill SS",
             "away_team": "Richmond Green SS",
             "time": "3:45 PM",
