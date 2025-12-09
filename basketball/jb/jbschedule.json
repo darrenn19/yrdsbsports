@@ -83,6 +83,15 @@
         },
         {
             "date": "Tuesday, December 9, 2025",
+            "home_team": "St. Theresa Of Lisieux",
+            "away_team": "Thornlea SS",
+            "time": "4:45 PM",
+            "location": "St Theresa Of Lisieux CHS",
+            "game_played": true,
+            "final_score": "St. Theresa Of Lisieux 81, Thornlea SS 75"
+        },
+        {
+            "date": "Tuesday, December 9, 2025",
             "home_team": "Stephen Lewis SS",
             "away_team": "St. Robert",
             "time": "3:30 PM",
