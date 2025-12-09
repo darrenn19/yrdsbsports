@@ -65,6 +65,15 @@
         },
         {
             "date": "Tuesday, December 9, 2025",
+            "home_team": "St. Katharine Drexel",
+            "away_team": "Markville",
+            "time": "4:45 PM",
+            "location": "St Katharine Drexel CHS",
+            "game_played": true,
+            "final_score": "St. Katharine Drexel 27, Markville 94"
+        },
+        {
+            "date": "Tuesday, December 9, 2025",
             "home_team": "Stephen Lewis SS",
             "away_team": "St. Robert",
             "time": "3:30 PM",
