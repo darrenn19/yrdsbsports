@@ -109,6 +109,24 @@
             "final_score": "Dr. G.W. Williams 54, Newmarket HS 79"
         },
         {
+            "date": "Tuesday, December 9, 2025",
+            "home_team": "Langstaff SS",
+            "away_team": "St. Elizabeth",
+            "time": "3:45 PM",
+            "location": "Langstaff SS",
+            "game_played": true,
+            "final_score": "Langstaff SS 30, St. Elizabeth 71"
+        },
+        {
+            "date": "Tuesday, December 9, 2025",
+            "home_team": "Thornhill SS",
+            "away_team": "Richmond Green SS",
+            "time": "3:45 PM",
+            "location": "Thornhill SS",
+            "game_played": true,
+            "final_score": "Thornhill SS 66, Richmond Green SS 65"
+        },
+        {
             "date": "Wednesday, December 10, 2025",
             "home_team": null,
             "away_team": null,

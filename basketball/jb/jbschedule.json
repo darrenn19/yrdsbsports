@@ -65,12 +65,12 @@
         },
         {
             "date": "Tuesday, December 9, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Stephen Lewis SS",
+            "away_team": "St. Robert",
+            "time": "3:30 PM",
+            "location": "Stephen Lewis SS",
+            "game_played": true,
+            "final_score": "Stephen Lewis SS 74, St. Robert 54"
         },
         {
             "date": "Wednesday, December 10, 2025",
