@@ -101,12 +101,12 @@
         },
         {
             "date": "Tuesday, December 9, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Dr. G.W. Williams",
+            "away_team": "Newmarket HS",
+            "time": "3:45 PM",
+            "location": "Dr G W Williams SS",
+            "game_played": true,
+            "final_score": "Dr. G.W. Williams 54, Newmarket HS 79"
         },
         {
             "date": "Wednesday, December 10, 2025",
