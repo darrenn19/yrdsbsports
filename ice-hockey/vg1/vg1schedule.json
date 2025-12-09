@@ -11,12 +11,12 @@
         },
         {
             "date": "Monday, December 8, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Dr. G.W. Williams",
+            "away_team": "Keswick High School",
+            "time": "2:00 PM",
+            "location": "Stronach Aurora Recreation Complex",
+            "game_played": true,
+            "final_score": "Dr. G.W. Williams 1, Keswick High School 5"
         },
         {
             "date": "Tuesday, December 9, 2025",
