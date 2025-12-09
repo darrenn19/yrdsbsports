@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Sunday, December 7, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
-        },
-        {
             "date": "Monday, December 8, 2025",
             "home_team": "Bill Hogarth SS",
             "away_team": "Middlefield",
@@ -101,6 +92,15 @@
         },
         {
             "date": "Saturday, December 13, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Sunday, December 14, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
