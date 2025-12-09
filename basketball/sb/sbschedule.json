@@ -64,6 +64,15 @@
             "final_score": "Tommy Douglas SS 78, Toronto District Christian 49"
         },
         {
+            "date": "Monday, December 8, 2025",
+            "home_team": "Westmount",
+            "away_team": "Hodan Nalayeh SS",
+            "time": "3:45 PM",
+            "location": "Westmount CI",
+            "game_played": true,
+            "final_score": "Westmount 57, Hodan Nalayeh SS 65"
+        },
+        {
             "date": "Tuesday, December 9, 2025",
             "home_team": null,
             "away_team": null,
