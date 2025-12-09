@@ -128,12 +128,39 @@
         },
         {
             "date": "Tuesday, December 9, 2025",
+            "home_team": "Renaissance ESC",
+            "away_team": "Cardinal Carter",
+            "time": "3:30 PM",
+            "location": "Renaissance ESC",
+            "game_played": true,
+            "final_score": "Renaissance ESC 67, Cardinal Carter 26"
+        },
+        {
+            "date": "Tuesday, December 9, 2025",
             "home_team": "St. Theresa Of Lisieux",
             "away_team": "Thornlea SS",
             "time": "3:30 PM",
             "location": "St Theresa Of Lisieux CHS",
             "game_played": true,
             "final_score": "St. Theresa Of Lisieux 73, Thornlea SS 55"
+        },
+        {
+            "date": "Tuesday, December 9, 2025",
+            "home_team": "Stephen Lewis SS",
+            "away_team": "St. Robert",
+            "time": "2:15 PM",
+            "location": "Stephen Lewis SS",
+            "game_played": true,
+            "final_score": "Stephen Lewis SS 72, St. Robert 68"
+        },
+        {
+            "date": "Tuesday, December 9, 2025",
+            "home_team": "Stouffville",
+            "away_team": "Milliken Mills",
+            "time": "3:30 PM",
+            "location": "Stouffville DSS",
+            "game_played": true,
+            "final_score": "Stouffville 67, Milliken Mills 51"
         },
         {
             "date": "Tuesday, December 9, 2025",

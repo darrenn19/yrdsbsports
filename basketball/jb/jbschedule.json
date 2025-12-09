@@ -65,6 +65,15 @@
         },
         {
             "date": "Tuesday, December 9, 2025",
+            "home_team": "Renaissance ESC",
+            "away_team": "Cardinal Carter",
+            "time": "4:45 PM",
+            "location": "Renaissance ESC",
+            "game_played": true,
+            "final_score": "Renaissance ESC 55, Cardinal Carter 65"
+        },
+        {
+            "date": "Tuesday, December 9, 2025",
             "home_team": "St. Katharine Drexel",
             "away_team": "Markville",
             "time": "4:45 PM",
@@ -80,6 +89,15 @@
             "location": "Stephen Lewis SS",
             "game_played": true,
             "final_score": "Stephen Lewis SS 74, St. Robert 54"
+        },
+        {
+            "date": "Tuesday, December 9, 2025",
+            "home_team": "Unionville HS",
+            "away_team": "Richmond Hill HS",
+            "time": "4:45 PM",
+            "location": "Unionville HS",
+            "game_played": true,
+            "final_score": "Unionville HS 73, Richmond Hill HS 77"
         },
         {
             "date": "Wednesday, December 10, 2025",
