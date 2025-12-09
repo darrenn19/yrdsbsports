@@ -25,6 +25,18 @@
             "DIFF": "94"
         },
         {
+            "Team": "Renaissance ESC",
+            "MP": "6",
+            "MW": "5",
+            "ML": "1",
+            "GW": "10",
+            "GL": "4",
+            "PTS": "5",
+            "PF": "304",
+            "PA": "272",
+            "DIFF": "32"
+        },
+        {
             "Team": "St. Robert",
             "MP": "6",
             "MW": "5",
@@ -35,18 +47,6 @@
             "PF": "287",
             "PA": "224",
             "DIFF": "63"
-        },
-        {
-            "Team": "Renaissance ESC",
-            "MP": "4",
-            "MW": "3",
-            "ML": "1",
-            "GW": "6",
-            "GL": "3",
-            "PTS": "3",
-            "PF": "192",
-            "PA": "176",
-            "DIFF": "16"
         },
         {
             "Team": "Richmond Green SS",
@@ -73,6 +73,42 @@
             "DIFF": "42"
         },
         {
+            "Team": "Thornhill SS",
+            "MP": "6",
+            "MW": "2",
+            "ML": "4",
+            "GW": "4",
+            "GL": "9",
+            "PTS": "2",
+            "PF": "239",
+            "PA": "292",
+            "DIFF": "-53"
+        },
+        {
+            "Team": "St. Theresa Of Lisieux",
+            "MP": "6",
+            "MW": "2",
+            "ML": "4",
+            "GW": "6",
+            "GL": "8",
+            "PTS": "2",
+            "PF": "270",
+            "PA": "295",
+            "DIFF": "-25"
+        },
+        {
+            "Team": "Thornlea SS",
+            "MP": "6",
+            "MW": "1",
+            "ML": "5",
+            "GW": "3",
+            "GL": "10",
+            "PTS": "1",
+            "PF": "229",
+            "PA": "290",
+            "DIFF": "-61"
+        },
+        {
             "Team": "Richmond Hill HS",
             "MP": "6",
             "MW": "1",
@@ -83,42 +119,6 @@
             "PF": "258",
             "PA": "299",
             "DIFF": "-41"
-        },
-        {
-            "Team": "St. Theresa Of Lisieux",
-            "MP": "4",
-            "MW": "1",
-            "ML": "3",
-            "GW": "3",
-            "GL": "6",
-            "PTS": "1",
-            "PF": "155",
-            "PA": "201",
-            "DIFF": "-46"
-        },
-        {
-            "Team": "Thornlea SS",
-            "MP": "4",
-            "MW": "1",
-            "ML": "3",
-            "GW": "3",
-            "GL": "6",
-            "PTS": "1",
-            "PF": "162",
-            "PA": "190",
-            "DIFF": "-28"
-        },
-        {
-            "Team": "Thornhill SS",
-            "MP": "4",
-            "MW": "1",
-            "ML": "3",
-            "GW": "2",
-            "GL": "7",
-            "PTS": "1",
-            "PF": "158",
-            "PA": "207",
-            "DIFF": "-49"
         },
         {
             "Team": "Our Lady Queen Of The World",
@@ -181,6 +181,18 @@
             "DIFF": "70"
         },
         {
+            "Team": "Bur Oak SS",
+            "MP": "3",
+            "MW": "2",
+            "ML": "1",
+            "GW": "4",
+            "GL": "2",
+            "PTS": "2",
+            "PF": "133",
+            "PA": "132",
+            "DIFF": "1"
+        },
+        {
             "Team": "St. Brother Andre",
             "MP": "3",
             "MW": "2",
@@ -230,15 +242,15 @@
         },
         {
             "Team": "Middlefield",
-            "MP": "3",
+            "MP": "4",
             "MW": "1",
-            "ML": "2",
+            "ML": "3",
             "GW": "2",
-            "GL": "5",
+            "GL": "7",
             "PTS": "1",
-            "PF": "128",
-            "PA": "164",
-            "DIFF": "-36"
+            "PF": "163",
+            "PA": "214",
+            "DIFF": "-51"
         },
         {
             "Team": "Stouffville",
@@ -263,18 +275,6 @@
             "PF": "182",
             "PA": "191",
             "DIFF": "-9"
-        },
-        {
-            "Team": "Bur Oak SS",
-            "MP": "2",
-            "MW": "1",
-            "ML": "1",
-            "GW": "2",
-            "GL": "2",
-            "PTS": "1",
-            "PF": "83",
-            "PA": "97",
-            "DIFF": "-14"
         },
         {
             "Team": "Milliken Mills",

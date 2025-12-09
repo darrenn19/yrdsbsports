@@ -101,14 +101,14 @@
         },
         {
             "Team": "Bill Hogarth SS",
-            "GP": "3",
-            "W": "2",
+            "GP": "4",
+            "W": "3",
             "L": "1",
             "T": "0",
-            "PTS": "4",
-            "GF": "16",
-            "GA": "11",
-            "DIFF": "5"
+            "PTS": "6",
+            "GF": "20",
+            "GA": "12",
+            "DIFF": "8"
         },
         {
             "Team": "Markham District",
@@ -134,14 +134,14 @@
         },
         {
             "Team": "King City SS",
-            "GP": "2",
+            "GP": "3",
             "W": "1",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "2",
-            "GF": "2",
-            "GA": "8",
-            "DIFF": "-6"
+            "GF": "3",
+            "GA": "12",
+            "DIFF": "-9"
         },
         {
             "Team": "Cardinal Carter",
