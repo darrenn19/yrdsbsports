@@ -47,6 +47,15 @@
         },
         {
             "date": "Tuesday, December 9, 2025",
+            "home_team": "Stouffville",
+            "away_team": "Milliken Mills",
+            "time": "4:45 PM",
+            "location": "Stouffville DSS",
+            "game_played": true,
+            "final_score": "Stouffville 57, Milliken Mills 51"
+        },
+        {
+            "date": "Tuesday, December 9, 2025",
             "home_team": "Unionville HS",
             "away_team": "Richmond Hill HS",
             "time": "4:45 PM",
