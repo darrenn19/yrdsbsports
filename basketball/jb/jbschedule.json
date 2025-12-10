@@ -1,69 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, December 8, 2025",
-            "home_team": "Bill Hogarth SS",
-            "away_team": "Middlefield",
-            "time": "4:45 PM",
-            "location": "Bill Hogarth SS",
-            "game_played": true,
-            "final_score": "Bill Hogarth SS 66, Middlefield 69"
-        },
-        {
-            "date": "Monday, December 8, 2025",
-            "home_team": "Bur Oak SS",
-            "away_team": "Father McGivney",
-            "time": "4:45 PM",
-            "location": "Bur Oak SS",
-            "game_played": true,
-            "final_score": "Bur Oak SS 72, Father McGivney 41"
-        },
-        {
-            "date": "Monday, December 8, 2025",
-            "home_team": "Dr. J.M. Denison",
-            "away_team": "St. Maximilian",
-            "time": "4:45 PM",
-            "location": "Dr J M Denison SS",
-            "game_played": true,
-            "final_score": "Dr. J.M. Denison 51, St. Maximilian 74"
-        },
-        {
-            "date": "Monday, December 8, 2025",
-            "home_team": "Father Bressani",
-            "away_team": "Holy Cross",
-            "time": "3:30 PM",
-            "location": "Father Bressani CHS",
-            "game_played": true,
-            "final_score": "Father Bressani 72, Holy Cross 56"
-        },
-        {
-            "date": "Monday, December 8, 2025",
-            "home_team": "Maple High School",
-            "away_team": "Emily Carr",
-            "time": "4:45 PM",
-            "location": "Maple HS",
-            "game_played": true,
-            "final_score": "Maple High School 80, Emily Carr 54"
-        },
-        {
-            "date": "Monday, December 8, 2025",
-            "home_team": "Pierre Elliott Trudeau",
-            "away_team": "St. Augustine",
-            "time": "4:45 PM",
-            "location": "PE Trudeau HS",
-            "game_played": true,
-            "final_score": "Pierre Elliott Trudeau 50, St. Augustine 52"
-        },
-        {
-            "date": "Monday, December 8, 2025",
-            "home_team": "Sir William Mulock",
-            "away_team": "Huron Heights",
-            "time": "3:45 PM",
-            "location": "Sir William Mulock",
-            "game_played": true,
-            "final_score": "Sir William Mulock 62, Huron Heights 58"
-        },
-        {
             "date": "Tuesday, December 9, 2025",
             "home_team": "King City SS",
             "away_team": "Alexander Mackenzie",
@@ -155,6 +92,15 @@
         },
         {
             "date": "Sunday, December 14, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, December 15, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
