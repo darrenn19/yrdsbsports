@@ -241,28 +241,28 @@
             "DIFF": "DIFF"
         },
         {
-            "Team": "Father Bressani",
-            "MP": "3",
-            "MW": "3",
+            "Team": "Holy Cross",
+            "MP": "4",
+            "MW": "4",
             "ML": "0",
-            "GW": "6",
+            "GW": "8",
             "GL": "0",
-            "PTS": "3",
-            "PF": "152",
-            "PA": "126",
-            "DIFF": "26"
+            "PTS": "4",
+            "PF": "200",
+            "PA": "99",
+            "DIFF": "101"
         },
         {
-            "Team": "Holy Cross",
-            "MP": "2",
-            "MW": "2",
-            "ML": "0",
-            "GW": "4",
-            "GL": "0",
-            "PTS": "2",
-            "PF": "100",
-            "PA": "49",
-            "DIFF": "51"
+            "Team": "Father Bressani",
+            "MP": "4",
+            "MW": "3",
+            "ML": "1",
+            "GW": "6",
+            "GL": "2",
+            "PTS": "3",
+            "PF": "181",
+            "PA": "176",
+            "DIFF": "5"
         },
         {
             "Team": "St. Joan Of Arc",
@@ -302,15 +302,15 @@
         },
         {
             "Team": "ESC De L Ascension",
-            "MP": "2",
+            "MP": "3",
             "MW": "0",
-            "ML": "2",
+            "ML": "3",
             "GW": "0",
-            "GL": "4",
+            "GL": "6",
             "PTS": "0",
-            "PF": "52",
-            "PA": "100",
-            "DIFF": "-48"
+            "PF": "73",
+            "PA": "150",
+            "DIFF": "-77"
         }
     ]
 }
