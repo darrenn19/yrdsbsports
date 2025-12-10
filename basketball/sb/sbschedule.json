@@ -110,12 +110,12 @@
         },
         {
             "date": "Thursday, December 11, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Langstaff SS",
+            "away_team": "Thornhill SS",
+            "time": "3:45 PM",
+            "location": "Langstaff SS",
+            "game_played": true,
+            "final_score": "Langstaff SS 30, Thornhill SS 71"
         },
         {
             "date": "Friday, December 12, 2025",
