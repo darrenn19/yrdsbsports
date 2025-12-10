@@ -146,6 +146,15 @@
         },
         {
             "date": "Tuesday, December 9, 2025",
+            "home_team": "St. Katharine Drexel",
+            "away_team": "Bill Crothers SS",
+            "time": "3:30 PM",
+            "location": "St Katharine Drexel CHS",
+            "game_played": true,
+            "final_score": "St. Katharine Drexel 29, Bill Crothers SS 68"
+        },
+        {
+            "date": "Tuesday, December 9, 2025",
             "home_team": "St. Theresa Of Lisieux",
             "away_team": "Thornlea SS",
             "time": "3:30 PM",
