@@ -110,6 +110,15 @@
         },
         {
             "date": "Tuesday, December 9, 2025",
+            "home_team": "King City SS",
+            "away_team": "Keswick High School",
+            "time": "3:30 PM",
+            "location": "King City SS",
+            "game_played": true,
+            "final_score": "King City SS 76, Keswick High School 83"
+        },
+        {
+            "date": "Tuesday, December 9, 2025",
             "home_team": "Langstaff SS",
             "away_team": "St. Elizabeth",
             "time": "3:45 PM",
@@ -170,6 +179,15 @@
             "location": "Thornhill SS",
             "game_played": true,
             "final_score": "Thornhill SS 66, Richmond Green SS 65"
+        },
+        {
+            "date": "Tuesday, December 9, 2025",
+            "home_team": "Unionville HS",
+            "away_team": "Richmond Hill HS",
+            "time": "3:30 PM",
+            "location": "Unionville HS",
+            "game_played": true,
+            "final_score": "Unionville HS 58, Richmond Hill HS 86"
         },
         {
             "date": "Wednesday, December 10, 2025",

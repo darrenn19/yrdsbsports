@@ -65,6 +65,15 @@
         },
         {
             "date": "Tuesday, December 9, 2025",
+            "home_team": "King City SS",
+            "away_team": "Alexander Mackenzie",
+            "time": "4:45 PM",
+            "location": "King City SS",
+            "game_played": true,
+            "final_score": "King City SS 68, Alexander Mackenzie 60"
+        },
+        {
+            "date": "Tuesday, December 9, 2025",
             "home_team": "Renaissance ESC",
             "away_team": "Cardinal Carter",
             "time": "4:45 PM",
