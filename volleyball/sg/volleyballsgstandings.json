@@ -457,6 +457,18 @@
             "DIFF": "129"
         },
         {
+            "Team": "Emily Carr",
+            "MP": "8",
+            "MW": "6",
+            "ML": "2",
+            "GW": "13",
+            "GL": "6",
+            "PTS": "6",
+            "PF": "415",
+            "PA": "359",
+            "DIFF": "56"
+        },
+        {
             "Team": "Holy Cross",
             "MP": "8",
             "MW": "5",
@@ -469,52 +481,28 @@
             "DIFF": "37"
         },
         {
-            "Team": "Tommy Douglas SS",
-            "MP": "7",
-            "MW": "4",
-            "ML": "3",
-            "GW": "8",
-            "GL": "7",
-            "PTS": "4",
-            "PF": "331",
-            "PA": "300",
-            "DIFF": "31"
-        },
-        {
-            "Team": "Toronto District Christian",
+            "Team": "Stephen Lewis SS",
             "MP": "8",
             "MW": "4",
             "ML": "4",
-            "GW": "11",
+            "GW": "9",
             "GL": "8",
             "PTS": "4",
-            "PF": "410",
-            "PA": "383",
-            "DIFF": "27"
+            "PF": "366",
+            "PA": "328",
+            "DIFF": "38"
         },
         {
-            "Team": "Emily Carr",
-            "MP": "6",
+            "Team": "Tommy Douglas SS",
+            "MP": "8",
             "MW": "4",
-            "ML": "2",
-            "GW": "9",
-            "GL": "6",
+            "ML": "4",
+            "GW": "8",
+            "GL": "9",
             "PTS": "4",
-            "PF": "315",
-            "PA": "284",
-            "DIFF": "31"
-        },
-        {
-            "Team": "Stephen Lewis SS",
-            "MP": "7",
-            "MW": "4",
-            "ML": "3",
-            "GW": "9",
-            "GL": "6",
-            "PTS": "4",
-            "PF": "328",
-            "PA": "278",
-            "DIFF": "50"
+            "PF": "368",
+            "PA": "350",
+            "DIFF": "18"
         },
         {
             "Team": "St. Elizabeth",
@@ -527,6 +515,18 @@
             "PF": "396",
             "PA": "392",
             "DIFF": "4"
+        },
+        {
+            "Team": "Toronto District Christian",
+            "MP": "8",
+            "MW": "4",
+            "ML": "4",
+            "GW": "11",
+            "GL": "8",
+            "PTS": "4",
+            "PF": "410",
+            "PA": "383",
+            "DIFF": "27"
         },
         {
             "Team": "Father Bressani",
