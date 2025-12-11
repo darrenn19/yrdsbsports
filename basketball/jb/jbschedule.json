@@ -11,6 +11,15 @@
         },
         {
             "date": "Thursday, December 11, 2025",
+            "home_team": "St. Katharine Drexel",
+            "away_team": "Stouffville",
+            "time": "3:45 PM",
+            "location": "St Katharine Drexel CHS",
+            "game_played": true,
+            "final_score": "St. Katharine Drexel 22, Stouffville 71"
+        },
+        {
+            "date": "Thursday, December 11, 2025",
             "home_team": "St. Theresa Of Lisieux",
             "away_team": "Alexander Mackenzie",
             "time": "3:30 PM",
