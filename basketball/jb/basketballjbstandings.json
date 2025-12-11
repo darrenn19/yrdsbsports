@@ -281,16 +281,6 @@
             "PA": "147"
         },
         {
-            "Team": "Sir William Mulock",
-            "GP": "3",
-            "W": "2",
-            "L": "1",
-            "T": "0",
-            "PTS": "4",
-            "PF": "149",
-            "PA": "170"
-        },
-        {
             "Team": "Keswick High School",
             "GP": "3",
             "W": "2",
@@ -301,14 +291,24 @@
             "PA": "156"
         },
         {
-            "Team": "Sacred Heart",
-            "GP": "2",
-            "W": "1",
+            "Team": "Sir William Mulock",
+            "GP": "3",
+            "W": "2",
             "L": "1",
             "T": "0",
-            "PTS": "2",
-            "PF": "86",
-            "PA": "113"
+            "PTS": "4",
+            "PF": "149",
+            "PA": "170"
+        },
+        {
+            "Team": "Sacred Heart",
+            "GP": "3",
+            "W": "2",
+            "L": "1",
+            "T": "0",
+            "PTS": "4",
+            "PF": "138",
+            "PA": "163"
         },
         {
             "Team": "Huron Heights",
@@ -322,13 +322,13 @@
         },
         {
             "Team": "Aurora HS",
-            "GP": "2",
+            "GP": "3",
             "W": "0",
-            "L": "2",
+            "L": "3",
             "T": "0",
             "PTS": "0",
-            "PF": "75",
-            "PA": "125"
+            "PF": "125",
+            "PA": "177"
         },
         {
             "Team": "Dr. J.M. Denison",
