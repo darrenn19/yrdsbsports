@@ -19,6 +19,15 @@
             "final_score": "Langstaff SS 30, Thornhill SS 71"
         },
         {
+            "date": "Thursday, December 11, 2025",
+            "home_team": "St. Elizabeth",
+            "away_team": "St. Robert",
+            "time": "3:45 PM",
+            "location": "St Elizabeth CHS",
+            "game_played": true,
+            "final_score": "St. Elizabeth 82, St. Robert 37"
+        },
+        {
             "date": "Friday, December 12, 2025",
             "home_team": null,
             "away_team": null,
