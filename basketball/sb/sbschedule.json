@@ -1,105 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, December 9, 2025",
-            "home_team": "Dr. G.W. Williams",
-            "away_team": "Newmarket HS",
-            "time": "3:45 PM",
-            "location": "Dr G W Williams SS",
-            "game_played": true,
-            "final_score": "Dr. G.W. Williams 54, Newmarket HS 79"
-        },
-        {
-            "date": "Tuesday, December 9, 2025",
-            "home_team": "King City SS",
-            "away_team": "Keswick High School",
-            "time": "3:30 PM",
-            "location": "King City SS",
-            "game_played": true,
-            "final_score": "King City SS 76, Keswick High School 83"
-        },
-        {
-            "date": "Tuesday, December 9, 2025",
-            "home_team": "Langstaff SS",
-            "away_team": "St. Elizabeth",
-            "time": "3:45 PM",
-            "location": "Langstaff SS",
-            "game_played": true,
-            "final_score": "Langstaff SS 30, St. Elizabeth 71"
-        },
-        {
-            "date": "Tuesday, December 9, 2025",
-            "home_team": "Our Lady Queen Of The World",
-            "away_team": "Alexander Mackenzie",
-            "time": "3:45 PM",
-            "location": "Our Lady Queen Of The World",
-            "game_played": true,
-            "final_score": "Our Lady Queen Of The World 59, Alexander Mackenzie 56"
-        },
-        {
-            "date": "Tuesday, December 9, 2025",
-            "home_team": "Renaissance ESC",
-            "away_team": "Cardinal Carter",
-            "time": "3:30 PM",
-            "location": "Renaissance ESC",
-            "game_played": true,
-            "final_score": "Renaissance ESC 67, Cardinal Carter 26"
-        },
-        {
-            "date": "Tuesday, December 9, 2025",
-            "home_team": "St. Katharine Drexel",
-            "away_team": "Bill Crothers SS",
-            "time": "3:30 PM",
-            "location": "St Katharine Drexel CHS",
-            "game_played": true,
-            "final_score": "St. Katharine Drexel 29, Bill Crothers SS 68"
-        },
-        {
-            "date": "Tuesday, December 9, 2025",
-            "home_team": "St. Theresa Of Lisieux",
-            "away_team": "Thornlea SS",
-            "time": "3:30 PM",
-            "location": "St Theresa Of Lisieux CHS",
-            "game_played": true,
-            "final_score": "St. Theresa Of Lisieux 73, Thornlea SS 55"
-        },
-        {
-            "date": "Tuesday, December 9, 2025",
-            "home_team": "Stephen Lewis SS",
-            "away_team": "St. Robert",
-            "time": "2:15 PM",
-            "location": "Stephen Lewis SS",
-            "game_played": true,
-            "final_score": "Stephen Lewis SS 72, St. Robert 68"
-        },
-        {
-            "date": "Tuesday, December 9, 2025",
-            "home_team": "Stouffville",
-            "away_team": "Milliken Mills",
-            "time": "3:30 PM",
-            "location": "Stouffville DSS",
-            "game_played": true,
-            "final_score": "Stouffville 67, Milliken Mills 51"
-        },
-        {
-            "date": "Tuesday, December 9, 2025",
-            "home_team": "Thornhill SS",
-            "away_team": "Richmond Green SS",
-            "time": "3:45 PM",
-            "location": "Thornhill SS",
-            "game_played": true,
-            "final_score": "Thornhill SS 68, Richmond Green SS 65"
-        },
-        {
-            "date": "Tuesday, December 9, 2025",
-            "home_team": "Unionville HS",
-            "away_team": "Richmond Hill HS",
-            "time": "3:30 PM",
-            "location": "Unionville HS",
-            "game_played": true,
-            "final_score": "Unionville HS 58, Richmond Hill HS 86"
-        },
-        {
             "date": "Wednesday, December 10, 2025",
             "home_team": null,
             "away_team": null,
@@ -146,6 +47,15 @@
         },
         {
             "date": "Monday, December 15, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, December 16, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

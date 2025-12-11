@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, December 9, 2025",
-            "home_team": "Sacred Heart",
-            "away_team": "Newmarket HS",
-            "time": "2:30 PM",
-            "location": "Magna Centre",
-            "game_played": true,
-            "final_score": "Sacred Heart 2, Newmarket HS 1"
-        },
-        {
             "date": "Wednesday, December 10, 2025",
             "home_team": null,
             "away_team": null,
@@ -56,6 +47,15 @@
         },
         {
             "date": "Monday, December 15, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, December 16, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

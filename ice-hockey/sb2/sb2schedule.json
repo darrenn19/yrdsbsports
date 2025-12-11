@@ -1,24 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, December 9, 2025",
-            "home_team": "Aurora HS",
-            "away_team": "St. Joan Of Arc",
-            "time": "2:45 PM",
-            "location": "Aurora Community Centre",
-            "game_played": true,
-            "final_score": "Aurora HS 1, St. Joan Of Arc 3"
-        },
-        {
-            "date": "Tuesday, December 9, 2025",
-            "home_team": "Keswick High School",
-            "away_team": "Huron Heights",
-            "time": "2:30 PM",
-            "location": "Georgina Ice Palace",
-            "game_played": true,
-            "final_score": "Keswick High School 1, Huron Heights 2"
-        },
-        {
             "date": "Wednesday, December 10, 2025",
             "home_team": null,
             "away_team": null,
@@ -65,6 +47,15 @@
         },
         {
             "date": "Monday, December 15, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, December 16, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

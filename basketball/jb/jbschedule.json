@@ -1,69 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, December 9, 2025",
-            "home_team": "King City SS",
-            "away_team": "Alexander Mackenzie",
-            "time": "4:45 PM",
-            "location": "King City SS",
-            "game_played": true,
-            "final_score": "King City SS 68, Alexander Mackenzie 60"
-        },
-        {
-            "date": "Tuesday, December 9, 2025",
-            "home_team": "Renaissance ESC",
-            "away_team": "Cardinal Carter",
-            "time": "4:45 PM",
-            "location": "Renaissance ESC",
-            "game_played": true,
-            "final_score": "Renaissance ESC 55, Cardinal Carter 65"
-        },
-        {
-            "date": "Tuesday, December 9, 2025",
-            "home_team": "St. Katharine Drexel",
-            "away_team": "Markville",
-            "time": "4:45 PM",
-            "location": "St Katharine Drexel CHS",
-            "game_played": true,
-            "final_score": "St. Katharine Drexel 27, Markville 94"
-        },
-        {
-            "date": "Tuesday, December 9, 2025",
-            "home_team": "St. Theresa Of Lisieux",
-            "away_team": "Thornlea SS",
-            "time": "4:45 PM",
-            "location": "St Theresa Of Lisieux CHS",
-            "game_played": true,
-            "final_score": "St. Theresa Of Lisieux 81, Thornlea SS 75"
-        },
-        {
-            "date": "Tuesday, December 9, 2025",
-            "home_team": "Stephen Lewis SS",
-            "away_team": "St. Robert",
-            "time": "3:30 PM",
-            "location": "Stephen Lewis SS",
-            "game_played": true,
-            "final_score": "Stephen Lewis SS 74, St. Robert 54"
-        },
-        {
-            "date": "Tuesday, December 9, 2025",
-            "home_team": "Stouffville",
-            "away_team": "Milliken Mills",
-            "time": "4:45 PM",
-            "location": "Stouffville DSS",
-            "game_played": true,
-            "final_score": "Stouffville 57, Milliken Mills 51"
-        },
-        {
-            "date": "Tuesday, December 9, 2025",
-            "home_team": "Unionville HS",
-            "away_team": "Richmond Hill HS",
-            "time": "4:45 PM",
-            "location": "Unionville HS",
-            "game_played": true,
-            "final_score": "Unionville HS 73, Richmond Hill HS 77"
-        },
-        {
             "date": "Wednesday, December 10, 2025",
             "home_team": null,
             "away_team": null,
@@ -110,6 +47,15 @@
         },
         {
             "date": "Monday, December 15, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, December 16, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
