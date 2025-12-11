@@ -11,6 +11,15 @@
         },
         {
             "date": "Thursday, December 11, 2025",
+            "home_team": "Huron Heights",
+            "away_team": "Sacred Heart",
+            "time": "2:30 PM",
+            "location": "Magna Centre",
+            "game_played": true,
+            "final_score": "Huron Heights 5, Sacred Heart 7"
+        },
+        {
+            "date": "Thursday, December 11, 2025",
             "home_team": "Stouffville",
             "away_team": "Cardinal Carter",
             "time": "2:45 PM",
