@@ -28,6 +28,15 @@
             "final_score": "Stouffville 5, Cardinal Carter 0"
         },
         {
+            "date": "Thursday, December 11, 2025",
+            "home_team": "Dr. G.W. Williams",
+            "away_team": "St. Maximilian",
+            "time": "3:00 PM",
+            "location": "Stronach Aurora Recreation Complex",
+            "game_played": true,
+            "final_score": "Dr. G.W. Williams 1, St. Maximilian 3"
+        },
+        {
             "date": "Friday, December 12, 2025",
             "home_team": null,
             "away_team": null,
