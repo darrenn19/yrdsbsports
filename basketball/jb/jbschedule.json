@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, December 10, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
-        },
-        {
             "date": "Thursday, December 11, 2025",
             "home_team": "Dr. G.W. Williams",
             "away_team": "Keswick High School",
@@ -83,6 +74,15 @@
         },
         {
             "date": "Tuesday, December 16, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, December 17, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
