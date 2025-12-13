@@ -1,33 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, December 11, 2025",
-            "home_team": "Huron Heights",
-            "away_team": "Sacred Heart",
-            "time": "2:30 PM",
-            "location": "Magna Centre",
-            "game_played": true,
-            "final_score": "Huron Heights 5, Sacred Heart 7"
-        },
-        {
-            "date": "Thursday, December 11, 2025",
-            "home_team": "Stouffville",
-            "away_team": "Cardinal Carter",
-            "time": "2:45 PM",
-            "location": "Stouffville Clippers Sports Complex",
-            "game_played": true,
-            "final_score": "Stouffville 5, Cardinal Carter 0"
-        },
-        {
-            "date": "Thursday, December 11, 2025",
-            "home_team": "Dr. G.W. Williams",
-            "away_team": "St. Maximilian",
-            "time": "3:00 PM",
-            "location": "Stronach Aurora Recreation Complex",
-            "game_played": true,
-            "final_score": "Dr. G.W. Williams 1, St. Maximilian 3"
-        },
-        {
             "date": "Friday, December 12, 2025",
             "home_team": null,
             "away_team": null,
@@ -74,6 +47,15 @@
         },
         {
             "date": "Wednesday, December 17, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, December 18, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

@@ -1,96 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, December 11, 2025",
-            "home_team": "Dr. G.W. Williams",
-            "away_team": "Keswick High School",
-            "time": "3:30 PM",
-            "location": "Dr G W Williams SS",
-            "game_played": true,
-            "final_score": "Dr. G.W. Williams 63, Keswick High School 72"
-        },
-        {
-            "date": "Thursday, December 11, 2025",
-            "home_team": "Langstaff SS",
-            "away_team": "Thornhill SS",
-            "time": "3:45 PM",
-            "location": "Langstaff SS",
-            "game_played": true,
-            "final_score": "Langstaff SS 33, Thornhill SS 65"
-        },
-        {
-            "date": "Thursday, December 11, 2025",
-            "home_team": "Renaissance ESC",
-            "away_team": "King City SS",
-            "time": "3:45 PM",
-            "location": "Renaissance ESC",
-            "game_played": true,
-            "final_score": "Renaissance ESC 78, King City SS 80"
-        },
-        {
-            "date": "Thursday, December 11, 2025",
-            "home_team": "Richmond Hill HS",
-            "away_team": "Thornlea SS",
-            "time": "3:30 PM",
-            "location": "Richmond Hill HS",
-            "game_played": true,
-            "final_score": "Richmond Hill HS 85, Thornlea SS 73"
-        },
-        {
-            "date": "Thursday, December 11, 2025",
-            "home_team": "Sacred Heart",
-            "away_team": "Cardinal Carter",
-            "time": "3:30 PM",
-            "location": "Sacred Heart CHS",
-            "game_played": true,
-            "final_score": "Sacred Heart 77, Cardinal Carter 45"
-        },
-        {
-            "date": "Thursday, December 11, 2025",
-            "home_team": "St. Elizabeth",
-            "away_team": "St. Robert",
-            "time": "3:45 PM",
-            "location": "St Elizabeth CHS",
-            "game_played": true,
-            "final_score": "St. Elizabeth 82, St. Robert 37"
-        },
-        {
-            "date": "Thursday, December 11, 2025",
-            "home_team": "St. Maximilian",
-            "away_team": "Newmarket HS",
-            "time": "3:30 PM",
-            "location": "St Maximilian Kolbe CHS",
-            "game_played": true,
-            "final_score": "St. Maximilian 71, Newmarket HS 74"
-        },
-        {
-            "date": "Thursday, December 11, 2025",
-            "home_team": "St. Theresa Of Lisieux",
-            "away_team": "Alexander Mackenzie",
-            "time": "4:45 PM",
-            "location": "St Theresa Of Lisieux CHS",
-            "game_played": true,
-            "final_score": "St. Theresa Of Lisieux 62, Alexander Mackenzie 60"
-        },
-        {
-            "date": "Thursday, December 11, 2025",
-            "home_team": "Stephen Lewis SS",
-            "away_team": "Our Lady Queen Of The World",
-            "time": "3:45 PM",
-            "location": "Stephen Lewis SS",
-            "game_played": true,
-            "final_score": "Stephen Lewis SS 57, Our Lady Queen Of The World 54"
-        },
-        {
-            "date": "Thursday, December 11, 2025",
-            "home_team": "Unionville HS",
-            "away_team": "Richmond Green SS",
-            "time": "3:45 PM",
-            "location": "Unionville HS",
-            "game_played": true,
-            "final_score": "Unionville HS 59, Richmond Green SS 76"
-        },
-        {
             "date": "Friday, December 12, 2025",
             "home_team": null,
             "away_team": null,
@@ -137,6 +47,15 @@
         },
         {
             "date": "Wednesday, December 17, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, December 18, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
