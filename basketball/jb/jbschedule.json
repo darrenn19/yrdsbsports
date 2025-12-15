@@ -11,6 +11,15 @@
         },
         {
             "date": "Monday, December 15, 2025",
+            "home_team": "Father McGivney",
+            "away_team": "Stouffville",
+            "time": "3:30 PM",
+            "location": "Father Michael McGivney CA",
+            "game_played": true,
+            "final_score": "Father McGivney 57, Stouffville 51"
+        },
+        {
+            "date": "Monday, December 15, 2025",
             "home_team": "Langstaff SS",
             "away_team": "Stephen Lewis SS",
             "time": "3:30 PM",
