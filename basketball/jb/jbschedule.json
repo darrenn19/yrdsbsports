@@ -29,6 +29,15 @@
         },
         {
             "date": "Monday, December 15, 2025",
+            "home_team": "Renaissance ESC",
+            "away_team": "Keswick High School",
+            "time": "3:45 PM",
+            "location": "Renaissance ESC",
+            "game_played": true,
+            "final_score": "Renaissance ESC 70, Keswick High School 76"
+        },
+        {
+            "date": "Monday, December 15, 2025",
             "home_team": "St. Maximilian",
             "away_team": "Cardinal Carter",
             "time": "3:30 PM",
