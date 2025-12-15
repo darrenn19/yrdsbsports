@@ -11,12 +11,12 @@
         },
         {
             "date": "Monday, December 15, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "King City SS",
+            "away_team": "Cardinal Carter",
+            "time": "2:30 PM",
+            "location": "Aurora Community Centre",
+            "game_played": true,
+            "final_score": "King City SS 9, Cardinal Carter 2"
         },
         {
             "date": "Tuesday, December 16, 2025",
