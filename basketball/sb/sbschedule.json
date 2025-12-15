@@ -47,6 +47,15 @@
         },
         {
             "date": "Monday, December 15, 2025",
+            "home_team": "St. Augustine",
+            "away_team": "Markham District",
+            "time": "4:45 PM",
+            "location": "St Augustine CHS",
+            "game_played": true,
+            "final_score": "St. Augustine 68, Markham District 59"
+        },
+        {
+            "date": "Monday, December 15, 2025",
             "home_team": "St. Joan Of Arc",
             "away_team": "Tommy Douglas SS",
             "time": "4:45 PM",
