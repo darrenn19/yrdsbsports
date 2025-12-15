@@ -47,6 +47,15 @@
         },
         {
             "date": "Monday, December 15, 2025",
+            "home_team": "Pierre Elliott Trudeau",
+            "away_team": "Milliken Mills",
+            "time": "3:30 PM",
+            "location": "PE Trudeau HS",
+            "game_played": true,
+            "final_score": "Pierre Elliott Trudeau 55, Milliken Mills 50"
+        },
+        {
+            "date": "Monday, December 15, 2025",
             "home_team": "Renaissance ESC",
             "away_team": "Keswick High School",
             "time": "3:45 PM",
@@ -56,12 +65,30 @@
         },
         {
             "date": "Monday, December 15, 2025",
+            "home_team": "St. Augustine",
+            "away_team": "Markham District",
+            "time": "3:30 PM",
+            "location": "St Augustine CHS",
+            "game_played": true,
+            "final_score": "St. Augustine 82, Markham District 72"
+        },
+        {
+            "date": "Monday, December 15, 2025",
             "home_team": "St. Maximilian",
             "away_team": "Cardinal Carter",
             "time": "3:30 PM",
             "location": "St Maximilian Kolbe CHS",
             "game_played": true,
             "final_score": "St. Maximilian 60, Cardinal Carter 44"
+        },
+        {
+            "date": "Monday, December 15, 2025",
+            "home_team": "Toronto District Christian",
+            "away_team": "Woodbridge College",
+            "time": "3:30 PM",
+            "location": "Toronto District Christian HS",
+            "game_played": true,
+            "final_score": "Toronto District Christian 29, Woodbridge College 59"
         },
         {
             "date": "Tuesday, December 16, 2025",
