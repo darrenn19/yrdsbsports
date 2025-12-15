@@ -11,12 +11,30 @@
         },
         {
             "date": "Monday, December 15, 2025",
+            "home_team": "Bur Oak SS",
+            "away_team": "Bill Hogarth SS",
+            "time": "3:30 PM",
+            "location": "Bur Oak SS",
+            "game_played": true,
+            "final_score": "Bur Oak SS 72, Bill Hogarth SS 42"
+        },
+        {
+            "date": "Monday, December 15, 2025",
             "home_team": "Father McGivney",
             "away_team": "Stouffville",
             "time": "3:30 PM",
             "location": "Father Michael McGivney CA",
             "game_played": true,
             "final_score": "Father McGivney 57, Stouffville 51"
+        },
+        {
+            "date": "Monday, December 15, 2025",
+            "home_team": "King City SS",
+            "away_team": "Unionville HS",
+            "time": "3:45 PM",
+            "location": "King City SS",
+            "game_played": true,
+            "final_score": "King City SS 78, Unionville HS 56"
         },
         {
             "date": "Monday, December 15, 2025",
