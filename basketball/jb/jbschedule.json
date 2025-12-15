@@ -11,12 +11,21 @@
         },
         {
             "date": "Monday, December 15, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Langstaff SS",
+            "away_team": "Stephen Lewis SS",
+            "time": "3:30 PM",
+            "location": "Langstaff SS",
+            "game_played": true,
+            "final_score": "Langstaff SS 36, Stephen Lewis SS 59"
+        },
+        {
+            "date": "Monday, December 15, 2025",
+            "home_team": "St. Maximilian",
+            "away_team": "Cardinal Carter",
+            "time": "3:30 PM",
+            "location": "St Maximilian Kolbe CHS",
+            "game_played": true,
+            "final_score": "St. Maximilian 60, Cardinal Carter 44"
         },
         {
             "date": "Tuesday, December 16, 2025",
