@@ -20,6 +20,15 @@
         },
         {
             "date": "Monday, December 15, 2025",
+            "home_team": "Bur Oak SS",
+            "away_team": "Bill Hogarth SS",
+            "time": "4:45 PM",
+            "location": "Bur Oak SS",
+            "game_played": true,
+            "final_score": "Bur Oak SS 64, Bill Hogarth SS 70"
+        },
+        {
+            "date": "Monday, December 15, 2025",
             "home_team": "Father McGivney",
             "away_team": "Stouffville",
             "time": "4:45 PM",
@@ -35,6 +44,15 @@
             "location": "Hodan Nalayeh Secondary School",
             "game_played": true,
             "final_score": "Hodan Nalayeh SS 80, Maple High School 67"
+        },
+        {
+            "date": "Monday, December 15, 2025",
+            "home_team": "Langstaff SS",
+            "away_team": "Stephen Lewis SS",
+            "time": "4:45 PM",
+            "location": "Langstaff SS",
+            "game_played": true,
+            "final_score": "Langstaff SS 33, Stephen Lewis SS 93"
         },
         {
             "date": "Monday, December 15, 2025",
@@ -89,6 +107,15 @@
             "location": "Toronto District Christian HS",
             "game_played": true,
             "final_score": "Toronto District Christian 76, Woodbridge College 60"
+        },
+        {
+            "date": "Monday, December 15, 2025",
+            "home_team": "Westmount",
+            "away_team": "St. Jean De Brebeuf CHS",
+            "time": "4:45 PM",
+            "location": "Westmount CI",
+            "game_played": true,
+            "final_score": "Westmount 49, St. Jean De Brebeuf CHS 59"
         },
         {
             "date": "Tuesday, December 16, 2025",

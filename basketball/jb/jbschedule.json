@@ -100,6 +100,15 @@
             "final_score": "Toronto District Christian 29, Woodbridge College 59"
         },
         {
+            "date": "Monday, December 15, 2025",
+            "home_team": "Westmount",
+            "away_team": "Maple High School",
+            "time": "3:30 PM",
+            "location": "Westmount CI",
+            "game_played": true,
+            "final_score": "Westmount 78, Maple High School 76"
+        },
+        {
             "date": "Tuesday, December 16, 2025",
             "home_team": null,
             "away_team": null,
