@@ -2,12 +2,12 @@
     "schedule": [
         {
             "date": "Monday, December 15, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Sacred Heart",
+            "away_team": "St. Augustine",
+            "time": "2:30 PM",
+            "location": "York Curling Club",
+            "game_played": true,
+            "final_score": "Sacred Heart 10, St. Augustine 4"
         },
         {
             "date": "Tuesday, December 16, 2025",
