@@ -38,27 +38,39 @@
         },
         {
             "Team": "Renaissance ESC",
-            "MP": "7",
+            "MP": "8",
             "MW": "5",
-            "ML": "2",
+            "ML": "3",
             "GW": "10",
-            "GL": "6",
+            "GL": "8",
             "PTS": "5",
-            "PF": "341",
-            "PA": "322",
-            "DIFF": "19"
+            "PF": "382",
+            "PA": "372",
+            "DIFF": "10"
+        },
+        {
+            "Team": "St. Theresa Of Lisieux",
+            "MP": "8",
+            "MW": "4",
+            "ML": "4",
+            "GW": "10",
+            "GL": "8",
+            "PTS": "4",
+            "PF": "370",
+            "PA": "377",
+            "DIFF": "-7"
         },
         {
             "Team": "Richmond Green SS",
-            "MP": "7",
+            "MP": "8",
             "MW": "3",
-            "ML": "4",
+            "ML": "5",
             "GW": "7",
-            "GL": "8",
+            "GL": "10",
             "PTS": "3",
-            "PF": "312",
-            "PA": "312",
-            "DIFF": "0"
+            "PF": "353",
+            "PA": "362",
+            "DIFF": "-9"
         },
         {
             "Team": "King City SS",
@@ -83,18 +95,6 @@
             "PF": "239",
             "PA": "292",
             "DIFF": "-53"
-        },
-        {
-            "Team": "St. Theresa Of Lisieux",
-            "MP": "6",
-            "MW": "2",
-            "ML": "4",
-            "GW": "6",
-            "GL": "8",
-            "PTS": "2",
-            "PF": "270",
-            "PA": "295",
-            "DIFF": "-25"
         },
         {
             "Team": "Thornlea SS",
@@ -146,15 +146,15 @@
         },
         {
             "Team": "Bill Hogarth SS",
-            "MP": "4",
-            "MW": "4",
+            "MP": "6",
+            "MW": "6",
             "ML": "0",
-            "GW": "8",
+            "GW": "12",
             "GL": "0",
-            "PTS": "4",
-            "PF": "200",
-            "PA": "132",
-            "DIFF": "68"
+            "PTS": "6",
+            "PF": "300",
+            "PA": "201",
+            "DIFF": "99"
         },
         {
             "Team": "Markham District",
@@ -206,15 +206,15 @@
         },
         {
             "Team": "Father McGivney",
-            "MP": "5",
+            "MP": "6",
             "MW": "2",
-            "ML": "3",
+            "ML": "4",
             "GW": "6",
-            "GL": "7",
+            "GL": "9",
             "PTS": "2",
-            "PF": "242",
-            "PA": "240",
-            "DIFF": "2"
+            "PF": "278",
+            "PA": "290",
+            "DIFF": "-12"
         },
         {
             "Team": "St. Katharine Drexel",
@@ -254,15 +254,15 @@
         },
         {
             "Team": "Middlefield",
-            "MP": "4",
+            "MP": "5",
             "MW": "1",
-            "ML": "3",
+            "ML": "4",
             "GW": "2",
-            "GL": "7",
+            "GL": "9",
             "PTS": "1",
-            "PF": "163",
-            "PA": "214",
-            "DIFF": "-51"
+            "PF": "196",
+            "PA": "264",
+            "DIFF": "-68"
         },
         {
             "Team": "Stouffville",

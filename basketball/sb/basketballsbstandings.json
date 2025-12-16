@@ -155,15 +155,26 @@
             "DIFF": "DIFF"
         },
         {
-            "Team": "Bur Oak SS",
-            "GP": "5",
+            "Team": "St. Augustine",
+            "GP": "6",
             "W": "5",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "10",
-            "PF": "308",
-            "PA": "254",
-            "DIFF": "50"
+            "PF": "386",
+            "PA": "354",
+            "DIFF": "32"
+        },
+        {
+            "Team": "Bur Oak SS",
+            "GP": "6",
+            "W": "5",
+            "L": "1",
+            "T": "0",
+            "PTS": "10",
+            "PF": "372",
+            "PA": "324",
+            "DIFF": "44"
         },
         {
             "Team": "Bill Crothers SS",
@@ -177,26 +188,15 @@
             "DIFF": "53"
         },
         {
-            "Team": "St. Augustine",
+            "Team": "Bill Hogarth SS",
             "GP": "6",
-            "W": "5",
-            "L": "1",
+            "W": "4",
+            "L": "2",
             "T": "0",
-            "PTS": "10",
-            "PF": "386",
-            "PA": "354",
-            "DIFF": "32"
-        },
-        {
-            "Team": "Father McGivney",
-            "GP": "6",
-            "W": "3",
-            "L": "3",
-            "T": "0",
-            "PTS": "6",
-            "PF": "379",
-            "PA": "347",
-            "DIFF": "20"
+            "PTS": "8",
+            "PF": "424",
+            "PA": "371",
+            "DIFF": "33"
         },
         {
             "Team": "Pierre Elliott Trudeau",
@@ -210,6 +210,17 @@
             "DIFF": "28"
         },
         {
+            "Team": "Father McGivney",
+            "GP": "6",
+            "W": "3",
+            "L": "3",
+            "T": "0",
+            "PTS": "6",
+            "PF": "379",
+            "PA": "347",
+            "DIFF": "20"
+        },
+        {
             "Team": "St. Brother Andre",
             "GP": "5",
             "W": "3",
@@ -219,17 +230,6 @@
             "PF": "306",
             "PA": "280",
             "DIFF": "21"
-        },
-        {
-            "Team": "Bill Hogarth SS",
-            "GP": "5",
-            "W": "3",
-            "L": "2",
-            "T": "0",
-            "PTS": "6",
-            "PF": "354",
-            "PA": "307",
-            "DIFF": "27"
         },
         {
             "Team": "Stouffville",
@@ -507,17 +507,6 @@
             "DIFF": "0"
         },
         {
-            "Team": "Holy Cross",
-            "GP": "4",
-            "W": "1",
-            "L": "3",
-            "T": "0",
-            "PTS": "2",
-            "PF": "241",
-            "PA": "250",
-            "DIFF": "-9"
-        },
-        {
             "Team": "Westmount",
             "GP": "4",
             "W": "1",
@@ -540,25 +529,36 @@
             "DIFF": "-14"
         },
         {
-            "Team": "Father Bressani",
-            "GP": "3",
-            "W": "0",
+            "Team": "Holy Cross",
+            "GP": "4",
+            "W": "1",
             "L": "3",
             "T": "0",
-            "PTS": "0",
-            "PF": "104",
-            "PA": "233",
-            "DIFF": "-45"
+            "PTS": "2",
+            "PF": "241",
+            "PA": "250",
+            "DIFF": "-9"
         },
         {
             "Team": "Emily Carr",
+            "GP": "5",
+            "W": "1",
+            "L": "4",
+            "T": "0",
+            "PTS": "2",
+            "PF": "223",
+            "PA": "350",
+            "DIFF": "-45"
+        },
+        {
+            "Team": "Father Bressani",
             "GP": "4",
             "W": "0",
             "L": "4",
             "T": "0",
             "PTS": "0",
-            "PF": "161",
-            "PA": "304",
+            "PF": "150",
+            "PA": "295",
             "DIFF": "-60"
         }
     ]
