@@ -119,12 +119,12 @@
         },
         {
             "date": "Tuesday, December 16, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "King City SS",
+            "away_team": "Dr. J.M. Denison",
+            "time": "3:45 PM",
+            "location": "King City SS",
+            "game_played": true,
+            "final_score": "King City SS 74, Dr. J.M. Denison 63"
         },
         {
             "date": "Wednesday, December 17, 2025",
