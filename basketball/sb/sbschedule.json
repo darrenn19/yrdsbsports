@@ -20,6 +20,15 @@
         },
         {
             "date": "Monday, December 15, 2025",
+            "home_team": "Father Bressani",
+            "away_team": "Emily Carr",
+            "time": "4:45 PM",
+            "location": "Father Bressani CHS",
+            "game_played": true,
+            "final_score": "Father Bressani 46, Emily Carr 62"
+        },
+        {
+            "date": "Monday, December 15, 2025",
             "home_team": "Father McGivney",
             "away_team": "Stouffville",
             "time": "4:45 PM",
