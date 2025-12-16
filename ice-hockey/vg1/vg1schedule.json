@@ -10,6 +10,15 @@
             "final_score": "King City SS 9, Cardinal Carter 2"
         },
         {
+            "date": "Monday, December 15, 2025",
+            "home_team": "Markham District",
+            "away_team": "St. Theresa Of Lisieux",
+            "time": "3:00 PM",
+            "location": "Markham Village Arena",
+            "game_played": true,
+            "final_score": "Markham District 2, St. Theresa Of Lisieux 4"
+        },
+        {
             "date": "Tuesday, December 16, 2025",
             "home_team": null,
             "away_team": null,
