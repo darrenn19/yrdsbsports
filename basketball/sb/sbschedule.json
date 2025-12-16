@@ -119,6 +119,15 @@
         },
         {
             "date": "Tuesday, December 16, 2025",
+            "home_team": "Holy Cross",
+            "away_team": "St. Joan Of Arc",
+            "time": "3:00 PM",
+            "location": "Holy Cross CA",
+            "game_played": true,
+            "final_score": "Holy Cross 61, St. Joan Of Arc 51"
+        },
+        {
+            "date": "Tuesday, December 16, 2025",
             "home_team": "King City SS",
             "away_team": "Dr. J.M. Denison",
             "time": "3:45 PM",
