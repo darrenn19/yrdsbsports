@@ -13,6 +13,18 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "St. Robert",
+            "MP": "8",
+            "MW": "7",
+            "ML": "1",
+            "GW": "14",
+            "GL": "3",
+            "PTS": "7",
+            "PF": "387",
+            "PA": "296",
+            "DIFF": "91"
+        },
+        {
             "Team": "St. Augustine",
             "MP": "6",
             "MW": "6",
@@ -26,39 +38,27 @@
         },
         {
             "Team": "Renaissance ESC",
-            "MP": "6",
+            "MP": "7",
             "MW": "5",
-            "ML": "1",
+            "ML": "2",
             "GW": "10",
-            "GL": "4",
+            "GL": "6",
             "PTS": "5",
-            "PF": "304",
-            "PA": "272",
-            "DIFF": "32"
-        },
-        {
-            "Team": "St. Robert",
-            "MP": "6",
-            "MW": "5",
-            "ML": "1",
-            "GW": "10",
-            "GL": "3",
-            "PTS": "5",
-            "PF": "287",
-            "PA": "224",
-            "DIFF": "63"
+            "PF": "341",
+            "PA": "322",
+            "DIFF": "19"
         },
         {
             "Team": "Richmond Green SS",
-            "MP": "6",
+            "MP": "7",
             "MW": "3",
-            "ML": "3",
+            "ML": "4",
             "GW": "7",
-            "GL": "6",
+            "GL": "8",
             "PTS": "3",
-            "PF": "277",
-            "PA": "262",
-            "DIFF": "15"
+            "PF": "312",
+            "PA": "312",
+            "DIFF": "0"
         },
         {
             "Team": "King City SS",
@@ -169,6 +169,18 @@
             "DIFF": "80"
         },
         {
+            "Team": "St. Brother Andre",
+            "MP": "5",
+            "MW": "3",
+            "ML": "2",
+            "GW": "7",
+            "GL": "6",
+            "PTS": "3",
+            "PF": "268",
+            "PA": "266",
+            "DIFF": "2"
+        },
+        {
             "Team": "Markville",
             "MP": "4",
             "MW": "3",
@@ -181,16 +193,28 @@
             "DIFF": "70"
         },
         {
-            "Team": "St. Brother Andre",
+            "Team": "Bur Oak SS",
             "MP": "4",
-            "MW": "3",
-            "ML": "1",
-            "GW": "6",
+            "MW": "2",
+            "ML": "2",
+            "GW": "5",
             "GL": "4",
-            "PTS": "3",
-            "PF": "219",
-            "PA": "206",
-            "DIFF": "13"
+            "PTS": "2",
+            "PF": "185",
+            "PA": "193",
+            "DIFF": "-8"
+        },
+        {
+            "Team": "Father McGivney",
+            "MP": "5",
+            "MW": "2",
+            "ML": "3",
+            "GW": "6",
+            "GL": "7",
+            "PTS": "2",
+            "PF": "242",
+            "PA": "240",
+            "DIFF": "2"
         },
         {
             "Team": "St. Katharine Drexel",
@@ -203,18 +227,6 @@
             "PF": "198",
             "PA": "166",
             "DIFF": "32"
-        },
-        {
-            "Team": "Bur Oak SS",
-            "MP": "4",
-            "MW": "2",
-            "ML": "2",
-            "GW": "5",
-            "GL": "4",
-            "PTS": "2",
-            "PF": "185",
-            "PA": "193",
-            "DIFF": "-8"
         },
         {
             "Team": "Bill Crothers SS",
@@ -263,18 +275,6 @@
             "PF": "182",
             "PA": "201",
             "DIFF": "-19"
-        },
-        {
-            "Team": "Father McGivney",
-            "MP": "4",
-            "MW": "1",
-            "ML": "3",
-            "GW": "4",
-            "GL": "6",
-            "PTS": "1",
-            "PF": "182",
-            "PA": "191",
-            "DIFF": "-9"
         },
         {
             "Team": "Milliken Mills",
