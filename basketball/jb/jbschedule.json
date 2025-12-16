@@ -20,6 +20,15 @@
         },
         {
             "date": "Monday, December 15, 2025",
+            "home_team": "Father Bressani",
+            "away_team": "Emily Carr",
+            "time": "3:30 PM",
+            "location": "Father Bressani CHS",
+            "game_played": true,
+            "final_score": "Father Bressani 78, Emily Carr 72"
+        },
+        {
+            "date": "Monday, December 15, 2025",
             "home_team": "Father McGivney",
             "away_team": "Stouffville",
             "time": "3:30 PM",
@@ -71,6 +80,15 @@
             "location": "St Augustine CHS",
             "game_played": true,
             "final_score": "St. Augustine 82, Markham District 72"
+        },
+        {
+            "date": "Monday, December 15, 2025",
+            "home_team": "St. Joan Of Arc",
+            "away_team": "ESC De L Ascension",
+            "time": "3:30 PM",
+            "location": "St Joan Of Arc CHS",
+            "game_played": true,
+            "final_score": "St. Joan Of Arc 78, ESC De L Ascension 28"
         },
         {
             "date": "Monday, December 15, 2025",
