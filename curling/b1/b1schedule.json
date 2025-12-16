@@ -2,12 +2,12 @@
     "schedule": [
         {
             "date": "Monday, December 15, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "St. Theresa Of Lisieux",
+            "away_team": "King City SS",
+            "time": "2:30 PM",
+            "location": "York Curling Club",
+            "game_played": true,
+            "final_score": "St. Theresa Of Lisieux 1, King City SS 14"
         },
         {
             "date": "Tuesday, December 16, 2025",
