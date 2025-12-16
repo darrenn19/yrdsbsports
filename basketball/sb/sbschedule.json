@@ -11,6 +11,15 @@
         },
         {
             "date": "Monday, December 15, 2025",
+            "home_team": "Aurora HS",
+            "away_team": "Renaissance ESC",
+            "time": "4:45 PM",
+            "location": "Aurora HS",
+            "game_played": true,
+            "final_score": "Aurora HS 49, Renaissance ESC 60"
+        },
+        {
+            "date": "Monday, December 15, 2025",
             "home_team": "Father McGivney",
             "away_team": "Stouffville",
             "time": "4:45 PM",
