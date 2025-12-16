@@ -146,12 +146,30 @@
         },
         {
             "date": "Tuesday, December 16, 2025",
+            "home_team": "Middlefield",
+            "away_team": "St. Katharine Drexel",
+            "time": "4:45 PM",
+            "location": "Middlefield CI",
+            "game_played": true,
+            "final_score": "Middlefield 54, St. Katharine Drexel 51"
+        },
+        {
+            "date": "Tuesday, December 16, 2025",
             "home_team": "Richmond Hill HS",
             "away_team": "St. Robert",
             "time": "4:45 PM",
             "location": "Richmond Hill HS",
             "game_played": true,
             "final_score": "Richmond Hill HS 70, St. Robert 36"
+        },
+        {
+            "date": "Tuesday, December 16, 2025",
+            "home_team": "Woodbridge College",
+            "away_team": "Hodan Nalayeh SS",
+            "time": "3:45 PM",
+            "location": "Woodbridge College",
+            "game_played": true,
+            "final_score": "Woodbridge College 60, Hodan Nalayeh SS 67"
         },
         {
             "date": "Wednesday, December 17, 2025",
