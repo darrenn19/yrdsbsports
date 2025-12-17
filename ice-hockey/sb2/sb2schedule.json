@@ -11,6 +11,24 @@
         },
         {
             "date": "Tuesday, December 16, 2025",
+            "home_team": "Keswick High School",
+            "away_team": "Sutton District",
+            "time": "2:30 PM",
+            "location": "Georgina Ice Palace",
+            "game_played": true,
+            "final_score": "Keswick High School 4, Sutton District 2"
+        },
+        {
+            "date": "Tuesday, December 16, 2025",
+            "home_team": "Huron Heights",
+            "away_team": "Sacred Heart",
+            "time": "2:15 PM",
+            "location": "Magna Centre",
+            "game_played": true,
+            "final_score": "Huron Heights 3, Sacred Heart 3"
+        },
+        {
+            "date": "Tuesday, December 16, 2025",
             "home_team": "Markham District",
             "away_team": "Bill Hogarth SS",
             "time": "2:30 PM",
