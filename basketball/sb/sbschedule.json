@@ -11,6 +11,15 @@
         },
         {
             "date": "Tuesday, December 16, 2025",
+            "home_team": "Bill Crothers SS",
+            "away_team": "St. Brother Andre",
+            "time": "3:45 PM",
+            "location": "Bill Crothers SS",
+            "game_played": true,
+            "final_score": "Bill Crothers SS 80, St. Brother Andre 59"
+        },
+        {
+            "date": "Tuesday, December 16, 2025",
             "home_team": "Holy Cross",
             "away_team": "St. Joan Of Arc",
             "time": "3:00 PM",
