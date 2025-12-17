@@ -83,12 +83,12 @@
         },
         {
             "date": "Wednesday, December 17, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "St. Jean De Brebeuf CHS",
+            "away_team": "Maple High School",
+            "time": "4:15 PM",
+            "location": "St Jean De Brebeuf CHS",
+            "game_played": true,
+            "final_score": "St. Jean De Brebeuf CHS 48, Maple High School 66"
         },
         {
             "date": "Thursday, December 18, 2025",
