@@ -19,6 +19,15 @@
             "final_score": "Aurora HS 7, Alexander Mackenzie 0"
         },
         {
+            "date": "Tuesday, December 16, 2025",
+            "home_team": "Markham District",
+            "away_team": "Bill Hogarth SS",
+            "time": "2:30 PM",
+            "location": "Mount Joy Arena",
+            "game_played": true,
+            "final_score": "Markham District 3, Bill Hogarth SS 3"
+        },
+        {
             "date": "Wednesday, December 17, 2025",
             "home_team": null,
             "away_team": null,

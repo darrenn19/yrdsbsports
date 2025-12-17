@@ -164,6 +164,15 @@
         },
         {
             "date": "Tuesday, December 16, 2025",
+            "home_team": "Sutton District",
+            "away_team": "Dr. G.W. Williams",
+            "time": "3:45 PM",
+            "location": "Sutton DHS",
+            "game_played": true,
+            "final_score": "Sutton District 49, Dr. G.W. Williams 71"
+        },
+        {
+            "date": "Tuesday, December 16, 2025",
             "home_team": "Woodbridge College",
             "away_team": "Hodan Nalayeh SS",
             "time": "3:45 PM",
