@@ -29,6 +29,15 @@
         },
         {
             "date": "Wednesday, December 17, 2025",
+            "home_team": "St. Maximilian",
+            "away_team": "Renaissance ESC",
+            "time": "3:45 PM",
+            "location": "St Maximilian Kolbe CHS",
+            "game_played": true,
+            "final_score": "St. Maximilian 47, Renaissance ESC 34"
+        },
+        {
+            "date": "Wednesday, December 17, 2025",
             "home_team": "Unionville HS",
             "away_team": "Langstaff SS",
             "time": "3:45 PM",
