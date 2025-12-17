@@ -155,6 +155,15 @@
         },
         {
             "date": "Tuesday, December 16, 2025",
+            "home_team": "Richmond Green SS",
+            "away_team": "Thornlea SS",
+            "time": "3:45 PM",
+            "location": "Richmond Green SS",
+            "game_played": true,
+            "final_score": "Richmond Green SS 63, Thornlea SS 66"
+        },
+        {
+            "date": "Tuesday, December 16, 2025",
             "home_team": "Richmond Hill HS",
             "away_team": "St. Robert",
             "time": "4:45 PM",
