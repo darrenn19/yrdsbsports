@@ -11,12 +11,12 @@
         },
         {
             "date": "Wednesday, December 17, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Bill Hogarth SS",
+            "away_team": "St. Theresa Of Lisieux",
+            "time": "2:00 PM",
+            "location": "Stouffville Clippers Sports Complex",
+            "game_played": true,
+            "final_score": "Bill Hogarth SS 4, St. Theresa Of Lisieux 7"
         },
         {
             "date": "Thursday, December 18, 2025",
