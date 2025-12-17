@@ -20,6 +20,24 @@
         },
         {
             "date": "Wednesday, December 17, 2025",
+            "home_team": "Keswick High School",
+            "away_team": "Sacred Heart",
+            "time": "3:30 PM",
+            "location": "Keswick HS",
+            "game_played": true,
+            "final_score": "Keswick High School 62, Sacred Heart 60"
+        },
+        {
+            "date": "Wednesday, December 17, 2025",
+            "home_team": "Markham District",
+            "away_team": "Bill Hogarth SS",
+            "time": "3:45 PM",
+            "location": "Markham DHS",
+            "game_played": true,
+            "final_score": "Markham District 68, Bill Hogarth SS 53"
+        },
+        {
+            "date": "Wednesday, December 17, 2025",
             "home_team": "St. Jean De Brebeuf CHS",
             "away_team": "Maple High School",
             "time": "3:00 PM",

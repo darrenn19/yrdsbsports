@@ -92,6 +92,15 @@
         },
         {
             "date": "Wednesday, December 17, 2025",
+            "home_team": "Keswick High School",
+            "away_team": "Sacred Heart",
+            "time": "4:45 PM",
+            "location": "Keswick HS",
+            "game_played": true,
+            "final_score": "Keswick High School 91, Sacred Heart 62"
+        },
+        {
+            "date": "Wednesday, December 17, 2025",
             "home_team": "St. Jean De Brebeuf CHS",
             "away_team": "Maple High School",
             "time": "4:15 PM",
