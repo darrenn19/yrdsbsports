@@ -13,14 +13,14 @@
         },
         {
             "Team": "Father Bressani",
-            "GP": "5",
-            "W": "5",
+            "GP": "6",
+            "W": "6",
             "L": "0",
             "T": "0",
-            "PTS": "10",
-            "GF": "28",
-            "GA": "11",
-            "DIFF": "17"
+            "PTS": "12",
+            "GF": "32",
+            "GA": "12",
+            "DIFF": "20"
         },
         {
             "Team": "Cardinal Carter",
@@ -46,14 +46,14 @@
         },
         {
             "Team": "St. Maximilian",
-            "GP": "4",
+            "GP": "5",
             "W": "3",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "6",
-            "GF": "18",
-            "GA": "8",
-            "DIFF": "10"
+            "GF": "19",
+            "GA": "12",
+            "DIFF": "7"
         },
         {
             "Team": "St. Theresa Of Lisieux",

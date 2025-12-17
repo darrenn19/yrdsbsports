@@ -78,6 +78,28 @@
             "DIFF": "11"
         },
         {
+            "Team": "Thornlea SS",
+            "GP": "6",
+            "W": "2",
+            "L": "4",
+            "T": "0",
+            "PTS": "4",
+            "PF": "355",
+            "PA": "414",
+            "DIFF": "-32"
+        },
+        {
+            "Team": "Richmond Green SS",
+            "GP": "6",
+            "W": "2",
+            "L": "4",
+            "T": "0",
+            "PTS": "4",
+            "PF": "378",
+            "PA": "380",
+            "DIFF": "-3"
+        },
+        {
             "Team": "Alexander Mackenzie",
             "GP": "6",
             "W": "2",
@@ -98,28 +120,6 @@
             "PF": "266",
             "PA": "299",
             "DIFF": "-7"
-        },
-        {
-            "Team": "Richmond Green SS",
-            "GP": "5",
-            "W": "2",
-            "L": "3",
-            "T": "0",
-            "PTS": "4",
-            "PF": "315",
-            "PA": "314",
-            "DIFF": "0"
-        },
-        {
-            "Team": "Thornlea SS",
-            "GP": "5",
-            "W": "1",
-            "L": "4",
-            "T": "0",
-            "PTS": "2",
-            "PF": "289",
-            "PA": "351",
-            "DIFF": "-35"
         },
         {
             "Team": "Unionville HS",
@@ -155,15 +155,15 @@
             "DIFF": "DIFF"
         },
         {
-            "Team": "St. Augustine",
+            "Team": "Bill Crothers SS",
             "GP": "6",
-            "W": "5",
-            "L": "1",
+            "W": "6",
+            "L": "0",
             "T": "0",
-            "PTS": "10",
-            "PF": "386",
-            "PA": "354",
-            "DIFF": "32"
+            "PTS": "12",
+            "PF": "449",
+            "PA": "350",
+            "DIFF": "68"
         },
         {
             "Team": "Bur Oak SS",
@@ -177,15 +177,15 @@
             "DIFF": "44"
         },
         {
-            "Team": "Bill Crothers SS",
-            "GP": "5",
+            "Team": "St. Augustine",
+            "GP": "6",
             "W": "5",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "10",
-            "PF": "369",
-            "PA": "291",
-            "DIFF": "53"
+            "PF": "386",
+            "PA": "354",
+            "DIFF": "32"
         },
         {
             "Team": "Bill Hogarth SS",
@@ -222,14 +222,14 @@
         },
         {
             "Team": "St. Brother Andre",
-            "GP": "5",
+            "GP": "6",
             "W": "3",
-            "L": "2",
+            "L": "3",
             "T": "0",
             "PTS": "6",
-            "PF": "306",
-            "PA": "280",
-            "DIFF": "21"
+            "PF": "365",
+            "PA": "360",
+            "DIFF": "6"
         },
         {
             "Team": "Stouffville",
