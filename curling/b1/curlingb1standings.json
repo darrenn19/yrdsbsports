@@ -13,16 +13,16 @@
             "DIFF": "DIFF"
         },
         {
-            "Team": "Sacred Heart",
+            "Team": "St. Augustine",
             "W": "3",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "6",
-            "EW": "13",
-            "EL": "5",
-            "PF": "31",
-            "PA": "7",
-            "DIFF": "24"
+            "EW": "14",
+            "EL": "9",
+            "PF": "27",
+            "PA": "17",
+            "DIFF": "10"
         },
         {
             "Team": "King City SS",
@@ -37,52 +37,52 @@
             "DIFF": "20"
         },
         {
-            "Team": "St. Augustine",
-            "W": "2",
-            "L": "1",
+            "Team": "Sacred Heart",
+            "W": "3",
+            "L": "0",
             "T": "0",
-            "PTS": "4",
-            "EW": "11",
-            "EL": "7",
-            "PF": "21",
-            "PA": "15",
-            "DIFF": "6"
-        },
-        {
-            "Team": "Bill Crothers SS",
-            "W": "1",
-            "L": "2",
-            "T": "0",
-            "PTS": "2",
-            "EW": "8",
-            "EL": "10",
-            "PF": "12",
-            "PA": "21",
-            "DIFF": "-9"
+            "PTS": "6",
+            "EW": "13",
+            "EL": "5",
+            "PF": "31",
+            "PA": "7",
+            "DIFF": "24"
         },
         {
             "Team": "Tommy Douglas SS",
             "W": "1",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "2",
             "EW": "5",
             "EL": "7",
-            "PF": "14",
-            "PA": "13",
-            "DIFF": "1"
+            "PF": "19",
+            "PA": "19",
+            "DIFF": "0"
         },
         {
             "Team": "St. Robert",
-            "W": "0",
+            "W": "1",
             "L": "3",
             "T": "0",
-            "PTS": "0",
+            "PTS": "2",
             "EW": "6",
             "EL": "12",
-            "PF": "8",
-            "PA": "28",
-            "DIFF": "-20"
+            "PF": "14",
+            "PA": "33",
+            "DIFF": "-19"
+        },
+        {
+            "Team": "Bill Crothers SS",
+            "W": "1",
+            "L": "3",
+            "T": "0",
+            "PTS": "2",
+            "EW": "10",
+            "EL": "13",
+            "PF": "14",
+            "PA": "27",
+            "DIFF": "-13"
         },
         {
             "Team": "St. Theresa Of Lisieux",

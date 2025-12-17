@@ -169,18 +169,6 @@
             "DIFF": "80"
         },
         {
-            "Team": "St. Brother Andre",
-            "MP": "5",
-            "MW": "3",
-            "ML": "2",
-            "GW": "7",
-            "GL": "6",
-            "PTS": "3",
-            "PF": "268",
-            "PA": "266",
-            "DIFF": "2"
-        },
-        {
             "Team": "Markville",
             "MP": "4",
             "MW": "3",
@@ -191,6 +179,42 @@
             "PF": "182",
             "PA": "112",
             "DIFF": "70"
+        },
+        {
+            "Team": "Stouffville",
+            "MP": "6",
+            "MW": "3",
+            "ML": "3",
+            "GW": "7",
+            "GL": "7",
+            "PTS": "3",
+            "PF": "286",
+            "PA": "281",
+            "DIFF": "5"
+        },
+        {
+            "Team": "Pierre Elliott Trudeau",
+            "MP": "6",
+            "MW": "3",
+            "ML": "3",
+            "GW": "6",
+            "GL": "7",
+            "PTS": "3",
+            "PF": "180",
+            "PA": "286",
+            "DIFF": "-106"
+        },
+        {
+            "Team": "St. Brother Andre",
+            "MP": "5",
+            "MW": "3",
+            "ML": "2",
+            "GW": "7",
+            "GL": "6",
+            "PTS": "3",
+            "PF": "268",
+            "PA": "266",
+            "DIFF": "2"
         },
         {
             "Team": "Bur Oak SS",
@@ -205,18 +229,6 @@
             "DIFF": "-8"
         },
         {
-            "Team": "Father McGivney",
-            "MP": "6",
-            "MW": "2",
-            "ML": "4",
-            "GW": "6",
-            "GL": "9",
-            "PTS": "2",
-            "PF": "278",
-            "PA": "290",
-            "DIFF": "-12"
-        },
-        {
             "Team": "St. Katharine Drexel",
             "MP": "4",
             "MW": "2",
@@ -229,28 +241,28 @@
             "DIFF": "32"
         },
         {
-            "Team": "Bill Crothers SS",
-            "MP": "4",
-            "MW": "1",
-            "ML": "3",
-            "GW": "2",
-            "GL": "6",
-            "PTS": "1",
-            "PF": "173",
-            "PA": "193",
-            "DIFF": "-20"
+            "Team": "Father McGivney",
+            "MP": "6",
+            "MW": "2",
+            "ML": "4",
+            "GW": "6",
+            "GL": "9",
+            "PTS": "2",
+            "PF": "278",
+            "PA": "290",
+            "DIFF": "-12"
         },
         {
-            "Team": "Pierre Elliott Trudeau",
-            "MP": "4",
+            "Team": "Bill Crothers SS",
+            "MP": "6",
             "MW": "1",
-            "ML": "3",
+            "ML": "5",
             "GW": "2",
-            "GL": "7",
+            "GL": "10",
             "PTS": "1",
-            "PF": "78",
-            "PA": "206",
-            "DIFF": "-128"
+            "PF": "248",
+            "PA": "293",
+            "DIFF": "-45"
         },
         {
             "Team": "Middlefield",
@@ -265,28 +277,16 @@
             "DIFF": "-68"
         },
         {
-            "Team": "Stouffville",
-            "MP": "4",
-            "MW": "1",
-            "ML": "3",
-            "GW": "3",
-            "GL": "7",
-            "PTS": "1",
-            "PF": "182",
-            "PA": "201",
-            "DIFF": "-19"
-        },
-        {
             "Team": "Milliken Mills",
-            "MP": "4",
+            "MP": "6",
             "MW": "1",
-            "ML": "3",
+            "ML": "5",
             "GW": "3",
-            "GL": "6",
+            "GL": "10",
             "PTS": "1",
-            "PF": "179",
-            "PA": "207",
-            "DIFF": "-28"
+            "PF": "264",
+            "PA": "313",
+            "DIFF": "-49"
         },
         {
             "Team": "North",
@@ -302,15 +302,15 @@
         },
         {
             "Team": "Sacred Heart",
-            "MP": "8",
-            "MW": "8",
+            "MP": "10",
+            "MW": "10",
             "ML": "0",
-            "GW": "16",
+            "GW": "20",
             "GL": "2",
-            "PTS": "8",
-            "PF": "416",
-            "PA": "300",
-            "DIFF": "116"
+            "PTS": "10",
+            "PF": "516",
+            "PA": "360",
+            "DIFF": "156"
         },
         {
             "Team": "Sir William Mulock",
@@ -326,15 +326,27 @@
         },
         {
             "Team": "Aurora HS",
-            "MP": "6",
-            "MW": "5",
+            "MP": "8",
+            "MW": "7",
             "ML": "1",
-            "GW": "11",
+            "GW": "15",
             "GL": "2",
-            "PTS": "5",
-            "PF": "305",
-            "PA": "204",
-            "DIFF": "101"
+            "PTS": "7",
+            "PF": "405",
+            "PA": "269",
+            "DIFF": "136"
+        },
+        {
+            "Team": "St. Maximilian",
+            "MP": "8",
+            "MW": "4",
+            "ML": "4",
+            "GW": "8",
+            "GL": "8",
+            "PTS": "4",
+            "PF": "344",
+            "PA": "346",
+            "DIFF": "-2"
         },
         {
             "Team": "Huron Heights",
@@ -350,15 +362,15 @@
         },
         {
             "Team": "Newmarket HS",
-            "MP": "6",
+            "MP": "7",
             "MW": "3",
-            "ML": "3",
+            "ML": "4",
             "GW": "7",
-            "GL": "7",
+            "GL": "9",
             "PTS": "3",
-            "PF": "285",
-            "PA": "281",
-            "DIFF": "4"
+            "PF": "324",
+            "PA": "331",
+            "DIFF": "-7"
         },
         {
             "Team": "Dr. G.W. Williams",
@@ -373,52 +385,40 @@
             "DIFF": "-75"
         },
         {
-            "Team": "St. Maximilian",
-            "MP": "6",
-            "MW": "3",
-            "ML": "3",
-            "GW": "6",
-            "GL": "6",
-            "PTS": "3",
-            "PF": "270",
-            "PA": "254",
-            "DIFF": "16"
+            "Team": "Keswick High School",
+            "MP": "8",
+            "MW": "2",
+            "ML": "6",
+            "GW": "5",
+            "GL": "12",
+            "PTS": "2",
+            "PF": "318",
+            "PA": "382",
+            "DIFF": "-64"
         },
         {
             "Team": "Dr. J.M. Denison",
-            "MP": "6",
+            "MP": "8",
             "MW": "2",
-            "ML": "4",
+            "ML": "6",
             "GW": "4",
-            "GL": "10",
+            "GL": "14",
             "PTS": "2",
-            "PF": "243",
-            "PA": "310",
-            "DIFF": "-67"
-        },
-        {
-            "Team": "Keswick High School",
-            "MP": "6",
-            "MW": "1",
-            "ML": "5",
-            "GW": "3",
-            "GL": "10",
-            "PTS": "1",
-            "PF": "227",
-            "PA": "305",
-            "DIFF": "-78"
+            "PF": "312",
+            "PA": "410",
+            "DIFF": "-98"
         },
         {
             "Team": "Sutton District",
-            "MP": "8",
+            "MP": "9",
             "MW": "0",
-            "ML": "8",
+            "ML": "9",
             "GW": "1",
-            "GL": "16",
+            "GL": "18",
             "PTS": "0",
-            "PF": "280",
-            "PA": "409",
-            "DIFF": "-129"
+            "PF": "301",
+            "PA": "459",
+            "DIFF": "-158"
         },
         {
             "Team": "West",

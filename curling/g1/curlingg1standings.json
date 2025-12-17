@@ -13,6 +13,18 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Sacred Heart",
+            "W": "3",
+            "L": "0",
+            "T": "0",
+            "PTS": "6",
+            "EW": "15",
+            "EL": "4",
+            "PF": "31",
+            "PA": "6",
+            "DIFF": "25"
+        },
+        {
             "Team": "Bill Crothers SS",
             "W": "2",
             "L": "0",
@@ -25,28 +37,16 @@
             "DIFF": "3"
         },
         {
-            "Team": "Sacred Heart",
-            "W": "2",
-            "L": "0",
-            "T": "0",
-            "PTS": "4",
-            "EW": "11",
-            "EL": "2",
-            "PF": "21",
-            "PA": "2",
-            "DIFF": "19"
-        },
-        {
             "Team": "St. Augustine",
             "W": "1",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "2",
-            "EW": "7",
-            "EL": "6",
-            "PF": "21",
-            "PA": "10",
-            "DIFF": "11"
+            "EW": "9",
+            "EL": "10",
+            "PF": "25",
+            "PA": "20",
+            "DIFF": "5"
         },
         {
             "Team": "St. Theresa Of Lisieux",
