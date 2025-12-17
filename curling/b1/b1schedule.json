@@ -2,21 +2,21 @@
     "schedule": [
         {
             "date": "Tuesday, December 16, 2025",
-            "home_team": "St. Robert",
-            "away_team": "Tommy Douglas SS",
-            "time": "3:00 PM",
-            "location": "Unionville Curling Club",
-            "game_played": true,
-            "final_score": "St. Robert 6, Tommy Douglas SS 5"
-        },
-        {
-            "date": "Tuesday, December 16, 2025",
             "home_team": "St. Augustine",
             "away_team": "Bill Crothers SS",
             "time": "3:00 PM",
             "location": "Unionville Curling Club",
             "game_played": true,
             "final_score": "St. Augustine 6, Bill Crothers SS 2"
+        },
+        {
+            "date": "Tuesday, December 16, 2025",
+            "home_team": "St. Robert",
+            "away_team": "Tommy Douglas SS",
+            "time": "3:00 PM",
+            "location": "Unionville Curling Club",
+            "game_played": true,
+            "final_score": "St. Robert 6, Tommy Douglas SS 5"
         },
         {
             "date": "Wednesday, December 17, 2025",
