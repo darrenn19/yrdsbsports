@@ -1,123 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, December 15, 2025",
-            "home_team": "Aurora HS",
-            "away_team": "Renaissance ESC",
-            "time": "4:45 PM",
-            "location": "Aurora HS",
-            "game_played": true,
-            "final_score": "Aurora HS 49, Renaissance ESC 60"
-        },
-        {
-            "date": "Monday, December 15, 2025",
-            "home_team": "Bur Oak SS",
-            "away_team": "Bill Hogarth SS",
-            "time": "4:45 PM",
-            "location": "Bur Oak SS",
-            "game_played": true,
-            "final_score": "Bur Oak SS 64, Bill Hogarth SS 70"
-        },
-        {
-            "date": "Monday, December 15, 2025",
-            "home_team": "Father Bressani",
-            "away_team": "Emily Carr",
-            "time": "4:45 PM",
-            "location": "Father Bressani CHS",
-            "game_played": true,
-            "final_score": "Father Bressani 46, Emily Carr 62"
-        },
-        {
-            "date": "Monday, December 15, 2025",
-            "home_team": "Father McGivney",
-            "away_team": "Stouffville",
-            "time": "4:45 PM",
-            "location": "Father Michael McGivney CA",
-            "game_played": true,
-            "final_score": "Father McGivney 78, Stouffville 54"
-        },
-        {
-            "date": "Monday, December 15, 2025",
-            "home_team": "Hodan Nalayeh SS",
-            "away_team": "Maple High School",
-            "time": "3:45 PM",
-            "location": "Hodan Nalayeh Secondary School",
-            "game_played": true,
-            "final_score": "Hodan Nalayeh SS 80, Maple High School 67"
-        },
-        {
-            "date": "Monday, December 15, 2025",
-            "home_team": "Langstaff SS",
-            "away_team": "Stephen Lewis SS",
-            "time": "4:45 PM",
-            "location": "Langstaff SS",
-            "game_played": true,
-            "final_score": "Langstaff SS 33, Stephen Lewis SS 93"
-        },
-        {
-            "date": "Monday, December 15, 2025",
-            "home_team": "Our Lady Queen Of The World",
-            "away_team": "Unionville HS",
-            "time": "3:45 PM",
-            "location": "Our Lady Queen Of The World",
-            "game_played": true,
-            "final_score": "Our Lady Queen Of The World 63, Unionville HS 56"
-        },
-        {
-            "date": "Monday, December 15, 2025",
-            "home_team": "Pierre Elliott Trudeau",
-            "away_team": "Milliken Mills",
-            "time": "4:45 PM",
-            "location": "PE Trudeau HS",
-            "game_played": true,
-            "final_score": "Pierre Elliott Trudeau 54, Milliken Mills 39"
-        },
-        {
-            "date": "Monday, December 15, 2025",
-            "home_team": "St. Augustine",
-            "away_team": "Markham District",
-            "time": "4:45 PM",
-            "location": "St Augustine CHS",
-            "game_played": true,
-            "final_score": "St. Augustine 68, Markham District 59"
-        },
-        {
-            "date": "Monday, December 15, 2025",
-            "home_team": "St. Joan Of Arc",
-            "away_team": "Tommy Douglas SS",
-            "time": "4:45 PM",
-            "location": "St Joan Of Arc CHS",
-            "game_played": true,
-            "final_score": "St. Joan Of Arc 42, Tommy Douglas SS 54"
-        },
-        {
-            "date": "Monday, December 15, 2025",
-            "home_team": "St. Maximilian",
-            "away_team": "Cardinal Carter",
-            "time": "4:45 PM",
-            "location": "St Maximilian Kolbe CHS",
-            "game_played": true,
-            "final_score": "St. Maximilian 80, Cardinal Carter 33"
-        },
-        {
-            "date": "Monday, December 15, 2025",
-            "home_team": "Toronto District Christian",
-            "away_team": "Woodbridge College",
-            "time": "4:45 PM",
-            "location": "Toronto District Christian HS",
-            "game_played": true,
-            "final_score": "Toronto District Christian 76, Woodbridge College 60"
-        },
-        {
-            "date": "Monday, December 15, 2025",
-            "home_team": "Westmount",
-            "away_team": "St. Jean De Brebeuf CHS",
-            "time": "4:45 PM",
-            "location": "Westmount CI",
-            "game_played": true,
-            "final_score": "Westmount 49, St. Jean De Brebeuf CHS 59"
-        },
-        {
             "date": "Tuesday, December 16, 2025",
             "home_team": "Alexander Mackenzie",
             "away_team": "St. Elizabeth",
@@ -227,6 +110,15 @@
         },
         {
             "date": "Sunday, December 21, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, December 22, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
