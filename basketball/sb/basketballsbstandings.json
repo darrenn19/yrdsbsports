@@ -298,6 +298,28 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Keswick High School",
+            "GP": "6",
+            "W": "6",
+            "L": "0",
+            "T": "0",
+            "PTS": "12",
+            "PF": "515",
+            "PA": "364",
+            "DIFF": "72"
+        },
+        {
+            "Team": "Newmarket HS",
+            "GP": "6",
+            "W": "6",
+            "L": "0",
+            "T": "0",
+            "PTS": "12",
+            "PF": "435",
+            "PA": "321",
+            "DIFF": "69"
+        },
+        {
             "Team": "St. Maximilian",
             "GP": "6",
             "W": "5",
@@ -309,26 +331,15 @@
             "DIFF": "63"
         },
         {
-            "Team": "Newmarket HS",
-            "GP": "5",
-            "W": "5",
-            "L": "0",
+            "Team": "Sacred Heart",
+            "GP": "6",
+            "W": "4",
+            "L": "2",
             "T": "0",
-            "PTS": "10",
-            "PF": "378",
-            "PA": "285",
-            "DIFF": "54"
-        },
-        {
-            "Team": "Keswick High School",
-            "GP": "5",
-            "W": "5",
-            "L": "0",
-            "T": "0",
-            "PTS": "10",
-            "PF": "424",
-            "PA": "302",
-            "DIFF": "57"
+            "PTS": "8",
+            "PF": "380",
+            "PA": "341",
+            "DIFF": "28"
         },
         {
             "Team": "Renaissance ESC",
@@ -364,26 +375,15 @@
             "DIFF": "-23"
         },
         {
-            "Team": "Sacred Heart",
-            "GP": "4",
-            "W": "3",
-            "L": "1",
-            "T": "0",
-            "PTS": "6",
-            "PF": "254",
-            "PA": "204",
-            "DIFF": "28"
-        },
-        {
             "Team": "Huron Heights",
-            "GP": "3",
+            "GP": "5",
             "W": "1",
-            "L": "2",
+            "L": "4",
             "T": "0",
             "PTS": "2",
-            "PF": "151",
-            "PA": "197",
-            "DIFF": "-15"
+            "PF": "233",
+            "PA": "318",
+            "DIFF": "-45"
         },
         {
             "Team": "Aurora HS",
@@ -474,26 +474,26 @@
             "DIFF": "14"
         },
         {
-            "Team": "St. Jean De Brebeuf CHS",
-            "GP": "4",
-            "W": "3",
-            "L": "1",
-            "T": "0",
-            "PTS": "6",
-            "PF": "228",
-            "PA": "178",
-            "DIFF": "23"
-        },
-        {
             "Team": "Maple High School",
-            "GP": "4",
-            "W": "2",
+            "GP": "5",
+            "W": "3",
             "L": "2",
             "T": "0",
-            "PTS": "4",
-            "PF": "279",
-            "PA": "267",
-            "DIFF": "4"
+            "PTS": "6",
+            "PF": "345",
+            "PA": "315",
+            "DIFF": "19"
+        },
+        {
+            "Team": "St. Jean De Brebeuf CHS",
+            "GP": "5",
+            "W": "3",
+            "L": "2",
+            "T": "0",
+            "PTS": "6",
+            "PF": "276",
+            "PA": "244",
+            "DIFF": "8"
         },
         {
             "Team": "Woodbridge College",

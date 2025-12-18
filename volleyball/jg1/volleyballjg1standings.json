@@ -157,40 +157,40 @@
             "DIFF": "DIFF"
         },
         {
-            "Team": "Dr. G.W. Williams",
-            "MP": "5",
-            "MW": "4",
-            "ML": "1",
-            "GW": "9",
-            "GL": "4",
-            "PTS": "4",
-            "PF": "284",
-            "PA": "215",
-            "DIFF": "69"
-        },
-        {
             "Team": "St. Maximilian",
-            "MP": "4",
-            "MW": "4",
+            "MP": "6",
+            "MW": "6",
             "ML": "0",
-            "GW": "8",
+            "GW": "12",
             "GL": "1",
-            "PTS": "4",
-            "PF": "215",
-            "PA": "152",
-            "DIFF": "63"
+            "PTS": "6",
+            "PF": "315",
+            "PA": "219",
+            "DIFF": "96"
         },
         {
-            "Team": "Sacred Heart",
-            "MP": "2",
-            "MW": "1",
-            "ML": "1",
-            "GW": "3",
-            "GL": "2",
-            "PTS": "1",
-            "PF": "100",
-            "PA": "100",
-            "DIFF": "0"
+            "Team": "Dr. G.W. Williams",
+            "MP": "6",
+            "MW": "4",
+            "ML": "2",
+            "GW": "9",
+            "GL": "6",
+            "PTS": "4",
+            "PF": "325",
+            "PA": "265",
+            "DIFF": "60"
+        },
+        {
+            "Team": "Cardinal Carter",
+            "MP": "5",
+            "MW": "2",
+            "ML": "3",
+            "GW": "4",
+            "GL": "6",
+            "PTS": "2",
+            "PF": "209",
+            "PA": "216",
+            "DIFF": "-7"
         },
         {
             "Team": "Sir William Mulock",
@@ -205,28 +205,28 @@
             "DIFF": "-46"
         },
         {
-            "Team": "Cardinal Carter",
-            "MP": "3",
+            "Team": "Sacred Heart",
+            "MP": "2",
             "MW": "1",
-            "ML": "2",
-            "GW": "2",
-            "GL": "4",
+            "ML": "1",
+            "GW": "3",
+            "GL": "2",
             "PTS": "1",
-            "PF": "120",
-            "PA": "125",
-            "DIFF": "-5"
+            "PF": "100",
+            "PA": "100",
+            "DIFF": "0"
         },
         {
             "Team": "Aurora HS",
-            "MP": "4",
+            "MP": "5",
             "MW": "0",
-            "ML": "4",
+            "ML": "5",
             "GW": "1",
-            "GL": "8",
+            "GL": "10",
             "PTS": "0",
-            "PF": "131",
-            "PA": "212",
-            "DIFF": "-81"
+            "PF": "159",
+            "PA": "262",
+            "DIFF": "-103"
         },
         {
             "Team": "West",
@@ -265,6 +265,18 @@
             "DIFF": "5"
         },
         {
+            "Team": "Hodan Nalayeh SS",
+            "MP": "4",
+            "MW": "2",
+            "ML": "1",
+            "GW": "4",
+            "GL": "3",
+            "PTS": "2",
+            "PF": "145",
+            "PA": "124",
+            "DIFF": "21"
+        },
+        {
             "Team": "St. Jean De Brebeuf CHS",
             "MP": "6",
             "MW": "2",
@@ -278,27 +290,15 @@
         },
         {
             "Team": "St. Joan Of Arc",
-            "MP": "5",
+            "MP": "6",
             "MW": "2",
-            "ML": "3",
+            "ML": "4",
             "GW": "4",
-            "GL": "7",
+            "GL": "9",
             "PTS": "2",
-            "PF": "204",
-            "PA": "241",
-            "DIFF": "-37"
-        },
-        {
-            "Team": "Hodan Nalayeh SS",
-            "MP": "3",
-            "MW": "1",
-            "ML": "1",
-            "GW": "2",
-            "GL": "3",
-            "PTS": "1",
-            "PF": "95",
-            "PA": "101",
-            "DIFF": "-6"
+            "PF": "227",
+            "PA": "291",
+            "DIFF": "-64"
         },
         {
             "Team": "ESC De L Ascension",

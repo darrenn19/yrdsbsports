@@ -100,15 +100,26 @@
             "DIFF": "25"
         },
         {
-            "Team": "Bill Hogarth SS",
-            "GP": "4",
+            "Team": "St. Theresa Of Lisieux",
+            "GP": "5",
             "W": "3",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "6",
-            "GF": "20",
-            "GA": "12",
-            "DIFF": "8"
+            "GF": "23",
+            "GA": "13",
+            "DIFF": "10"
+        },
+        {
+            "Team": "Bill Hogarth SS",
+            "GP": "5",
+            "W": "3",
+            "L": "2",
+            "T": "0",
+            "PTS": "6",
+            "GF": "24",
+            "GA": "19",
+            "DIFF": "5"
         },
         {
             "Team": "King City SS",
@@ -120,17 +131,6 @@
             "GF": "13",
             "GA": "15",
             "DIFF": "-2"
-        },
-        {
-            "Team": "St. Theresa Of Lisieux",
-            "GP": "4",
-            "W": "2",
-            "L": "2",
-            "T": "0",
-            "PTS": "4",
-            "GF": "16",
-            "GA": "9",
-            "DIFF": "7"
         },
         {
             "Team": "Markham District",
