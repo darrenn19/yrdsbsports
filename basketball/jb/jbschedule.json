@@ -20,6 +20,15 @@
         },
         {
             "date": "Wednesday, December 17, 2025",
+            "home_team": "Holy Cross",
+            "away_team": "St. Joan Of Arc",
+            "time": "3:30 PM",
+            "location": "Holy Cross CA",
+            "game_played": true,
+            "final_score": "Holy Cross 51, St. Joan Of Arc 46"
+        },
+        {
+            "date": "Wednesday, December 17, 2025",
             "home_team": "Keswick High School",
             "away_team": "Sacred Heart",
             "time": "3:30 PM",
