@@ -92,12 +92,12 @@
         },
         {
             "date": "Thursday, December 18, 2025",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "St. Theresa Of Lisieux",
+            "away_team": "St. Robert",
+            "time": "3:30 PM",
+            "location": "St Theresa Of Lisieux CHS",
+            "game_played": true,
+            "final_score": "St. Theresa Of Lisieux 78, St. Robert 72"
         },
         {
             "date": "Friday, December 19, 2025",
