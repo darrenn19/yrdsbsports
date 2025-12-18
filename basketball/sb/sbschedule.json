@@ -109,6 +109,15 @@
             "final_score": "St. Jean De Brebeuf CHS 48, Maple High School 66"
         },
         {
+            "date": "Wednesday, December 17, 2025",
+            "home_team": "Toronto District Christian",
+            "away_team": "Father Bressani",
+            "time": "3:30 PM",
+            "location": "Toronto District Christian HS",
+            "game_played": true,
+            "final_score": "Toronto District Christian 71, Father Bressani 45"
+        },
+        {
             "date": "Thursday, December 18, 2025",
             "home_team": null,
             "away_team": null,
