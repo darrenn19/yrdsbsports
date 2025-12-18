@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, December 16, 2025",
-            "home_team": "St. Maximilian",
-            "away_team": "Father Bressani",
-            "time": "2:30 PM",
-            "location": "Aurora Family Leisure Complex",
-            "game_played": true,
-            "final_score": "St. Maximilian 1, Father Bressani 4"
-        },
-        {
             "date": "Wednesday, December 17, 2025",
             "home_team": null,
             "away_team": null,
@@ -56,6 +47,15 @@
         },
         {
             "date": "Monday, December 22, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, December 23, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

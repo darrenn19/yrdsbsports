@@ -1,87 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, December 16, 2025",
-            "home_team": "Alexander Mackenzie",
-            "away_team": "St. Elizabeth",
-            "time": "3:45 PM",
-            "location": "Alexander Mackenzie HS",
-            "game_played": true,
-            "final_score": "Alexander Mackenzie 47, St. Elizabeth 65"
-        },
-        {
-            "date": "Tuesday, December 16, 2025",
-            "home_team": "Bill Crothers SS",
-            "away_team": "St. Brother Andre",
-            "time": "3:45 PM",
-            "location": "Bill Crothers SS",
-            "game_played": true,
-            "final_score": "Bill Crothers SS 80, St. Brother Andre 59"
-        },
-        {
-            "date": "Tuesday, December 16, 2025",
-            "home_team": "Holy Cross",
-            "away_team": "St. Joan Of Arc",
-            "time": "3:00 PM",
-            "location": "Holy Cross CA",
-            "game_played": true,
-            "final_score": "Holy Cross 61, St. Joan Of Arc 51"
-        },
-        {
-            "date": "Tuesday, December 16, 2025",
-            "home_team": "King City SS",
-            "away_team": "Dr. J.M. Denison",
-            "time": "3:45 PM",
-            "location": "King City SS",
-            "game_played": true,
-            "final_score": "King City SS 74, Dr. J.M. Denison 63"
-        },
-        {
-            "date": "Tuesday, December 16, 2025",
-            "home_team": "Middlefield",
-            "away_team": "St. Katharine Drexel",
-            "time": "4:45 PM",
-            "location": "Middlefield CI",
-            "game_played": true,
-            "final_score": "Middlefield 54, St. Katharine Drexel 51"
-        },
-        {
-            "date": "Tuesday, December 16, 2025",
-            "home_team": "Richmond Green SS",
-            "away_team": "Thornlea SS",
-            "time": "3:45 PM",
-            "location": "Richmond Green SS",
-            "game_played": true,
-            "final_score": "Richmond Green SS 63, Thornlea SS 66"
-        },
-        {
-            "date": "Tuesday, December 16, 2025",
-            "home_team": "Richmond Hill HS",
-            "away_team": "St. Robert",
-            "time": "4:45 PM",
-            "location": "Richmond Hill HS",
-            "game_played": true,
-            "final_score": "Richmond Hill HS 70, St. Robert 36"
-        },
-        {
-            "date": "Tuesday, December 16, 2025",
-            "home_team": "Sutton District",
-            "away_team": "Dr. G.W. Williams",
-            "time": "3:45 PM",
-            "location": "Sutton DHS",
-            "game_played": true,
-            "final_score": "Sutton District 49, Dr. G.W. Williams 71"
-        },
-        {
-            "date": "Tuesday, December 16, 2025",
-            "home_team": "Woodbridge College",
-            "away_team": "Hodan Nalayeh SS",
-            "time": "3:45 PM",
-            "location": "Woodbridge College",
-            "game_played": true,
-            "final_score": "Woodbridge College 60, Hodan Nalayeh SS 67"
-        },
-        {
             "date": "Wednesday, December 17, 2025",
             "home_team": "Huron Heights",
             "away_team": "Newmarket HS",
@@ -155,6 +74,15 @@
         },
         {
             "date": "Monday, December 22, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, December 23, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
