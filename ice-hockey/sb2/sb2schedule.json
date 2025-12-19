@@ -10,6 +10,15 @@
             "final_score": "Alexander Mackenzie 1, Father Bressani 5"
         },
         {
+            "date": "Thursday, December 18, 2025",
+            "home_team": "Sutton District",
+            "away_team": "Huron Heights",
+            "time": "1:00 PM",
+            "location": "Sutton Community Centre",
+            "game_played": true,
+            "final_score": "Sutton District 3, Huron Heights 2"
+        },
+        {
             "date": "Friday, December 19, 2025",
             "home_team": null,
             "away_team": null,
