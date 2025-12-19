@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, December 17, 2025",
-            "home_team": "St. Augustine",
-            "away_team": "Markham District",
-            "time": "2:30 PM",
-            "location": "Angus Glen Arena",
-            "game_played": true,
-            "final_score": "St. Augustine 4, Markham District 4"
-        },
-        {
             "date": "Thursday, December 18, 2025",
             "home_team": "Alexander Mackenzie",
             "away_team": "Father Bressani",
@@ -56,6 +47,15 @@
         },
         {
             "date": "Tuesday, December 23, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, December 24, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,

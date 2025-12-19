@@ -1,96 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, December 17, 2025",
-            "home_team": "Cardinal Carter",
-            "away_team": "Huron Heights",
-            "time": "3:45 PM",
-            "location": "Cardinal Carter CHS",
-            "game_played": true,
-            "final_score": "Cardinal Carter 54, Huron Heights 39"
-        },
-        {
-            "date": "Wednesday, December 17, 2025",
-            "home_team": "ESC De L Ascension",
-            "away_team": "Emily Carr",
-            "time": "3:45 PM",
-            "location": "ESC De L Ascension",
-            "game_played": true,
-            "final_score": "ESC De L Ascension 36, Emily Carr 68"
-        },
-        {
-            "date": "Wednesday, December 17, 2025",
-            "home_team": "Holy Cross",
-            "away_team": "St. Joan Of Arc",
-            "time": "3:30 PM",
-            "location": "Holy Cross CA",
-            "game_played": true,
-            "final_score": "Holy Cross 51, St. Joan Of Arc 46"
-        },
-        {
-            "date": "Wednesday, December 17, 2025",
-            "home_team": "Keswick High School",
-            "away_team": "Sacred Heart",
-            "time": "3:30 PM",
-            "location": "Keswick HS",
-            "game_played": true,
-            "final_score": "Keswick High School 62, Sacred Heart 60"
-        },
-        {
-            "date": "Wednesday, December 17, 2025",
-            "home_team": "King City SS",
-            "away_team": "Thornlea SS",
-            "time": "3:45 PM",
-            "location": "King City SS",
-            "game_played": true,
-            "final_score": "King City SS 73, Thornlea SS 48"
-        },
-        {
-            "date": "Wednesday, December 17, 2025",
-            "home_team": "Markham District",
-            "away_team": "Bill Hogarth SS",
-            "time": "3:45 PM",
-            "location": "Markham DHS",
-            "game_played": true,
-            "final_score": "Markham District 68, Bill Hogarth SS 53"
-        },
-        {
-            "date": "Wednesday, December 17, 2025",
-            "home_team": "St. Jean De Brebeuf CHS",
-            "away_team": "Maple High School",
-            "time": "3:00 PM",
-            "location": "St Jean De Brebeuf CHS",
-            "game_played": true,
-            "final_score": "St. Jean De Brebeuf CHS 63, Maple High School 58"
-        },
-        {
-            "date": "Wednesday, December 17, 2025",
-            "home_team": "St. Maximilian",
-            "away_team": "Renaissance ESC",
-            "time": "3:45 PM",
-            "location": "St Maximilian Kolbe CHS",
-            "game_played": true,
-            "final_score": "St. Maximilian 47, Renaissance ESC 34"
-        },
-        {
-            "date": "Wednesday, December 17, 2025",
-            "home_team": "Toronto District Christian",
-            "away_team": "Father Bressani",
-            "time": "4:45 PM",
-            "location": "Toronto District Christian HS",
-            "game_played": true,
-            "final_score": "Toronto District Christian 62, Father Bressani 71"
-        },
-        {
-            "date": "Wednesday, December 17, 2025",
-            "home_team": "Unionville HS",
-            "away_team": "Langstaff SS",
-            "time": "3:45 PM",
-            "location": "Unionville HS",
-            "game_played": true,
-            "final_score": "Unionville HS 96, Langstaff SS 69"
-        },
-        {
             "date": "Thursday, December 18, 2025",
             "home_team": "St. Theresa Of Lisieux",
             "away_team": "St. Robert",
@@ -137,6 +47,15 @@
         },
         {
             "date": "Tuesday, December 23, 2025",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, December 24, 2025",
             "home_team": null,
             "away_team": null,
             "time": null,
