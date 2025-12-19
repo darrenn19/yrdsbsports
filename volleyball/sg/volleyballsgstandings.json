@@ -181,18 +181,6 @@
             "DIFF": "104"
         },
         {
-            "Team": "Father McGivney",
-            "MP": "8",
-            "MW": "4",
-            "ML": "4",
-            "GW": "10",
-            "GL": "9",
-            "PTS": "4",
-            "PF": "378",
-            "PA": "365",
-            "DIFF": "13"
-        },
-        {
             "Team": "Markville",
             "MP": "6",
             "MW": "4",
@@ -203,6 +191,18 @@
             "PF": "273",
             "PA": "199",
             "DIFF": "74"
+        },
+        {
+            "Team": "Father McGivney",
+            "MP": "8",
+            "MW": "4",
+            "ML": "4",
+            "GW": "10",
+            "GL": "9",
+            "PTS": "4",
+            "PF": "378",
+            "PA": "365",
+            "DIFF": "13"
         },
         {
             "Team": "Stouffville",
@@ -217,6 +217,18 @@
             "DIFF": "14"
         },
         {
+            "Team": "Pierre Elliott Trudeau",
+            "MP": "8",
+            "MW": "4",
+            "ML": "4",
+            "GW": "9",
+            "GL": "9",
+            "PTS": "4",
+            "PF": "292",
+            "PA": "392",
+            "DIFF": "-100"
+        },
+        {
             "Team": "Bur Oak SS",
             "MP": "6",
             "MW": "3",
@@ -227,18 +239,6 @@
             "PF": "269",
             "PA": "275",
             "DIFF": "-6"
-        },
-        {
-            "Team": "Pierre Elliott Trudeau",
-            "MP": "7",
-            "MW": "3",
-            "ML": "4",
-            "GW": "7",
-            "GL": "9",
-            "PTS": "3",
-            "PF": "242",
-            "PA": "348",
-            "DIFF": "-106"
         },
         {
             "Team": "St. Katharine Drexel",
@@ -266,15 +266,15 @@
         },
         {
             "Team": "Middlefield",
-            "MP": "7",
+            "MP": "8",
             "MW": "1",
-            "ML": "6",
+            "ML": "7",
             "GW": "3",
-            "GL": "13",
+            "GL": "15",
             "PTS": "1",
-            "PF": "289",
-            "PA": "377",
-            "DIFF": "-88"
+            "PF": "333",
+            "PA": "427",
+            "DIFF": "-94"
         },
         {
             "Team": "Milliken Mills",

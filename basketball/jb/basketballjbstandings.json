@@ -11,6 +11,16 @@
             "PA": "PA"
         },
         {
+            "Team": "St. Theresa Of Lisieux",
+            "GP": "5",
+            "W": "5",
+            "L": "0",
+            "T": "0",
+            "PTS": "10",
+            "PF": "404",
+            "PA": "343"
+        },
+        {
             "Team": "Stephen Lewis SS",
             "GP": "5",
             "W": "5",
@@ -32,23 +42,23 @@
         },
         {
             "Team": "Richmond Hill HS",
-            "GP": "5",
+            "GP": "6",
             "W": "4",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "8",
-            "PF": "319",
-            "PA": "299"
+            "PF": "376",
+            "PA": "362"
         },
         {
-            "Team": "St. Theresa Of Lisieux",
-            "GP": "4",
-            "W": "4",
-            "L": "0",
+            "Team": "St. Robert",
+            "GP": "5",
+            "W": "3",
+            "L": "2",
             "T": "0",
-            "PTS": "8",
-            "PF": "326",
-            "PA": "271"
+            "PTS": "6",
+            "PF": "300",
+            "PA": "285"
         },
         {
             "Team": "Unionville HS",
@@ -59,16 +69,6 @@
             "PTS": "4",
             "PF": "393",
             "PA": "404"
-        },
-        {
-            "Team": "St. Robert",
-            "GP": "3",
-            "W": "2",
-            "L": "1",
-            "T": "0",
-            "PTS": "4",
-            "PF": "165",
-            "PA": "150"
         },
         {
             "Team": "Thornlea SS",
@@ -351,6 +351,26 @@
             "PA": "PA"
         },
         {
+            "Team": "Father Bressani",
+            "GP": "6",
+            "W": "5",
+            "L": "1",
+            "T": "0",
+            "PTS": "10",
+            "PF": "437",
+            "PA": "362"
+        },
+        {
+            "Team": "Woodbridge College",
+            "GP": "5",
+            "W": "4",
+            "L": "1",
+            "T": "0",
+            "PTS": "8",
+            "PF": "289",
+            "PA": "234"
+        },
+        {
             "Team": "Westmount",
             "GP": "4",
             "W": "4",
@@ -359,16 +379,6 @@
             "PTS": "8",
             "PF": "313",
             "PA": "263"
-        },
-        {
-            "Team": "Father Bressani",
-            "GP": "5",
-            "W": "4",
-            "L": "1",
-            "T": "0",
-            "PTS": "8",
-            "PF": "366",
-            "PA": "300"
         },
         {
             "Team": "St. Jean De Brebeuf CHS",
@@ -381,14 +391,14 @@
             "PA": "165"
         },
         {
-            "Team": "Woodbridge College",
+            "Team": "Maple High School",
             "GP": "5",
-            "W": "4",
-            "L": "1",
+            "W": "2",
+            "L": "3",
             "T": "0",
-            "PTS": "8",
-            "PF": "289",
-            "PA": "234"
+            "PTS": "4",
+            "PF": "337",
+            "PA": "322"
         },
         {
             "Team": "Emily Carr",
@@ -402,43 +412,33 @@
         },
         {
             "Team": "St. Joan Of Arc",
-            "GP": "4",
-            "W": "2",
-            "L": "2",
-            "T": "0",
-            "PTS": "4",
-            "PF": "229",
-            "PA": "220"
-        },
-        {
-            "Team": "Maple High School",
             "GP": "5",
             "W": "2",
             "L": "3",
             "T": "0",
             "PTS": "4",
-            "PF": "337",
-            "PA": "322"
-        },
-        {
-            "Team": "Toronto District Christian",
-            "GP": "5",
-            "W": "1",
-            "L": "4",
-            "T": "0",
-            "PTS": "2",
-            "PF": "210",
-            "PA": "292"
+            "PF": "275",
+            "PA": "271"
         },
         {
             "Team": "Holy Cross",
-            "GP": "4",
-            "W": "1",
+            "GP": "5",
+            "W": "2",
             "L": "3",
             "T": "0",
+            "PTS": "4",
+            "PF": "297",
+            "PA": "286"
+        },
+        {
+            "Team": "Toronto District Christian",
+            "GP": "6",
+            "W": "1",
+            "L": "5",
+            "T": "0",
             "PTS": "2",
-            "PF": "246",
-            "PA": "240"
+            "PF": "272",
+            "PA": "363"
         },
         {
             "Team": "ESC De L Ascension",

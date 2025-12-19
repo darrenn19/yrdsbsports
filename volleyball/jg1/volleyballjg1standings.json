@@ -181,16 +181,28 @@
             "DIFF": "60"
         },
         {
+            "Team": "Sacred Heart",
+            "MP": "4",
+            "MW": "3",
+            "ML": "1",
+            "GW": "7",
+            "GL": "3",
+            "PTS": "3",
+            "PF": "211",
+            "PA": "211",
+            "DIFF": "0"
+        },
+        {
             "Team": "Cardinal Carter",
-            "MP": "5",
+            "MP": "6",
             "MW": "2",
-            "ML": "3",
-            "GW": "4",
-            "GL": "6",
+            "ML": "4",
+            "GW": "5",
+            "GL": "8",
             "PTS": "2",
-            "PF": "209",
-            "PA": "216",
-            "DIFF": "-7"
+            "PF": "275",
+            "PA": "277",
+            "DIFF": "-2"
         },
         {
             "Team": "Sir William Mulock",
@@ -205,28 +217,16 @@
             "DIFF": "-46"
         },
         {
-            "Team": "Sacred Heart",
-            "MP": "2",
-            "MW": "1",
-            "ML": "1",
-            "GW": "3",
-            "GL": "2",
-            "PTS": "1",
-            "PF": "100",
-            "PA": "100",
-            "DIFF": "0"
-        },
-        {
             "Team": "Aurora HS",
-            "MP": "5",
+            "MP": "6",
             "MW": "0",
-            "ML": "5",
+            "ML": "6",
             "GW": "1",
-            "GL": "10",
+            "GL": "12",
             "PTS": "0",
-            "PF": "159",
-            "PA": "262",
-            "DIFF": "-103"
+            "PF": "204",
+            "PA": "312",
+            "DIFF": "-108"
         },
         {
             "Team": "West",
@@ -253,28 +253,28 @@
             "DIFF": "137"
         },
         {
-            "Team": "Father Bressani",
-            "MP": "6",
+            "Team": "Hodan Nalayeh SS",
+            "MP": "4",
             "MW": "3",
-            "ML": "2",
+            "ML": "1",
             "GW": "6",
             "GL": "4",
             "PTS": "3",
-            "PF": "218",
-            "PA": "213",
-            "DIFF": "5"
+            "PF": "209",
+            "PA": "185",
+            "DIFF": "24"
         },
         {
-            "Team": "Hodan Nalayeh SS",
-            "MP": "4",
-            "MW": "2",
-            "ML": "1",
-            "GW": "4",
-            "GL": "3",
-            "PTS": "2",
-            "PF": "145",
-            "PA": "124",
-            "DIFF": "21"
+            "Team": "Father Bressani",
+            "MP": "6",
+            "MW": "3",
+            "ML": "3",
+            "GW": "7",
+            "GL": "6",
+            "PTS": "3",
+            "PF": "279",
+            "PA": "277",
+            "DIFF": "2"
         },
         {
             "Team": "St. Jean De Brebeuf CHS",
