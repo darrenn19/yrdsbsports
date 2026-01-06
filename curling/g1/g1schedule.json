@@ -2,6 +2,15 @@
     "schedule": [
         {
             "date": "Monday, January 5, 2026",
+            "home_team": "Sacred Heart",
+            "away_team": "Bill Crothers SS",
+            "time": "2:30 PM",
+            "location": "York Curling Club",
+            "game_played": true,
+            "final_score": "Sacred Heart 7, Bill Crothers SS 5"
+        },
+        {
+            "date": "Monday, January 5, 2026",
             "home_team": "St. Augustine",
             "away_team": "Bill Hogarth SS",
             "time": "2:30 PM",
