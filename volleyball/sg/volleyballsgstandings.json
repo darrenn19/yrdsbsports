@@ -25,6 +25,18 @@
             "DIFF": "91"
         },
         {
+            "Team": "Renaissance ESC",
+            "MP": "10",
+            "MW": "6",
+            "ML": "4",
+            "GW": "12",
+            "GL": "11",
+            "PTS": "6",
+            "PF": "476",
+            "PA": "479",
+            "DIFF": "-3"
+        },
+        {
             "Team": "St. Augustine",
             "MP": "6",
             "MW": "6",
@@ -35,18 +47,6 @@
             "PF": "303",
             "PA": "209",
             "DIFF": "94"
-        },
-        {
-            "Team": "Renaissance ESC",
-            "MP": "9",
-            "MW": "5",
-            "ML": "4",
-            "GW": "10",
-            "GL": "10",
-            "PTS": "5",
-            "PF": "415",
-            "PA": "422",
-            "DIFF": "-7"
         },
         {
             "Team": "King City SS",
@@ -122,15 +122,15 @@
         },
         {
             "Team": "Our Lady Queen Of The World",
-            "MP": "5",
+            "MP": "6",
             "MW": "1",
-            "ML": "4",
-            "GW": "2",
-            "GL": "9",
+            "ML": "5",
+            "GW": "3",
+            "GL": "11",
             "PTS": "1",
-            "PF": "198",
-            "PA": "253",
-            "DIFF": "-55"
+            "PF": "255",
+            "PA": "314",
+            "DIFF": "-59"
         },
         {
             "Team": "East",
