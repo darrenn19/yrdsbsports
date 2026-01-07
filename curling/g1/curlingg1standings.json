@@ -13,28 +13,28 @@
             "DIFF": "DIFF"
         },
         {
-            "Team": "Bill Crothers SS",
-            "W": "3",
+            "Team": "Sacred Heart",
+            "W": "4",
             "L": "0",
             "T": "0",
-            "PTS": "6",
-            "EW": "10",
-            "EL": "9",
-            "PF": "16",
-            "PA": "10",
-            "DIFF": "6"
+            "PTS": "8",
+            "EW": "19",
+            "EL": "6",
+            "PF": "38",
+            "PA": "11",
+            "DIFF": "27"
         },
         {
-            "Team": "Sacred Heart",
+            "Team": "Bill Crothers SS",
             "W": "3",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "6",
-            "EW": "15",
-            "EL": "4",
-            "PF": "31",
-            "PA": "6",
-            "DIFF": "25"
+            "EW": "12",
+            "EL": "13",
+            "PF": "21",
+            "PA": "17",
+            "DIFF": "4"
         },
         {
             "Team": "St. Augustine",
