@@ -19,6 +19,24 @@
             "final_score": "Holy Cross 56, St. Jean De Brebeuf CHS 51"
         },
         {
+            "date": "Wednesday, January 7, 2026",
+            "home_team": "Sacred Heart",
+            "away_team": "St. Maximilian",
+            "time": "4:45 PM",
+            "location": "Sacred Heart CHS",
+            "game_played": true,
+            "final_score": "Sacred Heart 59, St. Maximilian 75"
+        },
+        {
+            "date": "Wednesday, January 7, 2026",
+            "home_team": "St. Augustine",
+            "away_team": "Father McGivney",
+            "time": "4:45 PM",
+            "location": "St Augustine CHS",
+            "game_played": true,
+            "final_score": "St. Augustine 74, Father McGivney 36"
+        },
+        {
             "date": "Thursday, January 8, 2026",
             "home_team": null,
             "away_team": null,

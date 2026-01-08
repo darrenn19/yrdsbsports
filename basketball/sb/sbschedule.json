@@ -20,6 +20,15 @@
         },
         {
             "date": "Wednesday, January 7, 2026",
+            "home_team": "Sacred Heart",
+            "away_team": "St. Maximilian",
+            "time": "3:30 PM",
+            "location": "Sacred Heart CHS",
+            "game_played": true,
+            "final_score": "Sacred Heart 71, St. Maximilian 77"
+        },
+        {
+            "date": "Wednesday, January 7, 2026",
             "home_team": "St. Augustine",
             "away_team": "Father McGivney",
             "time": "3:30 PM",
