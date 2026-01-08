@@ -29,6 +29,24 @@
         },
         {
             "date": "Thursday, January 8, 2026",
+            "home_team": "Huron Heights",
+            "away_team": "Aurora HS",
+            "time": "3:45 PM",
+            "location": "Huron Heights SS",
+            "game_played": true,
+            "final_score": "Huron Heights 49, Aurora HS 35"
+        },
+        {
+            "date": "Thursday, January 8, 2026",
+            "home_team": "Markville",
+            "away_team": "Markham District",
+            "time": "3:45 PM",
+            "location": "Markville SS",
+            "game_played": true,
+            "final_score": "Markville 75, Markham District 59"
+        },
+        {
+            "date": "Thursday, January 8, 2026",
             "home_team": "Unionville HS",
             "away_team": "St. Theresa Of Lisieux",
             "time": "3:30 PM",

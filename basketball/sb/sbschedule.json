@@ -38,12 +38,39 @@
         },
         {
             "date": "Thursday, January 8, 2026",
+            "home_team": "Hodan Nalayeh SS",
+            "away_team": "Tommy Douglas SS",
+            "time": "3:45 PM",
+            "location": "Hodan Nalayeh Secondary School",
+            "game_played": true,
+            "final_score": "Hodan Nalayeh SS 68, Tommy Douglas SS 90"
+        },
+        {
+            "date": "Thursday, January 8, 2026",
+            "home_team": "King City SS",
+            "away_team": "Huron Heights",
+            "time": "3:30 PM",
+            "location": "King City SS",
+            "game_played": true,
+            "final_score": "King City SS 81, Huron Heights 62"
+        },
+        {
+            "date": "Thursday, January 8, 2026",
             "home_team": "Middlefield",
             "away_team": "Pierre Elliott Trudeau",
             "time": "3:30 PM",
             "location": "Middlefield CI",
             "game_played": true,
             "final_score": "Middlefield 51, Pierre Elliott Trudeau 61"
+        },
+        {
+            "date": "Thursday, January 8, 2026",
+            "home_team": "St. Elizabeth",
+            "away_team": "Richmond Hill HS",
+            "time": "3:45 PM",
+            "location": "St Elizabeth CHS",
+            "game_played": true,
+            "final_score": "St. Elizabeth 71, Richmond Hill HS 73"
         },
         {
             "date": "Thursday, January 8, 2026",
