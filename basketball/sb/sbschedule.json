@@ -38,6 +38,15 @@
         },
         {
             "date": "Thursday, January 8, 2026",
+            "home_team": "Middlefield",
+            "away_team": "Pierre Elliott Trudeau",
+            "time": "3:30 PM",
+            "location": "Middlefield CI",
+            "game_played": true,
+            "final_score": "Middlefield 51, Pierre Elliott Trudeau 61"
+        },
+        {
+            "date": "Thursday, January 8, 2026",
             "home_team": "St. Theresa Of Lisieux",
             "away_team": "St. Robert",
             "time": "2:15 PM",
