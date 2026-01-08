@@ -141,6 +141,16 @@
             "PA": "172"
         },
         {
+            "Team": "St. Augustine",
+            "GP": "6",
+            "W": "5",
+            "L": "1",
+            "T": "0",
+            "PTS": "10",
+            "PF": "377",
+            "PA": "290"
+        },
+        {
             "Team": "Markham District",
             "GP": "6",
             "W": "4",
@@ -152,23 +162,13 @@
         },
         {
             "Team": "Father McGivney",
-            "GP": "6",
+            "GP": "7",
             "W": "4",
-            "L": "2",
+            "L": "3",
             "T": "0",
             "PTS": "8",
-            "PF": "310",
-            "PA": "328"
-        },
-        {
-            "Team": "St. Augustine",
-            "GP": "5",
-            "W": "4",
-            "L": "1",
-            "T": "0",
-            "PTS": "8",
-            "PF": "303",
-            "PA": "254"
+            "PF": "346",
+            "PA": "402"
         },
         {
             "Team": "Stouffville",
@@ -241,6 +241,16 @@
             "PA": "PA"
         },
         {
+            "Team": "St. Maximilian",
+            "GP": "7",
+            "W": "6",
+            "L": "1",
+            "T": "0",
+            "PTS": "12",
+            "PF": "482",
+            "PA": "321"
+        },
+        {
             "Team": "Dr. G.W. Williams",
             "GP": "5",
             "W": "5",
@@ -249,16 +259,6 @@
             "PTS": "10",
             "PF": "334",
             "PA": "239"
-        },
-        {
-            "Team": "St. Maximilian",
-            "GP": "6",
-            "W": "5",
-            "L": "1",
-            "T": "0",
-            "PTS": "10",
-            "PF": "407",
-            "PA": "262"
         },
         {
             "Team": "Keswick High School",
@@ -292,13 +292,13 @@
         },
         {
             "Team": "Sacred Heart",
-            "GP": "5",
+            "GP": "6",
             "W": "2",
-            "L": "3",
+            "L": "4",
             "T": "0",
             "PTS": "4",
-            "PF": "245",
-            "PA": "282"
+            "PF": "304",
+            "PA": "357"
         },
         {
             "Team": "Sir William Mulock",
@@ -382,23 +382,23 @@
         },
         {
             "Team": "St. Jean De Brebeuf CHS",
-            "GP": "4",
+            "GP": "5",
             "W": "4",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "8",
-            "PF": "259",
-            "PA": "165"
+            "PF": "310",
+            "PA": "221"
         },
         {
-            "Team": "Maple High School",
-            "GP": "5",
-            "W": "2",
+            "Team": "Holy Cross",
+            "GP": "6",
+            "W": "3",
             "L": "3",
             "T": "0",
-            "PTS": "4",
-            "PF": "337",
-            "PA": "322"
+            "PTS": "6",
+            "PF": "353",
+            "PA": "337"
         },
         {
             "Team": "Emily Carr",
@@ -421,14 +421,14 @@
             "PA": "271"
         },
         {
-            "Team": "Holy Cross",
+            "Team": "Maple High School",
             "GP": "5",
             "W": "2",
             "L": "3",
             "T": "0",
             "PTS": "4",
-            "PF": "297",
-            "PA": "286"
+            "PF": "337",
+            "PA": "322"
         },
         {
             "Team": "Toronto District Christian",
