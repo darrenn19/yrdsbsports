@@ -29,6 +29,15 @@
         },
         {
             "date": "Thursday, January 8, 2026",
+            "home_team": "Emily Carr",
+            "away_team": "Holy Cross",
+            "time": "3:30 PM",
+            "location": "Emily Carr SS",
+            "game_played": true,
+            "final_score": "Emily Carr 42, Holy Cross 75"
+        },
+        {
+            "date": "Thursday, January 8, 2026",
             "home_team": "St. Theresa Of Lisieux",
             "away_team": "St. Robert",
             "time": "2:15 PM",
