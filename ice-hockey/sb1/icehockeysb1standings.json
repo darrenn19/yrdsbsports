@@ -24,14 +24,14 @@
         },
         {
             "Team": "Cardinal Carter",
-            "GP": "5",
-            "W": "4",
+            "GP": "6",
+            "W": "5",
             "L": "1",
             "T": "0",
-            "PTS": "8",
-            "GF": "24",
-            "GA": "13",
-            "DIFF": "11"
+            "PTS": "10",
+            "GF": "38",
+            "GA": "14",
+            "DIFF": "24"
         },
         {
             "Team": "St. Jean De Brebeuf CHS",
@@ -57,14 +57,14 @@
         },
         {
             "Team": "St. Theresa Of Lisieux",
-            "GP": "5",
+            "GP": "6",
             "W": "2",
-            "L": "3",
+            "L": "4",
             "T": "0",
             "PTS": "4",
-            "GF": "6",
-            "GA": "19",
-            "DIFF": "-13"
+            "GF": "7",
+            "GA": "33",
+            "DIFF": "-26"
         },
         {
             "Team": "King City SS",
