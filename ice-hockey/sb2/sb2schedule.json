@@ -19,6 +19,15 @@
             "final_score": "Father Bressani 1, Westmount 0"
         },
         {
+            "date": "Thursday, January 8, 2026",
+            "home_team": "St. Augustine",
+            "away_team": "Markville",
+            "time": "2:30 PM",
+            "location": "Angus Glen Arena",
+            "game_played": true,
+            "final_score": "St. Augustine 9, Markville 3"
+        },
+        {
             "date": "Friday, January 9, 2026",
             "home_team": null,
             "away_team": null,

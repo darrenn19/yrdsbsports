@@ -47,6 +47,15 @@
         },
         {
             "date": "Thursday, January 8, 2026",
+            "home_team": "Renaissance ESC",
+            "away_team": "Dr. G.W. Williams",
+            "time": "4:45 PM",
+            "location": "Renaissance ESC",
+            "game_played": true,
+            "final_score": "Renaissance ESC 62, Dr. G.W. Williams 65"
+        },
+        {
+            "date": "Thursday, January 8, 2026",
             "home_team": "St. Joan Of Arc",
             "away_team": "Westmount",
             "time": "3:45 PM",
