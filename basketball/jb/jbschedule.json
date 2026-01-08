@@ -64,6 +64,15 @@
             "final_score": "Unionville HS 64, St. Theresa Of Lisieux 79"
         },
         {
+            "date": "Thursday, January 8, 2026",
+            "home_team": "Woodbridge College",
+            "away_team": "St. Jean De Brebeuf CHS",
+            "time": "4:45 PM",
+            "location": "Woodbridge College",
+            "game_played": true,
+            "final_score": "Woodbridge College 57, St. Jean De Brebeuf CHS 61"
+        },
+        {
             "date": "Friday, January 9, 2026",
             "home_team": null,
             "away_team": null,
