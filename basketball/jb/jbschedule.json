@@ -47,6 +47,15 @@
         },
         {
             "date": "Thursday, January 8, 2026",
+            "home_team": "Stouffville",
+            "away_team": "Bur Oak SS",
+            "time": "4:45 PM",
+            "location": "Stouffville DSS",
+            "game_played": true,
+            "final_score": "Stouffville 22, Bur Oak SS 67"
+        },
+        {
+            "date": "Thursday, January 8, 2026",
             "home_team": "Unionville HS",
             "away_team": "St. Theresa Of Lisieux",
             "time": "3:30 PM",

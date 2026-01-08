@@ -74,6 +74,15 @@
         },
         {
             "date": "Thursday, January 8, 2026",
+            "home_team": "St. Katharine Drexel",
+            "away_team": "Bill Hogarth SS",
+            "time": "3:30 PM",
+            "location": "St Katharine Drexel CHS",
+            "game_played": true,
+            "final_score": "St. Katharine Drexel 41, Bill Hogarth SS 61"
+        },
+        {
+            "date": "Thursday, January 8, 2026",
             "home_team": "St. Theresa Of Lisieux",
             "away_team": "St. Robert",
             "time": "2:15 PM",
