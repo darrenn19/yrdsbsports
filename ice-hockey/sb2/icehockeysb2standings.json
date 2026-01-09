@@ -35,25 +35,25 @@
         },
         {
             "Team": "St. Augustine",
-            "GP": "6",
-            "W": "2",
+            "GP": "7",
+            "W": "3",
             "L": "2",
             "T": "2",
-            "PTS": "6",
-            "GF": "19",
-            "GA": "17",
-            "DIFF": "2"
+            "PTS": "8",
+            "GF": "28",
+            "GA": "20",
+            "DIFF": "8"
         },
         {
             "Team": "Markville",
-            "GP": "7",
+            "GP": "8",
             "W": "2",
-            "L": "5",
+            "L": "6",
             "T": "0",
             "PTS": "4",
-            "GF": "13",
-            "GA": "26",
-            "DIFF": "-13"
+            "GF": "16",
+            "GA": "35",
+            "DIFF": "-19"
         },
         {
             "Team": "Bill Hogarth SS",
@@ -166,26 +166,26 @@
             "DIFF": "18"
         },
         {
-            "Team": "Westmount",
+            "Team": "Father Bressani",
             "GP": "6",
+            "W": "4",
+            "L": "2",
+            "T": "0",
+            "PTS": "8",
+            "GF": "25",
+            "GA": "10",
+            "DIFF": "15"
+        },
+        {
+            "Team": "Westmount",
+            "GP": "7",
             "W": "2",
-            "L": "1",
+            "L": "2",
             "T": "3",
             "PTS": "7",
             "GF": "35",
-            "GA": "19",
-            "DIFF": "16"
-        },
-        {
-            "Team": "Father Bressani",
-            "GP": "5",
-            "W": "3",
-            "L": "2",
-            "T": "0",
-            "PTS": "6",
-            "GF": "24",
-            "GA": "10",
-            "DIFF": "14"
+            "GA": "20",
+            "DIFF": "15"
         },
         {
             "Team": "Alexander Mackenzie",
