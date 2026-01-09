@@ -29,6 +29,15 @@
         },
         {
             "date": "Thursday, January 8, 2026",
+            "home_team": "Dr. J.M. Denison",
+            "away_team": "Sutton District",
+            "time": "3:30 PM",
+            "location": "Dr J M Denison SS",
+            "game_played": true,
+            "final_score": "Dr. J.M. Denison 72, Sutton District 44"
+        },
+        {
+            "date": "Thursday, January 8, 2026",
             "home_team": "Emily Carr",
             "away_team": "Holy Cross",
             "time": "3:30 PM",

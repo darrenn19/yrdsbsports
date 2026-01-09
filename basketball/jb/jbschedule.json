@@ -38,6 +38,15 @@
         },
         {
             "date": "Thursday, January 8, 2026",
+            "home_team": "Dr. J.M. Denison",
+            "away_team": "Sir William Mulock",
+            "time": "4:45 PM",
+            "location": "Dr J M Denison SS",
+            "game_played": true,
+            "final_score": "Dr. J.M. Denison 85, Sir William Mulock 57"
+        },
+        {
+            "date": "Thursday, January 8, 2026",
             "home_team": "Huron Heights",
             "away_team": "Aurora HS",
             "time": "3:45 PM",
@@ -89,6 +98,15 @@
             "location": "Stouffville DSS",
             "game_played": true,
             "final_score": "Stouffville 22, Bur Oak SS 67"
+        },
+        {
+            "date": "Thursday, January 8, 2026",
+            "home_team": "Thornlea SS",
+            "away_team": "St. Robert",
+            "time": "3:45 PM",
+            "location": "Thornlea SS",
+            "game_played": true,
+            "final_score": "Thornlea SS 39, St. Robert 70"
         },
         {
             "date": "Thursday, January 8, 2026",
