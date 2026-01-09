@@ -56,6 +56,15 @@
         },
         {
             "date": "Thursday, January 8, 2026",
+            "home_team": "Middlefield",
+            "away_team": "Pierre Elliott Trudeau",
+            "time": "4:45 PM",
+            "location": "Middlefield CI",
+            "game_played": true,
+            "final_score": "Middlefield 52, Pierre Elliott Trudeau 59"
+        },
+        {
+            "date": "Thursday, January 8, 2026",
             "home_team": "Renaissance ESC",
             "away_team": "Dr. G.W. Williams",
             "time": "4:45 PM",
