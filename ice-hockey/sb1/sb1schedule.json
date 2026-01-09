@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, January 7, 2026",
-            "home_team": "St. Theresa Of Lisieux",
-            "away_team": "Cardinal Carter",
-            "time": "2:30 PM",
-            "location": "Honey And Barry Memorial Arena",
-            "game_played": true,
-            "final_score": "St. Theresa Of Lisieux 1, Cardinal Carter 14"
-        },
-        {
             "date": "Thursday, January 8, 2026",
             "home_team": "King City SS",
             "away_team": "St. Maximilian",
@@ -56,6 +47,15 @@
         },
         {
             "date": "Tuesday, January 13, 2026 - PLAYOFFS",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, January 14, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
