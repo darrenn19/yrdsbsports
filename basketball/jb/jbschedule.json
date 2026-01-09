@@ -29,12 +29,30 @@
         },
         {
             "date": "Thursday, January 8, 2026",
+            "home_team": "Cardinal Carter",
+            "away_team": "Keswick High School",
+            "time": "4:15 PM",
+            "location": "Cardinal Carter CHS",
+            "game_played": true,
+            "final_score": "Cardinal Carter 56, Keswick High School 48"
+        },
+        {
+            "date": "Thursday, January 8, 2026",
             "home_team": "Huron Heights",
             "away_team": "Aurora HS",
             "time": "3:45 PM",
             "location": "Huron Heights SS",
             "game_played": true,
             "final_score": "Huron Heights 49, Aurora HS 35"
+        },
+        {
+            "date": "Thursday, January 8, 2026",
+            "home_team": "King City SS",
+            "away_team": "Richmond Hill HS",
+            "time": "4:45 PM",
+            "location": "King City SS",
+            "game_played": true,
+            "final_score": "King City SS 86, Richmond Hill HS 67"
         },
         {
             "date": "Thursday, January 8, 2026",

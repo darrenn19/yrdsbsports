@@ -56,6 +56,15 @@
         },
         {
             "date": "Thursday, January 8, 2026",
+            "home_team": "Maple High School",
+            "away_team": "Father Bressani",
+            "time": "3:30 PM",
+            "location": "Maple HS",
+            "game_played": true,
+            "final_score": "Maple High School 80, Father Bressani 37"
+        },
+        {
+            "date": "Thursday, January 8, 2026",
             "home_team": "Middlefield",
             "away_team": "Pierre Elliott Trudeau",
             "time": "3:30 PM",
@@ -98,6 +107,15 @@
             "location": "St Theresa Of Lisieux CHS",
             "game_played": true,
             "final_score": "St. Theresa Of Lisieux 85, St. Robert 43"
+        },
+        {
+            "date": "Thursday, January 8, 2026",
+            "home_team": "Stouffville",
+            "away_team": "Bur Oak SS",
+            "time": "3:30 PM",
+            "location": "Stouffville DSS",
+            "game_played": true,
+            "final_score": "Stouffville 63, Bur Oak SS 67"
         },
         {
             "date": "Thursday, January 8, 2026",
