@@ -38,6 +38,15 @@
         },
         {
             "date": "Thursday, January 8, 2026",
+            "home_team": "Maple High School",
+            "away_team": "Father Bressani",
+            "time": "4:45 PM",
+            "location": "Maple HS",
+            "game_played": true,
+            "final_score": "Maple High School 54, Father Bressani 76"
+        },
+        {
+            "date": "Thursday, January 8, 2026",
             "home_team": "Markville",
             "away_team": "Markham District",
             "time": "3:45 PM",
