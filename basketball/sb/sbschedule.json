@@ -159,8 +159,8 @@
             "away_team": "Holy Cross",
             "time": "3:45 PM",
             "location": "Westmount CI",
-            "game_played": true,
-            "final_score": "Westmount 44, Holy Cross 65"
+            "game_played": false,
+            "final_score": null
         },
         {
             "date": "Tuesday, January 13, 2026",
