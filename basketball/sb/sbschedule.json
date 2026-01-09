@@ -119,6 +119,15 @@
         },
         {
             "date": "Thursday, January 8, 2026",
+            "home_team": "Unionville HS",
+            "away_team": "Thornhill SS",
+            "time": "4:45 PM",
+            "location": "Unionville HS",
+            "game_played": true,
+            "final_score": "Unionville HS 49, Thornhill SS 77"
+        },
+        {
+            "date": "Thursday, January 8, 2026",
             "home_team": "Woodbridge College",
             "away_team": "St. Jean De Brebeuf CHS",
             "time": "3:30 PM",
