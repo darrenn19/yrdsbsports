@@ -1,141 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, January 8, 2026",
-            "home_team": "Dr. J.M. Denison",
-            "away_team": "Sutton District",
-            "time": "3:30 PM",
-            "location": "Dr J M Denison SS",
-            "game_played": true,
-            "final_score": "Dr. J.M. Denison 72, Sutton District 44"
-        },
-        {
-            "date": "Thursday, January 8, 2026",
-            "home_team": "Emily Carr",
-            "away_team": "Holy Cross",
-            "time": "3:30 PM",
-            "location": "Emily Carr SS",
-            "game_played": true,
-            "final_score": "Emily Carr 42, Holy Cross 75"
-        },
-        {
-            "date": "Thursday, January 8, 2026",
-            "home_team": "Hodan Nalayeh SS",
-            "away_team": "Tommy Douglas SS",
-            "time": "3:45 PM",
-            "location": "Hodan Nalayeh Secondary School",
-            "game_played": true,
-            "final_score": "Hodan Nalayeh SS 68, Tommy Douglas SS 90"
-        },
-        {
-            "date": "Thursday, January 8, 2026",
-            "home_team": "King City SS",
-            "away_team": "Huron Heights",
-            "time": "3:30 PM",
-            "location": "King City SS",
-            "game_played": true,
-            "final_score": "King City SS 81, Huron Heights 62"
-        },
-        {
-            "date": "Thursday, January 8, 2026",
-            "home_team": "Maple High School",
-            "away_team": "Father Bressani",
-            "time": "3:30 PM",
-            "location": "Maple HS",
-            "game_played": true,
-            "final_score": "Maple High School 80, Father Bressani 37"
-        },
-        {
-            "date": "Thursday, January 8, 2026",
-            "home_team": "Middlefield",
-            "away_team": "Pierre Elliott Trudeau",
-            "time": "3:30 PM",
-            "location": "Middlefield CI",
-            "game_played": true,
-            "final_score": "Middlefield 51, Pierre Elliott Trudeau 61"
-        },
-        {
-            "date": "Thursday, January 8, 2026",
-            "home_team": "Newmarket HS",
-            "away_team": "Aurora HS",
-            "time": "3:45 PM",
-            "location": "Newmarket HS",
-            "game_played": true,
-            "final_score": "Newmarket HS 87, Aurora HS 57"
-        },
-        {
-            "date": "Thursday, January 8, 2026",
-            "home_team": "Our Lady Queen Of The World",
-            "away_team": "Richmond Green SS",
-            "time": "3:45 PM",
-            "location": "Our Lady Queen Of The World",
-            "game_played": true,
-            "final_score": "Our Lady Queen Of The World 46, Richmond Green SS 49"
-        },
-        {
-            "date": "Thursday, January 8, 2026",
-            "home_team": "Renaissance ESC",
-            "away_team": "Dr. G.W. Williams",
-            "time": "3:30 PM",
-            "location": "Renaissance ESC",
-            "game_played": true,
-            "final_score": "Renaissance ESC 64, Dr. G.W. Williams 58"
-        },
-        {
-            "date": "Thursday, January 8, 2026",
-            "home_team": "St. Elizabeth",
-            "away_team": "Richmond Hill HS",
-            "time": "3:45 PM",
-            "location": "St Elizabeth CHS",
-            "game_played": true,
-            "final_score": "St. Elizabeth 71, Richmond Hill HS 73"
-        },
-        {
-            "date": "Thursday, January 8, 2026",
-            "home_team": "St. Katharine Drexel",
-            "away_team": "Bill Hogarth SS",
-            "time": "3:30 PM",
-            "location": "St Katharine Drexel CHS",
-            "game_played": true,
-            "final_score": "St. Katharine Drexel 41, Bill Hogarth SS 61"
-        },
-        {
-            "date": "Thursday, January 8, 2026",
-            "home_team": "St. Theresa Of Lisieux",
-            "away_team": "St. Robert",
-            "time": "2:15 PM",
-            "location": "St Theresa Of Lisieux CHS",
-            "game_played": true,
-            "final_score": "St. Theresa Of Lisieux 85, St. Robert 43"
-        },
-        {
-            "date": "Thursday, January 8, 2026",
-            "home_team": "Stouffville",
-            "away_team": "Bur Oak SS",
-            "time": "3:30 PM",
-            "location": "Stouffville DSS",
-            "game_played": true,
-            "final_score": "Stouffville 63, Bur Oak SS 67"
-        },
-        {
-            "date": "Thursday, January 8, 2026",
-            "home_team": "Unionville HS",
-            "away_team": "Thornhill SS",
-            "time": "4:45 PM",
-            "location": "Unionville HS",
-            "game_played": true,
-            "final_score": "Unionville HS 49, Thornhill SS 77"
-        },
-        {
-            "date": "Thursday, January 8, 2026",
-            "home_team": "Woodbridge College",
-            "away_team": "St. Jean De Brebeuf CHS",
-            "time": "3:30 PM",
-            "location": "Woodbridge College",
-            "game_played": true,
-            "final_score": "Woodbridge College 58, St. Jean De Brebeuf CHS 51"
-        },
-        {
             "date": "Friday, January 9, 2026",
             "home_team": null,
             "away_team": null,
@@ -182,6 +47,15 @@
         },
         {
             "date": "Wednesday, January 14, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, January 15, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

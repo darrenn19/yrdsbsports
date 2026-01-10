@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, January 8, 2026",
-            "home_team": "King City SS",
-            "away_team": "St. Maximilian",
-            "time": "2:30 PM",
-            "location": "Zancor Centre",
-            "game_played": true,
-            "final_score": "King City SS 2, St. Maximilian 7"
-        },
-        {
             "date": "Friday, January 9, 2026",
             "home_team": null,
             "away_team": null,
@@ -56,6 +47,15 @@
         },
         {
             "date": "Wednesday, January 14, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, January 15, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
