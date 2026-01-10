@@ -145,6 +145,18 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Bill Hogarth SS",
+            "MP": "9",
+            "MW": "8",
+            "ML": "1",
+            "GW": "17",
+            "GL": "3",
+            "PTS": "8",
+            "PF": "465",
+            "PA": "359",
+            "DIFF": "106"
+        },
+        {
             "Team": "Markham District",
             "MP": "8",
             "MW": "8",
@@ -155,18 +167,6 @@
             "PF": "410",
             "PA": "263",
             "DIFF": "147"
-        },
-        {
-            "Team": "Bill Hogarth SS",
-            "MP": "8",
-            "MW": "7",
-            "ML": "1",
-            "GW": "15",
-            "GL": "3",
-            "PTS": "7",
-            "PF": "415",
-            "PA": "316",
-            "DIFF": "99"
         },
         {
             "Team": "St. Brother Andre",
@@ -206,15 +206,15 @@
         },
         {
             "Team": "Stouffville",
-            "MP": "8",
+            "MP": "9",
             "MW": "4",
-            "ML": "4",
+            "ML": "5",
             "GW": "9",
-            "GL": "9",
+            "GL": "11",
             "PTS": "4",
-            "PF": "378",
-            "PA": "364",
-            "DIFF": "14"
+            "PF": "421",
+            "PA": "414",
+            "DIFF": "7"
         },
         {
             "Team": "Pierre Elliott Trudeau",
@@ -349,6 +349,30 @@
             "DIFF": "8"
         },
         {
+            "Team": "Dr. G.W. Williams",
+            "MP": "12",
+            "MW": "5",
+            "ML": "7",
+            "GW": "12",
+            "GL": "16",
+            "PTS": "5",
+            "PF": "545",
+            "PA": "599",
+            "DIFF": "-54"
+        },
+        {
+            "Team": "St. Maximilian",
+            "MP": "10",
+            "MW": "4",
+            "ML": "6",
+            "GW": "9",
+            "GL": "12",
+            "PTS": "4",
+            "PF": "446",
+            "PA": "462",
+            "DIFF": "-16"
+        },
+        {
             "Team": "Newmarket HS",
             "MP": "10",
             "MW": "4",
@@ -361,40 +385,16 @@
             "DIFF": "8"
         },
         {
-            "Team": "St. Maximilian",
-            "MP": "9",
-            "MW": "4",
-            "ML": "5",
-            "GW": "8",
-            "GL": "10",
-            "PTS": "4",
-            "PF": "391",
-            "PA": "399",
-            "DIFF": "-8"
-        },
-        {
-            "Team": "Dr. G.W. Williams",
-            "MP": "10",
-            "MW": "3",
-            "ML": "7",
-            "GW": "8",
-            "GL": "15",
-            "PTS": "3",
-            "PF": "432",
-            "PA": "507",
-            "DIFF": "-75"
-        },
-        {
             "Team": "Keswick High School",
-            "MP": "9",
+            "MP": "10",
             "MW": "2",
-            "ML": "7",
+            "ML": "8",
             "GW": "5",
-            "GL": "14",
+            "GL": "16",
             "PTS": "2",
-            "PF": "359",
-            "PA": "433",
-            "DIFF": "-74"
+            "PF": "396",
+            "PA": "483",
+            "DIFF": "-87"
         },
         {
             "Team": "Dr. J.M. Denison",
