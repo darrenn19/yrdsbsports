@@ -28,6 +28,15 @@
             "final_score": "Keswick High School 63, Aurora HS 54"
         },
         {
+            "date": "Monday, January 12, 2026",
+            "home_team": "St. Jean De Brebeuf CHS",
+            "away_team": "Westmount",
+            "time": "3:00 PM",
+            "location": "St Jean De Brebeuf CHS",
+            "game_played": true,
+            "final_score": "St. Jean De Brebeuf CHS 60, Westmount 48"
+        },
+        {
             "date": "Tuesday, January 13, 2026",
             "home_team": null,
             "away_team": null,
