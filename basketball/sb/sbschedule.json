@@ -29,6 +29,15 @@
         },
         {
             "date": "Monday, January 12, 2026",
+            "home_team": "Pierre Elliott Trudeau",
+            "away_team": "Stouffville",
+            "time": "4:45 PM",
+            "location": "PE Trudeau HS",
+            "game_played": true,
+            "final_score": "Pierre Elliott Trudeau 50, Stouffville 43"
+        },
+        {
+            "date": "Monday, January 12, 2026",
             "home_team": "St. Joan Of Arc",
             "away_team": "Father Bressani",
             "time": "3:45 PM",
