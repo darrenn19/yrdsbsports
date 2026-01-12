@@ -11,6 +11,33 @@
         },
         {
             "date": "Monday, January 12, 2026",
+            "home_team": "Keswick High School",
+            "away_team": "Aurora HS",
+            "time": "2:30 PM",
+            "location": "Keswick HS",
+            "game_played": true,
+            "final_score": "Keswick High School 78, Aurora HS 58"
+        },
+        {
+            "date": "Monday, January 12, 2026",
+            "home_team": "St. Joan Of Arc",
+            "away_team": "Father Bressani",
+            "time": "3:45 PM",
+            "location": "St Joan Of Arc CHS",
+            "game_played": true,
+            "final_score": "St. Joan Of Arc 74, Father Bressani 50"
+        },
+        {
+            "date": "Monday, January 12, 2026",
+            "home_team": "Stephen Lewis SS",
+            "away_team": "St. Theresa Of Lisieux",
+            "time": "3:30 PM",
+            "location": "Stephen Lewis SS",
+            "game_played": true,
+            "final_score": "Stephen Lewis SS 79, St. Theresa Of Lisieux 61"
+        },
+        {
+            "date": "Monday, January 12, 2026",
             "home_team": "Westmount",
             "away_team": "Holy Cross",
             "time": "3:45 PM",
