@@ -298,6 +298,17 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Keswick High School",
+            "GP": "7",
+            "W": "7",
+            "L": "0",
+            "T": "0",
+            "PTS": "14",
+            "PF": "593",
+            "PA": "415",
+            "DIFF": "87"
+        },
+        {
             "Team": "Newmarket HS",
             "GP": "7",
             "W": "7",
@@ -318,17 +329,6 @@
             "PF": "504",
             "PA": "365",
             "DIFF": "69"
-        },
-        {
-            "Team": "Keswick High School",
-            "GP": "6",
-            "W": "6",
-            "L": "0",
-            "T": "0",
-            "PTS": "12",
-            "PF": "515",
-            "PA": "364",
-            "DIFF": "72"
         },
         {
             "Team": "Renaissance ESC",
@@ -420,14 +420,14 @@
         },
         {
             "Team": "Cardinal Carter",
-            "GP": "6",
+            "GP": "7",
             "W": "0",
-            "L": "6",
+            "L": "7",
             "T": "0",
             "PTS": "0",
-            "PF": "205",
-            "PA": "412",
-            "DIFF": "-89"
+            "PF": "256",
+            "PA": "490",
+            "DIFF": "-104"
         },
         {
             "Team": "West",
