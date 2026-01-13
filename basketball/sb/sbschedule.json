@@ -38,6 +38,15 @@
         },
         {
             "date": "Monday, January 12, 2026",
+            "home_team": "St. Jean De Brebeuf CHS",
+            "away_team": "Hodan Nalayeh SS",
+            "time": "4:15 PM",
+            "location": "St Jean De Brebeuf CHS",
+            "game_played": true,
+            "final_score": "St. Jean De Brebeuf CHS 58, Hodan Nalayeh SS 78"
+        },
+        {
+            "date": "Monday, January 12, 2026",
             "home_team": "St. Joan Of Arc",
             "away_team": "Father Bressani",
             "time": "3:45 PM",
