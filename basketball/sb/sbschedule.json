@@ -145,6 +145,15 @@
             "final_score": "St. Elizabeth 61, St. Theresa Of Lisieux 55"
         },
         {
+            "date": "Tuesday, January 13, 2026",
+            "home_team": "Westmount",
+            "away_team": "Woodbridge College",
+            "time": "3:45 PM",
+            "location": "Westmount CI",
+            "game_played": true,
+            "final_score": "Westmount 66, Woodbridge College 59"
+        },
+        {
             "date": "Wednesday, January 14, 2026",
             "home_team": null,
             "away_team": null,

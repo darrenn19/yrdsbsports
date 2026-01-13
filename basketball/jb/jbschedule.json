@@ -92,6 +92,15 @@
         },
         {
             "date": "Tuesday, January 13, 2026",
+            "home_team": "Alexander Mackenzie",
+            "away_team": "Langstaff SS",
+            "time": "3:00 PM",
+            "location": "Alexander Mackenzie HS",
+            "game_played": true,
+            "final_score": "Alexander Mackenzie 60, Langstaff SS 49"
+        },
+        {
+            "date": "Tuesday, January 13, 2026",
             "home_team": "St. Robert",
             "away_team": "King City SS",
             "time": "3:30 PM",
