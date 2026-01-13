@@ -128,6 +128,15 @@
         },
         {
             "date": "Tuesday, January 13, 2026",
+            "home_team": "Richmond Green SS",
+            "away_team": "Stephen Lewis SS",
+            "time": "3:45 PM",
+            "location": "Richmond Green SS",
+            "game_played": true,
+            "final_score": "Richmond Green SS 50, Stephen Lewis SS 65"
+        },
+        {
+            "date": "Tuesday, January 13, 2026",
             "home_team": "Richmond Hill HS",
             "away_team": "Thornhill SS",
             "time": "3:45 PM",
