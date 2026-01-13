@@ -11,6 +11,15 @@
         },
         {
             "date": "Monday, January 12, 2026",
+            "home_team": "Dr. J.M. Denison",
+            "away_team": "Huron Heights",
+            "time": "4:45 PM",
+            "location": "Dr J M Denison SS",
+            "game_played": true,
+            "final_score": "Dr. J.M. Denison 69, Huron Heights 59"
+        },
+        {
+            "date": "Monday, January 12, 2026",
             "home_team": "Keswick High School",
             "away_team": "Aurora HS",
             "time": "2:30 PM",
@@ -80,6 +89,15 @@
             "location": "Stephen Lewis SS",
             "game_played": true,
             "final_score": "Stephen Lewis SS 79, St. Theresa Of Lisieux 61"
+        },
+        {
+            "date": "Monday, January 12, 2026",
+            "home_team": "Tommy Douglas SS",
+            "away_team": "Maple High School",
+            "time": "3:45 PM",
+            "location": "Tommy Douglas SS",
+            "game_played": true,
+            "final_score": "Tommy Douglas SS 64, Maple High School 58"
         },
         {
             "date": "Monday, January 12, 2026",
