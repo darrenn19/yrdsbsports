@@ -73,6 +73,15 @@
             "final_score": "Stephen Lewis SS 59, St. Theresa Of Lisieux 56"
         },
         {
+            "date": "Monday, January 12, 2026",
+            "home_team": "Thornlea SS",
+            "away_team": "Langstaff SS",
+            "time": "3:45 PM",
+            "location": "Thornlea SS",
+            "game_played": true,
+            "final_score": "Thornlea SS 60, Langstaff SS 59"
+        },
+        {
             "date": "Tuesday, January 13, 2026",
             "home_team": null,
             "away_team": null,
