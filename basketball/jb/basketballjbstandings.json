@@ -11,24 +11,24 @@
             "PA": "PA"
         },
         {
-            "Team": "St. Theresa Of Lisieux",
-            "GP": "6",
-            "W": "6",
+            "Team": "Stephen Lewis SS",
+            "GP": "7",
+            "W": "7",
             "L": "0",
             "T": "0",
-            "PTS": "12",
-            "PF": "483",
-            "PA": "407"
+            "PTS": "14",
+            "PF": "450",
+            "PA": "346"
         },
         {
-            "Team": "Stephen Lewis SS",
-            "GP": "5",
-            "W": "5",
-            "L": "0",
+            "Team": "St. Theresa Of Lisieux",
+            "GP": "7",
+            "W": "6",
+            "L": "1",
             "T": "0",
-            "PTS": "10",
-            "PF": "328",
-            "PA": "233"
+            "PTS": "12",
+            "PF": "539",
+            "PA": "466"
         },
         {
             "Team": "King City SS",
@@ -82,13 +82,13 @@
         },
         {
             "Team": "Alexander Mackenzie",
-            "GP": "5",
+            "GP": "6",
             "W": "0",
-            "L": "5",
+            "L": "6",
             "T": "0",
             "PTS": "0",
-            "PF": "265",
-            "PA": "329"
+            "PF": "322",
+            "PA": "392"
         },
         {
             "Team": "Bayview SS",
@@ -141,6 +141,16 @@
             "PA": "231"
         },
         {
+            "Team": "Markham District",
+            "GP": "8",
+            "W": "5",
+            "L": "3",
+            "T": "0",
+            "PTS": "10",
+            "PF": "535",
+            "PA": "410"
+        },
+        {
             "Team": "St. Augustine",
             "GP": "6",
             "W": "5",
@@ -149,16 +159,6 @@
             "PTS": "10",
             "PF": "377",
             "PA": "290"
-        },
-        {
-            "Team": "Markham District",
-            "GP": "7",
-            "W": "4",
-            "L": "3",
-            "T": "0",
-            "PTS": "8",
-            "PF": "454",
-            "PA": "389"
         },
         {
             "Team": "Father McGivney",
@@ -222,13 +222,13 @@
         },
         {
             "Team": "St. Katharine Drexel",
-            "GP": "6",
+            "GP": "7",
             "W": "0",
-            "L": "6",
+            "L": "7",
             "T": "0",
             "PTS": "0",
-            "PF": "140",
-            "PA": "434"
+            "PF": "161",
+            "PA": "515"
         },
         {
             "Team": "North",
@@ -241,6 +241,16 @@
             "PA": "PA"
         },
         {
+            "Team": "St. Maximilian",
+            "GP": "8",
+            "W": "7",
+            "L": "1",
+            "T": "0",
+            "PTS": "14",
+            "PF": "534",
+            "PA": "361"
+        },
+        {
             "Team": "Dr. G.W. Williams",
             "GP": "6",
             "W": "6",
@@ -249,16 +259,6 @@
             "PTS": "12",
             "PF": "399",
             "PA": "301"
-        },
-        {
-            "Team": "St. Maximilian",
-            "GP": "7",
-            "W": "6",
-            "L": "1",
-            "T": "0",
-            "PTS": "12",
-            "PF": "482",
-            "PA": "321"
         },
         {
             "Team": "Cardinal Carter",
@@ -272,13 +272,13 @@
         },
         {
             "Team": "Keswick High School",
-            "GP": "7",
-            "W": "4",
+            "GP": "8",
+            "W": "5",
             "L": "3",
             "T": "0",
-            "PTS": "8",
-            "PF": "379",
-            "PA": "411"
+            "PTS": "10",
+            "PF": "442",
+            "PA": "465"
         },
         {
             "Team": "Renaissance ESC",
@@ -291,24 +291,24 @@
             "PA": "365"
         },
         {
-            "Team": "Sir William Mulock",
-            "GP": "5",
-            "W": "2",
-            "L": "3",
+            "Team": "Dr. J.M. Denison",
+            "GP": "7",
+            "W": "3",
+            "L": "4",
             "T": "0",
-            "PTS": "4",
-            "PF": "252",
-            "PA": "335"
+            "PTS": "6",
+            "PF": "422",
+            "PA": "397"
         },
         {
-            "Team": "Dr. J.M. Denison",
+            "Team": "Sir William Mulock",
             "GP": "6",
             "W": "2",
             "L": "4",
             "T": "0",
             "PTS": "4",
-            "PF": "365",
-            "PA": "357"
+            "PF": "292",
+            "PA": "387"
         },
         {
             "Team": "Sacred Heart",
@@ -322,23 +322,23 @@
         },
         {
             "Team": "Huron Heights",
-            "GP": "6",
+            "GP": "7",
             "W": "1",
-            "L": "5",
+            "L": "6",
             "T": "0",
             "PTS": "2",
-            "PF": "257",
-            "PA": "334"
+            "PF": "297",
+            "PA": "391"
         },
         {
             "Team": "Aurora HS",
-            "GP": "5",
+            "GP": "6",
             "W": "0",
-            "L": "5",
+            "L": "6",
             "T": "0",
             "PTS": "0",
-            "PF": "196",
-            "PA": "300"
+            "PF": "250",
+            "PA": "363"
         },
         {
             "Team": "West",
@@ -349,6 +349,16 @@
             "PTS": "PTS",
             "PF": "PF",
             "PA": "PA"
+        },
+        {
+            "Team": "St. Jean De Brebeuf CHS",
+            "GP": "7",
+            "W": "6",
+            "L": "1",
+            "T": "0",
+            "PTS": "12",
+            "PF": "431",
+            "PA": "326"
         },
         {
             "Team": "Father Bressani",
@@ -362,23 +372,13 @@
         },
         {
             "Team": "Westmount",
-            "GP": "5",
-            "W": "5",
-            "L": "0",
-            "T": "0",
-            "PTS": "10",
-            "PF": "384",
-            "PA": "303"
-        },
-        {
-            "Team": "St. Jean De Brebeuf CHS",
             "GP": "6",
             "W": "5",
             "L": "1",
             "T": "0",
             "PTS": "10",
-            "PF": "371",
-            "PA": "278"
+            "PF": "432",
+            "PA": "363"
         },
         {
             "Team": "Holy Cross",
