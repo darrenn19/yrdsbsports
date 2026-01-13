@@ -47,6 +47,15 @@
         },
         {
             "date": "Monday, January 12, 2026",
+            "home_team": "St. Katharine Drexel",
+            "away_team": "Markham District",
+            "time": "4:45 PM",
+            "location": "St Katharine Drexel CHS",
+            "game_played": true,
+            "final_score": "St. Katharine Drexel 43, Markham District 52"
+        },
+        {
+            "date": "Monday, January 12, 2026",
             "home_team": "St. Maximilian",
             "away_team": "Sutton District",
             "time": "4:45 PM",
