@@ -29,6 +29,15 @@
         },
         {
             "date": "Monday, January 12, 2026",
+            "home_team": "Milliken Mills",
+            "away_team": "Bur Oak SS",
+            "time": "3:30 PM",
+            "location": "Milliken Mills HS",
+            "game_played": true,
+            "final_score": "Milliken Mills 43, Bur Oak SS 67"
+        },
+        {
+            "date": "Monday, January 12, 2026",
             "home_team": "Pierre Elliott Trudeau",
             "away_team": "Stouffville",
             "time": "3:30 PM",
