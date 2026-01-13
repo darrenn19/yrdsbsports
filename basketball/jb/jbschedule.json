@@ -92,12 +92,12 @@
         },
         {
             "date": "Tuesday, January 13, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "St. Robert",
+            "away_team": "King City SS",
+            "time": "3:30 PM",
+            "location": "St Robert CHS",
+            "game_played": true,
+            "final_score": "St. Robert 71, King City SS 84"
         },
         {
             "date": "Wednesday, January 14, 2026",
