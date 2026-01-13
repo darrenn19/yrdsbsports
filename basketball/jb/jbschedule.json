@@ -38,6 +38,15 @@
         },
         {
             "date": "Monday, January 12, 2026",
+            "home_team": "Pierre Elliott Trudeau",
+            "away_team": "Stouffville",
+            "time": "3:30 PM",
+            "location": "PE Trudeau HS",
+            "game_played": true,
+            "final_score": "Pierre Elliott Trudeau 57, Stouffville 53"
+        },
+        {
+            "date": "Monday, January 12, 2026",
             "home_team": "St. Jean De Brebeuf CHS",
             "away_team": "Westmount",
             "time": "3:00 PM",

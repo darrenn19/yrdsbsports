@@ -74,6 +74,15 @@
         },
         {
             "date": "Monday, January 12, 2026",
+            "home_team": "Toronto District Christian",
+            "away_team": "Emily Carr",
+            "time": "4:45 PM",
+            "location": "Toronto District Christian HS",
+            "game_played": true,
+            "final_score": "Toronto District Christian 72, Emily Carr 38"
+        },
+        {
+            "date": "Monday, January 12, 2026",
             "home_team": "Westmount",
             "away_team": "Holy Cross",
             "time": "3:45 PM",
