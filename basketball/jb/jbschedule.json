@@ -101,6 +101,15 @@
         },
         {
             "date": "Tuesday, January 13, 2026",
+            "home_team": "Sacred Heart",
+            "away_team": "Dr. G.W. Williams",
+            "time": "3:30 PM",
+            "location": "Sacred Heart CHS",
+            "game_played": true,
+            "final_score": "Sacred Heart 47, Dr. G.W. Williams 64"
+        },
+        {
+            "date": "Tuesday, January 13, 2026",
             "home_team": "St. Robert",
             "away_team": "King City SS",
             "time": "3:30 PM",
