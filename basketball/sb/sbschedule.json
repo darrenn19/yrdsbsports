@@ -127,6 +127,15 @@
             "final_score": "Milliken Mills 0, Bill Crothers SS 15"
         },
         {
+            "date": "Tuesday, January 13, 2026",
+            "home_team": "St. Elizabeth",
+            "away_team": "St. Theresa Of Lisieux",
+            "time": "2:30 PM",
+            "location": "St Elizabeth CHS",
+            "game_played": true,
+            "final_score": "St. Elizabeth 61, St. Theresa Of Lisieux 55"
+        },
+        {
             "date": "Wednesday, January 14, 2026",
             "home_team": null,
             "away_team": null,
