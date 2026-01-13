@@ -2,6 +2,15 @@
     "schedule": [
         {
             "date": "Monday, January 12, 2026",
+            "home_team": "Sacred Heart",
+            "away_team": "Sutton District",
+            "time": "2:00 PM",
+            "location": "Magna Centre",
+            "game_played": true,
+            "final_score": "Sacred Heart 2, Sutton District 4"
+        },
+        {
+            "date": "Monday, January 12, 2026",
             "home_team": "St. Joan Of Arc",
             "away_team": "Father Bressani",
             "time": "2:15 PM",
