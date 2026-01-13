@@ -119,12 +119,12 @@
         },
         {
             "date": "Tuesday, January 13, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Milliken Mills",
+            "away_team": "Bill Crothers SS",
+            "time": "3:45 PM",
+            "location": "Milliken Mills HS",
+            "game_played": true,
+            "final_score": "Milliken Mills 0, Bill Crothers SS 15"
         },
         {
             "date": "Wednesday, January 14, 2026",
