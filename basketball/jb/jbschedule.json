@@ -118,6 +118,15 @@
             "final_score": "St. Robert 71, King City SS 84"
         },
         {
+            "date": "Tuesday, January 13, 2026",
+            "home_team": "Thornlea SS",
+            "away_team": "Unionville HS",
+            "time": "3:30 PM",
+            "location": "Thornlea SS",
+            "game_played": true,
+            "final_score": "Thornlea SS 44, Unionville HS 62"
+        },
+        {
             "date": "Wednesday, January 14, 2026",
             "home_team": "Westmount",
             "away_team": "ESC De L Ascension",
