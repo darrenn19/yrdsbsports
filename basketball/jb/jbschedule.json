@@ -1,96 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, January 12, 2026",
-            "home_team": "Dr. J.M. Denison",
-            "away_team": "Huron Heights",
-            "time": "3:30 PM",
-            "location": "Dr J M Denison SS",
-            "game_played": true,
-            "final_score": "Dr. J.M. Denison 57, Huron Heights 40"
-        },
-        {
-            "date": "Monday, January 12, 2026",
-            "home_team": "Keswick High School",
-            "away_team": "Aurora HS",
-            "time": "3:45 PM",
-            "location": "Keswick HS",
-            "game_played": true,
-            "final_score": "Keswick High School 63, Aurora HS 54"
-        },
-        {
-            "date": "Monday, January 12, 2026",
-            "home_team": "Middlefield",
-            "away_team": "St. Augustine",
-            "time": "3:45 PM",
-            "location": "Middlefield CI",
-            "game_played": true,
-            "final_score": "Middlefield 56, St. Augustine 71"
-        },
-        {
-            "date": "Monday, January 12, 2026",
-            "home_team": "Milliken Mills",
-            "away_team": "Bur Oak SS",
-            "time": "3:30 PM",
-            "location": "Milliken Mills HS",
-            "game_played": true,
-            "final_score": "Milliken Mills 43, Bur Oak SS 67"
-        },
-        {
-            "date": "Monday, January 12, 2026",
-            "home_team": "Pierre Elliott Trudeau",
-            "away_team": "Stouffville",
-            "time": "3:30 PM",
-            "location": "PE Trudeau HS",
-            "game_played": true,
-            "final_score": "Pierre Elliott Trudeau 57, Stouffville 53"
-        },
-        {
-            "date": "Monday, January 12, 2026",
-            "home_team": "St. Jean De Brebeuf CHS",
-            "away_team": "Westmount",
-            "time": "3:00 PM",
-            "location": "St Jean De Brebeuf CHS",
-            "game_played": true,
-            "final_score": "St. Jean De Brebeuf CHS 60, Westmount 48"
-        },
-        {
-            "date": "Monday, January 12, 2026",
-            "home_team": "St. Katharine Drexel",
-            "away_team": "Markham District",
-            "time": "3:30 PM",
-            "location": "St Katharine Drexel CHS",
-            "game_played": true,
-            "final_score": "St. Katharine Drexel 21, Markham District 81"
-        },
-        {
-            "date": "Monday, January 12, 2026",
-            "home_team": "St. Maximilian",
-            "away_team": "Sir William Mulock",
-            "time": "3:30 PM",
-            "location": "St Maximilian Kolbe CHS",
-            "game_played": true,
-            "final_score": "St. Maximilian 52, Sir William Mulock 40"
-        },
-        {
-            "date": "Monday, January 12, 2026",
-            "home_team": "Stephen Lewis SS",
-            "away_team": "St. Theresa Of Lisieux",
-            "time": "4:45 PM",
-            "location": "Stephen Lewis SS",
-            "game_played": true,
-            "final_score": "Stephen Lewis SS 59, St. Theresa Of Lisieux 56"
-        },
-        {
-            "date": "Monday, January 12, 2026",
-            "home_team": "Thornlea SS",
-            "away_team": "Langstaff SS",
-            "time": "3:45 PM",
-            "location": "Thornlea SS",
-            "game_played": true,
-            "final_score": "Thornlea SS 60, Langstaff SS 59"
-        },
-        {
             "date": "Tuesday, January 13, 2026",
             "home_team": "Alexander Mackenzie",
             "away_team": "Langstaff SS",
@@ -164,6 +74,15 @@
         },
         {
             "date": "Sunday, January 18, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, January 19, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

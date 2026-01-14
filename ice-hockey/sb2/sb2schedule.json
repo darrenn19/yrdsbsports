@@ -1,33 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, January 12, 2026",
-            "home_team": "Sacred Heart",
-            "away_team": "Sutton District",
-            "time": "2:00 PM",
-            "location": "Magna Centre",
-            "game_played": true,
-            "final_score": "Sacred Heart 2, Sutton District 4"
-        },
-        {
-            "date": "Monday, January 12, 2026",
-            "home_team": "St. Joan Of Arc",
-            "away_team": "Father Bressani",
-            "time": "2:15 PM",
-            "location": "Maple Community Centre",
-            "game_played": true,
-            "final_score": "St. Joan Of Arc 5, Father Bressani 5"
-        },
-        {
-            "date": "Monday, January 12, 2026",
-            "home_team": "St. Robert",
-            "away_team": "Markham District",
-            "time": "2:30 PM",
-            "location": "RJ Clatworthy Arena",
-            "game_played": true,
-            "final_score": "St. Robert 0, Markham District 7"
-        },
-        {
             "date": "Tuesday, January 13, 2026",
             "home_team": "Westmount",
             "away_team": "Father Bressani",
@@ -83,6 +56,15 @@
         },
         {
             "date": "Sunday, January 18, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, January 19, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

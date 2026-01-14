@@ -1,123 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, January 12, 2026",
-            "home_team": "Bill Hogarth SS",
-            "away_team": "St. Brother Andre",
-            "time": "3:45 PM",
-            "location": "Bill Hogarth SS",
-            "game_played": true,
-            "final_score": "Bill Hogarth SS 89, St. Brother Andre 79"
-        },
-        {
-            "date": "Monday, January 12, 2026",
-            "home_team": "Dr. J.M. Denison",
-            "away_team": "Huron Heights",
-            "time": "4:45 PM",
-            "location": "Dr J M Denison SS",
-            "game_played": true,
-            "final_score": "Dr. J.M. Denison 69, Huron Heights 59"
-        },
-        {
-            "date": "Monday, January 12, 2026",
-            "home_team": "Keswick High School",
-            "away_team": "Aurora HS",
-            "time": "2:30 PM",
-            "location": "Keswick HS",
-            "game_played": true,
-            "final_score": "Keswick High School 78, Aurora HS 58"
-        },
-        {
-            "date": "Monday, January 12, 2026",
-            "home_team": "Milliken Mills",
-            "away_team": "Bur Oak SS",
-            "time": "4:45 PM",
-            "location": "Milliken Mills HS",
-            "game_played": true,
-            "final_score": "Milliken Mills 49, Bur Oak SS 65"
-        },
-        {
-            "date": "Monday, January 12, 2026",
-            "home_team": "Pierre Elliott Trudeau",
-            "away_team": "Stouffville",
-            "time": "4:45 PM",
-            "location": "PE Trudeau HS",
-            "game_played": true,
-            "final_score": "Pierre Elliott Trudeau 50, Stouffville 43"
-        },
-        {
-            "date": "Monday, January 12, 2026",
-            "home_team": "St. Jean De Brebeuf CHS",
-            "away_team": "Hodan Nalayeh SS",
-            "time": "4:15 PM",
-            "location": "St Jean De Brebeuf CHS",
-            "game_played": true,
-            "final_score": "St. Jean De Brebeuf CHS 58, Hodan Nalayeh SS 78"
-        },
-        {
-            "date": "Monday, January 12, 2026",
-            "home_team": "St. Joan Of Arc",
-            "away_team": "Father Bressani",
-            "time": "3:45 PM",
-            "location": "St Joan Of Arc CHS",
-            "game_played": true,
-            "final_score": "St. Joan Of Arc 74, Father Bressani 50"
-        },
-        {
-            "date": "Monday, January 12, 2026",
-            "home_team": "St. Katharine Drexel",
-            "away_team": "Markham District",
-            "time": "4:45 PM",
-            "location": "St Katharine Drexel CHS",
-            "game_played": true,
-            "final_score": "St. Katharine Drexel 43, Markham District 52"
-        },
-        {
-            "date": "Monday, January 12, 2026",
-            "home_team": "St. Maximilian",
-            "away_team": "Sutton District",
-            "time": "4:45 PM",
-            "location": "St Maximilian Kolbe CHS",
-            "game_played": true,
-            "final_score": "St. Maximilian 68, Sutton District 38"
-        },
-        {
-            "date": "Monday, January 12, 2026",
-            "home_team": "Stephen Lewis SS",
-            "away_team": "St. Theresa Of Lisieux",
-            "time": "3:30 PM",
-            "location": "Stephen Lewis SS",
-            "game_played": true,
-            "final_score": "Stephen Lewis SS 79, St. Theresa Of Lisieux 61"
-        },
-        {
-            "date": "Monday, January 12, 2026",
-            "home_team": "Tommy Douglas SS",
-            "away_team": "Maple High School",
-            "time": "3:45 PM",
-            "location": "Tommy Douglas SS",
-            "game_played": true,
-            "final_score": "Tommy Douglas SS 64, Maple High School 58"
-        },
-        {
-            "date": "Monday, January 12, 2026",
-            "home_team": "Toronto District Christian",
-            "away_team": "Emily Carr",
-            "time": "4:45 PM",
-            "location": "Toronto District Christian HS",
-            "game_played": true,
-            "final_score": "Toronto District Christian 72, Emily Carr 38"
-        },
-        {
-            "date": "Monday, January 12, 2026",
-            "home_team": "Westmount",
-            "away_team": "Holy Cross",
-            "time": "3:45 PM",
-            "location": "Westmount CI",
-            "game_played": true,
-            "final_score": "Westmount 67, Holy Cross 62"
-        },
-        {
             "date": "Tuesday, January 13, 2026",
             "home_team": "Milliken Mills",
             "away_team": "Bill Crothers SS",
@@ -218,6 +101,15 @@
         },
         {
             "date": "Sunday, January 18, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, January 19, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
