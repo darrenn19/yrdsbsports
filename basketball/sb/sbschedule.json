@@ -74,6 +74,15 @@
         },
         {
             "date": "Wednesday, January 14, 2026",
+            "home_team": "Aurora HS",
+            "away_team": "Sutton District",
+            "time": "3:45 PM",
+            "location": "Aurora HS",
+            "game_played": true,
+            "final_score": "Aurora HS 64, Sutton District 43"
+        },
+        {
+            "date": "Wednesday, January 14, 2026",
             "home_team": "Father McGivney",
             "away_team": "Middlefield",
             "time": "4:45 PM",
