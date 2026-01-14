@@ -11,6 +11,15 @@
         },
         {
             "date": "Tuesday, January 13, 2026 - PLAYOFFS",
+            "home_team": "Cardinal Carter",
+            "away_team": "Stouffville",
+            "time": "2:00 PM",
+            "location": "Aurora Community Centre",
+            "game_played": true,
+            "final_score": "Cardinal Carter 6, Stouffville 0"
+        },
+        {
+            "date": "Tuesday, January 13, 2026 - PLAYOFFS",
             "home_team": "St. Maximilian",
             "away_team": "King City SS",
             "time": "2:30 PM",
