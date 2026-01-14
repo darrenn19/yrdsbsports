@@ -35,14 +35,14 @@
         },
         {
             "Team": "St. Augustine",
-            "GP": "7",
-            "W": "3",
+            "GP": "8",
+            "W": "4",
             "L": "2",
             "T": "2",
-            "PTS": "8",
-            "GF": "28",
+            "PTS": "10",
+            "GF": "34",
             "GA": "20",
-            "DIFF": "8"
+            "DIFF": "14"
         },
         {
             "Team": "Markville",
@@ -57,14 +57,14 @@
         },
         {
             "Team": "Bill Hogarth SS",
-            "GP": "7",
+            "GP": "8",
             "W": "0",
-            "L": "6",
+            "L": "7",
             "T": "1",
             "PTS": "1",
             "GF": "11",
-            "GA": "34",
-            "DIFF": "-23"
+            "GA": "40",
+            "DIFF": "-29"
         },
         {
             "Team": "North-Central",
@@ -144,6 +144,17 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Father Bressani",
+            "GP": "8",
+            "W": "5",
+            "L": "2",
+            "T": "1",
+            "PTS": "11",
+            "GF": "34",
+            "GA": "17",
+            "DIFF": "17"
+        },
+        {
             "Team": "Aurora HS",
             "GP": "8",
             "W": "5",
@@ -166,26 +177,15 @@
             "DIFF": "18"
         },
         {
-            "Team": "Father Bressani",
-            "GP": "7",
-            "W": "4",
-            "L": "2",
-            "T": "1",
-            "PTS": "9",
-            "GF": "30",
-            "GA": "15",
-            "DIFF": "15"
-        },
-        {
             "Team": "Westmount",
-            "GP": "7",
+            "GP": "8",
             "W": "2",
-            "L": "2",
+            "L": "3",
             "T": "3",
             "PTS": "7",
-            "GF": "35",
-            "GA": "20",
-            "DIFF": "15"
+            "GF": "37",
+            "GA": "24",
+            "DIFF": "13"
         },
         {
             "Team": "Alexander Mackenzie",
