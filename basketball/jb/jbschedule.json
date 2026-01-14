@@ -38,6 +38,15 @@
         },
         {
             "date": "Wednesday, January 14, 2026",
+            "home_team": "Cardinal Carter",
+            "away_team": "Dr. J.M. Denison",
+            "time": "3:45 PM",
+            "location": "Cardinal Carter CHS",
+            "game_played": true,
+            "final_score": "Cardinal Carter 75, Dr. J.M. Denison 76"
+        },
+        {
+            "date": "Wednesday, January 14, 2026",
             "home_team": "Father McGivney",
             "away_team": "Middlefield",
             "time": "3:30 PM",
