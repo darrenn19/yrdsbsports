@@ -146,6 +146,15 @@
         },
         {
             "date": "Tuesday, January 13, 2026",
+            "home_team": "Sacred Heart",
+            "away_team": "Dr. G.W. Williams",
+            "time": "4:45 PM",
+            "location": "Sacred Heart CHS",
+            "game_played": true,
+            "final_score": "Sacred Heart 63, Dr. G.W. Williams 53"
+        },
+        {
+            "date": "Tuesday, January 13, 2026",
             "home_team": "St. Elizabeth",
             "away_team": "St. Theresa Of Lisieux",
             "time": "2:30 PM",
