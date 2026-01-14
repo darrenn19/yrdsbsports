@@ -47,6 +47,15 @@
         },
         {
             "date": "Wednesday, January 14, 2026",
+            "home_team": "Markville",
+            "away_team": "Pierre Elliott Trudeau",
+            "time": "3:45 PM",
+            "location": "Markville SS",
+            "game_played": true,
+            "final_score": "Markville 76, Pierre Elliott Trudeau 38"
+        },
+        {
+            "date": "Wednesday, January 14, 2026",
             "home_team": "Westmount",
             "away_team": "ESC De L Ascension",
             "time": "3:45 PM",
