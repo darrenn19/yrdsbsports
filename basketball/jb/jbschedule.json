@@ -38,6 +38,15 @@
         },
         {
             "date": "Wednesday, January 14, 2026",
+            "home_team": "Father McGivney",
+            "away_team": "Middlefield",
+            "time": "3:30 PM",
+            "location": "Father Michael McGivney CA",
+            "game_played": true,
+            "final_score": "Father McGivney 54, Middlefield 56"
+        },
+        {
+            "date": "Wednesday, January 14, 2026",
             "home_team": "Westmount",
             "away_team": "ESC De L Ascension",
             "time": "3:45 PM",
