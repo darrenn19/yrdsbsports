@@ -164,6 +164,15 @@
         },
         {
             "date": "Tuesday, January 13, 2026",
+            "home_team": "Thornlea SS",
+            "away_team": "Unionville HS",
+            "time": "4:45 PM",
+            "location": "Thornlea SS",
+            "game_played": true,
+            "final_score": "Thornlea SS 74, Unionville HS 55"
+        },
+        {
+            "date": "Tuesday, January 13, 2026",
             "home_team": "Westmount",
             "away_team": "Woodbridge College",
             "time": "3:45 PM",
