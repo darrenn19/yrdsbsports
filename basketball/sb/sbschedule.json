@@ -100,6 +100,15 @@
             "final_score": "St. Augustine 80, Stouffville 78"
         },
         {
+            "date": "Wednesday, January 14, 2026",
+            "home_team": "Toronto District Christian",
+            "away_team": "Westmount",
+            "time": "4:45 PM",
+            "location": "Toronto District Christian HS",
+            "game_played": true,
+            "final_score": "Toronto District Christian 51, Westmount 60"
+        },
+        {
             "date": "Thursday, January 15, 2026",
             "home_team": null,
             "away_team": null,
