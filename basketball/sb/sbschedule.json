@@ -74,12 +74,21 @@
         },
         {
             "date": "Wednesday, January 14, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Father McGivney",
+            "away_team": "Middlefield",
+            "time": "4:45 PM",
+            "location": "Father Michael McGivney CA",
+            "game_played": true,
+            "final_score": "Father McGivney 84, Middlefield 49"
+        },
+        {
+            "date": "Wednesday, January 14, 2026",
+            "home_team": "St. Augustine",
+            "away_team": "Stouffville",
+            "time": "4:45 PM",
+            "location": "St Augustine CHS",
+            "game_played": true,
+            "final_score": "St. Augustine 80, Stouffville 78"
         },
         {
             "date": "Thursday, January 15, 2026",
