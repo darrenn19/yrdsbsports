@@ -1,24 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, January 13, 2026",
-            "home_team": "Westmount",
-            "away_team": "Father Bressani",
-            "time": "2:30 PM",
-            "location": "Rosemount Arena",
-            "game_played": true,
-            "final_score": "Westmount 2, Father Bressani 4"
-        },
-        {
-            "date": "Tuesday, January 13, 2026",
-            "home_team": "Bill Hogarth SS",
-            "away_team": "St. Augustine",
-            "time": "2:30 PM",
-            "location": "Stouffville Arena",
-            "game_played": true,
-            "final_score": "Bill Hogarth SS 0, St. Augustine 6"
-        },
-        {
             "date": "Wednesday, January 14, 2026",
             "home_team": null,
             "away_team": null,
@@ -65,6 +47,15 @@
         },
         {
             "date": "Monday, January 19, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, January 20, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

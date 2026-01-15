@@ -1,78 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, January 13, 2026",
-            "home_team": "Milliken Mills",
-            "away_team": "Bill Crothers SS",
-            "time": "3:45 PM",
-            "location": "Milliken Mills HS",
-            "game_played": true,
-            "final_score": "Milliken Mills 0, Bill Crothers SS 15"
-        },
-        {
-            "date": "Tuesday, January 13, 2026",
-            "home_team": "Newmarket HS",
-            "away_team": "Dr. J.M. Denison",
-            "time": "3:45 PM",
-            "location": "Newmarket HS",
-            "game_played": true,
-            "final_score": "Newmarket HS 65, Dr. J.M. Denison 71"
-        },
-        {
-            "date": "Tuesday, January 13, 2026",
-            "home_team": "Richmond Green SS",
-            "away_team": "Stephen Lewis SS",
-            "time": "3:45 PM",
-            "location": "Richmond Green SS",
-            "game_played": true,
-            "final_score": "Richmond Green SS 50, Stephen Lewis SS 65"
-        },
-        {
-            "date": "Tuesday, January 13, 2026",
-            "home_team": "Richmond Hill HS",
-            "away_team": "Thornhill SS",
-            "time": "3:45 PM",
-            "location": "Richmond Hill HS",
-            "game_played": true,
-            "final_score": "Richmond Hill HS 80, Thornhill SS 77"
-        },
-        {
-            "date": "Tuesday, January 13, 2026",
-            "home_team": "Sacred Heart",
-            "away_team": "Dr. G.W. Williams",
-            "time": "4:45 PM",
-            "location": "Sacred Heart CHS",
-            "game_played": true,
-            "final_score": "Sacred Heart 63, Dr. G.W. Williams 53"
-        },
-        {
-            "date": "Tuesday, January 13, 2026",
-            "home_team": "St. Elizabeth",
-            "away_team": "St. Theresa Of Lisieux",
-            "time": "2:30 PM",
-            "location": "St Elizabeth CHS",
-            "game_played": true,
-            "final_score": "St. Elizabeth 61, St. Theresa Of Lisieux 55"
-        },
-        {
-            "date": "Tuesday, January 13, 2026",
-            "home_team": "Thornlea SS",
-            "away_team": "Unionville HS",
-            "time": "4:45 PM",
-            "location": "Thornlea SS",
-            "game_played": true,
-            "final_score": "Thornlea SS 74, Unionville HS 55"
-        },
-        {
-            "date": "Tuesday, January 13, 2026",
-            "home_team": "Westmount",
-            "away_team": "Woodbridge College",
-            "time": "3:45 PM",
-            "location": "Westmount CI",
-            "game_played": true,
-            "final_score": "Westmount 66, Woodbridge College 59"
-        },
-        {
             "date": "Wednesday, January 14, 2026",
             "home_team": "Aurora HS",
             "away_team": "Sutton District",
@@ -164,6 +92,15 @@
         },
         {
             "date": "Monday, January 19, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, January 20, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

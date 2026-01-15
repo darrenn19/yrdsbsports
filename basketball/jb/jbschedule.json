@@ -1,42 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, January 13, 2026",
-            "home_team": "Alexander Mackenzie",
-            "away_team": "Langstaff SS",
-            "time": "3:00 PM",
-            "location": "Alexander Mackenzie HS",
-            "game_played": true,
-            "final_score": "Alexander Mackenzie 60, Langstaff SS 49"
-        },
-        {
-            "date": "Tuesday, January 13, 2026",
-            "home_team": "Sacred Heart",
-            "away_team": "Dr. G.W. Williams",
-            "time": "3:30 PM",
-            "location": "Sacred Heart CHS",
-            "game_played": true,
-            "final_score": "Sacred Heart 47, Dr. G.W. Williams 64"
-        },
-        {
-            "date": "Tuesday, January 13, 2026",
-            "home_team": "St. Robert",
-            "away_team": "King City SS",
-            "time": "3:30 PM",
-            "location": "St Robert CHS",
-            "game_played": true,
-            "final_score": "St. Robert 71, King City SS 84"
-        },
-        {
-            "date": "Tuesday, January 13, 2026",
-            "home_team": "Thornlea SS",
-            "away_team": "Unionville HS",
-            "time": "3:30 PM",
-            "location": "Thornlea SS",
-            "game_played": true,
-            "final_score": "Thornlea SS 44, Unionville HS 62"
-        },
-        {
             "date": "Wednesday, January 14, 2026",
             "home_team": "Cardinal Carter",
             "away_team": "Dr. J.M. Denison",
@@ -137,6 +101,15 @@
         },
         {
             "date": "Monday, January 19, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, January 20, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
