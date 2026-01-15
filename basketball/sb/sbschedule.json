@@ -101,12 +101,30 @@
         },
         {
             "date": "Wednesday, January 14, 2026",
+            "home_team": "St. Brother Andre",
+            "away_team": "Pierre Elliott Trudeau",
+            "time": "3:45 PM",
+            "location": "St Brother Andre CHS",
+            "game_played": true,
+            "final_score": "St. Brother Andre 40, Pierre Elliott Trudeau 59"
+        },
+        {
+            "date": "Wednesday, January 14, 2026",
             "home_team": "Toronto District Christian",
             "away_team": "Westmount",
             "time": "4:45 PM",
             "location": "Toronto District Christian HS",
             "game_played": true,
             "final_score": "Toronto District Christian 51, Westmount 60"
+        },
+        {
+            "date": "Wednesday, January 14, 2026",
+            "home_team": "Woodbridge College",
+            "away_team": "St. Joan Of Arc",
+            "time": "4:45 PM",
+            "location": "Woodbridge College",
+            "game_played": true,
+            "final_score": "Woodbridge College 62, St. Joan Of Arc 63"
         },
         {
             "date": "Thursday, January 15, 2026",

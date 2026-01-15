@@ -82,6 +82,15 @@
             "final_score": "Westmount 15, ESC De L Ascension 0"
         },
         {
+            "date": "Wednesday, January 14, 2026",
+            "home_team": "Woodbridge College",
+            "away_team": "St. Joan Of Arc",
+            "time": "3:30 PM",
+            "location": "Woodbridge College",
+            "game_played": true,
+            "final_score": "Woodbridge College 60, St. Joan Of Arc 39"
+        },
+        {
             "date": "Thursday, January 15, 2026",
             "home_team": null,
             "away_team": null,
