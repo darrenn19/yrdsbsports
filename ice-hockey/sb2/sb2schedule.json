@@ -2,12 +2,12 @@
     "schedule": [
         {
             "date": "Wednesday, January 14, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Dr. J.M. Denison",
+            "away_team": "Sacred Heart",
+            "time": "2:30 PM",
+            "location": "Ray Twinney Recreation Complex 1",
+            "game_played": true,
+            "final_score": "Dr. J.M. Denison 4, Sacred Heart 6"
         },
         {
             "date": "Thursday, January 15, 2026",
