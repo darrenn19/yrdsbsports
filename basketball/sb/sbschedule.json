@@ -20,6 +20,15 @@
         },
         {
             "date": "Wednesday, January 14, 2026",
+            "home_team": "Huron Heights",
+            "away_team": "Renaissance ESC",
+            "time": "4:45 PM",
+            "location": "Huron Heights SS",
+            "game_played": true,
+            "final_score": "Huron Heights 62, Renaissance ESC 60"
+        },
+        {
+            "date": "Wednesday, January 14, 2026",
             "home_team": "St. Augustine",
             "away_team": "Stouffville",
             "time": "4:45 PM",
