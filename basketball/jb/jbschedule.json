@@ -56,6 +56,15 @@
         },
         {
             "date": "Wednesday, January 14, 2026",
+            "home_team": "Huron Heights",
+            "away_team": "Renaissance ESC",
+            "time": "3:30 PM",
+            "location": "Huron Heights SS",
+            "game_played": true,
+            "final_score": "Huron Heights 51, Renaissance ESC 62"
+        },
+        {
+            "date": "Wednesday, January 14, 2026",
             "home_team": "Markville",
             "away_team": "Pierre Elliott Trudeau",
             "time": "3:45 PM",
