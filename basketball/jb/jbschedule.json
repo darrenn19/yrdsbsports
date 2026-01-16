@@ -1,78 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, January 14, 2026",
-            "home_team": "Cardinal Carter",
-            "away_team": "Dr. J.M. Denison",
-            "time": "3:45 PM",
-            "location": "Cardinal Carter CHS",
-            "game_played": true,
-            "final_score": "Cardinal Carter 75, Dr. J.M. Denison 76"
-        },
-        {
-            "date": "Wednesday, January 14, 2026",
-            "home_team": "Father McGivney",
-            "away_team": "Middlefield",
-            "time": "3:30 PM",
-            "location": "Father Michael McGivney CA",
-            "game_played": true,
-            "final_score": "Father McGivney 54, Middlefield 56"
-        },
-        {
-            "date": "Wednesday, January 14, 2026",
-            "home_team": "Huron Heights",
-            "away_team": "Renaissance ESC",
-            "time": "3:30 PM",
-            "location": "Huron Heights SS",
-            "game_played": true,
-            "final_score": "Huron Heights 51, Renaissance ESC 62"
-        },
-        {
-            "date": "Wednesday, January 14, 2026",
-            "home_team": "Markville",
-            "away_team": "Pierre Elliott Trudeau",
-            "time": "3:45 PM",
-            "location": "Markville SS",
-            "game_played": true,
-            "final_score": "Markville 76, Pierre Elliott Trudeau 38"
-        },
-        {
-            "date": "Wednesday, January 14, 2026",
-            "home_team": "St. Augustine",
-            "away_team": "Stouffville",
-            "time": "3:30 PM",
-            "location": "St Augustine CHS",
-            "game_played": true,
-            "final_score": "St. Augustine 67, Stouffville 41"
-        },
-        {
-            "date": "Wednesday, January 14, 2026",
-            "home_team": "Toronto District Christian",
-            "away_team": "Holy Cross",
-            "time": "3:30 PM",
-            "location": "Toronto District Christian HS",
-            "game_played": true,
-            "final_score": "Toronto District Christian 40, Holy Cross 75"
-        },
-        {
-            "date": "Wednesday, January 14, 2026",
-            "home_team": "Westmount",
-            "away_team": "ESC De L Ascension",
-            "time": "3:45 PM",
-            "location": "Westmount CI",
-            "game_played": true,
-            "final_score": "Westmount 15, ESC De L Ascension 0"
-        },
-        {
-            "date": "Wednesday, January 14, 2026",
-            "home_team": "Woodbridge College",
-            "away_team": "St. Joan Of Arc",
-            "time": "3:30 PM",
-            "location": "Woodbridge College",
-            "game_played": true,
-            "final_score": "Woodbridge College 60, St. Joan Of Arc 39"
-        },
-        {
             "date": "Thursday, January 15, 2026",
             "home_team": null,
             "away_team": null,
@@ -119,6 +47,15 @@
         },
         {
             "date": "Tuesday, January 20, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, January 21, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
