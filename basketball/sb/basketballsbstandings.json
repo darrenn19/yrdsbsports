@@ -45,6 +45,17 @@
             "DIFF": "70"
         },
         {
+            "Team": "Our Lady Queen Of The World",
+            "GP": "8",
+            "W": "5",
+            "L": "3",
+            "T": "0",
+            "PTS": "10",
+            "PF": "469",
+            "PA": "410",
+            "DIFF": "27"
+        },
+        {
             "Team": "Thornhill SS",
             "GP": "7",
             "W": "5",
@@ -54,17 +65,6 @@
             "PF": "537",
             "PA": "435",
             "DIFF": "48"
-        },
-        {
-            "Team": "Our Lady Queen Of The World",
-            "GP": "7",
-            "W": "4",
-            "L": "3",
-            "T": "0",
-            "PTS": "8",
-            "PF": "400",
-            "PA": "358",
-            "DIFF": "12"
         },
         {
             "Team": "St. Theresa Of Lisieux",
@@ -112,14 +112,14 @@
         },
         {
             "Team": "St. Robert",
-            "GP": "6",
+            "GP": "7",
             "W": "2",
-            "L": "4",
+            "L": "5",
             "T": "0",
             "PTS": "4",
-            "PF": "309",
-            "PA": "384",
-            "DIFF": "-22"
+            "PF": "361",
+            "PA": "453",
+            "DIFF": "-37"
         },
         {
             "Team": "Unionville HS",
@@ -343,14 +343,14 @@
         },
         {
             "Team": "Renaissance ESC",
-            "GP": "7",
+            "GP": "8",
             "W": "5",
-            "L": "2",
+            "L": "3",
             "T": "0",
             "PTS": "10",
-            "PF": "444",
-            "PA": "338",
-            "DIFF": "51"
+            "PF": "504",
+            "PA": "400",
+            "DIFF": "49"
         },
         {
             "Team": "Dr. J.M. Denison",
@@ -398,14 +398,14 @@
         },
         {
             "Team": "Huron Heights",
-            "GP": "7",
-            "W": "1",
+            "GP": "8",
+            "W": "2",
             "L": "6",
             "T": "0",
-            "PTS": "2",
-            "PF": "354",
-            "PA": "468",
-            "DIFF": "-70"
+            "PTS": "4",
+            "PF": "416",
+            "PA": "528",
+            "DIFF": "-68"
         },
         {
             "Team": "Sutton District",
