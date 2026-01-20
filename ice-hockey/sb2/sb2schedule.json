@@ -11,12 +11,12 @@
         },
         {
             "date": "Tuesday, January 20, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Sutton District",
+            "away_team": "Dr. J.M. Denison",
+            "time": "3:00 PM",
+            "location": "Sutton Community Centre",
+            "game_played": true,
+            "final_score": "Sutton District 5, Dr. J.M. Denison 3"
         },
         {
             "date": "Wednesday, January 21, 2026",
