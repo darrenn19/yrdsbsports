@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Saturday, January 31, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
-        },
-        {
             "date": "Sunday, February 1, 2026",
             "home_team": null,
             "away_team": null,
@@ -56,6 +47,15 @@
         },
         {
             "date": "Friday, February 6, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Saturday, February 7, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
