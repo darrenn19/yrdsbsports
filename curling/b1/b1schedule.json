@@ -2,6 +2,15 @@
     "schedule": [
         {
             "date": "Monday, February 2, 2026",
+            "home_team": "Tommy Douglas SS",
+            "away_team": "St. Theresa Of Lisieux",
+            "time": "2:30 PM",
+            "location": "York Curling Club",
+            "game_played": true,
+            "final_score": "Tommy Douglas SS 14, St. Theresa Of Lisieux 2"
+        },
+        {
+            "date": "Monday, February 2, 2026",
             "home_team": "Bill Crothers SS",
             "away_team": "Sacred Heart",
             "time": "2:30 PM",
