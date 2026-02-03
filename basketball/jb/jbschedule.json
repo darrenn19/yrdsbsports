@@ -20,12 +20,48 @@
         },
         {
             "date": "Tuesday, February 3, 2026",
+            "home_team": "Milliken Mills",
+            "away_team": "Markville",
+            "time": "3:45 PM",
+            "location": "Milliken Mills HS",
+            "game_played": true,
+            "final_score": "Milliken Mills 37, Markville 74"
+        },
+        {
+            "date": "Tuesday, February 3, 2026",
+            "home_team": "St. Joan Of Arc",
+            "away_team": "Maple High School",
+            "time": "3:45 PM",
+            "location": "St Joan Of Arc CHS",
+            "game_played": true,
+            "final_score": "St. Joan Of Arc 49, Maple High School 85"
+        },
+        {
+            "date": "Tuesday, February 3, 2026",
+            "home_team": "St. Robert",
+            "away_team": "Alexander Mackenzie",
+            "time": "3:45 PM",
+            "location": "St Robert CHS",
+            "game_played": true,
+            "final_score": "St. Robert 66, Alexander Mackenzie 47"
+        },
+        {
+            "date": "Tuesday, February 3, 2026",
             "home_team": "Stephen Lewis SS",
             "away_team": "King City SS",
             "time": "3:30 PM",
             "location": "Stephen Lewis SS",
             "game_played": true,
             "final_score": "Stephen Lewis SS 68, King City SS 48"
+        },
+        {
+            "date": "Tuesday, February 3, 2026",
+            "home_team": "Woodbridge College",
+            "away_team": "Westmount",
+            "time": "3:45 PM",
+            "location": "Woodbridge College",
+            "game_played": true,
+            "final_score": "Woodbridge College 55, Westmount 68"
         },
         {
             "date": "Wednesday, February 4, 2026",
