@@ -2,12 +2,12 @@
     "schedule": [
         {
             "date": "Monday, February 2, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Bill Crothers SS",
+            "away_team": "Sacred Heart",
+            "time": "2:30 PM",
+            "location": "York Curling Club",
+            "game_played": true,
+            "final_score": "Bill Crothers SS 2, Sacred Heart 7"
         },
         {
             "date": "Tuesday, February 3, 2026",
