@@ -11,12 +11,21 @@
         },
         {
             "date": "Tuesday, February 3, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Langstaff SS",
+            "away_team": "St. Theresa Of Lisieux",
+            "time": "3:45 PM",
+            "location": "Langstaff SS",
+            "game_played": true,
+            "final_score": "Langstaff SS 45, St. Theresa Of Lisieux 87"
+        },
+        {
+            "date": "Tuesday, February 3, 2026",
+            "home_team": "Stephen Lewis SS",
+            "away_team": "King City SS",
+            "time": "3:30 PM",
+            "location": "Stephen Lewis SS",
+            "game_played": true,
+            "final_score": "Stephen Lewis SS 68, King City SS 48"
         },
         {
             "date": "Wednesday, February 4, 2026",
