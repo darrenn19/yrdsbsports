@@ -74,12 +74,12 @@
         },
         {
             "date": "Wednesday, February 4, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Sir William Mulock",
+            "away_team": "Sacred Heart",
+            "time": "3:45 PM",
+            "location": "Sir William Mulock",
+            "game_played": true,
+            "final_score": "Sir William Mulock 60, Sacred Heart 54"
         },
         {
             "date": "Thursday, February 5, 2026",
