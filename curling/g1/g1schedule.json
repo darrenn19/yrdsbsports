@@ -2,12 +2,12 @@
     "schedule": [
         {
             "date": "Tuesday, February 3, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "St. Theresa Of Lisieux",
+            "away_team": "Sacred Heart",
+            "time": "3:00 PM",
+            "location": "Unionville Curling Club",
+            "game_played": true,
+            "final_score": "St. Theresa Of Lisieux 5, Sacred Heart 4"
         },
         {
             "date": "Wednesday, February 4, 2026",
