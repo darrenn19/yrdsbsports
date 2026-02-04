@@ -11,6 +11,15 @@
         },
         {
             "date": "Tuesday, February 3, 2026",
+            "home_team": "Aurora HS",
+            "away_team": "Sir William Mulock",
+            "time": "3:45 PM",
+            "location": "Aurora HS",
+            "game_played": true,
+            "final_score": "Aurora HS 56, Sir William Mulock 66"
+        },
+        {
+            "date": "Tuesday, February 3, 2026",
             "home_team": "Langstaff SS",
             "away_team": "St. Theresa Of Lisieux",
             "time": "3:45 PM",
