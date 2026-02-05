@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, February 3, 2026 - PLAYOFFS",
-            "home_team": "Markham District",
-            "away_team": "Huron Heights",
-            "time": "2:00 PM",
-            "location": "Markham Village Arena",
-            "game_played": true,
-            "final_score": "Markham District 5, Huron Heights 3"
-        },
-        {
             "date": "Wednesday, February 4, 2026 - PLAYOFFS",
             "home_team": "Father Bressani",
             "away_team": "St. Joan Of Arc",
@@ -56,6 +47,15 @@
         },
         {
             "date": "Monday, February 9, 2026 - PLAYOFFS",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, February 10, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
