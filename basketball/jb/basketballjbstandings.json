@@ -271,16 +271,6 @@
             "PA": "465"
         },
         {
-            "Team": "Renaissance ESC",
-            "GP": "8",
-            "W": "4",
-            "L": "4",
-            "T": "0",
-            "PTS": "8",
-            "PF": "488",
-            "PA": "416"
-        },
-        {
             "Team": "Dr. J.M. Denison",
             "GP": "8",
             "W": "4",
@@ -291,24 +281,34 @@
             "PA": "472"
         },
         {
-            "Team": "Sir William Mulock",
-            "GP": "7",
-            "W": "3",
+            "Team": "Renaissance ESC",
+            "GP": "8",
+            "W": "4",
             "L": "4",
             "T": "0",
-            "PTS": "6",
-            "PF": "358",
-            "PA": "443"
+            "PTS": "8",
+            "PF": "488",
+            "PA": "416"
+        },
+        {
+            "Team": "Sir William Mulock",
+            "GP": "8",
+            "W": "4",
+            "L": "4",
+            "T": "0",
+            "PTS": "8",
+            "PF": "418",
+            "PA": "497"
         },
         {
             "Team": "Sacred Heart",
-            "GP": "7",
+            "GP": "8",
             "W": "2",
-            "L": "5",
+            "L": "6",
             "T": "0",
             "PTS": "4",
-            "PF": "351",
-            "PA": "421"
+            "PF": "405",
+            "PA": "481"
         },
         {
             "Team": "Huron Heights",
