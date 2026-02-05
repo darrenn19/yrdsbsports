@@ -11,12 +11,12 @@
         },
         {
             "date": "Thursday, February 5, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Dr. G.W. Williams",
+            "away_team": "Aurora HS",
+            "time": "3:30 PM",
+            "location": "Dr G W Williams SS",
+            "game_played": true,
+            "final_score": "Dr. G.W. Williams 77, Aurora HS 59"
         },
         {
             "date": "Friday, February 6, 2026",
