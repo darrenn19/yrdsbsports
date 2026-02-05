@@ -38,15 +38,15 @@
         },
         {
             "Team": "Thornhill SS",
-            "MP": "1",
-            "MW": "0",
+            "MP": "2",
+            "MW": "1",
             "ML": "1",
-            "GW": "0",
+            "GW": "2",
             "GL": "2",
-            "PTS": "0",
-            "PF": "37",
-            "PA": "52",
-            "DIFF": "-15"
+            "PTS": "1",
+            "PF": "87",
+            "PA": "82",
+            "DIFF": "5"
         },
         {
             "Team": "Unionville HS",
@@ -62,15 +62,15 @@
         },
         {
             "Team": "St. Robert",
-            "MP": "1",
+            "MP": "2",
             "MW": "0",
-            "ML": "1",
+            "ML": "2",
             "GW": "0",
-            "GL": "2",
+            "GL": "4",
             "PTS": "0",
-            "PF": "34",
-            "PA": "50",
-            "DIFF": "-16"
+            "PF": "64",
+            "PA": "100",
+            "DIFF": "-36"
         },
         {
             "Team": "East",
@@ -85,16 +85,16 @@
             "DIFF": "DIFF"
         },
         {
-            "Team": "Bill Hogarth SS",
+            "Team": "Father McGivney",
             "MP": "2",
             "MW": "2",
             "ML": "0",
             "GW": "4",
-            "GL": "1",
+            "GL": "0",
             "PTS": "2",
-            "PF": "107",
-            "PA": "101",
-            "DIFF": "6"
+            "PF": "100",
+            "PA": "64",
+            "DIFF": "36"
         },
         {
             "Team": "Markville",
@@ -109,16 +109,16 @@
             "DIFF": "15"
         },
         {
-            "Team": "Father McGivney",
-            "MP": "1",
-            "MW": "1",
+            "Team": "Bill Hogarth SS",
+            "MP": "2",
+            "MW": "2",
             "ML": "0",
-            "GW": "2",
-            "GL": "0",
-            "PTS": "1",
-            "PF": "50",
-            "PA": "29",
-            "DIFF": "21"
+            "GW": "4",
+            "GL": "1",
+            "PTS": "2",
+            "PF": "107",
+            "PA": "101",
+            "DIFF": "6"
         },
         {
             "Team": "Middlefield",
@@ -146,15 +146,15 @@
         },
         {
             "Team": "Markham District",
-            "MP": "1",
+            "MP": "2",
             "MW": "0",
-            "ML": "1",
+            "ML": "2",
             "GW": "1",
-            "GL": "2",
+            "GL": "4",
             "PTS": "0",
-            "PF": "54",
-            "PA": "56",
-            "DIFF": "-2"
+            "PF": "89",
+            "PA": "106",
+            "DIFF": "-17"
         },
         {
             "Team": "Bur Oak SS",
@@ -193,6 +193,18 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Dr. G.W. Williams",
+            "MP": "2",
+            "MW": "2",
+            "ML": "0",
+            "GW": "4",
+            "GL": "1",
+            "PTS": "2",
+            "PF": "108",
+            "PA": "87",
+            "DIFF": "21"
+        },
+        {
             "Team": "Huron Heights",
             "MP": "2",
             "MW": "2",
@@ -218,15 +230,15 @@
         },
         {
             "Team": "Our Lady Of The Lake",
-            "MP": "1",
+            "MP": "2",
             "MW": "1",
-            "ML": "0",
+            "ML": "1",
             "GW": "2",
-            "GL": "0",
+            "GL": "2",
             "PTS": "1",
-            "PF": "50",
-            "PA": "18",
-            "DIFF": "32"
+            "PF": "88",
+            "PA": "68",
+            "DIFF": "20"
         },
         {
             "Team": "Keswick High School",
@@ -253,18 +265,6 @@
             "DIFF": "-68"
         },
         {
-            "Team": "Dr. G.W. Williams",
-            "MP": "0",
-            "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
-        },
-        {
             "Team": "Sacred Heart",
             "MP": "1",
             "MW": "0",
@@ -278,15 +278,15 @@
         },
         {
             "Team": "Dr. J.M. Denison",
-            "MP": "0",
+            "MP": "1",
             "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
+            "ML": "1",
+            "GW": "1",
+            "GL": "2",
             "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "PF": "49",
+            "PA": "58",
+            "DIFF": "-9"
         },
         {
             "Team": "West",
