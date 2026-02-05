@@ -19,6 +19,15 @@
             "final_score": "Bill Hogarth SS 76, Markham District 62"
         },
         {
+            "date": "Thursday, February 5, 2026 - PLAYOFFS",
+            "home_team": "Cardinal Carter",
+            "away_team": "Unionville HS",
+            "time": "2:45 PM",
+            "location": "Cardinal Carter CHS",
+            "game_played": true,
+            "final_score": "Cardinal Carter 33, Unionville HS 63"
+        },
+        {
             "date": "Friday, February 6, 2026",
             "home_team": null,
             "away_team": null,
