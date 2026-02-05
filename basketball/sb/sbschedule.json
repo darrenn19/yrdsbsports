@@ -11,12 +11,12 @@
         },
         {
             "date": "Thursday, February 5, 2026 - PLAYOFFS",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Bill Hogarth SS",
+            "away_team": "Markham District",
+            "time": "3:45 PM",
+            "location": "Bill Hogarth SS",
+            "game_played": true,
+            "final_score": "Bill Hogarth SS 76, Markham District 62"
         },
         {
             "date": "Friday, February 6, 2026",
