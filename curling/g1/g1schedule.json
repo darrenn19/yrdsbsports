@@ -2,12 +2,12 @@
     "schedule": [
         {
             "date": "Thursday, February 5, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "St. Robert",
+            "away_team": "Bill Hogarth SS",
+            "time": "3:00 PM",
+            "location": "Unionville Curling Club",
+            "game_played": true,
+            "final_score": "St. Robert 6, Bill Hogarth SS 5"
         },
         {
             "date": "Friday, February 6, 2026",
