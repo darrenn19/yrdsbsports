@@ -37,6 +37,24 @@
             "final_score": "Father Bressani 54, St. Robert 69"
         },
         {
+            "date": "Thursday, February 5, 2026 - PLAYOFFS",
+            "home_team": "St. Jean De Brebeuf CHS",
+            "away_team": "Thornlea SS",
+            "time": "3:45 PM",
+            "location": "St Jean De Brebeuf CHS",
+            "game_played": true,
+            "final_score": "St. Jean De Brebeuf CHS 65, Thornlea SS 66"
+        },
+        {
+            "date": "Thursday, February 5, 2026 - PLAYOFFS",
+            "home_team": "St. Theresa Of Lisieux",
+            "away_team": "Stouffville",
+            "time": "2:45 PM",
+            "location": "St Theresa Of Lisieux CHS",
+            "game_played": true,
+            "final_score": "St. Theresa Of Lisieux 52, Stouffville 60"
+        },
+        {
             "date": "Friday, February 6, 2026",
             "home_team": null,
             "away_team": null,
