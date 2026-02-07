@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, February 5, 2026 - PLAYOFFS",
-            "home_team": "St. Maximilian",
-            "away_team": "Cardinal Carter",
-            "time": "2:30 PM",
-            "location": "Aurora Family Leisure Complex",
-            "game_played": true,
-            "final_score": "St. Maximilian 6, Cardinal Carter 3"
-        },
-        {
             "date": "Friday, February 6, 2026",
             "home_team": null,
             "away_team": null,
@@ -56,6 +47,15 @@
         },
         {
             "date": "Wednesday, February 11, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, February 12, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

@@ -1,60 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, February 5, 2026 - PLAYOFFS",
-            "home_team": "Alexander Mackenzie",
-            "away_team": "St. Brother Andre",
-            "time": "3:45 PM",
-            "location": "Alexander Mackenzie HS",
-            "game_played": true,
-            "final_score": "Alexander Mackenzie 79, St. Brother Andre 63"
-        },
-        {
-            "date": "Thursday, February 5, 2026 - PLAYOFFS",
-            "home_team": "Bill Hogarth SS",
-            "away_team": "Markham District",
-            "time": "3:45 PM",
-            "location": "Bill Hogarth SS",
-            "game_played": true,
-            "final_score": "Bill Hogarth SS 76, Markham District 62"
-        },
-        {
-            "date": "Thursday, February 5, 2026 - PLAYOFFS",
-            "home_team": "Cardinal Carter",
-            "away_team": "Unionville HS",
-            "time": "2:45 PM",
-            "location": "Cardinal Carter CHS",
-            "game_played": true,
-            "final_score": "Cardinal Carter 33, Unionville HS 63"
-        },
-        {
-            "date": "Thursday, February 5, 2026 - PLAYOFFS",
-            "home_team": "Father Bressani",
-            "away_team": "St. Robert",
-            "time": "3:45 PM",
-            "location": "Father Bressani CHS",
-            "game_played": true,
-            "final_score": "Father Bressani 54, St. Robert 69"
-        },
-        {
-            "date": "Thursday, February 5, 2026 - PLAYOFFS",
-            "home_team": "St. Jean De Brebeuf CHS",
-            "away_team": "Thornlea SS",
-            "time": "3:45 PM",
-            "location": "St Jean De Brebeuf CHS",
-            "game_played": true,
-            "final_score": "St. Jean De Brebeuf CHS 65, Thornlea SS 66"
-        },
-        {
-            "date": "Thursday, February 5, 2026 - PLAYOFFS",
-            "home_team": "St. Theresa Of Lisieux",
-            "away_team": "Stouffville",
-            "time": "2:45 PM",
-            "location": "St Theresa Of Lisieux CHS",
-            "game_played": true,
-            "final_score": "St. Theresa Of Lisieux 52, Stouffville 60"
-        },
-        {
             "date": "Friday, February 6, 2026",
             "home_team": null,
             "away_team": null,
@@ -101,6 +47,15 @@
         },
         {
             "date": "Wednesday, February 11, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, February 12, 2026 - PLAYOFFS",
             "home_team": null,
             "away_team": null,
             "time": null,
