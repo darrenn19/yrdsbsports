@@ -11,12 +11,12 @@
         },
         {
             "date": "Monday, February 9, 2026 - PLAYOFFS",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "St. Theresa Of Lisieux",
+            "away_team": "St. Maximilian",
+            "time": "2:15 PM",
+            "location": "Tom Graham Arena",
+            "game_played": true,
+            "final_score": "St. Theresa Of Lisieux 2, St. Maximilian 7"
         },
         {
             "date": "Tuesday, February 10, 2026 - PLAYOFFS",

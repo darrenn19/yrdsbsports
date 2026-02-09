@@ -11,12 +11,12 @@
         },
         {
             "date": "Monday, February 9, 2026 - PLAYOFFS",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Father Bressani",
+            "away_team": "St. Jean De Brebeuf CHS",
+            "time": "2:00 PM",
+            "location": "Al Palladini Community Centre",
+            "game_played": true,
+            "final_score": "Father Bressani 6, St. Jean De Brebeuf CHS 4"
         },
         {
             "date": "Tuesday, February 10, 2026 - PLAYOFFS",
