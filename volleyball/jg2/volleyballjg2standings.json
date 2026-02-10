@@ -313,6 +313,18 @@
             "DIFF": "34"
         },
         {
+            "Team": "Stephen Lewis SS",
+            "MP": "1",
+            "MW": "1",
+            "ML": "0",
+            "GW": "2",
+            "GL": "0",
+            "PTS": "1",
+            "PF": "50",
+            "PA": "30",
+            "DIFF": "20"
+        },
+        {
             "Team": "Father Bressani",
             "MP": "2",
             "MW": "1",
@@ -326,27 +338,15 @@
         },
         {
             "Team": "Maple High School",
-            "MP": "2",
+            "MP": "3",
             "MW": "0",
-            "ML": "2",
+            "ML": "3",
             "GW": "1",
-            "GL": "4",
+            "GL": "6",
             "PTS": "0",
-            "PF": "88",
-            "PA": "112",
-            "DIFF": "-24"
-        },
-        {
-            "Team": "Stephen Lewis SS",
-            "MP": "0",
-            "MW": "0",
-            "ML": "0",
-            "GW": "0",
-            "GL": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0",
-            "DIFF": "0"
+            "PF": "118",
+            "PA": "162",
+            "DIFF": "-44"
         },
         {
             "Team": "Toronto District Christian",
