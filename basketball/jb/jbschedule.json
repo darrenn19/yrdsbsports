@@ -11,12 +11,39 @@
         },
         {
             "date": "Tuesday, February 10, 2026 - PLAYOFFS",
+            "home_team": "Bur Oak SS",
+            "away_team": "Cardinal Carter",
+            "time": "3:45 PM",
+            "location": "Bur Oak SS",
+            "game_played": true,
+            "final_score": "Bur Oak SS 56, Cardinal Carter 27"
+        },
+        {
+            "date": "Tuesday, February 10, 2026 - PLAYOFFS",
             "home_team": "Markville",
             "away_team": "Keswick High School",
             "time": "3:45 PM",
             "location": "Markville SS",
             "game_played": true,
             "final_score": "Markville 106, Keswick High School 37"
+        },
+        {
+            "date": "Tuesday, February 10, 2026 - PLAYOFFS",
+            "home_team": "St. Theresa Of Lisieux",
+            "away_team": "St. Jean De Brebeuf CHS",
+            "time": "3:45 PM",
+            "location": "St Theresa Of Lisieux CHS",
+            "game_played": true,
+            "final_score": "St. Theresa Of Lisieux 84, St. Jean De Brebeuf CHS 87"
+        },
+        {
+            "date": "Tuesday, February 10, 2026 - PLAYOFFS",
+            "home_team": "Stephen Lewis SS",
+            "away_team": "Woodbridge College",
+            "time": "3:45 PM",
+            "location": "Stephen Lewis SS",
+            "game_played": true,
+            "final_score": "Stephen Lewis SS 47, Woodbridge College 50"
         },
         {
             "date": "Wednesday, February 11, 2026",

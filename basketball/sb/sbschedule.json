@@ -20,6 +20,33 @@
         },
         {
             "date": "Tuesday, February 10, 2026 - PLAYOFFS",
+            "home_team": "King City SS",
+            "away_team": "Sutton District",
+            "time": "3:45 PM",
+            "location": "King City SS",
+            "game_played": true,
+            "final_score": "King City SS 65, Sutton District 56"
+        },
+        {
+            "date": "Tuesday, February 10, 2026 - PLAYOFFS",
+            "home_team": "Our Lady Queen Of The World",
+            "away_team": "Unionville HS",
+            "time": "3:45 PM",
+            "location": "Our Lady Queen Of The World",
+            "game_played": true,
+            "final_score": "Our Lady Queen Of The World 67, Unionville HS 69"
+        },
+        {
+            "date": "Tuesday, February 10, 2026 - PLAYOFFS",
+            "home_team": "Sacred Heart",
+            "away_team": "Thornlea SS",
+            "time": "3:45 PM",
+            "location": "Sacred Heart CHS",
+            "game_played": true,
+            "final_score": "Sacred Heart 67, Thornlea SS 50"
+        },
+        {
+            "date": "Tuesday, February 10, 2026 - PLAYOFFS",
             "home_team": "St. Augustine",
             "away_team": "Alexander Mackenzie",
             "time": "3:45 PM",
@@ -35,6 +62,15 @@
             "location": "St Elizabeth CHS",
             "game_played": true,
             "final_score": "St. Elizabeth 73, Richmond Green SS 63"
+        },
+        {
+            "date": "Tuesday, February 10, 2026 - PLAYOFFS",
+            "home_team": "Woodbridge College",
+            "away_team": "Aurora HS",
+            "time": "3:45 PM",
+            "location": "Woodbridge College",
+            "game_played": true,
+            "final_score": "Woodbridge College 61, Aurora HS 46"
         },
         {
             "date": "Wednesday, February 11, 2026",
