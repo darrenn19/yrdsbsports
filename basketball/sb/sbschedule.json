@@ -11,12 +11,30 @@
         },
         {
             "date": "Tuesday, February 10, 2026 - PLAYOFFS",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Dr. G.W. Williams",
+            "away_team": "Stouffville",
+            "time": "3:30 PM",
+            "location": "Dr G W Williams SS",
+            "game_played": true,
+            "final_score": "Dr. G.W. Williams 46, Stouffville 53"
+        },
+        {
+            "date": "Tuesday, February 10, 2026 - PLAYOFFS",
+            "home_team": "St. Augustine",
+            "away_team": "Alexander Mackenzie",
+            "time": "3:45 PM",
+            "location": "St Augustine CHS",
+            "game_played": true,
+            "final_score": "St. Augustine 55, Alexander Mackenzie 48"
+        },
+        {
+            "date": "Tuesday, February 10, 2026 - PLAYOFFS",
+            "home_team": "St. Elizabeth",
+            "away_team": "Richmond Green SS",
+            "time": "3:45 PM",
+            "location": "St Elizabeth CHS",
+            "game_played": true,
+            "final_score": "St. Elizabeth 73, Richmond Green SS 63"
         },
         {
             "date": "Wednesday, February 11, 2026",
