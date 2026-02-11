@@ -65,6 +65,15 @@
         },
         {
             "date": "Tuesday, February 10, 2026 - PLAYOFFS",
+            "home_team": "St. Katharine Drexel",
+            "away_team": "Dr. J.M. Denison",
+            "time": "3:45 PM",
+            "location": "St Katharine Drexel CHS",
+            "game_played": true,
+            "final_score": "St. Katharine Drexel 50, Dr. J.M. Denison 81"
+        },
+        {
+            "date": "Tuesday, February 10, 2026 - PLAYOFFS",
             "home_team": "Woodbridge College",
             "away_team": "Aurora HS",
             "time": "3:45 PM",
@@ -73,7 +82,7 @@
             "final_score": "Woodbridge College 61, Aurora HS 46"
         },
         {
-            "date": "Wednesday, February 11, 2026",
+            "date": "Wednesday, February 11, 2026 - PLAYOFFS",
             "home_team": null,
             "away_team": null,
             "time": null,
