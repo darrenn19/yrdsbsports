@@ -20,12 +20,30 @@
         },
         {
             "date": "Tuesday, February 10, 2026 - PLAYOFFS",
+            "home_team": "Maple High School",
+            "away_team": "Bill Hogarth SS",
+            "time": "3:45 PM",
+            "location": "Maple HS",
+            "game_played": true,
+            "final_score": "Maple High School 87, Bill Hogarth SS 71"
+        },
+        {
+            "date": "Tuesday, February 10, 2026 - PLAYOFFS",
             "home_team": "Our Lady Queen Of The World",
             "away_team": "Unionville HS",
             "time": "3:45 PM",
             "location": "Our Lady Queen Of The World",
             "game_played": true,
             "final_score": "Our Lady Queen Of The World 67, Unionville HS 69"
+        },
+        {
+            "date": "Tuesday, February 10, 2026 - PLAYOFFS",
+            "home_team": "Pierre Elliott Trudeau",
+            "away_team": "St. Robert",
+            "time": "3:45 PM",
+            "location": "PE Trudeau HS",
+            "game_played": true,
+            "final_score": "Pierre Elliott Trudeau 70, St. Robert 59"
         },
         {
             "date": "Tuesday, February 10, 2026 - PLAYOFFS",
@@ -62,6 +80,15 @@
             "location": "St Katharine Drexel CHS",
             "game_played": true,
             "final_score": "St. Katharine Drexel 50, Dr. J.M. Denison 81"
+        },
+        {
+            "date": "Tuesday, February 10, 2026 - PLAYOFFS",
+            "home_team": "Westmount",
+            "away_team": "Holy Cross",
+            "time": "3:30 PM",
+            "location": "Westmount CI",
+            "game_played": true,
+            "final_score": "Westmount 44, Holy Cross 59"
         },
         {
             "date": "Tuesday, February 10, 2026 - PLAYOFFS",
