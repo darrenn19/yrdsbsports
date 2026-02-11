@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, February 9, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
-        },
-        {
             "date": "Tuesday, February 10, 2026 - PLAYOFFS",
             "home_team": "Dr. G.W. Williams",
             "away_team": "Stouffville",
@@ -119,6 +110,15 @@
         },
         {
             "date": "Sunday, February 15, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, February 16, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
