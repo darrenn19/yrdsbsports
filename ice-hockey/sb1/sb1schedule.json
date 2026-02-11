@@ -2,12 +2,12 @@
     "schedule": [
         {
             "date": "Tuesday, February 10, 2026 - PLAYOFFS",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Cardinal Carter",
+            "away_team": "St. Maximilian",
+            "time": "2:00 PM",
+            "location": "Aurora Community Centre",
+            "game_played": true,
+            "final_score": "Cardinal Carter 2, St. Maximilian 1"
         },
         {
             "date": "Wednesday, February 11, 2026",
