@@ -11,12 +11,30 @@
         },
         {
             "date": "Thursday, February 12, 2026 - PLAYOFFS",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Hodan Nalayeh SS",
+            "away_team": "St. Elizabeth",
+            "time": "3:45 PM",
+            "location": "Hodan Nalayeh Secondary School",
+            "game_played": true,
+            "final_score": "Hodan Nalayeh SS 42, St. Elizabeth 67"
+        },
+        {
+            "date": "Thursday, February 12, 2026 - PLAYOFFS",
+            "home_team": "Tommy Douglas SS",
+            "away_team": "Unionville HS",
+            "time": "3:45 PM",
+            "location": "Tommy Douglas SS",
+            "game_played": true,
+            "final_score": "Tommy Douglas SS 80, Unionville HS 51"
+        },
+        {
+            "date": "Thursday, February 12, 2026 - PLAYOFFS",
+            "home_team": "Toronto District Christian",
+            "away_team": "King City SS",
+            "time": "3:45 PM",
+            "location": "Toronto District Christian HS",
+            "game_played": true,
+            "final_score": "Toronto District Christian 56, King City SS 49"
         },
         {
             "date": "Friday, February 13, 2026",

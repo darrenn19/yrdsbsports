@@ -11,12 +11,30 @@
         },
         {
             "date": "Thursday, February 12, 2026 - PLAYOFFS",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Dr. G.W. Williams",
+            "away_team": "Father Bressani",
+            "time": "3:45 PM",
+            "location": "Dr G W Williams SS",
+            "game_played": true,
+            "final_score": "Dr. G.W. Williams 57, Father Bressani 64"
+        },
+        {
+            "date": "Thursday, February 12, 2026 - PLAYOFFS",
+            "home_team": "Markville",
+            "away_team": "St. Jean De Brebeuf CHS",
+            "time": "3:45 PM",
+            "location": "Markville SS",
+            "game_played": true,
+            "final_score": "Markville 86, St. Jean De Brebeuf CHS 62"
+        },
+        {
+            "date": "Thursday, February 12, 2026 - PLAYOFFS",
+            "home_team": "Westmount",
+            "away_team": "St. Augustine",
+            "time": "3:45 PM",
+            "location": "Westmount CI",
+            "game_played": true,
+            "final_score": "Westmount 71, St. Augustine 59"
         },
         {
             "date": "Friday, February 13, 2026 - PLAYOFFS",
