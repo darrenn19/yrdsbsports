@@ -1,105 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, February 10, 2026 - PLAYOFFS",
-            "home_team": "Dr. G.W. Williams",
-            "away_team": "Stouffville",
-            "time": "3:30 PM",
-            "location": "Dr G W Williams SS",
-            "game_played": true,
-            "final_score": "Dr. G.W. Williams 46, Stouffville 53"
-        },
-        {
-            "date": "Tuesday, February 10, 2026 - PLAYOFFS",
-            "home_team": "King City SS",
-            "away_team": "Sutton District",
-            "time": "3:45 PM",
-            "location": "King City SS",
-            "game_played": true,
-            "final_score": "King City SS 65, Sutton District 56"
-        },
-        {
-            "date": "Tuesday, February 10, 2026 - PLAYOFFS",
-            "home_team": "Maple High School",
-            "away_team": "Bill Hogarth SS",
-            "time": "3:45 PM",
-            "location": "Maple HS",
-            "game_played": true,
-            "final_score": "Maple High School 87, Bill Hogarth SS 71"
-        },
-        {
-            "date": "Tuesday, February 10, 2026 - PLAYOFFS",
-            "home_team": "Our Lady Queen Of The World",
-            "away_team": "Unionville HS",
-            "time": "3:45 PM",
-            "location": "Our Lady Queen Of The World",
-            "game_played": true,
-            "final_score": "Our Lady Queen Of The World 67, Unionville HS 69"
-        },
-        {
-            "date": "Tuesday, February 10, 2026 - PLAYOFFS",
-            "home_team": "Pierre Elliott Trudeau",
-            "away_team": "St. Robert",
-            "time": "3:45 PM",
-            "location": "PE Trudeau HS",
-            "game_played": true,
-            "final_score": "Pierre Elliott Trudeau 70, St. Robert 59"
-        },
-        {
-            "date": "Tuesday, February 10, 2026 - PLAYOFFS",
-            "home_team": "Sacred Heart",
-            "away_team": "Thornlea SS",
-            "time": "3:45 PM",
-            "location": "Sacred Heart CHS",
-            "game_played": true,
-            "final_score": "Sacred Heart 67, Thornlea SS 50"
-        },
-        {
-            "date": "Tuesday, February 10, 2026 - PLAYOFFS",
-            "home_team": "St. Augustine",
-            "away_team": "Alexander Mackenzie",
-            "time": "3:45 PM",
-            "location": "St Augustine CHS",
-            "game_played": true,
-            "final_score": "St. Augustine 55, Alexander Mackenzie 48"
-        },
-        {
-            "date": "Tuesday, February 10, 2026 - PLAYOFFS",
-            "home_team": "St. Elizabeth",
-            "away_team": "Richmond Green SS",
-            "time": "3:45 PM",
-            "location": "St Elizabeth CHS",
-            "game_played": true,
-            "final_score": "St. Elizabeth 73, Richmond Green SS 63"
-        },
-        {
-            "date": "Tuesday, February 10, 2026 - PLAYOFFS",
-            "home_team": "St. Katharine Drexel",
-            "away_team": "Dr. J.M. Denison",
-            "time": "3:45 PM",
-            "location": "St Katharine Drexel CHS",
-            "game_played": true,
-            "final_score": "St. Katharine Drexel 50, Dr. J.M. Denison 81"
-        },
-        {
-            "date": "Tuesday, February 10, 2026 - PLAYOFFS",
-            "home_team": "Westmount",
-            "away_team": "Holy Cross",
-            "time": "3:30 PM",
-            "location": "Westmount CI",
-            "game_played": true,
-            "final_score": "Westmount 44, Holy Cross 59"
-        },
-        {
-            "date": "Tuesday, February 10, 2026 - PLAYOFFS",
-            "home_team": "Woodbridge College",
-            "away_team": "Aurora HS",
-            "time": "3:45 PM",
-            "location": "Woodbridge College",
-            "game_played": true,
-            "final_score": "Woodbridge College 61, Aurora HS 46"
-        },
-        {
             "date": "Wednesday, February 11, 2026 - PLAYOFFS",
             "home_team": "Stephen Lewis SS",
             "away_team": "Holy Cross",
@@ -146,6 +47,15 @@
         },
         {
             "date": "Monday, February 16, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, February 17, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

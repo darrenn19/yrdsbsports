@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, February 10, 2026 - PLAYOFFS",
-            "home_team": "Stouffville",
-            "away_team": "Keswick High School",
-            "time": "2:15 PM",
-            "location": "Stouffville Clippers Sports Complex",
-            "game_played": true,
-            "final_score": "Stouffville 2, Keswick High School 0"
-        },
-        {
             "date": "Wednesday, February 11, 2026 - PLAYOFFS",
             "home_team": "St. Maximilian",
             "away_team": "St. Theresa Of Lisieux",
@@ -56,6 +47,15 @@
         },
         {
             "date": "Monday, February 16, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, February 17, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

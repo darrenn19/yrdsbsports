@@ -1,69 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, February 10, 2026 - PLAYOFFS",
-            "home_team": "Bur Oak SS",
-            "away_team": "Cardinal Carter",
-            "time": "3:45 PM",
-            "location": "Bur Oak SS",
-            "game_played": true,
-            "final_score": "Bur Oak SS 56, Cardinal Carter 27"
-        },
-        {
-            "date": "Tuesday, February 10, 2026 - PLAYOFFS",
-            "home_team": "Dr. G.W. Williams",
-            "away_team": "Markham District",
-            "time": "4:45 PM",
-            "location": "Dr G W Williams SS",
-            "game_played": true,
-            "final_score": "Dr. G.W. Williams 70, Markham District 47"
-        },
-        {
-            "date": "Tuesday, February 10, 2026 - PLAYOFFS",
-            "home_team": "Father Bressani",
-            "away_team": "King City SS",
-            "time": "3:45 PM",
-            "location": "Father Bressani CHS",
-            "game_played": true,
-            "final_score": "Father Bressani 77, King City SS 70"
-        },
-        {
-            "date": "Tuesday, February 10, 2026 - PLAYOFFS",
-            "home_team": "Markville",
-            "away_team": "Keswick High School",
-            "time": "3:45 PM",
-            "location": "Markville SS",
-            "game_played": true,
-            "final_score": "Markville 106, Keswick High School 37"
-        },
-        {
-            "date": "Tuesday, February 10, 2026 - PLAYOFFS",
-            "home_team": "St. Maximilian",
-            "away_team": "St. Augustine",
-            "time": "3:45 PM",
-            "location": "St Maximilian Kolbe CHS",
-            "game_played": true,
-            "final_score": "St. Maximilian 52, St. Augustine 53"
-        },
-        {
-            "date": "Tuesday, February 10, 2026 - PLAYOFFS",
-            "home_team": "St. Theresa Of Lisieux",
-            "away_team": "St. Jean De Brebeuf CHS",
-            "time": "3:45 PM",
-            "location": "St Theresa Of Lisieux CHS",
-            "game_played": true,
-            "final_score": "St. Theresa Of Lisieux 84, St. Jean De Brebeuf CHS 87"
-        },
-        {
-            "date": "Tuesday, February 10, 2026 - PLAYOFFS",
-            "home_team": "Stephen Lewis SS",
-            "away_team": "Woodbridge College",
-            "time": "3:45 PM",
-            "location": "Stephen Lewis SS",
-            "game_played": true,
-            "final_score": "Stephen Lewis SS 47, Woodbridge College 50"
-        },
-        {
             "date": "Wednesday, February 11, 2026 - PLAYOFFS",
             "home_team": "Westmount",
             "away_team": "St. Robert",
@@ -110,6 +47,15 @@
         },
         {
             "date": "Monday, February 16, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, February 17, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
