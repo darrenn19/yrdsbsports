@@ -47,6 +47,15 @@
         },
         {
             "date": "Thursday, February 12, 2026 - PLAYOFFS",
+            "home_team": "St. Maximilian",
+            "away_team": "St. Augustine",
+            "time": "3:45 PM",
+            "location": "St Maximilian Kolbe CHS",
+            "game_played": true,
+            "final_score": "St. Maximilian 56, St. Augustine 47"
+        },
+        {
+            "date": "Thursday, February 12, 2026 - PLAYOFFS",
             "home_team": "Thornhill SS",
             "away_team": "Renaissance ESC",
             "time": "3:45 PM",
