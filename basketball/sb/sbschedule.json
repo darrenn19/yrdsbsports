@@ -20,6 +20,42 @@
         },
         {
             "date": "Thursday, February 12, 2026 - PLAYOFFS",
+            "home_team": "Keswick High School",
+            "away_team": "Woodbridge College",
+            "time": "3:45 PM",
+            "location": "Keswick HS",
+            "game_played": true,
+            "final_score": "Keswick High School 69, Woodbridge College 64"
+        },
+        {
+            "date": "Thursday, February 12, 2026 - PLAYOFFS",
+            "home_team": "Richmond Hill HS",
+            "away_team": "Maple High School",
+            "time": "3:45 PM",
+            "location": "Richmond Hill HS",
+            "game_played": true,
+            "final_score": "Richmond Hill HS 73, Maple High School 77"
+        },
+        {
+            "date": "Thursday, February 12, 2026 - PLAYOFFS",
+            "home_team": "St. Joan Of Arc",
+            "away_team": "Dr. J.M. Denison",
+            "time": "3:45 PM",
+            "location": "St Joan Of Arc CHS",
+            "game_played": true,
+            "final_score": "St. Joan Of Arc 71, Dr. J.M. Denison 52"
+        },
+        {
+            "date": "Thursday, February 12, 2026 - PLAYOFFS",
+            "home_team": "Thornhill SS",
+            "away_team": "Renaissance ESC",
+            "time": "3:45 PM",
+            "location": "Thornhill SS",
+            "game_played": true,
+            "final_score": "Thornhill SS 76, Renaissance ESC 50"
+        },
+        {
+            "date": "Thursday, February 12, 2026 - PLAYOFFS",
             "home_team": "Tommy Douglas SS",
             "away_team": "Unionville HS",
             "time": "3:45 PM",
