@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, February 11, 2026 - PLAYOFFS",
-            "home_team": "Stephen Lewis SS",
-            "away_team": "Holy Cross",
-            "time": "3:45 PM",
-            "location": "Stephen Lewis SS",
-            "game_played": true,
-            "final_score": "Stephen Lewis SS 73, Holy Cross 63"
-        },
-        {
             "date": "Thursday, February 12, 2026 - PLAYOFFS",
             "home_team": "Bill Crothers SS",
             "away_team": "Stouffville",
@@ -146,6 +137,15 @@
         },
         {
             "date": "Tuesday, February 17, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, February 18, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

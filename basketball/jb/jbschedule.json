@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, February 11, 2026 - PLAYOFFS",
-            "home_team": "Westmount",
-            "away_team": "St. Robert",
-            "time": "3:45 PM",
-            "location": "Westmount CI",
-            "game_played": true,
-            "final_score": "Westmount 62, St. Robert 48"
-        },
-        {
             "date": "Thursday, February 12, 2026 - PLAYOFFS",
             "home_team": "Dr. G.W. Williams",
             "away_team": "Father Bressani",
@@ -74,6 +65,15 @@
         },
         {
             "date": "Tuesday, February 17, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, February 18, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

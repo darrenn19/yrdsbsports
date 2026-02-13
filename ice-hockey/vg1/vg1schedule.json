@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, February 11, 2026 - PLAYOFFS",
-            "home_team": "St. Maximilian",
-            "away_team": "St. Theresa Of Lisieux",
-            "time": "3:00 PM",
-            "location": "Stronach Aurora Recreation Complex",
-            "game_played": true,
-            "final_score": "St. Maximilian 4, St. Theresa Of Lisieux 0"
-        },
-        {
             "date": "Thursday, February 12, 2026",
             "home_team": null,
             "away_team": null,
@@ -56,6 +47,15 @@
         },
         {
             "date": "Tuesday, February 17, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, February 18, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
