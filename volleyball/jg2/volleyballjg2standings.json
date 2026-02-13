@@ -217,6 +217,18 @@
             "DIFF": "86"
         },
         {
+            "Team": "Dr. J.M. Denison",
+            "MP": "4",
+            "MW": "3",
+            "ML": "1",
+            "GW": "7",
+            "GL": "2",
+            "PTS": "3",
+            "PF": "201",
+            "PA": "153",
+            "DIFF": "48"
+        },
+        {
             "Team": "Sutton District",
             "MP": "4",
             "MW": "2",
@@ -230,27 +242,15 @@
         },
         {
             "Team": "Our Lady Of The Lake",
-            "MP": "3",
+            "MP": "4",
             "MW": "2",
-            "ML": "1",
+            "ML": "2",
             "GW": "4",
-            "GL": "2",
+            "GL": "4",
             "PTS": "2",
-            "PF": "138",
-            "PA": "99",
-            "DIFF": "39"
-        },
-        {
-            "Team": "Dr. J.M. Denison",
-            "MP": "3",
-            "MW": "2",
-            "ML": "1",
-            "GW": "5",
-            "GL": "2",
-            "PTS": "2",
-            "PF": "149",
-            "PA": "109",
-            "DIFF": "40"
+            "PF": "182",
+            "PA": "151",
+            "DIFF": "31"
         },
         {
             "Team": "Keswick High School",
