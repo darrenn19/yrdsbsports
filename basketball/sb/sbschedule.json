@@ -11,6 +11,15 @@
         },
         {
             "date": "Thursday, February 12, 2026 - PLAYOFFS",
+            "home_team": "Bill Crothers SS",
+            "away_team": "Stouffville",
+            "time": "4:00 PM",
+            "location": "Bill Crothers SS",
+            "game_played": true,
+            "final_score": "Bill Crothers SS 79, Stouffville 60"
+        },
+        {
+            "date": "Thursday, February 12, 2026 - PLAYOFFS",
             "home_team": "Hodan Nalayeh SS",
             "away_team": "St. Elizabeth",
             "time": "3:45 PM",
@@ -29,12 +38,30 @@
         },
         {
             "date": "Thursday, February 12, 2026 - PLAYOFFS",
+            "home_team": "Newmarket HS",
+            "away_team": "Pierre Elliott Trudeau",
+            "time": "3:45 PM",
+            "location": "Newmarket HS",
+            "game_played": true,
+            "final_score": "Newmarket HS 55, Pierre Elliott Trudeau 57"
+        },
+        {
+            "date": "Thursday, February 12, 2026 - PLAYOFFS",
             "home_team": "Richmond Hill HS",
             "away_team": "Maple High School",
             "time": "3:45 PM",
             "location": "Richmond Hill HS",
             "game_played": true,
             "final_score": "Richmond Hill HS 73, Maple High School 77"
+        },
+        {
+            "date": "Thursday, February 12, 2026 - PLAYOFFS",
+            "home_team": "Sacred Heart",
+            "away_team": "Bur Oak SS",
+            "time": "3:45 PM",
+            "location": "Sacred Heart CHS",
+            "game_played": true,
+            "final_score": "Sacred Heart 52, Bur Oak SS 61"
         },
         {
             "date": "Thursday, February 12, 2026 - PLAYOFFS",
