@@ -20,6 +20,15 @@
         },
         {
             "date": "Thursday, February 19, 2026 - PLAYOFFS",
+            "home_team": "Thornhill SS",
+            "away_team": "Toronto District Christian",
+            "time": "3:45 PM",
+            "location": "Thornhill SS",
+            "game_played": true,
+            "final_score": "Thornhill SS 60, Toronto District Christian 68"
+        },
+        {
+            "date": "Thursday, February 19, 2026 - PLAYOFFS",
             "home_team": "Tommy Douglas SS",
             "away_team": "St. Maximilian",
             "time": "3:45 PM",
