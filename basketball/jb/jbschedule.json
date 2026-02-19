@@ -11,12 +11,21 @@
         },
         {
             "date": "Thursday, February 19, 2026 - PLAYOFFS",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Markville",
+            "away_team": "Father Bressani",
+            "time": "3:45 PM",
+            "location": "Markville SS",
+            "game_played": true,
+            "final_score": "Markville 69, Father Bressani 65"
+        },
+        {
+            "date": "Thursday, February 19, 2026 - PLAYOFFS",
+            "home_team": "Westmount",
+            "away_team": "Bur Oak SS",
+            "time": "3:45 PM",
+            "location": "Westmount CI",
+            "game_played": true,
+            "final_score": "Westmount 62, Bur Oak SS 63"
         },
         {
             "date": "Friday, February 20, 2026",
