@@ -11,6 +11,15 @@
         },
         {
             "date": "Thursday, February 19, 2026 - PLAYOFFS",
+            "home_team": "Bur Oak SS",
+            "away_team": "Maple High School",
+            "time": "3:45 PM",
+            "location": "Bur Oak SS",
+            "game_played": true,
+            "final_score": "Bur Oak SS 72, Maple High School 54"
+        },
+        {
+            "date": "Thursday, February 19, 2026 - PLAYOFFS",
             "home_team": "Keswick High School",
             "away_team": "St. Joan Of Arc",
             "time": "3:45 PM",
