@@ -14,39 +14,39 @@
         },
         {
             "Team": "Bayview SS",
-            "MP": "4",
+            "MP": "5",
             "MW": "4",
-            "ML": "0",
-            "GW": "8",
-            "GL": "0",
+            "ML": "1",
+            "GW": "9",
+            "GL": "2",
             "PTS": "4",
-            "PF": "202",
-            "PA": "131",
-            "DIFF": "71"
-        },
-        {
-            "Team": "Renaissance ESC",
-            "MP": "4",
-            "MW": "2",
-            "ML": "2",
-            "GW": "4",
-            "GL": "4",
-            "PTS": "2",
-            "PF": "157",
-            "PA": "172",
-            "DIFF": "-15"
+            "PF": "253",
+            "PA": "189",
+            "DIFF": "64"
         },
         {
             "Team": "Unionville HS",
-            "MP": "2",
-            "MW": "1",
+            "MP": "4",
+            "MW": "3",
             "ML": "1",
-            "GW": "2",
-            "GL": "2",
-            "PTS": "1",
-            "PF": "87",
-            "PA": "86",
-            "DIFF": "1"
+            "GW": "6",
+            "GL": "3",
+            "PTS": "3",
+            "PF": "195",
+            "PA": "165",
+            "DIFF": "30"
+        },
+        {
+            "Team": "Renaissance ESC",
+            "MP": "5",
+            "MW": "2",
+            "ML": "3",
+            "GW": "4",
+            "GL": "6",
+            "PTS": "2",
+            "PF": "185",
+            "PA": "222",
+            "DIFF": "-37"
         },
         {
             "Team": "Thornhill SS",
@@ -97,16 +97,28 @@
             "DIFF": "57"
         },
         {
-            "Team": "Father McGivney",
-            "MP": "4",
+            "Team": "St. Katharine Drexel",
+            "MP": "6",
             "MW": "3",
-            "ML": "1",
+            "ML": "3",
             "GW": "7",
-            "GL": "2",
+            "GL": "9",
             "PTS": "3",
-            "PF": "202",
-            "PA": "160",
-            "DIFF": "42"
+            "PF": "328",
+            "PA": "338",
+            "DIFF": "-10"
+        },
+        {
+            "Team": "Father McGivney",
+            "MP": "5",
+            "MW": "3",
+            "ML": "2",
+            "GW": "8",
+            "GL": "4",
+            "PTS": "3",
+            "PF": "261",
+            "PA": "225",
+            "DIFF": "36"
         },
         {
             "Team": "Bill Hogarth SS",
@@ -121,6 +133,18 @@
             "DIFF": "-12"
         },
         {
+            "Team": "Stouffville",
+            "MP": "5",
+            "MW": "2",
+            "ML": "3",
+            "GW": "4",
+            "GL": "6",
+            "PTS": "2",
+            "PF": "207",
+            "PA": "225",
+            "DIFF": "-18"
+        },
+        {
             "Team": "Middlefield",
             "MP": "4",
             "MW": "2",
@@ -133,18 +157,6 @@
             "DIFF": "20"
         },
         {
-            "Team": "St. Katharine Drexel",
-            "MP": "4",
-            "MW": "2",
-            "ML": "2",
-            "GW": "5",
-            "GL": "6",
-            "PTS": "2",
-            "PF": "223",
-            "PA": "229",
-            "DIFF": "-6"
-        },
-        {
             "Team": "Markham District",
             "MP": "4",
             "MW": "1",
@@ -155,18 +167,6 @@
             "PF": "174",
             "PA": "200",
             "DIFF": "-26"
-        },
-        {
-            "Team": "Stouffville",
-            "MP": "4",
-            "MW": "1",
-            "ML": "3",
-            "GW": "2",
-            "GL": "6",
-            "PTS": "1",
-            "PF": "157",
-            "PA": "185",
-            "DIFF": "-28"
         },
         {
             "Team": "Bur Oak SS",
@@ -217,6 +217,30 @@
             "DIFF": "86"
         },
         {
+            "Team": "Sutton District",
+            "MP": "6",
+            "MW": "3",
+            "ML": "3",
+            "GW": "6",
+            "GL": "6",
+            "PTS": "3",
+            "PF": "216",
+            "PA": "228",
+            "DIFF": "-12"
+        },
+        {
+            "Team": "Our Lady Of The Lake",
+            "MP": "5",
+            "MW": "3",
+            "ML": "2",
+            "GW": "6",
+            "GL": "4",
+            "PTS": "3",
+            "PF": "232",
+            "PA": "151",
+            "DIFF": "81"
+        },
+        {
             "Team": "Dr. J.M. Denison",
             "MP": "4",
             "MW": "3",
@@ -227,30 +251,6 @@
             "PF": "201",
             "PA": "153",
             "DIFF": "48"
-        },
-        {
-            "Team": "Sutton District",
-            "MP": "4",
-            "MW": "2",
-            "ML": "2",
-            "GW": "4",
-            "GL": "4",
-            "PTS": "2",
-            "PF": "166",
-            "PA": "161",
-            "DIFF": "5"
-        },
-        {
-            "Team": "Our Lady Of The Lake",
-            "MP": "4",
-            "MW": "2",
-            "ML": "2",
-            "GW": "4",
-            "GL": "4",
-            "PTS": "2",
-            "PF": "182",
-            "PA": "151",
-            "DIFF": "31"
         },
         {
             "Team": "Keswick High School",
@@ -278,15 +278,15 @@
         },
         {
             "Team": "Sacred Heart",
-            "MP": "4",
+            "MP": "5",
             "MW": "0",
-            "ML": "4",
+            "ML": "5",
             "GW": "0",
-            "GL": "8",
+            "GL": "10",
             "PTS": "0",
-            "PF": "109",
-            "PA": "203",
-            "DIFF": "-94"
+            "PF": "126",
+            "PA": "253",
+            "DIFF": "-127"
         },
         {
             "Team": "West",
