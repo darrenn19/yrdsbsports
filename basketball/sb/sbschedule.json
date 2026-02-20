@@ -2,6 +2,15 @@
     "schedule": [
         {
             "date": "Thursday, February 19, 2026 - PLAYOFFS",
+            "home_team": "Bill Crothers SS",
+            "away_team": "Stephen Lewis SS",
+            "time": "4:00 PM",
+            "location": "Bill Crothers SS",
+            "game_played": true,
+            "final_score": "Bill Crothers SS 91, Stephen Lewis SS 75"
+        },
+        {
+            "date": "Thursday, February 19, 2026 - PLAYOFFS",
             "home_team": "Bur Oak SS",
             "away_team": "Maple High School",
             "time": "3:45 PM",
