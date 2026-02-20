@@ -29,6 +29,15 @@
         },
         {
             "date": "Thursday, February 19, 2026 - PLAYOFFS",
+            "home_team": "St. Elizabeth",
+            "away_team": "Pierre Elliott Trudeau",
+            "time": "3:45 PM",
+            "location": "St Elizabeth CHS",
+            "game_played": true,
+            "final_score": "St. Elizabeth 59, Pierre Elliott Trudeau 65"
+        },
+        {
+            "date": "Thursday, February 19, 2026 - PLAYOFFS",
             "home_team": "Thornhill SS",
             "away_team": "Toronto District Christian",
             "time": "3:45 PM",
