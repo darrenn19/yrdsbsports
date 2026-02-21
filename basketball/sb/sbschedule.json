@@ -1,60 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, February 19, 2026 - PLAYOFFS",
-            "home_team": "Bill Crothers SS",
-            "away_team": "Stephen Lewis SS",
-            "time": "4:00 PM",
-            "location": "Bill Crothers SS",
-            "game_played": true,
-            "final_score": "Bill Crothers SS 91, Stephen Lewis SS 75"
-        },
-        {
-            "date": "Thursday, February 19, 2026 - PLAYOFFS",
-            "home_team": "Bur Oak SS",
-            "away_team": "Maple High School",
-            "time": "3:45 PM",
-            "location": "Bur Oak SS",
-            "game_played": true,
-            "final_score": "Bur Oak SS 72, Maple High School 54"
-        },
-        {
-            "date": "Thursday, February 19, 2026 - PLAYOFFS",
-            "home_team": "Keswick High School",
-            "away_team": "St. Joan Of Arc",
-            "time": "3:45 PM",
-            "location": "Keswick HS",
-            "game_played": true,
-            "final_score": "Keswick High School 72, St. Joan Of Arc 56"
-        },
-        {
-            "date": "Thursday, February 19, 2026 - PLAYOFFS",
-            "home_team": "St. Elizabeth",
-            "away_team": "Pierre Elliott Trudeau",
-            "time": "3:45 PM",
-            "location": "St Elizabeth CHS",
-            "game_played": true,
-            "final_score": "St. Elizabeth 59, Pierre Elliott Trudeau 65"
-        },
-        {
-            "date": "Thursday, February 19, 2026 - PLAYOFFS",
-            "home_team": "Thornhill SS",
-            "away_team": "Toronto District Christian",
-            "time": "3:45 PM",
-            "location": "Thornhill SS",
-            "game_played": true,
-            "final_score": "Thornhill SS 60, Toronto District Christian 68"
-        },
-        {
-            "date": "Thursday, February 19, 2026 - PLAYOFFS",
-            "home_team": "Tommy Douglas SS",
-            "away_team": "St. Maximilian",
-            "time": "3:45 PM",
-            "location": "Tommy Douglas SS",
-            "game_played": true,
-            "final_score": "Tommy Douglas SS 64, St. Maximilian 52"
-        },
-        {
             "date": "Friday, February 20, 2026",
             "home_team": null,
             "away_team": null,
@@ -101,6 +47,15 @@
         },
         {
             "date": "Wednesday, February 25, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, February 26, 2026 - PLAYOFFS",
             "home_team": null,
             "away_team": null,
             "time": null,
