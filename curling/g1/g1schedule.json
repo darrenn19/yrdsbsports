@@ -11,12 +11,12 @@
         },
         {
             "date": "Monday, February 23, 2026 - PLAYOFFS",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "St. Augustine",
+            "away_team": "Bill Hogarth SS",
+            "time": "2:30 PM",
+            "location": "York Curling Club",
+            "game_played": true,
+            "final_score": "St. Augustine 7, Bill Hogarth SS 0"
         },
         {
             "date": "Tuesday, February 24, 2026",
