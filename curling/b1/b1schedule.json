@@ -11,21 +11,21 @@
         },
         {
             "date": "Monday, February 23, 2026 - PLAYOFFS",
-            "home_team": "King City SS",
-            "away_team": "Bill Crothers SS",
-            "time": "2:30 PM",
-            "location": "York Curling Club",
-            "game_played": true,
-            "final_score": "King City SS 13, Bill Crothers SS 0"
-        },
-        {
-            "date": "Monday, February 23, 2026 - PLAYOFFS",
             "home_team": "St. Augustine",
             "away_team": "St. Robert",
             "time": "2:30 PM",
             "location": "York Curling Club",
             "game_played": true,
             "final_score": "St. Augustine 6, St. Robert 4"
+        },
+        {
+            "date": "Monday, February 23, 2026 - PLAYOFFS",
+            "home_team": "King City SS",
+            "away_team": "Bill Crothers SS",
+            "time": "2:30 PM",
+            "location": "York Curling Club",
+            "game_played": true,
+            "final_score": "King City SS 13, Bill Crothers SS 0"
         },
         {
             "date": "Tuesday, February 24, 2026",

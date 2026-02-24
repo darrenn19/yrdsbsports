@@ -19,6 +19,15 @@
             "final_score": "Aurora HS 3, Markham District 0"
         },
         {
+            "date": "Monday, February 23, 2026 - PLAYOFFS",
+            "home_team": "Keswick High School",
+            "away_team": "Father Bressani",
+            "time": "2:00 PM",
+            "location": "Georgina Ice Palace",
+            "game_played": true,
+            "final_score": "Keswick High School 2, Father Bressani 1"
+        },
+        {
             "date": "Tuesday, February 24, 2026 - PLAYOFFS",
             "home_team": null,
             "away_team": null,

@@ -11,12 +11,21 @@
         },
         {
             "date": "Monday, February 23, 2026 - PLAYOFFS",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Bill Crothers SS",
+            "away_team": "Pierre Elliott Trudeau",
+            "time": "4:00 PM",
+            "location": "Bill Crothers SS",
+            "game_played": true,
+            "final_score": "Bill Crothers SS 57, Pierre Elliott Trudeau 48"
+        },
+        {
+            "date": "Monday, February 23, 2026 - PLAYOFFS",
+            "home_team": "Tommy Douglas SS",
+            "away_team": "Bur Oak SS",
+            "time": "3:45 PM",
+            "location": "Tommy Douglas SS",
+            "game_played": true,
+            "final_score": "Tommy Douglas SS 60, Bur Oak SS 68"
         },
         {
             "date": "Tuesday, February 24, 2026",
