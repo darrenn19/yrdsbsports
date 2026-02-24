@@ -2,21 +2,21 @@
     "schedule": [
         {
             "date": "Monday, February 23, 2026 - PLAYOFFS",
-            "home_team": "St. Augustine",
-            "away_team": "Bill Hogarth SS",
-            "time": "2:30 PM",
-            "location": "York Curling Club",
-            "game_played": true,
-            "final_score": "St. Augustine 7, Bill Hogarth SS 0"
-        },
-        {
-            "date": "Monday, February 23, 2026 - PLAYOFFS",
             "home_team": "Bill Crothers SS",
             "away_team": "St. Robert",
             "time": "2:30 PM",
             "location": "York Curling Club",
             "game_played": true,
             "final_score": "Bill Crothers SS 15, St. Robert 0"
+        },
+        {
+            "date": "Monday, February 23, 2026 - PLAYOFFS",
+            "home_team": "St. Augustine",
+            "away_team": "Bill Hogarth SS",
+            "time": "2:30 PM",
+            "location": "York Curling Club",
+            "game_played": true,
+            "final_score": "St. Augustine 7, Bill Hogarth SS 0"
         },
         {
             "date": "Tuesday, February 24, 2026",
