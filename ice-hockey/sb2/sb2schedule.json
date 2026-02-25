@@ -10,6 +10,15 @@
             "final_score": "Father Bressani 1, Keswick High School 3"
         },
         {
+            "date": "Tuesday, February 24, 2026 - PLAYOFFS",
+            "home_team": "Markham District",
+            "away_team": "Aurora HS",
+            "time": "2:00 PM",
+            "location": "Markham Village Arena",
+            "game_played": true,
+            "final_score": "Markham District 2, Aurora HS 4"
+        },
+        {
             "date": "Wednesday, February 25, 2026",
             "home_team": null,
             "away_team": null,
