@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, February 24, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
-        },
-        {
             "date": "Wednesday, February 25, 2026",
             "home_team": null,
             "away_team": null,
@@ -56,6 +47,15 @@
         },
         {
             "date": "Monday, March 2, 2026 - PLAYOFFS",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, March 3, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
