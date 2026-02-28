@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, February 26, 2026 - PLAYOFFS",
-            "home_team": "Markville",
-            "away_team": "Bur Oak SS",
-            "time": "5:30 PM",
-            "location": "Bill Crothers SS",
-            "game_played": true,
-            "final_score": "Markville 57, Bur Oak SS 52"
-        },
-        {
             "date": "Friday, February 27, 2026",
             "home_team": null,
             "away_team": null,
@@ -56,6 +47,15 @@
         },
         {
             "date": "Wednesday, March 4, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, March 5, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
