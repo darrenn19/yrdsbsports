@@ -109,6 +109,18 @@
             "DIFF": "-8"
         },
         {
+            "Team": "Father McGivney",
+            "MP": "8",
+            "MW": "4",
+            "ML": "4",
+            "GW": "11",
+            "GL": "8",
+            "PTS": "4",
+            "PF": "397",
+            "PA": "372",
+            "DIFF": "25"
+        },
+        {
             "Team": "Middlefield",
             "MP": "6",
             "MW": "4",
@@ -122,15 +134,15 @@
         },
         {
             "Team": "Bill Hogarth SS",
-            "MP": "5",
+            "MP": "6",
             "MW": "3",
-            "ML": "2",
+            "ML": "3",
             "GW": "7",
-            "GL": "6",
+            "GL": "8",
             "PTS": "3",
-            "PF": "235",
-            "PA": "265",
-            "DIFF": "-30"
+            "PF": "270",
+            "PA": "315",
+            "DIFF": "-45"
         },
         {
             "Team": "Stouffville",
@@ -143,18 +155,6 @@
             "PF": "337",
             "PA": "366",
             "DIFF": "-29"
-        },
-        {
-            "Team": "Father McGivney",
-            "MP": "7",
-            "MW": "3",
-            "ML": "4",
-            "GW": "9",
-            "GL": "8",
-            "PTS": "3",
-            "PF": "347",
-            "PA": "337",
-            "DIFF": "10"
         },
         {
             "Team": "Markham District",
