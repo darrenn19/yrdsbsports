@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Sunday, March 1, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
-        },
-        {
             "date": "Monday, March 2, 2026 - PLAYOFFS",
             "home_team": "St. Theresa Of Lisieux",
             "away_team": "Bill Crothers SS",
@@ -56,6 +47,15 @@
         },
         {
             "date": "Saturday, March 7, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Sunday, March 8, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
