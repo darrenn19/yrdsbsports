@@ -2,21 +2,21 @@
     "schedule": [
         {
             "date": "Monday, March 2, 2026 - PLAYOFFS",
-            "home_team": "St. Theresa Of Lisieux",
-            "away_team": "Bill Crothers SS",
-            "time": "2:30 PM",
-            "location": "York Curling Club",
-            "game_played": true,
-            "final_score": "St. Theresa Of Lisieux 3, Bill Crothers SS 5"
-        },
-        {
-            "date": "Monday, March 2, 2026 - PLAYOFFS",
             "home_team": "Sacred Heart",
             "away_team": "St. Augustine",
             "time": "2:30 PM",
             "location": "York Curling Club",
             "game_played": true,
             "final_score": "Sacred Heart 7, St. Augustine 1"
+        },
+        {
+            "date": "Monday, March 2, 2026 - PLAYOFFS",
+            "home_team": "St. Theresa Of Lisieux",
+            "away_team": "Bill Crothers SS",
+            "time": "2:30 PM",
+            "location": "York Curling Club",
+            "game_played": true,
+            "final_score": "St. Theresa Of Lisieux 3, Bill Crothers SS 5"
         },
         {
             "date": "Tuesday, March 3, 2026",
