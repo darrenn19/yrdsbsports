@@ -2,21 +2,21 @@
     "schedule": [
         {
             "date": "Monday, March 2, 2026 - PLAYOFFS",
-            "home_team": "Tommy Douglas SS",
-            "away_team": "St. Augustine",
-            "time": "2:30 PM",
-            "location": "York Curling Club",
-            "game_played": true,
-            "final_score": "Tommy Douglas SS 13, St. Augustine 1"
-        },
-        {
-            "date": "Monday, March 2, 2026 - PLAYOFFS",
             "home_team": "Sacred Heart",
             "away_team": "King City SS",
             "time": "2:30 PM",
             "location": "York Curling Club",
             "game_played": true,
             "final_score": "Sacred Heart 5, King City SS 4"
+        },
+        {
+            "date": "Monday, March 2, 2026 - PLAYOFFS",
+            "home_team": "Tommy Douglas SS",
+            "away_team": "St. Augustine",
+            "time": "2:30 PM",
+            "location": "York Curling Club",
+            "game_played": true,
+            "final_score": "Tommy Douglas SS 13, St. Augustine 1"
         },
         {
             "date": "Tuesday, March 3, 2026",
