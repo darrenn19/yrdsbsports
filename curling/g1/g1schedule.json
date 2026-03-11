@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, March 9, 2026 - PLAYOFFS",
-            "home_team": "Sacred Heart",
-            "away_team": "Bill Crothers SS",
-            "time": "2:30 PM",
-            "location": "York Curling Club",
-            "game_played": true,
-            "final_score": "Sacred Heart 7, Bill Crothers SS 3"
-        },
-        {
             "date": "Tuesday, March 10, 2026",
             "home_team": null,
             "away_team": null,
@@ -56,6 +47,15 @@
         },
         {
             "date": "Sunday, March 15, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, March 16, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
