@@ -1,3 +1,174 @@
 {
-    "standings": []
+    "standings": [
+        {
+            "Team": "Central",
+            "W": "W",
+            "L": "L",
+            "T": "T",
+            "PTS": "PTS",
+            "SPTS": "SPTS",
+            "PF": "PF",
+            "PA": "PA"
+        },
+        {
+            "Team": "Innova Academy",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Langstaff SS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Alexander Mackenzie",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "East",
+            "W": "W",
+            "L": "L",
+            "T": "T",
+            "PTS": "PTS",
+            "SPTS": "SPTS",
+            "PF": "PF",
+            "PA": "PA"
+        },
+        {
+            "Team": "Markville",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Sacred Heart",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Stouffville",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Milliken Mills",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Bur Oak SS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "St. Augustine",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "North",
+            "W": "W",
+            "L": "L",
+            "T": "T",
+            "PTS": "PTS",
+            "SPTS": "SPTS",
+            "PF": "PF",
+            "PA": "PA"
+        },
+        {
+            "Team": "Dr. J.M. Denison",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "West",
+            "W": "W",
+            "L": "L",
+            "T": "T",
+            "PTS": "PTS",
+            "SPTS": "SPTS",
+            "PF": "PF",
+            "PA": "PA"
+        },
+        {
+            "Team": "Stephen Lewis SS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Maple High School",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Westmount",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        }
+    ]
 }

@@ -1,3 +1,54 @@
 {
-    "standings": []
+    "standings": [
+        {
+            "Team": "East",
+            "W": "W",
+            "L": "L",
+            "T": "T",
+            "PTS": "PTS",
+            "GF": "GF",
+            "GA": "GA",
+            "DIFF": "DIFF"
+        },
+        {
+            "Team": "Sacred Heart",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "St. Theresa Of Lisieux",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "West",
+            "W": "W",
+            "L": "L",
+            "T": "T",
+            "PTS": "PTS",
+            "GF": "GF",
+            "GA": "GA",
+            "DIFF": "DIFF"
+        },
+        {
+            "Team": "St. Elizabeth",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        }
+    ]
 }
