@@ -11,6 +11,16 @@
             "PA": "PA"
         },
         {
+            "Team": "Richmond Green SS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
             "Team": "Renaissance ESC",
             "W": "0",
             "L": "0",
@@ -31,7 +41,47 @@
             "PA": "PA"
         },
         {
-            "Team": "Pierre Elliott Trudeau",
+            "Team": "Markham District",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Bill Hogarth SS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "St. Maximilian",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Bill Crothers SS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Cardinal Carter",
             "W": "0",
             "L": "0",
             "T": "0",
@@ -42,6 +92,16 @@
         },
         {
             "Team": "Markville",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Pierre Elliott Trudeau",
             "W": "0",
             "L": "0",
             "T": "0",
@@ -72,6 +132,66 @@
         },
         {
             "Team": "Bur Oak SS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "West",
+            "W": "W",
+            "L": "L",
+            "T": "T",
+            "PTS": "PTS",
+            "SPTS": "SPTS",
+            "PF": "PF",
+            "PA": "PA"
+        },
+        {
+            "Team": "Holy Cross",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Hodan Nalayeh SS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Thornlea SS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Tommy Douglas SS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Toronto District Christian",
             "W": "0",
             "L": "0",
             "T": "0",

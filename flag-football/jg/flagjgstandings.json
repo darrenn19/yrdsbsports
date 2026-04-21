@@ -11,7 +11,87 @@
             "PA": "PA"
         },
         {
-            "Team": "Stouffville",
+            "Team": "Markham District",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "ESC De L Ascension",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Huron Heights",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Dr. G.W. Williams",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Bill Crothers SS",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Thornlea SS",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Woodbridge College",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Aurora HS",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Markville",
             "GP": "0",
             "W": "0",
             "L": "0",
@@ -31,7 +111,7 @@
             "PA": "0"
         },
         {
-            "Team": "Markville",
+            "Team": "Stouffville",
             "GP": "0",
             "W": "0",
             "L": "0",

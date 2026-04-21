@@ -1,3 +1,58 @@
 {
-    "standings": []
+    "standings": [
+        {
+            "Team": "Central",
+            "W": "W",
+            "L": "L",
+            "T": "T",
+            "PTS": "PTS",
+            "PF": "PF",
+            "PA": "PA"
+        },
+        {
+            "Team": "Bill Crothers SS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Sir William Mulock",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Sutton District",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Keswick High School",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Aurora HS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0"
+        }
+    ]
 }

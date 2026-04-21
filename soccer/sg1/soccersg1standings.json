@@ -11,6 +11,36 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "St. Brother Andre",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "St. Maximilian",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Cardinal Carter",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
             "Team": "Sacred Heart",
             "W": "0",
             "L": "0",
@@ -39,6 +69,46 @@
             "GF": "GF",
             "GA": "GA",
             "DIFF": "DIFF"
+        },
+        {
+            "Team": "Holy Cross",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "St. Joan Of Arc",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Father Bressani",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "St. Jean De Brebeuf CHS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
         },
         {
             "Team": "St. Elizabeth",

@@ -11,6 +11,46 @@
             "PA": "PA"
         },
         {
+            "Team": "St. Robert",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Bayview SS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Keswick High School",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Richmond Hill HS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
             "Team": "Innova Academy",
             "W": "0",
             "L": "0",
@@ -49,6 +89,56 @@
             "SPTS": "SPTS",
             "PF": "PF",
             "PA": "PA"
+        },
+        {
+            "Team": "St. Brother Andre",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Middlefield",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Bill Hogarth SS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Unionville HS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Father McGivney",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
         },
         {
             "Team": "Markville",
@@ -121,6 +211,46 @@
             "PA": "PA"
         },
         {
+            "Team": "Dr. G.W. Williams",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Sir William Mulock",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Huron Heights",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Newmarket HS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
             "Team": "Dr. J.M. Denison",
             "W": "0",
             "L": "0",
@@ -139,6 +269,66 @@
             "SPTS": "SPTS",
             "PF": "PF",
             "PA": "PA"
+        },
+        {
+            "Team": "Thornhill SS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Thornlea SS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "St. Joan Of Arc",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Father Bressani",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "St. Jean De Brebeuf CHS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Toronto District Christian",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
         },
         {
             "Team": "Stephen Lewis SS",

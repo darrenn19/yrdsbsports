@@ -11,7 +11,37 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "St. Robert",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
             "Team": "King City SS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Richmond Green SS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Richmond Hill HS",
             "W": "0",
             "L": "0",
             "T": "0",
@@ -39,6 +69,46 @@
             "GF": "GF",
             "GA": "GA",
             "DIFF": "DIFF"
+        },
+        {
+            "Team": "Middlefield",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Bill Crothers SS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Unionville HS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Father McGivney",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
         },
         {
             "Team": "Milliken Mills",
@@ -69,6 +139,36 @@
             "GF": "GF",
             "GA": "GA",
             "DIFF": "DIFF"
+        },
+        {
+            "Team": "St. Brother Andre",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Markham District",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Bill Hogarth SS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
         },
         {
             "Team": "Pierre Elliott Trudeau",
@@ -111,6 +211,56 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Sir William Mulock",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Huron Heights",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Keswick High School",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Aurora HS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Newmarket HS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
             "Team": "Dr. J.M. Denison",
             "W": "0",
             "L": "0",
@@ -129,6 +279,56 @@
             "GF": "GF",
             "GA": "GA",
             "DIFF": "DIFF"
+        },
+        {
+            "Team": "Hodan Nalayeh SS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Thornhill SS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Thornlea SS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Woodbridge College",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Toronto District Christian",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "0",
+            "DIFF": "0"
         },
         {
             "Team": "Westmount",

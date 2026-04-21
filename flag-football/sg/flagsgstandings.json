@@ -11,6 +11,76 @@
             "PA": "PA"
         },
         {
+            "Team": "Bill Crothers SS",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Thornhill SS",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Thornlea SS",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Bayview SS",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Richmond Green SS",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Cardinal Carter",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Richmond Hill HS",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
             "Team": "St. Elizabeth",
             "GP": "0",
             "W": "0",
@@ -41,7 +111,37 @@
             "PA": "PA"
         },
         {
-            "Team": "Stouffville",
+            "Team": "Markham District",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Bill Hogarth SS",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Unionville HS",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Father McGivney",
             "GP": "0",
             "W": "0",
             "L": "0",
@@ -52,6 +152,16 @@
         },
         {
             "Team": "Markville",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Stouffville",
             "GP": "0",
             "W": "0",
             "L": "0",
@@ -91,6 +201,66 @@
             "PA": "PA"
         },
         {
+            "Team": "Huron Heights",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Dr. G.W. Williams",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Sir William Mulock",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "St. Maximilian",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Sutton District",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Aurora HS",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
             "Team": "Sacred Heart",
             "GP": "0",
             "W": "0",
@@ -119,6 +289,76 @@
             "PTS": "PTS",
             "PF": "PF",
             "PA": "PA"
+        },
+        {
+            "Team": "Hodan Nalayeh SS",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Emily Carr",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Tommy Douglas SS",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "St. Joan Of Arc",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Woodbridge College",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Father Bressani",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "St. Jean De Brebeuf CHS",
+            "GP": "0",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0"
         },
         {
             "Team": "Stephen Lewis SS",

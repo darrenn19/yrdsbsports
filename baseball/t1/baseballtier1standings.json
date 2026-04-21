@@ -41,6 +41,36 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "St. Brother Andre",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "RF": "0",
+            "RA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Markham District",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "RF": "0",
+            "RA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "St. Maximilian",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "RF": "0",
+            "RA": "0",
+            "DIFF": "0"
+        },
+        {
             "Team": "Sacred Heart",
             "W": "0",
             "L": "0",
@@ -62,6 +92,86 @@
         },
         {
             "Team": "St. Augustine",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "RF": "0",
+            "RA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "North",
+            "W": "W",
+            "L": "L",
+            "T": "T",
+            "PTS": "PTS",
+            "RF": "RF",
+            "RA": "RA",
+            "DIFF": "DIFF"
+        },
+        {
+            "Team": "Sir William Mulock",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "RF": "0",
+            "RA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Aurora HS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "RF": "0",
+            "RA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Newmarket HS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "RF": "0",
+            "RA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "West",
+            "W": "W",
+            "L": "L",
+            "T": "T",
+            "PTS": "PTS",
+            "RF": "RF",
+            "RA": "RA",
+            "DIFF": "DIFF"
+        },
+        {
+            "Team": "Holy Cross",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "RF": "0",
+            "RA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "St. Joan Of Arc",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "RF": "0",
+            "RA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Father Bressani",
             "W": "0",
             "L": "0",
             "T": "0",
