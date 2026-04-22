@@ -21,16 +21,6 @@
             "PA": "0"
         },
         {
-            "Team": "Renaissance ESC",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "SPTS": "0",
-            "PF": "0",
-            "PA": "0"
-        },
-        {
             "Team": "East",
             "W": "W",
             "L": "L",
@@ -71,16 +61,6 @@
             "PA": "0"
         },
         {
-            "Team": "Bill Crothers SS",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "SPTS": "0",
-            "PF": "0",
-            "PA": "0"
-        },
-        {
             "Team": "Cardinal Carter",
             "W": "0",
             "L": "0",
@@ -111,16 +91,6 @@
             "PA": "0"
         },
         {
-            "Team": "St. Theresa Of Lisieux",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "SPTS": "0",
-            "PF": "0",
-            "PA": "0"
-        },
-        {
             "Team": "Milliken Mills",
             "W": "0",
             "L": "0",
@@ -132,6 +102,36 @@
         },
         {
             "Team": "Bur Oak SS",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "North",
+            "W": "W",
+            "L": "L",
+            "T": "T",
+            "PTS": "PTS",
+            "SPTS": "SPTS",
+            "PF": "PF",
+            "PA": "PA"
+        },
+        {
+            "Team": "Huron Heights",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Bill Crothers SS",
             "W": "0",
             "L": "0",
             "T": "0",
@@ -192,6 +192,26 @@
         },
         {
             "Team": "Toronto District Christian",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "Renaissance ESC",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "SPTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
+            "Team": "St. Theresa Of Lisieux",
             "W": "0",
             "L": "0",
             "T": "0",
