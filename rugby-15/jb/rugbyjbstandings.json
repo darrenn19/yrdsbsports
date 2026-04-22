@@ -28,6 +28,15 @@
             "PA": "0"
         },
         {
+            "Team": "Huron Heights",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "PF": "0",
+            "PA": "0"
+        },
+        {
             "Team": "St. Theresa Of Lisieux",
             "W": "0",
             "L": "0",
@@ -38,24 +47,6 @@
         },
         {
             "Team": "Stouffville",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0"
-        },
-        {
-            "Team": "North",
-            "W": "W",
-            "L": "L",
-            "T": "T",
-            "PTS": "PTS",
-            "PF": "PF",
-            "PA": "PA"
-        },
-        {
-            "Team": "Huron Heights",
             "W": "0",
             "L": "0",
             "T": "0",
