@@ -20,6 +20,24 @@
         },
         {
             "date": "Monday, April 27, 2026",
+            "home_team": "Stouffville",
+            "away_team": "Pierre Elliott Trudeau",
+            "time": "3:45 PM",
+            "location": "Stouffville DSS",
+            "game_played": true,
+            "final_score": "Stouffville 1, Pierre Elliott Trudeau 0"
+        },
+        {
+            "date": "Monday, April 27, 2026",
+            "home_team": "Toronto District Christian",
+            "away_team": "Hodan Nalayeh SS",
+            "time": "3:15 PM",
+            "location": "Vaughan Grove 1",
+            "game_played": true,
+            "final_score": "Toronto District Christian 3, Hodan Nalayeh SS 2"
+        },
+        {
+            "date": "Monday, April 27, 2026",
             "home_team": "Westmount",
             "away_team": "Woodbridge College",
             "time": "3:45 PM",
