@@ -12,13 +12,13 @@
         },
         {
             "Team": "Our Lady Queen Of The World",
-            "W": "0",
+            "W": "1",
             "L": "0",
             "T": "0",
-            "PTS": "0",
-            "GF": "0",
+            "PTS": "3",
+            "GF": "4",
             "GA": "0",
-            "DIFF": "0"
+            "DIFF": "4"
         },
         {
             "Team": "St. Robert",
@@ -33,12 +33,12 @@
         {
             "Team": "King City SS",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
             "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
+            "GA": "4",
+            "DIFF": "-4"
         },
         {
             "Team": "Richmond Green SS",
@@ -151,6 +151,16 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Markham District",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "3",
+            "GF": "7",
+            "GA": "0",
+            "DIFF": "5"
+        },
+        {
             "Team": "Stouffville",
             "W": "1",
             "L": "0",
@@ -161,34 +171,24 @@
             "DIFF": "1"
         },
         {
+            "Team": "Bill Hogarth SS",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "3",
+            "GF": "7",
+            "GA": "0",
+            "DIFF": "5"
+        },
+        {
             "Team": "St. Brother Andre",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
             "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "Markham District",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "Bill Hogarth SS",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
+            "GA": "7",
+            "DIFF": "-5"
         },
         {
             "Team": "Pierre Elliott Trudeau",
@@ -203,12 +203,12 @@
         {
             "Team": "Bur Oak SS",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
             "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
+            "GA": "7",
+            "DIFF": "-5"
         },
         {
             "Team": "North",

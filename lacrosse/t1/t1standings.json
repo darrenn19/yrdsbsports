@@ -11,21 +11,21 @@
         },
         {
             "Team": "Bill Crothers SS",
-            "W": "0",
+            "W": "1",
             "L": "0",
             "T": "0",
-            "PTS": "0",
-            "PF": "0",
+            "PTS": "2",
+            "PF": "7",
             "PA": "0"
         },
         {
             "Team": "Sir William Mulock",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
             "PF": "0",
-            "PA": "0"
+            "PA": "7"
         },
         {
             "Team": "Sutton District",
