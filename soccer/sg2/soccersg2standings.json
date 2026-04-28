@@ -151,6 +151,16 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Stouffville",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "3",
+            "GF": "1",
+            "GA": "0",
+            "DIFF": "1"
+        },
+        {
             "Team": "St. Brother Andre",
             "W": "0",
             "L": "0",
@@ -183,22 +193,12 @@
         {
             "Team": "Pierre Elliott Trudeau",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
             "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "Stouffville",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
+            "GA": "1",
+            "DIFF": "-1"
         },
         {
             "Team": "Bur Oak SS",
@@ -219,6 +219,26 @@
             "GF": "GF",
             "GA": "GA",
             "DIFF": "DIFF"
+        },
+        {
+            "Team": "Newmarket HS",
+            "W": "0",
+            "L": "0",
+            "T": "1",
+            "PTS": "1",
+            "GF": "1",
+            "GA": "1",
+            "DIFF": "0"
+        },
+        {
+            "Team": "Dr. J.M. Denison",
+            "W": "0",
+            "L": "0",
+            "T": "1",
+            "PTS": "1",
+            "GF": "1",
+            "GA": "1",
+            "DIFF": "0"
         },
         {
             "Team": "Sir William Mulock",
@@ -261,26 +281,6 @@
             "DIFF": "0"
         },
         {
-            "Team": "Newmarket HS",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "Dr. J.M. Denison",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
-        },
-        {
             "Team": "West",
             "W": "W",
             "L": "L",
@@ -291,14 +291,34 @@
             "DIFF": "DIFF"
         },
         {
-            "Team": "Hodan Nalayeh SS",
-            "W": "0",
+            "Team": "Toronto District Christian",
+            "W": "1",
             "L": "0",
             "T": "0",
-            "PTS": "0",
-            "GF": "0",
+            "PTS": "3",
+            "GF": "3",
+            "GA": "2",
+            "DIFF": "1"
+        },
+        {
+            "Team": "Westmount",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "3",
+            "GF": "2",
             "GA": "0",
-            "DIFF": "0"
+            "DIFF": "2"
+        },
+        {
+            "Team": "Hodan Nalayeh SS",
+            "W": "0",
+            "L": "1",
+            "T": "0",
+            "PTS": "0",
+            "GF": "2",
+            "GA": "3",
+            "DIFF": "-1"
         },
         {
             "Team": "Thornhill SS",
@@ -323,32 +343,12 @@
         {
             "Team": "Woodbridge College",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
             "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "Toronto District Christian",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "Westmount",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
+            "GA": "2",
+            "DIFF": "-2"
         }
     ]
 }
