@@ -19,6 +19,15 @@
             "final_score": "Bill Crothers SS 7, Sir William Mulock 0"
         },
         {
+            "date": "Tuesday, April 28, 2026",
+            "home_team": "Aurora HS",
+            "away_team": "Keswick High School",
+            "time": "2:45 PM",
+            "location": "Bill Crothers SS",
+            "game_played": true,
+            "final_score": "Aurora HS 0, Keswick High School 4"
+        },
+        {
             "date": "Wednesday, April 29, 2026",
             "home_team": null,
             "away_team": null,
