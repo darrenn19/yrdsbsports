@@ -11,12 +11,30 @@
         },
         {
             "date": "Tuesday, April 28, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Richmond Hill HS",
+            "away_team": "Richmond Green SS",
+            "time": "10:10 AM",
+            "location": "Bill Crothers SS",
+            "game_played": true,
+            "final_score": "Richmond Hill HS 0, Richmond Green SS 17"
+        },
+        {
+            "date": "Tuesday, April 28, 2026",
+            "home_team": "Bill Crothers SS",
+            "away_team": "Richmond Green SS",
+            "time": "12:40 PM",
+            "location": "Bill Crothers SS",
+            "game_played": true,
+            "final_score": "Bill Crothers SS 26, Richmond Green SS 6"
+        },
+        {
+            "date": "Tuesday, April 28, 2026",
+            "home_team": "Thornlea SS",
+            "away_team": "Richmond Green SS",
+            "time": "2:00 PM",
+            "location": "Bill Crothers SS",
+            "game_played": true,
+            "final_score": "Thornlea SS 6, Richmond Green SS 6"
         },
         {
             "date": "Wednesday, April 29, 2026",
