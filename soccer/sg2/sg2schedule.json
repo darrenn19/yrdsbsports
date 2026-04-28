@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Sunday, April 26, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
-        },
-        {
             "date": "Monday, April 27, 2026",
             "home_team": "Dr. J.M. Denison",
             "away_team": "Newmarket HS",
@@ -83,6 +74,15 @@
         },
         {
             "date": "Saturday, May 2, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Sunday, May 3, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
