@@ -28,6 +28,15 @@
             "final_score": "Aurora HS 0, Keswick High School 4"
         },
         {
+            "date": "Tuesday, April 28, 2026",
+            "home_team": "Bill Crothers SS",
+            "away_team": "Sutton District",
+            "time": "4:00 PM",
+            "location": "Bill Crothers SS",
+            "game_played": true,
+            "final_score": "Bill Crothers SS 1, Sutton District 3"
+        },
+        {
             "date": "Wednesday, April 29, 2026",
             "home_team": null,
             "away_team": null,

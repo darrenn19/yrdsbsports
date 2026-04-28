@@ -47,6 +47,15 @@
         },
         {
             "date": "Tuesday, April 28, 2026",
+            "home_team": "Bill Crothers SS",
+            "away_team": "Richmond Hill HS",
+            "time": "3:10 PM",
+            "location": "Bill Crothers SS",
+            "game_played": true,
+            "final_score": "Bill Crothers SS 6, Richmond Hill HS 7"
+        },
+        {
+            "date": "Tuesday, April 28, 2026",
             "home_team": "Thornlea SS",
             "away_team": "Bill Crothers SS",
             "time": "9:00 AM",
