@@ -11,6 +11,15 @@
         },
         {
             "date": "Wednesday, April 29, 2026",
+            "home_team": "Huron Heights",
+            "away_team": "Newmarket HS",
+            "time": "3:45 PM",
+            "location": "Huron Heights SS",
+            "game_played": true,
+            "final_score": "Huron Heights 5, Newmarket HS 2"
+        },
+        {
+            "date": "Wednesday, April 29, 2026",
             "home_team": "Sir William Mulock",
             "away_team": "Keswick High School",
             "time": "3:45 PM",
