@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, April 27, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
-        },
-        {
             "date": "Tuesday, April 28, 2026",
             "home_team": "Holy Cross",
             "away_team": "St. Jean De Brebeuf CHS",
@@ -65,6 +56,15 @@
         },
         {
             "date": "Sunday, May 3, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, May 4, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
