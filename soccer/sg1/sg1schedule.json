@@ -11,6 +11,15 @@
         },
         {
             "date": "Tuesday, April 28, 2026",
+            "home_team": "Holy Cross",
+            "away_team": "St. Jean De Brebeuf CHS",
+            "time": "3:15 PM",
+            "location": "Holy Cross CA",
+            "game_played": true,
+            "final_score": "Holy Cross 4, St. Jean De Brebeuf CHS 3"
+        },
+        {
+            "date": "Tuesday, April 28, 2026",
             "home_team": "St. Maximilian",
             "away_team": "St. Brother Andre",
             "time": "3:15 PM",
