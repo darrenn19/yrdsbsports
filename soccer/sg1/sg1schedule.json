@@ -2,6 +2,15 @@
     "schedule": [
         {
             "date": "Tuesday, April 28, 2026",
+            "home_team": "Father Bressani",
+            "away_team": "St. Elizabeth",
+            "time": "3:15 PM",
+            "location": "Father Bressani CHS",
+            "game_played": true,
+            "final_score": "Father Bressani 6, St. Elizabeth 3"
+        },
+        {
+            "date": "Tuesday, April 28, 2026",
             "home_team": "Holy Cross",
             "away_team": "St. Jean De Brebeuf CHS",
             "time": "3:15 PM",
