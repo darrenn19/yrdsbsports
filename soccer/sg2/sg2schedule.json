@@ -11,12 +11,39 @@
         },
         {
             "date": "Wednesday, April 29, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Sir William Mulock",
+            "away_team": "Keswick High School",
+            "time": "3:45 PM",
+            "location": "Sir William Mulock",
+            "game_played": true,
+            "final_score": "Sir William Mulock 7, Keswick High School 0"
+        },
+        {
+            "date": "Wednesday, April 29, 2026",
+            "home_team": "St. Robert",
+            "away_team": "King City SS",
+            "time": "3:15 PM",
+            "location": "St Robert CHS",
+            "game_played": true,
+            "final_score": "St. Robert 0, King City SS 3"
+        },
+        {
+            "date": "Wednesday, April 29, 2026",
+            "home_team": "Thornlea SS",
+            "away_team": "Hodan Nalayeh SS",
+            "time": "3:45 PM",
+            "location": "Thornlea SS",
+            "game_played": true,
+            "final_score": "Thornlea SS 0, Hodan Nalayeh SS 6"
+        },
+        {
+            "date": "Wednesday, April 29, 2026",
+            "home_team": "Westmount",
+            "away_team": "Thornhill SS",
+            "time": "3:45 PM",
+            "location": "Westmount CI",
+            "game_played": true,
+            "final_score": "Westmount 10, Thornhill SS 0"
         },
         {
             "date": "Thursday, April 30, 2026",

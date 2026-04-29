@@ -29,12 +29,12 @@
         },
         {
             "date": "Wednesday, April 29, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "St. Theresa Of Lisieux",
+            "away_team": "Cardinal Carter",
+            "time": "3:15 PM",
+            "location": "St Theresa Of Lisieux CHS",
+            "game_played": true,
+            "final_score": "St. Theresa Of Lisieux 3, Cardinal Carter 0"
         },
         {
             "date": "Thursday, April 30, 2026",
