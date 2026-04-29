@@ -10,13 +10,31 @@
             "PA": "PA"
         },
         {
-            "Team": "Bill Crothers SS",
+            "Team": "Keswick High School",
             "W": "1",
             "L": "0",
             "T": "0",
             "PTS": "2",
-            "PF": "7",
+            "PF": "4",
             "PA": "0"
+        },
+        {
+            "Team": "Sutton District",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "2",
+            "PF": "3",
+            "PA": "1"
+        },
+        {
+            "Team": "Bill Crothers SS",
+            "W": "1",
+            "L": "1",
+            "T": "0",
+            "PTS": "2",
+            "PF": "8",
+            "PA": "3"
         },
         {
             "Team": "Sir William Mulock",
@@ -28,31 +46,13 @@
             "PA": "7"
         },
         {
-            "Team": "Sutton District",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0"
-        },
-        {
-            "Team": "Keswick High School",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0"
-        },
-        {
             "Team": "Aurora HS",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
             "PF": "0",
-            "PA": "0"
+            "PA": "4"
         }
     ]
 }
