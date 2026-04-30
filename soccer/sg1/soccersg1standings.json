@@ -11,6 +11,16 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "St. Theresa Of Lisieux",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "3",
+            "GF": "3",
+            "GA": "0",
+            "DIFF": "3"
+        },
+        {
             "Team": "St. Maximilian",
             "W": "1",
             "L": "0",
@@ -33,25 +43,15 @@
         {
             "Team": "Cardinal Carter",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
             "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
+            "GA": "3",
+            "DIFF": "-3"
         },
         {
             "Team": "Sacred Heart",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "St. Theresa Of Lisieux",
             "W": "0",
             "L": "0",
             "T": "0",

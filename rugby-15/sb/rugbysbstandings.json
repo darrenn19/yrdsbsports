@@ -10,13 +10,22 @@
             "PA": "PA"
         },
         {
+            "Team": "Bill Crothers SS",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "4",
+            "PF": "42",
+            "PA": "0"
+        },
+        {
             "Team": "Keswick High School",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
             "PF": "0",
-            "PA": "0"
+            "PA": "42"
         },
         {
             "Team": "Markham District",
@@ -29,15 +38,6 @@
         },
         {
             "Team": "Sir William Mulock",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0"
-        },
-        {
-            "Team": "Bill Crothers SS",
             "W": "0",
             "L": "0",
             "T": "0",

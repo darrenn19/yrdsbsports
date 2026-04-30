@@ -291,6 +291,46 @@
             "PA": "PA"
         },
         {
+            "Team": "Emily Carr",
+            "GP": "3",
+            "W": "3",
+            "L": "0",
+            "T": "0",
+            "PTS": "9",
+            "PF": "53",
+            "PA": "21"
+        },
+        {
+            "Team": "Tommy Douglas SS",
+            "GP": "1",
+            "W": "0",
+            "L": "1",
+            "T": "0",
+            "PTS": "1",
+            "PF": "6",
+            "PA": "20"
+        },
+        {
+            "Team": "Father Bressani",
+            "GP": "1",
+            "W": "0",
+            "L": "1",
+            "T": "0",
+            "PTS": "1",
+            "PF": "7",
+            "PA": "13"
+        },
+        {
+            "Team": "St. Joan Of Arc",
+            "GP": "1",
+            "W": "0",
+            "L": "1",
+            "T": "0",
+            "PTS": "1",
+            "PF": "8",
+            "PA": "20"
+        },
+        {
             "Team": "Hodan Nalayeh SS",
             "GP": "0",
             "W": "0",
@@ -301,47 +341,7 @@
             "PA": "0"
         },
         {
-            "Team": "Emily Carr",
-            "GP": "0",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0"
-        },
-        {
-            "Team": "Tommy Douglas SS",
-            "GP": "0",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0"
-        },
-        {
-            "Team": "St. Joan Of Arc",
-            "GP": "0",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0"
-        },
-        {
             "Team": "Woodbridge College",
-            "GP": "0",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0"
-        },
-        {
-            "Team": "Father Bressani",
             "GP": "0",
             "W": "0",
             "L": "0",
