@@ -92,12 +92,12 @@
         },
         {
             "date": "Thursday, April 30, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Bill Crothers SS",
+            "away_team": "Middlefield",
+            "time": "3:45 PM",
+            "location": "Bill Crothers SS",
+            "game_played": true,
+            "final_score": "Bill Crothers SS 8, Middlefield 0"
         },
         {
             "date": "Friday, May 1, 2026",
