@@ -56,12 +56,12 @@
         },
         {
             "date": "Thursday, April 30, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Unionville HS",
+            "away_team": "Father McGivney",
+            "time": "9:00 AM",
+            "location": "Father Michael McGivney CA",
+            "game_played": true,
+            "final_score": "Unionville HS 8, Father McGivney 14"
         },
         {
             "date": "Friday, May 1, 2026",

@@ -29,6 +29,24 @@
         },
         {
             "date": "Wednesday, April 29, 2026",
+            "home_team": "Markham District",
+            "away_team": "Stouffville",
+            "time": "3:45 PM",
+            "location": "Markham DHS",
+            "game_played": true,
+            "final_score": "Markham District 3, Stouffville 0"
+        },
+        {
+            "date": "Wednesday, April 29, 2026",
+            "home_team": "Pierre Elliott Trudeau",
+            "away_team": "Bill Hogarth SS",
+            "time": "3:45 PM",
+            "location": "PE Trudeau HS",
+            "game_played": true,
+            "final_score": "Pierre Elliott Trudeau 1, Bill Hogarth SS 5"
+        },
+        {
+            "date": "Wednesday, April 29, 2026",
             "home_team": "Sir William Mulock",
             "away_team": "Keswick High School",
             "time": "3:45 PM",
