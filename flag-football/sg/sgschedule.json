@@ -83,6 +83,15 @@
         },
         {
             "date": "Thursday, April 30, 2026",
+            "home_team": "Father McGivney",
+            "away_team": "Bur Oak SS",
+            "time": "3:10 PM",
+            "location": "Father Michael McGivney CA",
+            "game_played": true,
+            "final_score": "Father McGivney 13, Bur Oak SS 6"
+        },
+        {
+            "date": "Thursday, April 30, 2026",
             "home_team": "Unionville HS",
             "away_team": "Father McGivney",
             "time": "9:00 AM",
