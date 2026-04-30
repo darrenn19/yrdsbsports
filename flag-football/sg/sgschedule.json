@@ -2,12 +2,39 @@
     "schedule": [
         {
             "date": "Wednesday, April 29, 2026",
+            "home_team": "St. Joan Of Arc",
+            "away_team": "Tommy Douglas SS",
+            "time": "10:10 AM",
+            "location": "Emily Carr SS",
+            "game_played": true,
+            "final_score": "St. Joan Of Arc 12, Tommy Douglas SS 7"
+        },
+        {
+            "date": "Wednesday, April 29, 2026",
             "home_team": "Emily Carr",
             "away_team": "Tommy Douglas SS",
             "time": "11:30 AM",
             "location": "Emily Carr SS",
             "game_played": true,
             "final_score": "Emily Carr 20, Tommy Douglas SS 6"
+        },
+        {
+            "date": "Wednesday, April 29, 2026",
+            "home_team": "Father Bressani",
+            "away_team": "St. Joan Of Arc",
+            "time": "12:40 PM",
+            "location": "Emily Carr SS",
+            "game_played": true,
+            "final_score": "Father Bressani 6, St. Joan Of Arc 19"
+        },
+        {
+            "date": "Wednesday, April 29, 2026",
+            "home_team": "Father Bressani",
+            "away_team": "Tommy Douglas SS",
+            "time": "2:00 PM",
+            "location": "Emily Carr SS",
+            "game_played": true,
+            "final_score": "Father Bressani 14, Tommy Douglas SS 19"
         },
         {
             "date": "Wednesday, April 29, 2026",
