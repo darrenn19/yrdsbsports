@@ -1,33 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, April 28, 2026",
-            "home_team": "Father Bressani",
-            "away_team": "St. Elizabeth",
-            "time": "3:15 PM",
-            "location": "Father Bressani CHS",
-            "game_played": true,
-            "final_score": "Father Bressani 6, St. Elizabeth 3"
-        },
-        {
-            "date": "Tuesday, April 28, 2026",
-            "home_team": "Holy Cross",
-            "away_team": "St. Jean De Brebeuf CHS",
-            "time": "3:15 PM",
-            "location": "Holy Cross CA",
-            "game_played": true,
-            "final_score": "Holy Cross 4, St. Jean De Brebeuf CHS 3"
-        },
-        {
-            "date": "Tuesday, April 28, 2026",
-            "home_team": "St. Maximilian",
-            "away_team": "St. Brother Andre",
-            "time": "3:15 PM",
-            "location": "St Maximilian Kolbe CHS",
-            "game_played": true,
-            "final_score": "St. Maximilian 4, St. Brother Andre 0"
-        },
-        {
             "date": "Wednesday, April 29, 2026",
             "home_team": "St. Theresa Of Lisieux",
             "away_team": "Cardinal Carter",
@@ -74,6 +47,15 @@
         },
         {
             "date": "Monday, May 4, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, May 5, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

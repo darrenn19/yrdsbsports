@@ -1,33 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, April 28, 2026",
-            "home_team": "Bill Crothers SS",
-            "away_team": "Sir William Mulock",
-            "time": "1:30 PM",
-            "location": "Bill Crothers SS",
-            "game_played": true,
-            "final_score": "Bill Crothers SS 7, Sir William Mulock 0"
-        },
-        {
-            "date": "Tuesday, April 28, 2026",
-            "home_team": "Aurora HS",
-            "away_team": "Keswick High School",
-            "time": "2:45 PM",
-            "location": "Bill Crothers SS",
-            "game_played": true,
-            "final_score": "Aurora HS 0, Keswick High School 4"
-        },
-        {
-            "date": "Tuesday, April 28, 2026",
-            "home_team": "Bill Crothers SS",
-            "away_team": "Sutton District",
-            "time": "4:00 PM",
-            "location": "Bill Crothers SS",
-            "game_played": true,
-            "final_score": "Bill Crothers SS 1, Sutton District 3"
-        },
-        {
             "date": "Wednesday, April 29, 2026",
             "home_team": null,
             "away_team": null,
@@ -74,6 +47,15 @@
         },
         {
             "date": "Monday, May 4, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, May 5, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
