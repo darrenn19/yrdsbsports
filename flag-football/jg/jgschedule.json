@@ -11,6 +11,15 @@
         },
         {
             "date": "Friday, May 1, 2026",
+            "home_team": "Dr. G.W. Williams",
+            "away_team": "Huron Heights",
+            "time": "12:40 PM",
+            "location": "Dr G W Williams SS",
+            "game_played": true,
+            "final_score": "Dr. G.W. Williams 33, Huron Heights 25"
+        },
+        {
+            "date": "Friday, May 1, 2026",
             "home_team": "ESC De L Ascension",
             "away_team": "Dr. G.W. Williams",
             "time": "9:00 AM",

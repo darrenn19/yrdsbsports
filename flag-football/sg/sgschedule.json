@@ -57,6 +57,15 @@
         {
             "date": "Friday, May 1, 2026",
             "home_team": "Sir William Mulock",
+            "away_team": "Sacred Heart",
+            "time": "11:30 AM",
+            "location": "St Maximilian Kolbe CHS",
+            "game_played": true,
+            "final_score": "Sir William Mulock 12, Sacred Heart 16"
+        },
+        {
+            "date": "Friday, May 1, 2026",
+            "home_team": "Sir William Mulock",
             "away_team": "St. Maximilian",
             "time": "9:00 AM",
             "location": "St Maximilian Kolbe CHS",
