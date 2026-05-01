@@ -10,6 +10,15 @@
             "final_score": "Sutton District 0, Keswick High School 1"
         },
         {
+            "date": "Thursday, April 30, 2026",
+            "home_team": "Sutton District",
+            "away_team": "Sir William Mulock",
+            "time": "4:00 PM",
+            "location": "Georgina Recreation Outdoor Campus",
+            "game_played": true,
+            "final_score": "Sutton District 5, Sir William Mulock 1"
+        },
+        {
             "date": "Friday, May 1, 2026",
             "home_team": null,
             "away_team": null,

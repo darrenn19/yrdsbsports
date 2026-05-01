@@ -56,12 +56,12 @@
         },
         {
             "date": "Friday, May 1, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Sir William Mulock",
+            "away_team": "St. Maximilian",
+            "time": "9:00 AM",
+            "location": "St Maximilian Kolbe CHS",
+            "game_played": true,
+            "final_score": "Sir William Mulock 7, St. Maximilian 6"
         },
         {
             "date": "Saturday, May 2, 2026",
