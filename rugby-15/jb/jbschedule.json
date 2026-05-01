@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, April 29, 2026",
-            "home_team": "Bill Crothers SS",
-            "away_team": "St. Maximilian",
-            "time": "3:15 PM",
-            "location": "Bill Crothers SS",
-            "game_played": true,
-            "final_score": "Bill Crothers SS 46, St. Maximilian 7"
-        },
-        {
             "date": "Thursday, April 30, 2026",
             "home_team": "Huron Heights",
             "away_team": "St. Theresa Of Lisieux",
@@ -56,6 +47,15 @@
         },
         {
             "date": "Tuesday, May 5, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, May 6, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
