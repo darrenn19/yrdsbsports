@@ -11,6 +11,26 @@
             "PA": "PA"
         },
         {
+            "Team": "Dr. G.W. Williams",
+            "GP": "1",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "3",
+            "PF": "20",
+            "PA": "0"
+        },
+        {
+            "Team": "ESC De L Ascension",
+            "GP": "1",
+            "W": "0",
+            "L": "1",
+            "T": "0",
+            "PTS": "1",
+            "PF": "0",
+            "PA": "20"
+        },
+        {
             "Team": "Markham District",
             "GP": "0",
             "W": "0",
@@ -21,27 +41,7 @@
             "PA": "0"
         },
         {
-            "Team": "ESC De L Ascension",
-            "GP": "0",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0"
-        },
-        {
             "Team": "Huron Heights",
-            "GP": "0",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0"
-        },
-        {
-            "Team": "Dr. G.W. Williams",
             "GP": "0",
             "W": "0",
             "L": "0",

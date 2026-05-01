@@ -201,6 +201,26 @@
             "PA": "PA"
         },
         {
+            "Team": "Sir William Mulock",
+            "GP": "1",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "3",
+            "PF": "7",
+            "PA": "6"
+        },
+        {
+            "Team": "St. Maximilian",
+            "GP": "1",
+            "W": "0",
+            "L": "1",
+            "T": "0",
+            "PTS": "1",
+            "PF": "6",
+            "PA": "7"
+        },
+        {
             "Team": "Huron Heights",
             "GP": "0",
             "W": "0",
@@ -212,26 +232,6 @@
         },
         {
             "Team": "Dr. G.W. Williams",
-            "GP": "0",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0"
-        },
-        {
-            "Team": "Sir William Mulock",
-            "GP": "0",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0"
-        },
-        {
-            "Team": "St. Maximilian",
             "GP": "0",
             "W": "0",
             "L": "0",

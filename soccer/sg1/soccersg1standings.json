@@ -81,6 +81,16 @@
             "DIFF": "5"
         },
         {
+            "Team": "St. Jean De Brebeuf CHS",
+            "W": "1",
+            "L": "1",
+            "T": "0",
+            "PTS": "3",
+            "GF": "8",
+            "GA": "5",
+            "DIFF": "3"
+        },
+        {
             "Team": "Father Bressani",
             "W": "1",
             "L": "0",
@@ -101,24 +111,14 @@
             "DIFF": "-4"
         },
         {
-            "Team": "St. Jean De Brebeuf CHS",
-            "W": "0",
-            "L": "1",
-            "T": "0",
-            "PTS": "0",
-            "GF": "3",
-            "GA": "4",
-            "DIFF": "-1"
-        },
-        {
             "Team": "St. Elizabeth",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "0",
-            "GF": "3",
-            "GA": "6",
-            "DIFF": "-3"
+            "GF": "4",
+            "GA": "11",
+            "DIFF": "-7"
         }
     ]
 }
