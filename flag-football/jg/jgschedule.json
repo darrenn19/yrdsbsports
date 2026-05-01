@@ -11,12 +11,12 @@
         },
         {
             "date": "Friday, May 1, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "ESC De L Ascension",
+            "away_team": "Dr. G.W. Williams",
+            "time": "9:00 AM",
+            "location": "Dr G W Williams SS",
+            "game_played": true,
+            "final_score": "ESC De L Ascension 0, Dr. G.W. Williams 20"
         },
         {
             "date": "Saturday, May 2, 2026",
