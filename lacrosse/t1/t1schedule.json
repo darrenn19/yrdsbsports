@@ -11,6 +11,15 @@
         },
         {
             "date": "Thursday, April 30, 2026",
+            "home_team": "Bill Crothers SS",
+            "away_team": "Aurora HS",
+            "time": "2:45 PM",
+            "location": "Georgina Recreation Outdoor Campus",
+            "game_played": true,
+            "final_score": "Bill Crothers SS 2, Aurora HS 0"
+        },
+        {
+            "date": "Thursday, April 30, 2026",
             "home_team": "Sutton District",
             "away_team": "Sir William Mulock",
             "time": "4:00 PM",
