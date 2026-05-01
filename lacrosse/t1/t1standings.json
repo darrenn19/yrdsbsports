@@ -11,21 +11,21 @@
         },
         {
             "Team": "Keswick High School",
-            "W": "1",
+            "W": "2",
             "L": "0",
             "T": "0",
-            "PTS": "2",
-            "PF": "4",
+            "PTS": "4",
+            "PF": "5",
             "PA": "0"
         },
         {
             "Team": "Sutton District",
             "W": "1",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "2",
             "PF": "3",
-            "PA": "1"
+            "PA": "2"
         },
         {
             "Team": "Bill Crothers SS",

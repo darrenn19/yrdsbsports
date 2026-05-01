@@ -10,12 +10,30 @@
             "PA": "PA"
         },
         {
+            "Team": "Stephen Lewis SS",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "4",
+            "PF": "24",
+            "PA": "17"
+        },
+        {
             "Team": "Bill Crothers SS",
             "W": "1",
             "L": "0",
             "T": "0",
             "PTS": "4",
             "PF": "42",
+            "PA": "0"
+        },
+        {
+            "Team": "St. Theresa Of Lisieux",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "4",
+            "PF": "62",
             "PA": "0"
         },
         {
@@ -30,38 +48,20 @@
         {
             "Team": "Markham District",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
-            "PF": "0",
-            "PA": "0"
+            "PF": "17",
+            "PA": "24"
         },
         {
             "Team": "Sir William Mulock",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
             "PF": "0",
-            "PA": "0"
-        },
-        {
-            "Team": "Stephen Lewis SS",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0"
-        },
-        {
-            "Team": "St. Theresa Of Lisieux",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0"
+            "PA": "62"
         }
     ]
 }
