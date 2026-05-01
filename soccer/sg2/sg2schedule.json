@@ -28,6 +28,15 @@
             "final_score": "St. Augustine 5, Unionville HS 0"
         },
         {
+            "date": "Thursday, April 30, 2026",
+            "home_team": "St. Brother Andre",
+            "away_team": "Bur Oak SS",
+            "time": "4:15 PM",
+            "location": "St Brother Andre CHS",
+            "game_played": true,
+            "final_score": "St. Brother Andre 2, Bur Oak SS 0"
+        },
+        {
             "date": "Friday, May 1, 2026",
             "home_team": null,
             "away_team": null,

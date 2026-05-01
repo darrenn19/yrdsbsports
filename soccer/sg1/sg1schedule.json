@@ -20,6 +20,15 @@
         },
         {
             "date": "Thursday, April 30, 2026",
+            "home_team": "St. Jean De Brebeuf CHS",
+            "away_team": "St. Elizabeth",
+            "time": "3:15 PM",
+            "location": "St Jean De Brebeuf CHS",
+            "game_played": true,
+            "final_score": "St. Jean De Brebeuf CHS 5, St. Elizabeth 1"
+        },
+        {
+            "date": "Thursday, April 30, 2026",
             "home_team": "St. Maximilian",
             "away_team": "Sacred Heart",
             "time": "3:15 PM",
