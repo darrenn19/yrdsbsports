@@ -100,6 +100,24 @@
             "final_score": "Bill Crothers SS 8, Middlefield 0"
         },
         {
+            "date": "Thursday, April 30, 2026",
+            "home_team": "Richmond Green SS",
+            "away_team": "Our Lady Queen Of The World",
+            "time": "3:45 PM",
+            "location": "Richmond Green SS",
+            "game_played": true,
+            "final_score": "Richmond Green SS 0, Our Lady Queen Of The World 5"
+        },
+        {
+            "date": "Thursday, April 30, 2026",
+            "home_team": "St. Augustine",
+            "away_team": "Unionville HS",
+            "time": "3:15 PM",
+            "location": "St Augustine CHS",
+            "game_played": true,
+            "final_score": "St. Augustine 5, Unionville HS 0"
+        },
+        {
             "date": "Friday, May 1, 2026",
             "home_team": null,
             "away_team": null,

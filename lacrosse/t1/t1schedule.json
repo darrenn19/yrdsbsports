@@ -11,12 +11,12 @@
         },
         {
             "date": "Thursday, April 30, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Sutton District",
+            "away_team": "Keswick High School",
+            "time": "1:30 PM",
+            "location": "Georgina Recreation Outdoor Campus",
+            "game_played": true,
+            "final_score": "Sutton District 0, Keswick High School 1"
         },
         {
             "date": "Friday, May 1, 2026",
