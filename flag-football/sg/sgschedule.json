@@ -65,6 +65,24 @@
         },
         {
             "date": "Friday, May 1, 2026",
+            "home_team": "St. Maximilian",
+            "away_team": "Huron Heights",
+            "time": "12:40 PM",
+            "location": "St Maximilian Kolbe CHS",
+            "game_played": true,
+            "final_score": "St. Maximilian 25, Huron Heights 0"
+        },
+        {
+            "date": "Friday, May 1, 2026",
+            "home_team": "Sir William Mulock",
+            "away_team": "Huron Heights",
+            "time": "2:00 PM",
+            "location": "St Maximilian Kolbe CHS",
+            "game_played": true,
+            "final_score": "Sir William Mulock 20, Huron Heights 0"
+        },
+        {
+            "date": "Friday, May 1, 2026",
             "home_team": "Sir William Mulock",
             "away_team": "St. Maximilian",
             "time": "9:00 AM",
