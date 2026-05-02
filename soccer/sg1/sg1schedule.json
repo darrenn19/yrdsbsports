@@ -1,42 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, April 30, 2026",
-            "home_team": "Holy Cross",
-            "away_team": "St. Joan Of Arc",
-            "time": "3:15 PM",
-            "location": "Holy Cross CA",
-            "game_played": true,
-            "final_score": "Holy Cross 7, St. Joan Of Arc 3"
-        },
-        {
-            "date": "Thursday, April 30, 2026",
-            "home_team": "St. Brother Andre",
-            "away_team": "Cardinal Carter",
-            "time": "3:00 PM",
-            "location": "St Brother Andre CHS",
-            "game_played": true,
-            "final_score": "St. Brother Andre 3, Cardinal Carter 0"
-        },
-        {
-            "date": "Thursday, April 30, 2026",
-            "home_team": "St. Jean De Brebeuf CHS",
-            "away_team": "St. Elizabeth",
-            "time": "3:15 PM",
-            "location": "St Jean De Brebeuf CHS",
-            "game_played": true,
-            "final_score": "St. Jean De Brebeuf CHS 5, St. Elizabeth 1"
-        },
-        {
-            "date": "Thursday, April 30, 2026",
-            "home_team": "St. Maximilian",
-            "away_team": "Sacred Heart",
-            "time": "3:15 PM",
-            "location": "St Maximilian Kolbe CHS",
-            "game_played": true,
-            "final_score": "St. Maximilian 1, Sacred Heart 1"
-        },
-        {
             "date": "Friday, May 1, 2026",
             "home_team": null,
             "away_team": null,
@@ -83,6 +47,15 @@
         },
         {
             "date": "Wednesday, May 6, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, May 7, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

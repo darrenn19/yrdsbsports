@@ -1,60 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, April 30, 2026",
-            "home_team": "Bur Oak SS",
-            "away_team": "Markville",
-            "time": "10:10 AM",
-            "location": "Father Michael McGivney CA",
-            "game_played": true,
-            "final_score": "Bur Oak SS 0, Markville 27"
-        },
-        {
-            "date": "Thursday, April 30, 2026",
-            "home_team": "Unionville HS",
-            "away_team": "Bur Oak SS",
-            "time": "11:30 AM",
-            "location": "Father Michael McGivney CA",
-            "game_played": true,
-            "final_score": "Unionville HS 12, Bur Oak SS 6"
-        },
-        {
-            "date": "Thursday, April 30, 2026",
-            "home_team": "Father McGivney",
-            "away_team": "Markville",
-            "time": "12:40 PM",
-            "location": "Father Michael McGivney CA",
-            "game_played": true,
-            "final_score": "Father McGivney 16, Markville 29"
-        },
-        {
-            "date": "Thursday, April 30, 2026",
-            "home_team": "Unionville HS",
-            "away_team": "Markville",
-            "time": "2:00 PM",
-            "location": "Father Michael McGivney CA",
-            "game_played": true,
-            "final_score": "Unionville HS 14, Markville 30"
-        },
-        {
-            "date": "Thursday, April 30, 2026",
-            "home_team": "Father McGivney",
-            "away_team": "Bur Oak SS",
-            "time": "3:10 PM",
-            "location": "Father Michael McGivney CA",
-            "game_played": true,
-            "final_score": "Father McGivney 13, Bur Oak SS 6"
-        },
-        {
-            "date": "Thursday, April 30, 2026",
-            "home_team": "Unionville HS",
-            "away_team": "Father McGivney",
-            "time": "9:00 AM",
-            "location": "Father Michael McGivney CA",
-            "game_played": true,
-            "final_score": "Unionville HS 8, Father McGivney 14"
-        },
-        {
             "date": "Friday, May 1, 2026",
             "home_team": "Sir William Mulock",
             "away_team": "Sacred Heart",
@@ -137,6 +83,15 @@
         },
         {
             "date": "Wednesday, May 6, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, May 7, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

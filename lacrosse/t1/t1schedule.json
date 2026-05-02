@@ -1,33 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, April 30, 2026",
-            "home_team": "Sutton District",
-            "away_team": "Keswick High School",
-            "time": "1:30 PM",
-            "location": "Georgina Recreation Outdoor Campus",
-            "game_played": true,
-            "final_score": "Sutton District 0, Keswick High School 1"
-        },
-        {
-            "date": "Thursday, April 30, 2026",
-            "home_team": "Bill Crothers SS",
-            "away_team": "Aurora HS",
-            "time": "2:45 PM",
-            "location": "Georgina Recreation Outdoor Campus",
-            "game_played": true,
-            "final_score": "Bill Crothers SS 2, Aurora HS 0"
-        },
-        {
-            "date": "Thursday, April 30, 2026",
-            "home_team": "Sutton District",
-            "away_team": "Sir William Mulock",
-            "time": "4:00 PM",
-            "location": "Georgina Recreation Outdoor Campus",
-            "game_played": true,
-            "final_score": "Sutton District 5, Sir William Mulock 1"
-        },
-        {
             "date": "Friday, May 1, 2026",
             "home_team": null,
             "away_team": null,
@@ -74,6 +47,15 @@
         },
         {
             "date": "Wednesday, May 6, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, May 7, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

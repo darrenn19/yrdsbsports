@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, April 30, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
-        },
-        {
             "date": "Friday, May 1, 2026",
             "home_team": "Stouffville",
             "away_team": "Huron Heights",
@@ -101,6 +92,15 @@
         },
         {
             "date": "Wednesday, May 6, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, May 7, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
