@@ -11,6 +11,16 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Father Bressani",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "3",
+            "GF": "5",
+            "GA": "0",
+            "DIFF": "5"
+        },
+        {
             "Team": "Holy Cross",
             "W": "0",
             "L": "0",
@@ -23,12 +33,12 @@
         {
             "Team": "St. Katharine Drexel",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
             "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
+            "GA": "5",
+            "DIFF": "-5"
         },
         {
             "Team": "Keswick High School",
@@ -42,16 +52,6 @@
         },
         {
             "Team": "Cardinal Carter",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "Father Bressani",
             "W": "0",
             "L": "0",
             "T": "0",

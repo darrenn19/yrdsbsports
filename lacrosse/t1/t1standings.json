@@ -10,15 +10,6 @@
             "PA": "PA"
         },
         {
-            "Team": "Sutton District",
-            "W": "2",
-            "L": "1",
-            "T": "0",
-            "PTS": "4",
-            "PF": "8",
-            "PA": "3"
-        },
-        {
             "Team": "Keswick High School",
             "W": "2",
             "L": "0",
@@ -28,12 +19,21 @@
             "PA": "0"
         },
         {
-            "Team": "Bill Crothers SS",
-            "W": "1",
+            "Team": "Sutton District",
+            "W": "2",
             "L": "1",
             "T": "0",
-            "PTS": "2",
+            "PTS": "4",
             "PF": "8",
+            "PA": "3"
+        },
+        {
+            "Team": "Bill Crothers SS",
+            "W": "2",
+            "L": "1",
+            "T": "0",
+            "PTS": "4",
+            "PF": "10",
             "PA": "3"
         },
         {
@@ -48,11 +48,11 @@
         {
             "Team": "Aurora HS",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "0",
             "PF": "0",
-            "PA": "4"
+            "PA": "6"
         }
     ]
 }

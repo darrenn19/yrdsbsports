@@ -12,36 +12,46 @@
         },
         {
             "Team": "Dr. G.W. Williams",
-            "GP": "1",
-            "W": "1",
+            "GP": "3",
+            "W": "3",
             "L": "0",
             "T": "0",
-            "PTS": "3",
-            "PF": "20",
-            "PA": "0"
+            "PTS": "9",
+            "PF": "61",
+            "PA": "32"
         },
         {
-            "Team": "ESC De L Ascension",
-            "GP": "1",
-            "W": "0",
+            "Team": "Stouffville",
+            "GP": "3",
+            "W": "2",
             "L": "1",
             "T": "0",
-            "PTS": "1",
-            "PF": "0",
+            "PTS": "7",
+            "PF": "46",
             "PA": "20"
         },
         {
-            "Team": "Markham District",
-            "GP": "0",
-            "W": "0",
-            "L": "0",
+            "Team": "Huron Heights",
+            "GP": "3",
+            "W": "1",
+            "L": "2",
             "T": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0"
+            "PTS": "5",
+            "PF": "50",
+            "PA": "68"
         },
         {
-            "Team": "Huron Heights",
+            "Team": "ESC De L Ascension",
+            "GP": "3",
+            "W": "0",
+            "L": "3",
+            "T": "0",
+            "PTS": "3",
+            "PF": "15",
+            "PA": "52"
+        },
+        {
+            "Team": "Markham District",
             "GP": "0",
             "W": "0",
             "L": "0",
@@ -102,16 +112,6 @@
         },
         {
             "Team": "Stephen Lewis SS",
-            "GP": "0",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0"
-        },
-        {
-            "Team": "Stouffville",
             "GP": "0",
             "W": "0",
             "L": "0",

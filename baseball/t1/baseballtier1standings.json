@@ -1,36 +1,6 @@
 {
     "standings": [
         {
-            "Team": "Central",
-            "W": "W",
-            "L": "L",
-            "T": "T",
-            "PTS": "PTS",
-            "RF": "RF",
-            "RA": "RA",
-            "DIFF": "DIFF"
-        },
-        {
-            "Team": "King City SS",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "RF": "0",
-            "RA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "St. Theresa Of Lisieux",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "RF": "0",
-            "RA": "0",
-            "DIFF": "0"
-        },
-        {
             "Team": "East",
             "W": "W",
             "L": "L",
@@ -71,7 +41,7 @@
             "DIFF": "0"
         },
         {
-            "Team": "Sacred Heart",
+            "Team": "Aurora HS",
             "W": "0",
             "L": "0",
             "T": "0",
@@ -82,16 +52,6 @@
         },
         {
             "Team": "Stouffville",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "RF": "0",
-            "RA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "St. Augustine",
             "W": "0",
             "L": "0",
             "T": "0",
@@ -131,7 +91,7 @@
             "DIFF": "0"
         },
         {
-            "Team": "Aurora HS",
+            "Team": "Newmarket HS",
             "W": "0",
             "L": "0",
             "T": "0",
@@ -141,7 +101,17 @@
             "DIFF": "0"
         },
         {
-            "Team": "Newmarket HS",
+            "Team": "Sacred Heart",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "RF": "0",
+            "RA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "King City SS",
             "W": "0",
             "L": "0",
             "T": "0",
@@ -182,6 +152,26 @@
         },
         {
             "Team": "Father Bressani",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "RF": "0",
+            "RA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "St. Theresa Of Lisieux",
+            "W": "0",
+            "L": "0",
+            "T": "0",
+            "PTS": "0",
+            "RF": "0",
+            "RA": "0",
+            "DIFF": "0"
+        },
+        {
+            "Team": "St. Augustine",
             "W": "0",
             "L": "0",
             "T": "0",
