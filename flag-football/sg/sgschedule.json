@@ -2,6 +2,15 @@
     "schedule": [
         {
             "date": "Friday, May 1, 2026",
+            "home_team": "Sacred Heart",
+            "away_team": "Huron Heights",
+            "time": "10:10 AM",
+            "location": "St Maximilian Kolbe CHS",
+            "game_played": true,
+            "final_score": "Sacred Heart 13, Huron Heights 0"
+        },
+        {
+            "date": "Friday, May 1, 2026",
             "home_team": "Sir William Mulock",
             "away_team": "Sacred Heart",
             "time": "11:30 AM",
