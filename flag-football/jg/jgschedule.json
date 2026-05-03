@@ -1,60 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Friday, May 1, 2026",
-            "home_team": "Stouffville",
-            "away_team": "Huron Heights",
-            "time": "10:10 AM",
-            "location": "Dr G W Williams SS",
-            "game_played": true,
-            "final_score": "Stouffville 26, Huron Heights 6"
-        },
-        {
-            "date": "Friday, May 1, 2026",
-            "home_team": "ESC De L Ascension",
-            "away_team": "Stouffville",
-            "time": "11:30 AM",
-            "location": "Dr G W Williams SS",
-            "game_played": true,
-            "final_score": "ESC De L Ascension 6, Stouffville 13"
-        },
-        {
-            "date": "Friday, May 1, 2026",
-            "home_team": "Dr. G.W. Williams",
-            "away_team": "Huron Heights",
-            "time": "12:40 PM",
-            "location": "Dr G W Williams SS",
-            "game_played": true,
-            "final_score": "Dr. G.W. Williams 33, Huron Heights 25"
-        },
-        {
-            "date": "Friday, May 1, 2026",
-            "home_team": "ESC De L Ascension",
-            "away_team": "Huron Heights",
-            "time": "2:00 PM",
-            "location": "Dr G W Williams SS",
-            "game_played": true,
-            "final_score": "ESC De L Ascension 9, Huron Heights 19"
-        },
-        {
-            "date": "Friday, May 1, 2026",
-            "home_team": "Dr. G.W. Williams",
-            "away_team": "Stouffville",
-            "time": "3:10 PM",
-            "location": "Dr G W Williams SS",
-            "game_played": true,
-            "final_score": "Dr. G.W. Williams 8, Stouffville 7"
-        },
-        {
-            "date": "Friday, May 1, 2026",
-            "home_team": "ESC De L Ascension",
-            "away_team": "Dr. G.W. Williams",
-            "time": "9:00 AM",
-            "location": "Dr G W Williams SS",
-            "game_played": true,
-            "final_score": "ESC De L Ascension 0, Dr. G.W. Williams 20"
-        },
-        {
             "date": "Saturday, May 2, 2026",
             "home_team": null,
             "away_team": null,
@@ -101,6 +47,15 @@
         },
         {
             "date": "Thursday, May 7, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Friday, May 8, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
