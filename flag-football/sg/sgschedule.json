@@ -29,6 +29,15 @@
         },
         {
             "date": "Tuesday, May 5, 2026",
+            "home_team": "Dr. J.M. Denison",
+            "away_team": "Sutton District",
+            "time": "12:40 PM",
+            "location": "Dr J M Denison SS",
+            "game_played": true,
+            "final_score": "Dr. J.M. Denison 32, Sutton District 0"
+        },
+        {
+            "date": "Tuesday, May 5, 2026",
             "home_team": "Dr. G.W. Williams",
             "away_team": "Dr. J.M. Denison",
             "time": "9:00 AM",
