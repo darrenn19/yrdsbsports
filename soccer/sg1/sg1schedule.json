@@ -11,12 +11,12 @@
         },
         {
             "date": "Tuesday, May 5, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "St. Theresa Of Lisieux",
+            "away_team": "St. Maximilian",
+            "time": "3:15 PM",
+            "location": "St Theresa Of Lisieux CHS",
+            "game_played": true,
+            "final_score": "St. Theresa Of Lisieux 3, St. Maximilian 0"
         },
         {
             "date": "Wednesday, May 6, 2026",
