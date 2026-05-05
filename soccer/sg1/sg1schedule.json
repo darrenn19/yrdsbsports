@@ -11,6 +11,24 @@
         },
         {
             "date": "Tuesday, May 5, 2026",
+            "home_team": "Father Bressani",
+            "away_team": "Holy Cross",
+            "time": "3:15 PM",
+            "location": "Father Bressani CHS",
+            "game_played": true,
+            "final_score": "Father Bressani 1, Holy Cross 1"
+        },
+        {
+            "date": "Tuesday, May 5, 2026",
+            "home_team": "Sacred Heart",
+            "away_team": "St. Brother Andre",
+            "time": "4:00 PM",
+            "location": "St Maximilian Kolbe CHS",
+            "game_played": true,
+            "final_score": "Sacred Heart 3, St. Brother Andre 0"
+        },
+        {
+            "date": "Tuesday, May 5, 2026",
             "home_team": "St. Theresa Of Lisieux",
             "away_team": "St. Maximilian",
             "time": "3:15 PM",

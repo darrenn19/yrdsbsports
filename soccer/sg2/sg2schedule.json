@@ -11,12 +11,30 @@
         },
         {
             "date": "Tuesday, May 5, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Bill Crothers SS",
+            "away_team": "Father McGivney",
+            "time": "3:45 PM",
+            "location": "Bill Crothers SS",
+            "game_played": true,
+            "final_score": "Bill Crothers SS 3, Father McGivney 0"
+        },
+        {
+            "date": "Tuesday, May 5, 2026",
+            "home_team": "Our Lady Queen Of The World",
+            "away_team": "Richmond Hill HS",
+            "time": "3:15 PM",
+            "location": "Our Lady Queen Of The World",
+            "game_played": true,
+            "final_score": "Our Lady Queen Of The World 8, Richmond Hill HS 1"
+        },
+        {
+            "date": "Tuesday, May 5, 2026",
+            "home_team": "Sir William Mulock",
+            "away_team": "Huron Heights",
+            "time": "3:45 PM",
+            "location": "Sir William Mulock",
+            "game_played": true,
+            "final_score": "Sir William Mulock 2, Huron Heights 2"
         },
         {
             "date": "Wednesday, May 6, 2026",
