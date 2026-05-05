@@ -11,12 +11,21 @@
         },
         {
             "date": "Tuesday, May 5, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Milliken Mills",
+            "away_team": "Bill Hogarth SS",
+            "time": "9:00 AM",
+            "location": "Bill Hogarth SS",
+            "game_played": true,
+            "final_score": "Milliken Mills 0, Bill Hogarth SS 7"
+        },
+        {
+            "date": "Tuesday, May 5, 2026",
+            "home_team": "Dr. G.W. Williams",
+            "away_team": "Dr. J.M. Denison",
+            "time": "9:00 AM",
+            "location": "Dr J M Denison SS",
+            "game_played": true,
+            "final_score": "Dr. G.W. Williams 6, Dr. J.M. Denison 13"
         },
         {
             "date": "Wednesday, May 6, 2026",
