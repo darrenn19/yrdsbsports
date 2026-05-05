@@ -46,6 +46,15 @@
             "final_score": "Sir William Mulock 2, Huron Heights 2"
         },
         {
+            "date": "Tuesday, May 5, 2026",
+            "home_team": "Unionville HS",
+            "away_team": "Middlefield",
+            "time": "3:45 PM",
+            "location": "Unionville HS",
+            "game_played": true,
+            "final_score": "Unionville HS 1, Middlefield 4"
+        },
+        {
             "date": "Wednesday, May 6, 2026",
             "home_team": null,
             "away_team": null,
