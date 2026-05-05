@@ -20,6 +20,15 @@
         },
         {
             "date": "Tuesday, May 5, 2026",
+            "home_team": "St. Joan Of Arc",
+            "away_team": "St. Jean De Brebeuf CHS",
+            "time": "3:15 PM",
+            "location": "St Joan Of Arc CHS",
+            "game_played": true,
+            "final_score": "St. Joan Of Arc 0, St. Jean De Brebeuf CHS 6"
+        },
+        {
+            "date": "Tuesday, May 5, 2026",
             "home_team": "Sacred Heart",
             "away_team": "St. Brother Andre",
             "time": "4:00 PM",
