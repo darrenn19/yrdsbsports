@@ -251,6 +251,16 @@
             "DIFF": "1"
         },
         {
+            "Team": "Keswick High School",
+            "W": "1",
+            "L": "2",
+            "T": "0",
+            "PTS": "3",
+            "GF": "1",
+            "GA": "9",
+            "DIFF": "-6"
+        },
+        {
             "Team": "Newmarket HS",
             "W": "0",
             "L": "1",
@@ -263,22 +273,12 @@
         {
             "Team": "Dr. J.M. Denison",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "1",
             "PTS": "1",
             "GF": "1",
-            "GA": "2",
-            "DIFF": "-1"
-        },
-        {
-            "Team": "Keswick High School",
-            "W": "0",
-            "L": "2",
-            "T": "0",
-            "PTS": "0",
-            "GF": "0",
-            "GA": "9",
-            "DIFF": "-7"
+            "GA": "3",
+            "DIFF": "-2"
         },
         {
             "Team": "West",
