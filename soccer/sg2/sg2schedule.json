@@ -65,12 +65,30 @@
         },
         {
             "date": "Wednesday, May 6, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "St. Augustine",
+            "away_team": "Bill Crothers SS",
+            "time": "3:15 PM",
+            "location": "St Augustine CHS",
+            "game_played": true,
+            "final_score": "St. Augustine 3, Bill Crothers SS 2"
+        },
+        {
+            "date": "Wednesday, May 6, 2026",
+            "home_team": "Thornhill SS",
+            "away_team": "Toronto District Christian",
+            "time": "3:45 PM",
+            "location": "Thornhill SS",
+            "game_played": true,
+            "final_score": "Thornhill SS 0, Toronto District Christian 8"
+        },
+        {
+            "date": "Wednesday, May 6, 2026",
+            "home_team": "Westmount",
+            "away_team": "Thornlea SS",
+            "time": "3:45 PM",
+            "location": "Westmount CI",
+            "game_played": true,
+            "final_score": "Westmount 5, Thornlea SS 0"
         },
         {
             "date": "Thursday, May 7, 2026",

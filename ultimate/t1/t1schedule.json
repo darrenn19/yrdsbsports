@@ -11,12 +11,30 @@
         },
         {
             "date": "Wednesday, May 6, 2026",
+            "home_team": "Pierre Elliott Trudeau",
+            "away_team": "Markville",
+            "time": "3:45 PM",
+            "location": "PE Trudeau HS",
+            "game_played": true,
+            "final_score": "Pierre Elliott Trudeau 1, Markville 15"
+        },
+        {
+            "date": "Wednesday, May 6, 2026",
             "home_team": "Tommy Douglas SS 10 (S )",
             "away_team": "St. Theresa Of Lisieux 9 (S )",
             "time": "3:45 PM",
             "location": "Tommy Douglas SS",
             "game_played": false,
             "final_score": null
+        },
+        {
+            "date": "Wednesday, May 6, 2026",
+            "home_team": "Toronto District Christian",
+            "away_team": "Thornlea SS",
+            "time": "3:15 PM",
+            "location": "Toronto District Christian HS",
+            "game_played": true,
+            "final_score": "Toronto District Christian 7, Thornlea SS 8"
         },
         {
             "date": "Thursday, May 7, 2026",
