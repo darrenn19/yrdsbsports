@@ -146,6 +146,15 @@
         },
         {
             "date": "Wednesday, May 6, 2026",
+            "home_team": "Woodbridge College",
+            "away_team": "Stephen Lewis SS",
+            "time": "3:10 PM",
+            "location": "Woodbridge College",
+            "game_played": true,
+            "final_score": "Woodbridge College 0, Stephen Lewis SS 25"
+        },
+        {
+            "date": "Wednesday, May 6, 2026",
             "home_team": "St. Jean De Brebeuf CHS",
             "away_team": "Woodbridge College",
             "time": "9:00 AM",
