@@ -56,6 +56,15 @@
         },
         {
             "date": "Tuesday, May 5, 2026",
+            "home_team": "Aurora HS",
+            "away_team": "Sutton District",
+            "time": "10:10 AM",
+            "location": "Dr J M Denison SS",
+            "game_played": true,
+            "final_score": "Aurora HS 32, Sutton District 0"
+        },
+        {
+            "date": "Tuesday, May 5, 2026",
             "home_team": "Dr. G.W. Williams",
             "away_team": "Aurora HS",
             "time": "11:30 AM",
@@ -101,12 +110,12 @@
         },
         {
             "date": "Wednesday, May 6, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "St. Jean De Brebeuf CHS",
+            "away_team": "Woodbridge College",
+            "time": "9:00 AM",
+            "location": "Woodbridge College",
+            "game_played": true,
+            "final_score": "St. Jean De Brebeuf CHS 20, Woodbridge College 0"
         },
         {
             "date": "Thursday, May 7, 2026",

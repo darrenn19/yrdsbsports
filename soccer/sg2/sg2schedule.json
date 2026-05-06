@@ -20,6 +20,15 @@
         },
         {
             "date": "Tuesday, May 5, 2026",
+            "home_team": "Keswick High School",
+            "away_team": "Dr. J.M. Denison",
+            "time": "4:15 PM",
+            "location": "Keswick HS",
+            "game_played": true,
+            "final_score": "Keswick High School 1, Dr. J.M. Denison 0"
+        },
+        {
+            "date": "Tuesday, May 5, 2026",
             "home_team": "Milliken Mills",
             "away_team": "St. Augustine",
             "time": "3:45 PM",
