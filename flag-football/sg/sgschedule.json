@@ -119,12 +119,30 @@
         },
         {
             "date": "Wednesday, May 6, 2026",
+            "home_team": "St. Jean De Brebeuf CHS",
+            "away_team": "Stephen Lewis SS",
+            "time": "11:30 AM",
+            "location": "Woodbridge College",
+            "game_played": true,
+            "final_score": "St. Jean De Brebeuf CHS 7, Stephen Lewis SS 12"
+        },
+        {
+            "date": "Wednesday, May 6, 2026",
             "home_team": "Woodbridge College",
             "away_team": "Hodan Nalayeh SS",
             "time": "12:40 PM",
             "location": "Woodbridge College",
             "game_played": true,
             "final_score": "Woodbridge College 0, Hodan Nalayeh SS 36"
+        },
+        {
+            "date": "Wednesday, May 6, 2026",
+            "home_team": "St. Jean De Brebeuf CHS",
+            "away_team": "Hodan Nalayeh SS",
+            "time": "2:00 PM",
+            "location": "Woodbridge College",
+            "game_played": true,
+            "final_score": "St. Jean De Brebeuf CHS 14, Hodan Nalayeh SS 20"
         },
         {
             "date": "Wednesday, May 6, 2026",
