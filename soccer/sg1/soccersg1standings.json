@@ -11,44 +11,44 @@
             "DIFF": "DIFF"
         },
         {
-            "Team": "St. Maximilian",
+            "Team": "St. Theresa Of Lisieux",
+            "W": "2",
+            "L": "0",
+            "T": "0",
+            "PTS": "6",
+            "GF": "6",
+            "GA": "0",
+            "DIFF": "6"
+        },
+        {
+            "Team": "Sacred Heart",
             "W": "1",
             "L": "0",
             "T": "1",
             "PTS": "4",
-            "GF": "5",
+            "GF": "4",
             "GA": "1",
-            "DIFF": "4"
+            "DIFF": "3"
+        },
+        {
+            "Team": "St. Maximilian",
+            "W": "1",
+            "L": "1",
+            "T": "1",
+            "PTS": "4",
+            "GF": "5",
+            "GA": "4",
+            "DIFF": "1"
         },
         {
             "Team": "St. Brother Andre",
             "W": "1",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "3",
             "GF": "3",
-            "GA": "4",
-            "DIFF": "-1"
-        },
-        {
-            "Team": "St. Theresa Of Lisieux",
-            "W": "1",
-            "L": "0",
-            "T": "0",
-            "PTS": "3",
-            "GF": "3",
-            "GA": "0",
-            "DIFF": "3"
-        },
-        {
-            "Team": "Sacred Heart",
-            "W": "0",
-            "L": "0",
-            "T": "1",
-            "PTS": "1",
-            "GF": "1",
-            "GA": "1",
-            "DIFF": "0"
+            "GA": "7",
+            "DIFF": "-4"
         },
         {
             "Team": "Cardinal Carter",
@@ -74,41 +74,41 @@
             "Team": "Holy Cross",
             "W": "2",
             "L": "0",
-            "T": "0",
-            "PTS": "6",
-            "GF": "11",
-            "GA": "6",
+            "T": "1",
+            "PTS": "7",
+            "GF": "12",
+            "GA": "7",
             "DIFF": "5"
         },
         {
             "Team": "St. Jean De Brebeuf CHS",
-            "W": "1",
+            "W": "2",
             "L": "1",
             "T": "0",
-            "PTS": "3",
-            "GF": "8",
+            "PTS": "6",
+            "GF": "14",
             "GA": "5",
-            "DIFF": "3"
+            "DIFF": "8"
         },
         {
             "Team": "Father Bressani",
             "W": "1",
             "L": "0",
-            "T": "0",
-            "PTS": "3",
-            "GF": "6",
-            "GA": "3",
+            "T": "1",
+            "PTS": "4",
+            "GF": "7",
+            "GA": "4",
             "DIFF": "3"
         },
         {
             "Team": "St. Joan Of Arc",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "0",
             "GF": "3",
-            "GA": "7",
-            "DIFF": "-4"
+            "GA": "13",
+            "DIFF": "-9"
         },
         {
             "Team": "St. Elizabeth",

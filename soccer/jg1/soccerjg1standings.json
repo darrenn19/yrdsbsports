@@ -21,6 +21,16 @@
             "DIFF": "5"
         },
         {
+            "Team": "St. Theresa Of Lisieux",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "3",
+            "GF": "7",
+            "GA": "0",
+            "DIFF": "5"
+        },
+        {
             "Team": "Holy Cross",
             "W": "0",
             "L": "0",
@@ -43,25 +53,15 @@
         {
             "Team": "Keswick High School",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
             "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
+            "GA": "7",
+            "DIFF": "-5"
         },
         {
             "Team": "Cardinal Carter",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "GF": "0",
-            "GA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "St. Theresa Of Lisieux",
             "W": "0",
             "L": "0",
             "T": "0",
