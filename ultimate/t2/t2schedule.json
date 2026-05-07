@@ -11,6 +11,15 @@
         },
         {
             "date": "Wednesday, May 6, 2026",
+            "home_team": "Sacred Heart 13 (S )",
+            "away_team": "Innova Academy 0 (S )",
+            "time": "3:30 PM",
+            "location": "Huron Heights SS",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, May 6, 2026",
             "home_team": "Innova Academy",
             "away_team": "Newmarket HS",
             "time": "4:30 PM",
