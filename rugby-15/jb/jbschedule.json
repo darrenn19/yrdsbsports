@@ -11,12 +11,12 @@
         },
         {
             "date": "Thursday, May 7, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "St. Theresa Of Lisieux",
+            "away_team": "Bill Crothers SS",
+            "time": "4:15 PM",
+            "location": "St Theresa Of Lisieux CHS",
+            "game_played": true,
+            "final_score": "St. Theresa Of Lisieux 5, Bill Crothers SS 17"
         },
         {
             "date": "Friday, May 8, 2026",
