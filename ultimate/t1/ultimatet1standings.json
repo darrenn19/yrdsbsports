@@ -11,64 +11,64 @@
             "PA": "PA"
         },
         {
-            "Team": "Markham District",
-            "W": "0",
+            "Team": "Milliken Mills",
+            "W": "1",
             "L": "0",
             "T": "0",
+            "PTS": "2",
+            "SPTS": "15",
+            "PF": "7",
+            "PA": "5"
+        },
+        {
+            "Team": "Markville",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "2",
+            "SPTS": "16",
+            "PF": "15",
+            "PA": "1"
+        },
+        {
+            "Team": "Bur Oak SS",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "2",
+            "SPTS": "13",
+            "PF": "9",
+            "PA": "4"
+        },
+        {
+            "Team": "Markham District",
+            "W": "0",
+            "L": "1",
+            "T": "0",
             "PTS": "0",
-            "SPTS": "0",
-            "PF": "0",
-            "PA": "0"
+            "SPTS": "12",
+            "PF": "4",
+            "PA": "9"
         },
         {
             "Team": "Bill Hogarth SS",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
-            "SPTS": "0",
-            "PF": "0",
-            "PA": "0"
-        },
-        {
-            "Team": "Markville",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "SPTS": "0",
-            "PF": "0",
-            "PA": "0"
+            "SPTS": "15",
+            "PF": "5",
+            "PA": "7"
         },
         {
             "Team": "Pierre Elliott Trudeau",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
-            "SPTS": "0",
-            "PF": "0",
-            "PA": "0"
-        },
-        {
-            "Team": "Milliken Mills",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "SPTS": "0",
-            "PF": "0",
-            "PA": "0"
-        },
-        {
-            "Team": "Bur Oak SS",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "SPTS": "0",
-            "PF": "0",
-            "PA": "0"
+            "SPTS": "18",
+            "PF": "1",
+            "PA": "15"
         },
         {
             "Team": "North",
@@ -151,6 +151,26 @@
             "PA": "PA"
         },
         {
+            "Team": "Tommy Douglas SS",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "2",
+            "SPTS": "16",
+            "PF": "10",
+            "PA": "9"
+        },
+        {
+            "Team": "Thornlea SS",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "2",
+            "SPTS": "24",
+            "PF": "8",
+            "PA": "7"
+        },
+        {
             "Team": "Holy Cross",
             "W": "0",
             "L": "0",
@@ -171,44 +191,24 @@
             "PA": "0"
         },
         {
-            "Team": "Thornlea SS",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "SPTS": "0",
-            "PF": "0",
-            "PA": "0"
-        },
-        {
-            "Team": "Tommy Douglas SS",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "SPTS": "0",
-            "PF": "0",
-            "PA": "0"
-        },
-        {
             "Team": "Toronto District Christian",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
-            "SPTS": "0",
-            "PF": "0",
-            "PA": "0"
+            "SPTS": "24",
+            "PF": "7",
+            "PA": "8"
         },
         {
             "Team": "St. Theresa Of Lisieux",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
-            "SPTS": "0",
-            "PF": "0",
-            "PA": "0"
+            "SPTS": "16",
+            "PF": "9",
+            "PA": "10"
         }
     ]
 }

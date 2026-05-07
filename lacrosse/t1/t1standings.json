@@ -37,22 +37,22 @@
             "PA": "3"
         },
         {
-            "Team": "Sir William Mulock",
-            "W": "0",
+            "Team": "Aurora HS",
+            "W": "1",
             "L": "2",
             "T": "0",
-            "PTS": "0",
-            "PF": "1",
-            "PA": "12"
+            "PTS": "2",
+            "PF": "9",
+            "PA": "7"
         },
         {
-            "Team": "Aurora HS",
+            "Team": "Sir William Mulock",
             "W": "0",
-            "L": "2",
+            "L": "3",
             "T": "0",
             "PTS": "0",
-            "PF": "0",
-            "PA": "6"
+            "PF": "2",
+            "PA": "21"
         }
     ]
 }

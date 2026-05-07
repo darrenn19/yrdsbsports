@@ -191,6 +191,26 @@
             "PA": "PA"
         },
         {
+            "Team": "Newmarket HS",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "2",
+            "SPTS": "13",
+            "PF": "8",
+            "PA": "2"
+        },
+        {
+            "Team": "Sacred Heart",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "2",
+            "SPTS": "18",
+            "PF": "9",
+            "PA": "3"
+        },
+        {
             "Team": "Dr. G.W. Williams",
             "W": "0",
             "L": "0",
@@ -203,12 +223,12 @@
         {
             "Team": "Sir William Mulock",
             "W": "0",
-            "L": "0",
+            "L": "2",
             "T": "0",
             "PTS": "0",
-            "SPTS": "0",
-            "PF": "0",
-            "PA": "0"
+            "SPTS": "32",
+            "PF": "5",
+            "PA": "17"
         },
         {
             "Team": "Huron Heights",
@@ -222,26 +242,6 @@
         },
         {
             "Team": "Keswick High School",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "SPTS": "0",
-            "PF": "0",
-            "PA": "0"
-        },
-        {
-            "Team": "Newmarket HS",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "SPTS": "0",
-            "PF": "0",
-            "PA": "0"
-        },
-        {
-            "Team": "Sacred Heart",
             "W": "0",
             "L": "0",
             "T": "0",

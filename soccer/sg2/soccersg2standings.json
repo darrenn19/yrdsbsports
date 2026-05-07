@@ -82,23 +82,23 @@
         },
         {
             "Team": "St. Augustine",
-            "W": "2",
+            "W": "3",
             "L": "0",
             "T": "0",
-            "PTS": "6",
-            "GF": "14",
-            "GA": "0",
-            "DIFF": "10"
+            "PTS": "9",
+            "GF": "17",
+            "GA": "2",
+            "DIFF": "11"
         },
         {
             "Team": "Bill Crothers SS",
             "W": "2",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "6",
-            "GF": "11",
-            "GA": "0",
-            "DIFF": "8"
+            "GF": "13",
+            "GA": "3",
+            "DIFF": "7"
         },
         {
             "Team": "Father McGivney",
@@ -152,13 +152,13 @@
         },
         {
             "Team": "Bill Hogarth SS",
-            "W": "2",
+            "W": "3",
             "L": "0",
             "T": "0",
-            "PTS": "6",
-            "GF": "12",
-            "GA": "1",
-            "DIFF": "9"
+            "PTS": "9",
+            "GF": "27",
+            "GA": "2",
+            "DIFF": "14"
         },
         {
             "Team": "Markham District",
@@ -203,12 +203,12 @@
         {
             "Team": "Bur Oak SS",
             "W": "0",
-            "L": "2",
+            "L": "3",
             "T": "0",
             "PTS": "0",
-            "GF": "0",
-            "GA": "9",
-            "DIFF": "-7"
+            "GF": "1",
+            "GA": "24",
+            "DIFF": "-12"
         },
         {
             "Team": "North",
@@ -292,63 +292,63 @@
         },
         {
             "Team": "Toronto District Christian",
-            "W": "2",
+            "W": "3",
             "L": "0",
             "T": "0",
-            "PTS": "6",
-            "GF": "6",
+            "PTS": "9",
+            "GF": "14",
             "GA": "2",
-            "DIFF": "4"
+            "DIFF": "9"
         },
         {
             "Team": "Westmount",
-            "W": "2",
+            "W": "3",
             "L": "0",
             "T": "0",
-            "PTS": "6",
-            "GF": "12",
+            "PTS": "9",
+            "GF": "17",
             "GA": "0",
-            "DIFF": "7"
+            "DIFF": "12"
         },
         {
             "Team": "Hodan Nalayeh SS",
-            "W": "1",
+            "W": "2",
             "L": "1",
             "T": "0",
-            "PTS": "3",
-            "GF": "8",
-            "GA": "3",
-            "DIFF": "4"
+            "PTS": "6",
+            "GF": "10",
+            "GA": "4",
+            "DIFF": "5"
         },
         {
             "Team": "Thornhill SS",
-            "W": "0",
-            "L": "1",
-            "T": "0",
-            "PTS": "0",
-            "GF": "0",
-            "GA": "10",
-            "DIFF": "-5"
-        },
-        {
-            "Team": "Thornlea SS",
-            "W": "0",
-            "L": "1",
-            "T": "0",
-            "PTS": "0",
-            "GF": "0",
-            "GA": "6",
-            "DIFF": "-5"
-        },
-        {
-            "Team": "Woodbridge College",
             "W": "0",
             "L": "2",
             "T": "0",
             "PTS": "0",
             "GF": "0",
-            "GA": "5",
-            "DIFF": "-5"
+            "GA": "18",
+            "DIFF": "-10"
+        },
+        {
+            "Team": "Thornlea SS",
+            "W": "0",
+            "L": "2",
+            "T": "0",
+            "PTS": "0",
+            "GF": "0",
+            "GA": "11",
+            "DIFF": "-10"
+        },
+        {
+            "Team": "Woodbridge College",
+            "W": "0",
+            "L": "3",
+            "T": "0",
+            "PTS": "0",
+            "GF": "1",
+            "GA": "7",
+            "DIFF": "-6"
         }
     ]
 }

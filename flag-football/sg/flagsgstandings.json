@@ -301,6 +301,26 @@
             "PA": "21"
         },
         {
+            "Team": "Hodan Nalayeh SS",
+            "GP": "3",
+            "W": "2",
+            "L": "0",
+            "T": "1",
+            "PTS": "5",
+            "PF": "62",
+            "PA": "20"
+        },
+        {
+            "Team": "Stephen Lewis SS",
+            "GP": "3",
+            "W": "2",
+            "L": "0",
+            "T": "1",
+            "PTS": "5",
+            "PF": "43",
+            "PA": "13"
+        },
+        {
             "Team": "St. Joan Of Arc",
             "GP": "3",
             "W": "2",
@@ -309,16 +329,6 @@
             "PTS": "4",
             "PF": "39",
             "PA": "33"
-        },
-        {
-            "Team": "St. Jean De Brebeuf CHS",
-            "GP": "1",
-            "W": "1",
-            "L": "0",
-            "T": "0",
-            "PTS": "2",
-            "PF": "20",
-            "PA": "0"
         },
         {
             "Team": "Tommy Douglas SS",
@@ -331,34 +341,24 @@
             "PA": "46"
         },
         {
-            "Team": "Hodan Nalayeh SS",
-            "GP": "1",
-            "W": "0",
-            "L": "0",
-            "T": "1",
-            "PTS": "1",
-            "PF": "6",
-            "PA": "6"
-        },
-        {
-            "Team": "Stephen Lewis SS",
-            "GP": "1",
-            "W": "0",
-            "L": "0",
-            "T": "1",
-            "PTS": "1",
-            "PF": "6",
-            "PA": "6"
+            "Team": "St. Jean De Brebeuf CHS",
+            "GP": "3",
+            "W": "1",
+            "L": "2",
+            "T": "0",
+            "PTS": "2",
+            "PF": "41",
+            "PA": "32"
         },
         {
             "Team": "Woodbridge College",
-            "GP": "1",
+            "GP": "3",
             "W": "0",
-            "L": "1",
+            "L": "3",
             "T": "0",
             "PTS": "0",
             "PF": "0",
-            "PA": "20"
+            "PA": "81"
         },
         {
             "Team": "Father Bressani",
