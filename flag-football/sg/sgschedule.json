@@ -83,6 +83,15 @@
         },
         {
             "date": "Thursday, May 7, 2026",
+            "home_team": "Bayview SS",
+            "away_team": "St. Elizabeth",
+            "time": "3:30 PM",
+            "location": "Bayview SS",
+            "game_played": true,
+            "final_score": "Bayview SS 14, St. Elizabeth 0"
+        },
+        {
+            "date": "Thursday, May 7, 2026",
             "home_team": "Cardinal Carter",
             "away_team": "Bayview SS",
             "time": "9:00 AM",
