@@ -81,6 +81,16 @@
             "PA": "PA"
         },
         {
+            "Team": "Bill Crothers SS",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "2",
+            "SPTS": "17",
+            "PF": "8",
+            "PA": "6"
+        },
+        {
             "Team": "Huron Heights",
             "W": "0",
             "L": "0",
@@ -101,24 +111,14 @@
             "PA": "0"
         },
         {
-            "Team": "Bill Crothers SS",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "SPTS": "0",
-            "PF": "0",
-            "PA": "0"
-        },
-        {
             "Team": "Richmond Green SS",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
-            "SPTS": "0",
-            "PF": "0",
-            "PA": "0"
+            "SPTS": "19",
+            "PF": "6",
+            "PA": "8"
         },
         {
             "Team": "Cardinal Carter",

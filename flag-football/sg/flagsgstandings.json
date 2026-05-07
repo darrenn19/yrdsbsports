@@ -21,16 +21,6 @@
             "PA": "13"
         },
         {
-            "Team": "Thornlea SS",
-            "GP": "3",
-            "W": "1",
-            "L": "1",
-            "T": "1",
-            "PTS": "3",
-            "PF": "20",
-            "PA": "12"
-        },
-        {
             "Team": "Richmond Green SS",
             "GP": "3",
             "W": "1",
@@ -41,6 +31,16 @@
             "PA": "32"
         },
         {
+            "Team": "Thornlea SS",
+            "GP": "3",
+            "W": "1",
+            "L": "1",
+            "T": "1",
+            "PTS": "3",
+            "PF": "20",
+            "PA": "12"
+        },
+        {
             "Team": "Richmond Hill HS",
             "GP": "3",
             "W": "1",
@@ -49,6 +49,16 @@
             "PTS": "2",
             "PF": "7",
             "PA": "37"
+        },
+        {
+            "Team": "Cardinal Carter",
+            "GP": "1",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "2",
+            "PF": "1",
+            "PA": "0"
         },
         {
             "Team": "Thornhill SS",
@@ -62,23 +72,13 @@
         },
         {
             "Team": "Bayview SS",
-            "GP": "0",
+            "GP": "1",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
             "PF": "0",
-            "PA": "0"
-        },
-        {
-            "Team": "Cardinal Carter",
-            "GP": "0",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0"
+            "PA": "1"
         },
         {
             "Team": "St. Elizabeth",

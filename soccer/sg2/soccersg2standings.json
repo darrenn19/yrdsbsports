@@ -163,12 +163,12 @@
         {
             "Team": "Markham District",
             "W": "2",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "6",
-            "GF": "10",
-            "GA": "0",
-            "DIFF": "8"
+            "GF": "13",
+            "GA": "4",
+            "DIFF": "7"
         },
         {
             "Team": "Stouffville",
@@ -181,6 +181,16 @@
             "DIFF": "-2"
         },
         {
+            "Team": "Pierre Elliott Trudeau",
+            "W": "1",
+            "L": "2",
+            "T": "0",
+            "PTS": "3",
+            "GF": "5",
+            "GA": "9",
+            "DIFF": "-4"
+        },
+        {
             "Team": "St. Brother Andre",
             "W": "1",
             "L": "1",
@@ -189,16 +199,6 @@
             "GF": "2",
             "GA": "7",
             "DIFF": "-3"
-        },
-        {
-            "Team": "Pierre Elliott Trudeau",
-            "W": "0",
-            "L": "2",
-            "T": "0",
-            "PTS": "0",
-            "GF": "1",
-            "GA": "6",
-            "DIFF": "-5"
         },
         {
             "Team": "Bur Oak SS",
