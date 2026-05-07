@@ -38,12 +38,30 @@
         },
         {
             "date": "Thursday, May 7, 2026",
+            "home_team": "Father McGivney",
+            "away_team": "Bur Oak SS",
+            "time": "3:30 PM",
+            "location": "Father Michael McGivney CA",
+            "game_played": true,
+            "final_score": "Father McGivney 3, Bur Oak SS 12"
+        },
+        {
+            "date": "Thursday, May 7, 2026",
             "home_team": "Langstaff SS",
             "away_team": "Richmond Hill HS",
             "time": "3:30 PM",
             "location": "Langstaff SS",
             "game_played": true,
             "final_score": "Langstaff SS 3, Richmond Hill HS 10"
+        },
+        {
+            "date": "Thursday, May 7, 2026",
+            "home_team": "Richmond Hill HS",
+            "away_team": "St. Robert",
+            "time": "4:30 PM",
+            "location": "Langstaff SS",
+            "game_played": true,
+            "final_score": "Richmond Hill HS 5, St. Robert 7"
         },
         {
             "date": "Friday, May 8, 2026",
