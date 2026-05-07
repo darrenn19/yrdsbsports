@@ -11,6 +11,15 @@
         },
         {
             "date": "Wednesday, May 6, 2026",
+            "home_team": "Innova Academy",
+            "away_team": "Newmarket HS",
+            "time": "4:30 PM",
+            "location": "Huron Heights SS",
+            "game_played": true,
+            "final_score": "Innova Academy 3, Newmarket HS 12"
+        },
+        {
+            "date": "Wednesday, May 6, 2026",
             "home_team": "Sacred Heart 9 (S )",
             "away_team": "Sir William Mulock 3 (S )",
             "time": "4:30 PM",

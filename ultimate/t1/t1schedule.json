@@ -29,6 +29,15 @@
         },
         {
             "date": "Wednesday, May 6, 2026",
+            "home_team": "Richmond Green SS",
+            "away_team": "Bill Crothers SS",
+            "time": "3:45 PM",
+            "location": "Richmond Green SS",
+            "game_played": true,
+            "final_score": "Richmond Green SS 6, Bill Crothers SS 8"
+        },
+        {
+            "date": "Wednesday, May 6, 2026",
             "home_team": "Tommy Douglas SS 10 (S )",
             "away_team": "St. Theresa Of Lisieux 9 (S )",
             "time": "3:45 PM",
