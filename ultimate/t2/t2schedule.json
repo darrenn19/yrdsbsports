@@ -11,10 +11,19 @@
         },
         {
             "date": "Wednesday, May 6, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
+            "home_team": "Sir William Mulock",
+            "away_team": "Newmarket HS",
+            "time": "3:30 PM",
+            "location": "Huron Heights SS",
+            "game_played": true,
+            "final_score": "Sir William Mulock 2, Newmarket HS 8"
+        },
+        {
+            "date": "Wednesday, May 6, 2026",
+            "home_team": "Sacred Heart 9 (S )",
+            "away_team": "Sir William Mulock 3 (S )",
+            "time": "4:30 PM",
+            "location": "Huron Heights SS",
             "game_played": false,
             "final_score": null
         },
