@@ -2,6 +2,15 @@
     "schedule": [
         {
             "date": "Wednesday, May 6, 2026",
+            "home_team": "Sacred Heart 13 (S )",
+            "away_team": "Innova Academy 0 (S )",
+            "time": "3:30 PM",
+            "location": "Huron Heights SS",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, May 6, 2026",
             "home_team": "Sir William Mulock",
             "away_team": "Newmarket HS",
             "time": "3:30 PM",
@@ -11,9 +20,9 @@
         },
         {
             "date": "Wednesday, May 6, 2026",
-            "home_team": "Sacred Heart 13 (S )",
-            "away_team": "Innova Academy 0 (S )",
-            "time": "3:30 PM",
+            "home_team": "Sacred Heart 9 (S )",
+            "away_team": "Sir William Mulock 3 (S )",
+            "time": "4:30 PM",
             "location": "Huron Heights SS",
             "game_played": false,
             "final_score": null
@@ -26,15 +35,6 @@
             "location": "Huron Heights SS",
             "game_played": true,
             "final_score": "Innova Academy 3, Newmarket HS 12"
-        },
-        {
-            "date": "Wednesday, May 6, 2026",
-            "home_team": "Sacred Heart 9 (S )",
-            "away_team": "Sir William Mulock 3 (S )",
-            "time": "4:30 PM",
-            "location": "Huron Heights SS",
-            "game_played": false,
-            "final_score": null
         },
         {
             "date": "Thursday, May 7, 2026",
