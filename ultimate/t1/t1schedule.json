@@ -1,11 +1,11 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, May 5, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
+            "date": "Wednesday, May 6, 2026",
+            "home_team": "Bur Oak SS 9 (S )",
+            "away_team": "Markham District 4 (S )",
+            "time": "3:45 PM",
+            "location": "Bur Oak SS",
             "game_played": false,
             "final_score": null
         },
@@ -83,6 +83,15 @@
         },
         {
             "date": "Monday, May 11, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, May 12, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, May 5, 2026",
-            "home_team": "Keswick High School",
-            "away_team": "St. Theresa Of Lisieux",
-            "time": "3:00 PM",
-            "location": "Keswick HS",
-            "game_played": true,
-            "final_score": "Keswick High School 0, St. Theresa Of Lisieux 7"
-        },
-        {
             "date": "Wednesday, May 6, 2026",
             "home_team": null,
             "away_team": null,
@@ -62,6 +53,15 @@
             "location": null,
             "game_played": false,
             "final_score": null
+        },
+        {
+            "date": "Tuesday, May 12, 2026",
+            "home_team": "Father Bressani",
+            "away_team": "St. Katharine Drexel",
+            "time": "3:15 PM",
+            "location": "Father Bressani CHS",
+            "game_played": true,
+            "final_score": "Father Bressani 5, St. Katharine Drexel 0"
         }
     ]
 }

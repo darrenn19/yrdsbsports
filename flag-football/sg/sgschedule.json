@@ -1,114 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, May 5, 2026",
-            "home_team": "Stouffville",
-            "away_team": "Markham District",
-            "time": "10:10 AM",
-            "location": "Bill Hogarth SS",
-            "game_played": true,
-            "final_score": "Stouffville 14, Markham District 0"
-        },
-        {
-            "date": "Tuesday, May 5, 2026",
-            "home_team": "Milliken Mills",
-            "away_team": "Stouffville",
-            "time": "11:30 AM",
-            "location": "Bill Hogarth SS",
-            "game_played": true,
-            "final_score": "Milliken Mills 6, Stouffville 21"
-        },
-        {
-            "date": "Tuesday, May 5, 2026",
-            "home_team": "Bill Hogarth SS",
-            "away_team": "Markham District",
-            "time": "12:40 PM",
-            "location": "Bill Hogarth SS",
-            "game_played": true,
-            "final_score": "Bill Hogarth SS 0, Markham District 20"
-        },
-        {
-            "date": "Tuesday, May 5, 2026",
-            "home_team": "Milliken Mills",
-            "away_team": "Markham District",
-            "time": "2:00 PM",
-            "location": "Bill Hogarth SS",
-            "game_played": true,
-            "final_score": "Milliken Mills 0, Markham District 22"
-        },
-        {
-            "date": "Tuesday, May 5, 2026",
-            "home_team": "Bill Hogarth SS",
-            "away_team": "Stouffville",
-            "time": "3:10 PM",
-            "location": "Bill Hogarth SS",
-            "game_played": true,
-            "final_score": "Bill Hogarth SS 0, Stouffville 14"
-        },
-        {
-            "date": "Tuesday, May 5, 2026",
-            "home_team": "Milliken Mills",
-            "away_team": "Bill Hogarth SS",
-            "time": "9:00 AM",
-            "location": "Bill Hogarth SS",
-            "game_played": true,
-            "final_score": "Milliken Mills 0, Bill Hogarth SS 7"
-        },
-        {
-            "date": "Tuesday, May 5, 2026",
-            "home_team": "Aurora HS",
-            "away_team": "Sutton District",
-            "time": "10:10 AM",
-            "location": "Dr J M Denison SS",
-            "game_played": true,
-            "final_score": "Aurora HS 32, Sutton District 0"
-        },
-        {
-            "date": "Tuesday, May 5, 2026",
-            "home_team": "Dr. G.W. Williams",
-            "away_team": "Aurora HS",
-            "time": "11:30 AM",
-            "location": "Dr J M Denison SS",
-            "game_played": true,
-            "final_score": "Dr. G.W. Williams 20, Aurora HS 0"
-        },
-        {
-            "date": "Tuesday, May 5, 2026",
-            "home_team": "Dr. J.M. Denison",
-            "away_team": "Sutton District",
-            "time": "12:40 PM",
-            "location": "Dr J M Denison SS",
-            "game_played": true,
-            "final_score": "Dr. J.M. Denison 32, Sutton District 0"
-        },
-        {
-            "date": "Tuesday, May 5, 2026",
-            "home_team": "Dr. G.W. Williams",
-            "away_team": "Sutton District",
-            "time": "2:00 PM",
-            "location": "Dr J M Denison SS",
-            "game_played": true,
-            "final_score": "Dr. G.W. Williams 29, Sutton District 0"
-        },
-        {
-            "date": "Tuesday, May 5, 2026",
-            "home_team": "Dr. J.M. Denison",
-            "away_team": "Aurora HS",
-            "time": "3:10 PM",
-            "location": "Dr J M Denison SS",
-            "game_played": true,
-            "final_score": "Dr. J.M. Denison 15, Aurora HS 0"
-        },
-        {
-            "date": "Tuesday, May 5, 2026",
-            "home_team": "Dr. G.W. Williams",
-            "away_team": "Dr. J.M. Denison",
-            "time": "9:00 AM",
-            "location": "Dr J M Denison SS",
-            "game_played": true,
-            "final_score": "Dr. G.W. Williams 6, Dr. J.M. Denison 13"
-        },
-        {
             "date": "Wednesday, May 6, 2026",
             "home_team": "Stephen Lewis SS",
             "away_team": "Hodan Nalayeh SS",
@@ -200,6 +92,15 @@
         },
         {
             "date": "Monday, May 11, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, May 12, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
