@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, May 6, 2026",
-            "home_team": "Sir William Mulock",
-            "away_team": "Aurora HS",
-            "time": "1:30 PM",
-            "location": "Sir William Mulock",
-            "game_played": true,
-            "final_score": "Sir William Mulock 1, Aurora HS 9"
-        },
-        {
             "date": "Thursday, May 7, 2026",
             "home_team": null,
             "away_team": null,
@@ -56,6 +47,15 @@
         },
         {
             "date": "Tuesday, May 12, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, May 13, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

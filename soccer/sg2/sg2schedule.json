@@ -1,60 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, May 6, 2026",
-            "home_team": "Bill Hogarth SS",
-            "away_team": "Bur Oak SS",
-            "time": "3:45 PM",
-            "location": "Bill Hogarth SS",
-            "game_played": true,
-            "final_score": "Bill Hogarth SS 15, Bur Oak SS 1"
-        },
-        {
-            "date": "Wednesday, May 6, 2026",
-            "home_team": "Hodan Nalayeh SS",
-            "away_team": "Woodbridge College",
-            "time": "3:45 PM",
-            "location": "Hodan Nalayeh Secondary School",
-            "game_played": true,
-            "final_score": "Hodan Nalayeh SS 2, Woodbridge College 1"
-        },
-        {
-            "date": "Wednesday, May 6, 2026",
-            "home_team": "Markham District",
-            "away_team": "Pierre Elliott Trudeau",
-            "time": "3:45 PM",
-            "location": "Markham DHS",
-            "game_played": true,
-            "final_score": "Markham District 3, Pierre Elliott Trudeau 4"
-        },
-        {
-            "date": "Wednesday, May 6, 2026",
-            "home_team": "St. Augustine",
-            "away_team": "Bill Crothers SS",
-            "time": "3:15 PM",
-            "location": "St Augustine CHS",
-            "game_played": true,
-            "final_score": "St. Augustine 3, Bill Crothers SS 2"
-        },
-        {
-            "date": "Wednesday, May 6, 2026",
-            "home_team": "Thornhill SS",
-            "away_team": "Toronto District Christian",
-            "time": "3:45 PM",
-            "location": "Thornhill SS",
-            "game_played": true,
-            "final_score": "Thornhill SS 0, Toronto District Christian 8"
-        },
-        {
-            "date": "Wednesday, May 6, 2026",
-            "home_team": "Westmount",
-            "away_team": "Thornlea SS",
-            "time": "3:45 PM",
-            "location": "Westmount CI",
-            "game_played": true,
-            "final_score": "Westmount 5, Thornlea SS 0"
-        },
-        {
             "date": "Thursday, May 7, 2026",
             "home_team": "King City SS",
             "away_team": "Alexander Mackenzie",
@@ -146,6 +92,15 @@
         },
         {
             "date": "Tuesday, May 12, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, May 13, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

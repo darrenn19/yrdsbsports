@@ -1,42 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, May 6, 2026",
-            "home_team": "Sacred Heart 13 (S )",
-            "away_team": "Innova Academy 0 (S )",
-            "time": "3:30 PM",
-            "location": "Huron Heights SS",
-            "game_played": false,
-            "final_score": null
-        },
-        {
-            "date": "Wednesday, May 6, 2026",
-            "home_team": "Sir William Mulock",
-            "away_team": "Newmarket HS",
-            "time": "3:30 PM",
-            "location": "Huron Heights SS",
-            "game_played": true,
-            "final_score": "Sir William Mulock 2, Newmarket HS 8"
-        },
-        {
-            "date": "Wednesday, May 6, 2026",
-            "home_team": "Sacred Heart 9 (S )",
-            "away_team": "Sir William Mulock 3 (S )",
-            "time": "4:30 PM",
-            "location": "Huron Heights SS",
-            "game_played": false,
-            "final_score": null
-        },
-        {
-            "date": "Wednesday, May 6, 2026",
-            "home_team": "Innova Academy",
-            "away_team": "Newmarket HS",
-            "time": "4:30 PM",
-            "location": "Huron Heights SS",
-            "game_played": true,
-            "final_score": "Innova Academy 3, Newmarket HS 12"
-        },
-        {
             "date": "Thursday, May 7, 2026",
             "home_team": "Father McGivney",
             "away_team": "Bur Oak SS",
@@ -56,21 +20,21 @@
         },
         {
             "date": "Thursday, May 7, 2026",
-            "home_team": "St. Augustine",
-            "away_team": "St. Robert",
-            "time": "3:30 PM",
-            "location": "Langstaff SS",
-            "game_played": true,
-            "final_score": "St. Augustine 0, St. Robert 8"
-        },
-        {
-            "date": "Thursday, May 7, 2026",
             "home_team": "Langstaff SS",
             "away_team": "Richmond Hill HS",
             "time": "3:30 PM",
             "location": "Langstaff SS",
             "game_played": true,
             "final_score": "Langstaff SS 3, Richmond Hill HS 10"
+        },
+        {
+            "date": "Thursday, May 7, 2026",
+            "home_team": "St. Augustine",
+            "away_team": "St. Robert",
+            "time": "3:30 PM",
+            "location": "Langstaff SS",
+            "game_played": true,
+            "final_score": "St. Augustine 0, St. Robert 8"
         },
         {
             "date": "Thursday, May 7, 2026",
@@ -191,6 +155,15 @@
         },
         {
             "date": "Tuesday, May 12, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, May 13, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

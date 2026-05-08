@@ -1,60 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, May 6, 2026",
-            "home_team": "Stephen Lewis SS",
-            "away_team": "Hodan Nalayeh SS",
-            "time": "10:10 AM",
-            "location": "Woodbridge College",
-            "game_played": true,
-            "final_score": "Stephen Lewis SS 6, Hodan Nalayeh SS 6"
-        },
-        {
-            "date": "Wednesday, May 6, 2026",
-            "home_team": "St. Jean De Brebeuf CHS",
-            "away_team": "Stephen Lewis SS",
-            "time": "11:30 AM",
-            "location": "Woodbridge College",
-            "game_played": true,
-            "final_score": "St. Jean De Brebeuf CHS 7, Stephen Lewis SS 12"
-        },
-        {
-            "date": "Wednesday, May 6, 2026",
-            "home_team": "Woodbridge College",
-            "away_team": "Hodan Nalayeh SS",
-            "time": "12:40 PM",
-            "location": "Woodbridge College",
-            "game_played": true,
-            "final_score": "Woodbridge College 0, Hodan Nalayeh SS 36"
-        },
-        {
-            "date": "Wednesday, May 6, 2026",
-            "home_team": "St. Jean De Brebeuf CHS",
-            "away_team": "Hodan Nalayeh SS",
-            "time": "2:00 PM",
-            "location": "Woodbridge College",
-            "game_played": true,
-            "final_score": "St. Jean De Brebeuf CHS 14, Hodan Nalayeh SS 20"
-        },
-        {
-            "date": "Wednesday, May 6, 2026",
-            "home_team": "Woodbridge College",
-            "away_team": "Stephen Lewis SS",
-            "time": "3:10 PM",
-            "location": "Woodbridge College",
-            "game_played": true,
-            "final_score": "Woodbridge College 0, Stephen Lewis SS 25"
-        },
-        {
-            "date": "Wednesday, May 6, 2026",
-            "home_team": "St. Jean De Brebeuf CHS",
-            "away_team": "Woodbridge College",
-            "time": "9:00 AM",
-            "location": "Woodbridge College",
-            "game_played": true,
-            "final_score": "St. Jean De Brebeuf CHS 20, Woodbridge College 0"
-        },
-        {
             "date": "Thursday, May 7, 2026",
             "home_team": "Langstaff SS",
             "away_team": "St. Elizabeth",
@@ -155,6 +101,15 @@
         },
         {
             "date": "Tuesday, May 12, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, May 13, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

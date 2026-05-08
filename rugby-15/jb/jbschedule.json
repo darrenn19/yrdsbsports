@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, May 6, 2026",
-            "home_team": "Stouffville",
-            "away_team": "St. Maximilian",
-            "time": "3:30 PM",
-            "location": "Stouffville DSS",
-            "game_played": true,
-            "final_score": "Stouffville 12, St. Maximilian 27"
-        },
-        {
             "date": "Thursday, May 7, 2026",
             "home_team": "St. Theresa Of Lisieux",
             "away_team": "Bill Crothers SS",
@@ -56,6 +47,15 @@
         },
         {
             "date": "Tuesday, May 12, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, May 13, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
