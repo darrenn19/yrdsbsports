@@ -56,12 +56,12 @@
         },
         {
             "date": "Friday, May 8, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Bur Oak SS",
+            "away_team": "Thornlea SS",
+            "time": "10:10 AM",
+            "location": "Bill Crothers SS",
+            "game_played": true,
+            "final_score": "Bur Oak SS 39, Thornlea SS 25"
         },
         {
             "date": "Saturday, May 9, 2026",
