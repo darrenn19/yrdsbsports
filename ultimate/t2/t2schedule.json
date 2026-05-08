@@ -20,15 +20,6 @@
         },
         {
             "date": "Thursday, May 7, 2026",
-            "home_team": "Dr. J.M. Denison 10 (S )",
-            "away_team": "Huron Heights 3 (S )",
-            "time": "4:30 PM",
-            "location": "Dr J M Denison SS",
-            "game_played": false,
-            "final_score": null
-        },
-        {
-            "date": "Thursday, May 7, 2026",
             "home_team": "Dr. G.W. Williams",
             "away_team": "Keswick High School",
             "time": "4:30 PM",
@@ -38,12 +29,12 @@
         },
         {
             "date": "Thursday, May 7, 2026",
-            "home_team": "Father McGivney",
-            "away_team": "Bur Oak SS",
-            "time": "3:30 PM",
-            "location": "Father Michael McGivney CA",
-            "game_played": true,
-            "final_score": "Father McGivney 3, Bur Oak SS 12"
+            "home_team": "Dr. J.M. Denison 10 (S )",
+            "away_team": "Huron Heights 3 (S )",
+            "time": "4:30 PM",
+            "location": "Dr J M Denison SS",
+            "game_played": false,
+            "final_score": null
         },
         {
             "date": "Thursday, May 7, 2026",
@@ -53,6 +44,15 @@
             "location": "Father Michael McGivney CA",
             "game_played": false,
             "final_score": null
+        },
+        {
+            "date": "Thursday, May 7, 2026",
+            "home_team": "Father McGivney",
+            "away_team": "Bur Oak SS",
+            "time": "3:30 PM",
+            "location": "Father Michael McGivney CA",
+            "game_played": true,
+            "final_score": "Father McGivney 3, Bur Oak SS 12"
         },
         {
             "date": "Thursday, May 7, 2026",
@@ -74,15 +74,6 @@
         },
         {
             "date": "Thursday, May 7, 2026",
-            "home_team": "St. Augustine",
-            "away_team": "St. Robert",
-            "time": "3:30 PM",
-            "location": "Langstaff SS",
-            "game_played": true,
-            "final_score": "St. Augustine 0, St. Robert 8"
-        },
-        {
-            "date": "Thursday, May 7, 2026",
             "home_team": "Langstaff SS",
             "away_team": "Richmond Hill HS",
             "time": "3:30 PM",
@@ -92,12 +83,12 @@
         },
         {
             "date": "Thursday, May 7, 2026",
-            "home_team": "Langstaff SS",
-            "away_team": "St. Augustine",
-            "time": "4:30 PM",
+            "home_team": "St. Augustine",
+            "away_team": "St. Robert",
+            "time": "3:30 PM",
             "location": "Langstaff SS",
             "game_played": true,
-            "final_score": "Langstaff SS 1, St. Augustine 9"
+            "final_score": "St. Augustine 0, St. Robert 8"
         },
         {
             "date": "Thursday, May 7, 2026",
@@ -110,12 +101,12 @@
         },
         {
             "date": "Thursday, May 7, 2026",
-            "home_team": "Maple High School 5 (S )",
-            "away_team": "Father Bressani 4 (S )",
-            "time": "3:30 PM",
-            "location": "Maple HS",
-            "game_played": false,
-            "final_score": null
+            "home_team": "Langstaff SS",
+            "away_team": "St. Augustine",
+            "time": "4:30 PM",
+            "location": "Langstaff SS",
+            "game_played": true,
+            "final_score": "Langstaff SS 1, St. Augustine 9"
         },
         {
             "date": "Thursday, May 7, 2026",
@@ -125,6 +116,15 @@
             "location": "Maple HS",
             "game_played": true,
             "final_score": "St. Joan Of Arc 1, Stephen Lewis SS 8"
+        },
+        {
+            "date": "Thursday, May 7, 2026",
+            "home_team": "Maple High School 5 (S )",
+            "away_team": "Father Bressani 4 (S )",
+            "time": "3:30 PM",
+            "location": "Maple HS",
+            "game_played": false,
+            "final_score": null
         },
         {
             "date": "Thursday, May 7, 2026",
@@ -146,21 +146,21 @@
         },
         {
             "date": "Thursday, May 7, 2026",
-            "home_team": "Markville 11 (S )",
-            "away_team": "Middlefield 2 (S )",
-            "time": "3:30 PM",
-            "location": "Markville SS",
-            "game_played": false,
-            "final_score": null
-        },
-        {
-            "date": "Thursday, May 7, 2026",
             "home_team": "Milliken Mills",
             "away_team": "Stouffville",
             "time": "3:30 PM",
             "location": "Markville SS",
             "game_played": true,
             "final_score": "Milliken Mills 1, Stouffville 7"
+        },
+        {
+            "date": "Thursday, May 7, 2026",
+            "home_team": "Markville 11 (S )",
+            "away_team": "Middlefield 2 (S )",
+            "time": "3:30 PM",
+            "location": "Markville SS",
+            "game_played": false,
+            "final_score": null
         },
         {
             "date": "Thursday, May 7, 2026",
@@ -191,15 +191,6 @@
         },
         {
             "date": "Thursday, May 7, 2026",
-            "home_team": "Our Lady Queen Of The World",
-            "away_team": "Bayview SS",
-            "time": "4:30 PM",
-            "location": "Our Lady Queen Of The World",
-            "game_played": true,
-            "final_score": "Our Lady Queen Of The World 1, Bayview SS 11"
-        },
-        {
-            "date": "Thursday, May 7, 2026",
             "home_team": "Alexander Mackenzie",
             "away_team": "Unionville HS",
             "time": "4:30 PM",
@@ -209,12 +200,12 @@
         },
         {
             "date": "Thursday, May 7, 2026",
-            "home_team": "Toronto District Christian 6 (S )",
-            "away_team": "Thornlea SS 4 (S )",
-            "time": "3:30 PM",
-            "location": "Westmount CI",
-            "game_played": false,
-            "final_score": null
+            "home_team": "Our Lady Queen Of The World",
+            "away_team": "Bayview SS",
+            "time": "4:30 PM",
+            "location": "Our Lady Queen Of The World",
+            "game_played": true,
+            "final_score": "Our Lady Queen Of The World 1, Bayview SS 11"
         },
         {
             "date": "Thursday, May 7, 2026",
@@ -224,6 +215,15 @@
             "location": "Westmount CI",
             "game_played": true,
             "final_score": "Westmount 5, Thornhill SS 8"
+        },
+        {
+            "date": "Thursday, May 7, 2026",
+            "home_team": "Toronto District Christian 6 (S )",
+            "away_team": "Thornlea SS 4 (S )",
+            "time": "3:30 PM",
+            "location": "Westmount CI",
+            "game_played": false,
+            "final_score": null
         },
         {
             "date": "Thursday, May 7, 2026",
