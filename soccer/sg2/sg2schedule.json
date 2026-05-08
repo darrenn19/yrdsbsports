@@ -47,6 +47,15 @@
         },
         {
             "date": "Thursday, May 7, 2026",
+            "home_team": "Aurora HS",
+            "away_team": "Sir William Mulock",
+            "time": "3:30 PM",
+            "location": "Stewart Burnett Park",
+            "game_played": true,
+            "final_score": "Aurora HS 0, Sir William Mulock 4"
+        },
+        {
+            "date": "Thursday, May 7, 2026",
             "home_team": "Stouffville",
             "away_team": "St. Brother Andre",
             "time": "3:45 PM",
