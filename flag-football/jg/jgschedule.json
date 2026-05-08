@@ -65,12 +65,30 @@
         },
         {
             "date": "Friday, May 8, 2026",
+            "home_team": "Markham District",
+            "away_team": "Bur Oak SS",
+            "time": "11:30 AM",
+            "location": "Bill Crothers SS",
+            "game_played": true,
+            "final_score": "Markham District 38, Bur Oak SS 6"
+        },
+        {
+            "date": "Friday, May 8, 2026",
             "home_team": "Bill Crothers SS",
             "away_team": "Thornlea SS",
             "time": "12:40 PM",
             "location": "Bill Crothers SS",
             "game_played": true,
             "final_score": "Bill Crothers SS 52, Thornlea SS 0"
+        },
+        {
+            "date": "Friday, May 8, 2026",
+            "home_team": "Markham District",
+            "away_team": "Thornlea SS",
+            "time": "2:00 PM",
+            "location": "Bill Crothers SS",
+            "game_played": true,
+            "final_score": "Markham District 29, Thornlea SS 12"
         },
         {
             "date": "Friday, May 8, 2026",
