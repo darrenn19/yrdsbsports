@@ -232,23 +232,23 @@
         },
         {
             "Team": "Sir William Mulock",
-            "W": "1",
+            "W": "2",
             "L": "0",
             "T": "1",
-            "PTS": "4",
-            "GF": "9",
+            "PTS": "7",
+            "GF": "13",
             "GA": "2",
-            "DIFF": "5"
+            "DIFF": "9"
         },
         {
             "Team": "Aurora HS",
-            "W": "1",
-            "L": "0",
+            "W": "2",
+            "L": "1",
             "T": "0",
-            "PTS": "3",
-            "GF": "1",
-            "GA": "0",
-            "DIFF": "1"
+            "PTS": "6",
+            "GF": "5",
+            "GA": "6",
+            "DIFF": "-1"
         },
         {
             "Team": "Keswick High School",
@@ -263,12 +263,12 @@
         {
             "Team": "Newmarket HS",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "1",
             "PTS": "1",
-            "GF": "3",
-            "GA": "6",
-            "DIFF": "-3"
+            "GF": "5",
+            "GA": "10",
+            "DIFF": "-5"
         },
         {
             "Team": "Dr. J.M. Denison",
