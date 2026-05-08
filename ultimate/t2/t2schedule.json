@@ -11,6 +11,24 @@
         },
         {
             "date": "Thursday, May 7, 2026",
+            "home_team": "Huron Heights",
+            "away_team": "Keswick High School",
+            "time": "3:30 PM",
+            "location": "Dr J M Denison SS",
+            "game_played": true,
+            "final_score": "Huron Heights 1, Keswick High School 9"
+        },
+        {
+            "date": "Thursday, May 7, 2026",
+            "home_team": "Dr. G.W. Williams",
+            "away_team": "Keswick High School",
+            "time": "4:30 PM",
+            "location": "Dr J M Denison SS",
+            "game_played": true,
+            "final_score": "Dr. G.W. Williams 4, Keswick High School 6"
+        },
+        {
+            "date": "Thursday, May 7, 2026",
             "home_team": "Dr. J.M. Denison 10 (S )",
             "away_team": "Huron Heights 3 (S )",
             "time": "4:30 PM",
@@ -56,21 +74,21 @@
         },
         {
             "date": "Thursday, May 7, 2026",
-            "home_team": "Langstaff SS",
-            "away_team": "St. Augustine",
-            "time": "4:30 PM",
-            "location": "Langstaff SS",
-            "game_played": true,
-            "final_score": "Langstaff SS 1, St. Augustine 9"
-        },
-        {
-            "date": "Thursday, May 7, 2026",
             "home_team": "Richmond Hill HS",
             "away_team": "St. Robert",
             "time": "4:30 PM",
             "location": "Langstaff SS",
             "game_played": true,
             "final_score": "Richmond Hill HS 5, St. Robert 7"
+        },
+        {
+            "date": "Thursday, May 7, 2026",
+            "home_team": "Langstaff SS",
+            "away_team": "St. Augustine",
+            "time": "4:30 PM",
+            "location": "Langstaff SS",
+            "game_played": true,
+            "final_score": "Langstaff SS 1, St. Augustine 9"
         },
         {
             "date": "Thursday, May 7, 2026",
@@ -98,6 +116,15 @@
             "location": "Maple HS",
             "game_played": true,
             "final_score": "Father Bressani 4, Stephen Lewis SS 5"
+        },
+        {
+            "date": "Thursday, May 7, 2026",
+            "home_team": "Maple High School 5 (S )",
+            "away_team": "St. Joan Of Arc 2 (S )",
+            "time": "4:30 PM",
+            "location": "Maple HS",
+            "game_played": false,
+            "final_score": null
         },
         {
             "date": "Thursday, May 7, 2026",
@@ -146,6 +173,15 @@
         },
         {
             "date": "Thursday, May 7, 2026",
+            "home_team": "Alexander Mackenzie",
+            "away_team": "Unionville HS",
+            "time": "4:30 PM",
+            "location": "Our Lady Queen Of The World",
+            "game_played": true,
+            "final_score": "Alexander Mackenzie 5, Unionville HS 8"
+        },
+        {
+            "date": "Thursday, May 7, 2026",
             "home_team": "Our Lady Queen Of The World",
             "away_team": "Bayview SS",
             "time": "4:30 PM",
@@ -155,12 +191,12 @@
         },
         {
             "date": "Thursday, May 7, 2026",
-            "home_team": "Alexander Mackenzie",
-            "away_team": "Unionville HS",
-            "time": "4:30 PM",
-            "location": "Our Lady Queen Of The World",
+            "home_team": "Westmount",
+            "away_team": "Thornhill SS",
+            "time": "3:30 PM",
+            "location": "Westmount CI",
             "game_played": true,
-            "final_score": "Alexander Mackenzie 5, Unionville HS 8"
+            "final_score": "Westmount 5, Thornhill SS 8"
         },
         {
             "date": "Thursday, May 7, 2026",
@@ -179,6 +215,15 @@
             "location": "Westmount CI",
             "game_played": true,
             "final_score": "Westmount 4, Toronto District Christian 11"
+        },
+        {
+            "date": "Thursday, May 7, 2026",
+            "home_team": "Thornhill SS 8 (S )",
+            "away_team": "Thornlea SS 7 (S )",
+            "time": "4:30 PM",
+            "location": "Westmount CI",
+            "game_played": false,
+            "final_score": null
         },
         {
             "date": "Friday, May 8, 2026",
