@@ -19,6 +19,15 @@
             "PA": "0"
         },
         {
+            "Team": "St. Theresa Of Lisieux",
+            "W": "2",
+            "L": "0",
+            "T": "0",
+            "PTS": "8",
+            "PF": "82",
+            "PA": "0"
+        },
+        {
             "Team": "Keswick High School",
             "W": "1",
             "L": "1",
@@ -37,22 +46,13 @@
             "PA": "52"
         },
         {
-            "Team": "St. Theresa Of Lisieux",
-            "W": "1",
-            "L": "0",
-            "T": "0",
-            "PTS": "4",
-            "PF": "62",
-            "PA": "0"
-        },
-        {
             "Team": "Markham District",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "0",
             "PF": "17",
-            "PA": "24"
+            "PA": "44"
         },
         {
             "Team": "Sir William Mulock",

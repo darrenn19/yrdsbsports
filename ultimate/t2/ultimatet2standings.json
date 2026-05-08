@@ -11,84 +11,84 @@
             "PA": "PA"
         },
         {
-            "Team": "Our Lady Queen Of The World",
-            "W": "0",
+            "Team": "St. Robert",
+            "W": "2",
             "L": "0",
             "T": "0",
-            "PTS": "0",
-            "SPTS": "0",
-            "PF": "0",
-            "PA": "0"
+            "PTS": "4",
+            "SPTS": "33",
+            "PF": "15",
+            "PA": "5"
         },
         {
             "Team": "Unionville HS",
-            "W": "0",
+            "W": "2",
             "L": "0",
             "T": "0",
-            "PTS": "0",
-            "SPTS": "0",
-            "PF": "0",
-            "PA": "0"
+            "PTS": "4",
+            "SPTS": "40",
+            "PF": "12",
+            "PA": "8"
         },
         {
-            "Team": "St. Robert",
+            "Team": "Alexander Mackenzie",
+            "W": "1",
+            "L": "1",
+            "T": "0",
+            "PTS": "2",
+            "SPTS": "39",
+            "PF": "16",
+            "PA": "10"
+        },
+        {
+            "Team": "Richmond Hill HS",
+            "W": "1",
+            "L": "1",
+            "T": "0",
+            "PTS": "2",
+            "SPTS": "35",
+            "PF": "15",
+            "PA": "10"
+        },
+        {
+            "Team": "Our Lady Queen Of The World",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
-            "SPTS": "0",
-            "PF": "0",
-            "PA": "0"
+            "SPTS": "8",
+            "PF": "2",
+            "PA": "11"
         },
         {
             "Team": "Bayview SS",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
-            "SPTS": "0",
-            "PF": "0",
-            "PA": "0"
-        },
-        {
-            "Team": "Richmond Hill HS",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "SPTS": "0",
-            "PF": "0",
-            "PA": "0"
+            "SPTS": "16",
+            "PF": "3",
+            "PA": "4"
         },
         {
             "Team": "Langstaff SS",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
-            "SPTS": "0",
-            "PF": "0",
-            "PA": "0"
-        },
-        {
-            "Team": "Alexander Mackenzie",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "SPTS": "0",
-            "PF": "0",
-            "PA": "0"
+            "SPTS": "18",
+            "PF": "3",
+            "PA": "10"
         },
         {
             "Team": "St. Augustine",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
-            "SPTS": "0",
+            "SPTS": "20",
             "PF": "0",
-            "PA": "0"
+            "PA": "8"
         },
         {
             "Team": "East",
@@ -99,6 +99,36 @@
             "SPTS": "SPTS",
             "PF": "PF",
             "PA": "PA"
+        },
+        {
+            "Team": "Bur Oak SS",
+            "W": "2",
+            "L": "0",
+            "T": "0",
+            "PTS": "4",
+            "SPTS": "34",
+            "PF": "22",
+            "PA": "8"
+        },
+        {
+            "Team": "Stouffville",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "2",
+            "SPTS": "15",
+            "PF": "7",
+            "PA": "4"
+        },
+        {
+            "Team": "Markville",
+            "W": "1",
+            "L": "1",
+            "T": "0",
+            "PTS": "2",
+            "SPTS": "34",
+            "PF": "15",
+            "PA": "9"
         },
         {
             "Team": "St. Brother Andre",
@@ -113,65 +143,35 @@
         {
             "Team": "Middlefield",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
-            "SPTS": "0",
-            "PF": "0",
-            "PA": "0"
+            "SPTS": "15",
+            "PF": "2",
+            "PA": "11"
         },
         {
             "Team": "Bill Hogarth SS",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
-            "SPTS": "0",
-            "PF": "0",
-            "PA": "0"
+            "SPTS": "18",
+            "PF": "5",
+            "PA": "10"
         },
         {
             "Team": "Father McGivney",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
-            "SPTS": "0",
-            "PF": "0",
-            "PA": "0"
-        },
-        {
-            "Team": "Markville",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "SPTS": "0",
-            "PF": "0",
-            "PA": "0"
-        },
-        {
-            "Team": "Stouffville",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "SPTS": "0",
-            "PF": "0",
-            "PA": "0"
+            "SPTS": "18",
+            "PF": "3",
+            "PA": "12"
         },
         {
             "Team": "Milliken Mills",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "SPTS": "0",
-            "PF": "0",
-            "PA": "0"
-        },
-        {
-            "Team": "Bur Oak SS",
             "W": "0",
             "L": "0",
             "T": "0",
@@ -281,6 +281,26 @@
             "PA": "PA"
         },
         {
+            "Team": "Toronto District Christian",
+            "W": "2",
+            "L": "0",
+            "T": "0",
+            "PTS": "4",
+            "SPTS": "27",
+            "PF": "17",
+            "PA": "8"
+        },
+        {
+            "Team": "Maple High School",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "2",
+            "SPTS": "16",
+            "PF": "5",
+            "PA": "4"
+        },
+        {
             "Team": "Thornhill SS",
             "W": "0",
             "L": "0",
@@ -293,12 +313,12 @@
         {
             "Team": "Thornlea SS",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
-            "SPTS": "0",
-            "PF": "0",
-            "PA": "0"
+            "SPTS": "13",
+            "PF": "4",
+            "PA": "6"
         },
         {
             "Team": "St. Joan Of Arc",
@@ -313,25 +333,15 @@
         {
             "Team": "Father Bressani",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
-            "SPTS": "0",
-            "PF": "0",
-            "PA": "0"
+            "SPTS": "14",
+            "PF": "4",
+            "PA": "5"
         },
         {
             "Team": "St. Jean De Brebeuf CHS",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "SPTS": "0",
-            "PF": "0",
-            "PA": "0"
-        },
-        {
-            "Team": "Toronto District Christian",
             "W": "0",
             "L": "0",
             "T": "0",
@@ -351,24 +361,14 @@
             "PA": "0"
         },
         {
-            "Team": "Maple High School",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "SPTS": "0",
-            "PF": "0",
-            "PA": "0"
-        },
-        {
             "Team": "Westmount",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
-            "SPTS": "0",
-            "PF": "0",
-            "PA": "0"
+            "SPTS": "12",
+            "PF": "4",
+            "PA": "11"
         }
     ]
 }

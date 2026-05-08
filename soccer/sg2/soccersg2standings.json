@@ -12,63 +12,63 @@
         },
         {
             "Team": "Our Lady Queen Of The World",
-            "W": "3",
+            "W": "4",
             "L": "0",
             "T": "0",
-            "PTS": "9",
-            "GF": "17",
-            "GA": "1",
-            "DIFF": "14"
+            "PTS": "12",
+            "GF": "22",
+            "GA": "2",
+            "DIFF": "18"
         },
         {
             "Team": "Alexander Mackenzie",
             "W": "2",
             "L": "0",
-            "T": "0",
-            "PTS": "6",
-            "GF": "4",
-            "GA": "0",
+            "T": "1",
+            "PTS": "7",
+            "GF": "5",
+            "GA": "1",
             "DIFF": "4"
         },
         {
             "Team": "King City SS",
             "W": "1",
             "L": "1",
+            "T": "1",
+            "PTS": "4",
+            "GF": "4",
+            "GA": "5",
+            "DIFF": "-1"
+        },
+        {
+            "Team": "Richmond Green SS",
+            "W": "1",
+            "L": "2",
             "T": "0",
             "PTS": "3",
-            "GF": "3",
-            "GA": "4",
-            "DIFF": "-1"
+            "GF": "6",
+            "GA": "12",
+            "DIFF": "-6"
         },
         {
             "Team": "St. Robert",
             "W": "0",
-            "L": "2",
+            "L": "3",
             "T": "0",
             "PTS": "0",
-            "GF": "0",
-            "GA": "5",
-            "DIFF": "-5"
-        },
-        {
-            "Team": "Richmond Green SS",
-            "W": "0",
-            "L": "2",
-            "T": "0",
-            "PTS": "0",
-            "GF": "0",
-            "GA": "7",
-            "DIFF": "-7"
+            "GF": "1",
+            "GA": "10",
+            "DIFF": "-9"
         },
         {
             "Team": "Richmond Hill HS",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "0",
-            "GF": "1",
-            "GA": "8",
-            "DIFF": "-5"
+            "GF": "6",
+            "GA": "14",
+            "DIFF": "-6"
         },
         {
             "Team": "East 1",
@@ -101,44 +101,44 @@
             "DIFF": "7"
         },
         {
-            "Team": "Father McGivney",
-            "W": "1",
+            "Team": "Middlefield",
+            "W": "2",
             "L": "1",
             "T": "0",
-            "PTS": "3",
-            "GF": "4",
-            "GA": "4",
-            "DIFF": "0"
+            "PTS": "6",
+            "GF": "10",
+            "GA": "14",
+            "DIFF": "-1"
         },
         {
-            "Team": "Middlefield",
+            "Team": "Father McGivney",
             "W": "1",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "3",
-            "GF": "4",
-            "GA": "9",
-            "DIFF": "-2"
+            "GF": "9",
+            "GA": "10",
+            "DIFF": "-1"
         },
         {
             "Team": "Unionville HS",
-            "W": "0",
+            "W": "1",
             "L": "2",
             "T": "0",
-            "PTS": "0",
-            "GF": "1",
+            "PTS": "3",
+            "GF": "2",
             "GA": "9",
-            "DIFF": "-8"
+            "DIFF": "-7"
         },
         {
             "Team": "Milliken Mills",
             "W": "0",
-            "L": "2",
+            "L": "3",
             "T": "0",
             "PTS": "0",
             "GF": "1",
-            "GA": "13",
-            "DIFF": "-8"
+            "GA": "14",
+            "DIFF": "-9"
         },
         {
             "Team": "East 2",
@@ -161,6 +161,16 @@
             "DIFF": "14"
         },
         {
+            "Team": "Stouffville",
+            "W": "2",
+            "L": "1",
+            "T": "0",
+            "PTS": "6",
+            "GF": "7",
+            "GA": "3",
+            "DIFF": "3"
+        },
+        {
             "Team": "Markham District",
             "W": "2",
             "L": "1",
@@ -169,16 +179,6 @@
             "GF": "13",
             "GA": "4",
             "DIFF": "7"
-        },
-        {
-            "Team": "Stouffville",
-            "W": "1",
-            "L": "1",
-            "T": "0",
-            "PTS": "3",
-            "GF": "1",
-            "GA": "3",
-            "DIFF": "-2"
         },
         {
             "Team": "Pierre Elliott Trudeau",
@@ -193,12 +193,12 @@
         {
             "Team": "St. Brother Andre",
             "W": "1",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "3",
             "GF": "2",
-            "GA": "7",
-            "DIFF": "-3"
+            "GA": "13",
+            "DIFF": "-8"
         },
         {
             "Team": "Bur Oak SS",

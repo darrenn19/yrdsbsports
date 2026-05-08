@@ -81,6 +81,16 @@
             "PA": "PA"
         },
         {
+            "Team": "Cardinal Carter",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "2",
+            "SPTS": "16",
+            "PF": "12",
+            "PA": "10"
+        },
+        {
             "Team": "Bill Crothers SS",
             "W": "1",
             "L": "0",
@@ -93,12 +103,12 @@
         {
             "Team": "Huron Heights",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
-            "SPTS": "0",
-            "PF": "0",
-            "PA": "0"
+            "SPTS": "16",
+            "PF": "10",
+            "PA": "12"
         },
         {
             "Team": "St. Maximilian",
@@ -119,16 +129,6 @@
             "SPTS": "19",
             "PF": "6",
             "PA": "8"
-        },
-        {
-            "Team": "Cardinal Carter",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "SPTS": "0",
-            "PF": "0",
-            "PA": "0"
         },
         {
             "Team": "Renaissance ESC",
