@@ -47,12 +47,30 @@
         },
         {
             "date": "Thursday, May 7, 2026",
+            "home_team": "Bill Hogarth SS 6 (S )",
+            "away_team": "St. Brother Andre 5 (S )",
+            "time": "3:30 PM",
+            "location": "Father Michael McGivney CA",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, May 7, 2026",
             "home_team": "Bill Hogarth SS",
             "away_team": "Bur Oak SS",
             "time": "4:30 PM",
             "location": "Father Michael McGivney CA",
             "game_played": true,
             "final_score": "Bill Hogarth SS 5, Bur Oak SS 10"
+        },
+        {
+            "date": "Thursday, May 7, 2026",
+            "home_team": "Father McGivney",
+            "away_team": "St. Brother Andre",
+            "time": "4:30 PM",
+            "location": "Father Michael McGivney CA",
+            "game_played": true,
+            "final_score": "Father McGivney 6, St. Brother Andre 7"
         },
         {
             "date": "Thursday, May 7, 2026",
