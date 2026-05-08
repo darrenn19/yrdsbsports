@@ -2,6 +2,15 @@
     "schedule": [
         {
             "date": "Wednesday, May 6, 2026",
+            "home_team": "Sacred Heart 13 (S )",
+            "away_team": "Innova Academy 0 (S )",
+            "time": "3:30 PM",
+            "location": "Huron Heights SS",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, May 6, 2026",
             "home_team": "Sir William Mulock",
             "away_team": "Newmarket HS",
             "time": "3:30 PM",
@@ -11,9 +20,9 @@
         },
         {
             "date": "Wednesday, May 6, 2026",
-            "home_team": "Sacred Heart 13 (S )",
-            "away_team": "Innova Academy 0 (S )",
-            "time": "3:30 PM",
+            "home_team": "Sacred Heart 9 (S )",
+            "away_team": "Sir William Mulock 3 (S )",
+            "time": "4:30 PM",
             "location": "Huron Heights SS",
             "game_played": false,
             "final_score": null
@@ -26,15 +35,6 @@
             "location": "Huron Heights SS",
             "game_played": true,
             "final_score": "Innova Academy 3, Newmarket HS 12"
-        },
-        {
-            "date": "Wednesday, May 6, 2026",
-            "home_team": "Sacred Heart 9 (S )",
-            "away_team": "Sir William Mulock 3 (S )",
-            "time": "4:30 PM",
-            "location": "Huron Heights SS",
-            "game_played": false,
-            "final_score": null
         },
         {
             "date": "Thursday, May 7, 2026",
@@ -52,7 +52,16 @@
             "time": "4:30 PM",
             "location": "Father Michael McGivney CA",
             "game_played": true,
-            "final_score": "Bill Hogarth SS 5, Bur Oak SS 17"
+            "final_score": "Bill Hogarth SS 5, Bur Oak SS 10"
+        },
+        {
+            "date": "Thursday, May 7, 2026",
+            "home_team": "St. Augustine",
+            "away_team": "St. Robert",
+            "time": "3:30 PM",
+            "location": "Langstaff SS",
+            "game_played": true,
+            "final_score": "St. Augustine 0, St. Robert 8"
         },
         {
             "date": "Thursday, May 7, 2026",
@@ -74,6 +83,15 @@
         },
         {
             "date": "Thursday, May 7, 2026",
+            "home_team": "Maple High School 5 (S )",
+            "away_team": "Father Bressani 4 (S )",
+            "time": "3:30 PM",
+            "location": "Maple HS",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, May 7, 2026",
             "home_team": "Markville 11 (S )",
             "away_team": "Middlefield 2 (S )",
             "time": "3:30 PM",
@@ -89,6 +107,15 @@
             "location": "Markville SS",
             "game_played": true,
             "final_score": "Markville 4, Stouffville 7"
+        },
+        {
+            "date": "Thursday, May 7, 2026",
+            "home_team": "Bayview SS",
+            "away_team": "Unionville HS",
+            "time": "3:30 PM",
+            "location": "Our Lady Queen Of The World",
+            "game_played": true,
+            "final_score": "Bayview SS 3, Unionville HS 4"
         },
         {
             "date": "Thursday, May 7, 2026",
