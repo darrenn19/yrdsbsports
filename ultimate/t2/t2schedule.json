@@ -20,21 +20,21 @@
         },
         {
             "date": "Thursday, May 7, 2026",
-            "home_team": "Langstaff SS",
-            "away_team": "Richmond Hill HS",
-            "time": "3:30 PM",
-            "location": "Langstaff SS",
-            "game_played": true,
-            "final_score": "Langstaff SS 3, Richmond Hill HS 10"
-        },
-        {
-            "date": "Thursday, May 7, 2026",
             "home_team": "St. Augustine",
             "away_team": "St. Robert",
             "time": "3:30 PM",
             "location": "Langstaff SS",
             "game_played": true,
             "final_score": "St. Augustine 0, St. Robert 8"
+        },
+        {
+            "date": "Thursday, May 7, 2026",
+            "home_team": "Langstaff SS",
+            "away_team": "Richmond Hill HS",
+            "time": "3:30 PM",
+            "location": "Langstaff SS",
+            "game_played": true,
+            "final_score": "Langstaff SS 3, Richmond Hill HS 10"
         },
         {
             "date": "Thursday, May 7, 2026",
