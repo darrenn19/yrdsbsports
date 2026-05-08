@@ -2,6 +2,24 @@
     "schedule": [
         {
             "date": "Thursday, May 7, 2026",
+            "home_team": "Dr. J.M. Denison 8 (S )",
+            "away_team": "Dr. G.W. Williams 3 (S )",
+            "time": "3:30 PM",
+            "location": "Dr J M Denison SS",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, May 7, 2026",
+            "home_team": "Dr. J.M. Denison 10 (S )",
+            "away_team": "Huron Heights 3 (S )",
+            "time": "4:30 PM",
+            "location": "Dr J M Denison SS",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, May 7, 2026",
             "home_team": "Father McGivney",
             "away_team": "Bur Oak SS",
             "time": "3:30 PM",
@@ -56,12 +74,30 @@
         },
         {
             "date": "Thursday, May 7, 2026",
+            "home_team": "St. Joan Of Arc",
+            "away_team": "Stephen Lewis SS",
+            "time": "3:30 PM",
+            "location": "Maple HS",
+            "game_played": true,
+            "final_score": "St. Joan Of Arc 1, Stephen Lewis SS 8"
+        },
+        {
+            "date": "Thursday, May 7, 2026",
             "home_team": "Maple High School 5 (S )",
             "away_team": "Father Bressani 4 (S )",
             "time": "3:30 PM",
             "location": "Maple HS",
             "game_played": false,
             "final_score": null
+        },
+        {
+            "date": "Thursday, May 7, 2026",
+            "home_team": "Father Bressani",
+            "away_team": "Stephen Lewis SS",
+            "time": "4:30 PM",
+            "location": "Maple HS",
+            "game_played": true,
+            "final_score": "Father Bressani 4, Stephen Lewis SS 5"
         },
         {
             "date": "Thursday, May 7, 2026",
