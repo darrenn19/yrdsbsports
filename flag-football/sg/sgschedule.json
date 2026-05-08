@@ -56,6 +56,15 @@
         },
         {
             "date": "Thursday, May 7, 2026",
+            "home_team": "Langstaff SS",
+            "away_team": "St. Elizabeth",
+            "time": "10:05 AM",
+            "location": "Bayview SS",
+            "game_played": true,
+            "final_score": "Langstaff SS 0, St. Elizabeth 26"
+        },
+        {
+            "date": "Thursday, May 7, 2026",
             "home_team": "Cardinal Carter",
             "away_team": "Thornhill SS",
             "time": "11:10 AM",
@@ -71,6 +80,15 @@
             "location": "Bayview SS",
             "game_played": true,
             "final_score": "Bayview SS 20, Langstaff SS 0"
+        },
+        {
+            "date": "Thursday, May 7, 2026",
+            "home_team": "St. Elizabeth",
+            "away_team": "Thornhill SS",
+            "time": "1:10 PM",
+            "location": "Bayview SS",
+            "game_played": true,
+            "final_score": "St. Elizabeth 13, Thornhill SS 0"
         },
         {
             "date": "Thursday, May 7, 2026",

@@ -74,6 +74,42 @@
         },
         {
             "date": "Thursday, May 7, 2026",
+            "home_team": "Markville 11 (S )",
+            "away_team": "Middlefield 2 (S )",
+            "time": "3:30 PM",
+            "location": "Markville SS",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, May 7, 2026",
+            "home_team": "Markville",
+            "away_team": "Stouffville",
+            "time": "4:30 PM",
+            "location": "Markville SS",
+            "game_played": true,
+            "final_score": "Markville 4, Stouffville 7"
+        },
+        {
+            "date": "Thursday, May 7, 2026",
+            "home_team": "Our Lady Queen Of The World",
+            "away_team": "Alexander Mackenzie",
+            "time": "3:30 PM",
+            "location": "Our Lady Queen Of The World",
+            "game_played": true,
+            "final_score": "Our Lady Queen Of The World 2, Alexander Mackenzie 11"
+        },
+        {
+            "date": "Thursday, May 7, 2026",
+            "home_team": "Alexander Mackenzie",
+            "away_team": "Unionville HS",
+            "time": "4:30 PM",
+            "location": "Our Lady Queen Of The World",
+            "game_played": true,
+            "final_score": "Alexander Mackenzie 5, Unionville HS 8"
+        },
+        {
+            "date": "Thursday, May 7, 2026",
             "home_team": "Toronto District Christian 6 (S )",
             "away_team": "Thornlea SS 4 (S )",
             "time": "3:30 PM",
