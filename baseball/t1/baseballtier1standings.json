@@ -71,6 +71,16 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "King City SS",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "2",
+            "RF": "6",
+            "RA": "4",
+            "DIFF": "2"
+        },
+        {
             "Team": "Sir William Mulock",
             "W": "0",
             "L": "0",
@@ -103,22 +113,12 @@
         {
             "Team": "Sacred Heart",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
-            "RF": "0",
-            "RA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "King City SS",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "RF": "0",
-            "RA": "0",
-            "DIFF": "0"
+            "RF": "4",
+            "RA": "6",
+            "DIFF": "-2"
         },
         {
             "Team": "West",

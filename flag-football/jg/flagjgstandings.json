@@ -11,6 +11,16 @@
             "PA": "PA"
         },
         {
+            "Team": "Markham District",
+            "GP": "3",
+            "W": "3",
+            "L": "0",
+            "T": "0",
+            "PTS": "6",
+            "PF": "93",
+            "PA": "32"
+        },
+        {
             "Team": "Dr. G.W. Williams",
             "GP": "3",
             "W": "3",
@@ -19,16 +29,6 @@
             "PTS": "6",
             "PF": "61",
             "PA": "32"
-        },
-        {
-            "Team": "Stouffville",
-            "GP": "3",
-            "W": "2",
-            "L": "1",
-            "T": "0",
-            "PTS": "4",
-            "PF": "46",
-            "PA": "20"
         },
         {
             "Team": "Stephen Lewis SS",
@@ -41,14 +41,14 @@
             "PA": "38"
         },
         {
-            "Team": "Aurora HS",
+            "Team": "Stouffville",
             "GP": "3",
             "W": "2",
             "L": "1",
             "T": "0",
             "PTS": "4",
-            "PF": "40",
-            "PA": "32"
+            "PF": "46",
+            "PA": "20"
         },
         {
             "Team": "Woodbridge College",
@@ -61,6 +61,36 @@
             "PA": "13"
         },
         {
+            "Team": "Aurora HS",
+            "GP": "3",
+            "W": "2",
+            "L": "1",
+            "T": "0",
+            "PTS": "4",
+            "PF": "40",
+            "PA": "32"
+        },
+        {
+            "Team": "Bill Crothers SS",
+            "GP": "3",
+            "W": "2",
+            "L": "1",
+            "T": "0",
+            "PTS": "4",
+            "PF": "99",
+            "PA": "32"
+        },
+        {
+            "Team": "Bur Oak SS",
+            "GP": "3",
+            "W": "1",
+            "L": "2",
+            "T": "0",
+            "PTS": "2",
+            "PF": "51",
+            "PA": "96"
+        },
+        {
             "Team": "Huron Heights",
             "GP": "3",
             "W": "1",
@@ -69,16 +99,6 @@
             "PTS": "2",
             "PF": "50",
             "PA": "68"
-        },
-        {
-            "Team": "Markham District",
-            "GP": "0",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0"
         },
         {
             "Team": "ESC De L Ascension",
@@ -91,24 +111,14 @@
             "PA": "52"
         },
         {
-            "Team": "Bill Crothers SS",
-            "GP": "0",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0"
-        },
-        {
             "Team": "Thornlea SS",
-            "GP": "0",
+            "GP": "3",
             "W": "0",
-            "L": "0",
+            "L": "3",
             "T": "0",
             "PTS": "0",
-            "PF": "0",
-            "PA": "0"
+            "PF": "37",
+            "PA": "120"
         },
         {
             "Team": "Markville",
@@ -119,16 +129,6 @@
             "PTS": "0",
             "PF": "19",
             "PA": "47"
-        },
-        {
-            "Team": "Bur Oak SS",
-            "GP": "0",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "PF": "0",
-            "PA": "0"
         }
     ]
 }
