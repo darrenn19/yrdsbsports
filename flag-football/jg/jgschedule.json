@@ -1,60 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, May 7, 2026",
-            "home_team": "Aurora HS",
-            "away_team": "Markville",
-            "time": "10:10 AM",
-            "location": "Stephen Lewis SS",
-            "game_played": true,
-            "final_score": "Aurora HS 20, Markville 7"
-        },
-        {
-            "date": "Thursday, May 7, 2026",
-            "home_team": "Woodbridge College",
-            "away_team": "Aurora HS",
-            "time": "11:30 AM",
-            "location": "Stephen Lewis SS",
-            "game_played": true,
-            "final_score": "Woodbridge College 19, Aurora HS 0"
-        },
-        {
-            "date": "Thursday, May 7, 2026",
-            "home_team": "Stephen Lewis SS",
-            "away_team": "Markville",
-            "time": "12:40 PM",
-            "location": "Stephen Lewis SS",
-            "game_played": true,
-            "final_score": "Stephen Lewis SS 14, Markville 12"
-        },
-        {
-            "date": "Thursday, May 7, 2026",
-            "home_team": "Woodbridge College",
-            "away_team": "Markville",
-            "time": "2:00 PM",
-            "location": "Stephen Lewis SS",
-            "game_played": true,
-            "final_score": "Woodbridge College 13, Markville 0"
-        },
-        {
-            "date": "Thursday, May 7, 2026",
-            "home_team": "Stephen Lewis SS",
-            "away_team": "Aurora HS",
-            "time": "3:10 PM",
-            "location": "Stephen Lewis SS",
-            "game_played": true,
-            "final_score": "Stephen Lewis SS 6, Aurora HS 20"
-        },
-        {
-            "date": "Thursday, May 7, 2026",
-            "home_team": "Woodbridge College",
-            "away_team": "Stephen Lewis SS",
-            "time": "9:00 AM",
-            "location": "Stephen Lewis SS",
-            "game_played": true,
-            "final_score": "Woodbridge College 6, Stephen Lewis SS 13"
-        },
-        {
             "date": "Friday, May 8, 2026",
             "home_team": "Bur Oak SS",
             "away_team": "Thornlea SS",
@@ -146,6 +92,15 @@
         },
         {
             "date": "Wednesday, May 13, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, May 14, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
