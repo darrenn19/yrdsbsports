@@ -1,60 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Friday, May 8, 2026",
-            "home_team": "Bur Oak SS",
-            "away_team": "Thornlea SS",
-            "time": "10:10 AM",
-            "location": "Bill Crothers SS",
-            "game_played": true,
-            "final_score": "Bur Oak SS 39, Thornlea SS 25"
-        },
-        {
-            "date": "Friday, May 8, 2026",
-            "home_team": "Markham District",
-            "away_team": "Bur Oak SS",
-            "time": "11:30 AM",
-            "location": "Bill Crothers SS",
-            "game_played": true,
-            "final_score": "Markham District 38, Bur Oak SS 6"
-        },
-        {
-            "date": "Friday, May 8, 2026",
-            "home_team": "Bill Crothers SS",
-            "away_team": "Thornlea SS",
-            "time": "12:40 PM",
-            "location": "Bill Crothers SS",
-            "game_played": true,
-            "final_score": "Bill Crothers SS 52, Thornlea SS 0"
-        },
-        {
-            "date": "Friday, May 8, 2026",
-            "home_team": "Markham District",
-            "away_team": "Thornlea SS",
-            "time": "2:00 PM",
-            "location": "Bill Crothers SS",
-            "game_played": true,
-            "final_score": "Markham District 29, Thornlea SS 12"
-        },
-        {
-            "date": "Friday, May 8, 2026",
-            "home_team": "Bill Crothers SS",
-            "away_team": "Bur Oak SS",
-            "time": "3:10 PM",
-            "location": "Bill Crothers SS",
-            "game_played": true,
-            "final_score": "Bill Crothers SS 33, Bur Oak SS 6"
-        },
-        {
-            "date": "Friday, May 8, 2026",
-            "home_team": "Markham District",
-            "away_team": "Bill Crothers SS",
-            "time": "9:00 AM",
-            "location": "Bill Crothers SS",
-            "game_played": true,
-            "final_score": "Markham District 26, Bill Crothers SS 14"
-        },
-        {
             "date": "Saturday, May 9, 2026",
             "home_team": null,
             "away_team": null,
@@ -101,6 +47,15 @@
         },
         {
             "date": "Thursday, May 14, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Friday, May 15, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
