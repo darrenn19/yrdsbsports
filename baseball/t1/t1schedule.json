@@ -28,6 +28,15 @@
             "final_score": "Stouffville 15, St. Brother Andre 7"
         },
         {
+            "date": "Monday, May 11, 2026",
+            "home_team": "King City SS",
+            "away_team": "Newmarket HS",
+            "time": "11:00 AM",
+            "location": "Whipper Watson",
+            "game_played": true,
+            "final_score": "King City SS 2, Newmarket HS 10"
+        },
+        {
             "date": "Tuesday, May 12, 2026",
             "home_team": null,
             "away_team": null,

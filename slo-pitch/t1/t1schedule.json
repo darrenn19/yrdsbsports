@@ -29,6 +29,15 @@
         },
         {
             "date": "Monday, May 11, 2026",
+            "home_team": "St. Augustine",
+            "away_team": "Sir William Mulock",
+            "time": "1:30 PM",
+            "location": "Hallmark Park 1",
+            "game_played": true,
+            "final_score": "St. Augustine 9, Sir William Mulock 6"
+        },
+        {
+            "date": "Monday, May 11, 2026",
             "home_team": "Sir William Mulock",
             "away_team": "St. Theresa Of Lisieux",
             "time": "10:30 AM",

@@ -11,6 +11,33 @@
         },
         {
             "date": "Monday, May 11, 2026",
+            "home_team": "Cardinal Carter",
+            "away_team": "Sacred Heart",
+            "time": "3:00 PM",
+            "location": "Sheppards Bush",
+            "game_played": true,
+            "final_score": "Cardinal Carter 0, Sacred Heart 5"
+        },
+        {
+            "date": "Monday, May 11, 2026",
+            "home_team": "St. Brother Andre",
+            "away_team": "St. Theresa Of Lisieux",
+            "time": "3:15 PM",
+            "location": "St Brother Andre CHS",
+            "game_played": true,
+            "final_score": "St. Brother Andre 1, St. Theresa Of Lisieux 2"
+        },
+        {
+            "date": "Monday, May 11, 2026",
+            "home_team": "St. Elizabeth",
+            "away_team": "St. Joan Of Arc",
+            "time": "1:45 PM",
+            "location": "St Elizabeth CHS",
+            "game_played": true,
+            "final_score": "St. Elizabeth 6, St. Joan Of Arc 1"
+        },
+        {
+            "date": "Monday, May 11, 2026",
             "home_team": "St. Jean De Brebeuf CHS",
             "away_team": "Father Bressani",
             "time": "1:30 PM",

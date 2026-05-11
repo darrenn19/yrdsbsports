@@ -19,6 +19,24 @@
             "final_score": "St. Jean De Brebeuf CHS 33, Woodbridge College 0"
         },
         {
+            "date": "Monday, May 11, 2026",
+            "home_team": "Tommy Douglas SS",
+            "away_team": "St. Jean De Brebeuf CHS",
+            "time": "12:40 PM",
+            "location": "Emily Carr SS",
+            "game_played": true,
+            "final_score": "Tommy Douglas SS 6, St. Jean De Brebeuf CHS 14"
+        },
+        {
+            "date": "Monday, May 11, 2026",
+            "home_team": "Tommy Douglas SS",
+            "away_team": "Woodbridge College",
+            "time": "2:00 PM",
+            "location": "Emily Carr SS",
+            "game_played": true,
+            "final_score": "Tommy Douglas SS 14, Woodbridge College 7"
+        },
+        {
             "date": "Tuesday, May 12, 2026",
             "home_team": null,
             "away_team": null,
