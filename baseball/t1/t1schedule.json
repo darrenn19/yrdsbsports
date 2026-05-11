@@ -56,6 +56,15 @@
         },
         {
             "date": "Monday, May 11, 2026",
+            "home_team": "St. Brother Andre",
+            "away_team": "St. Maximilian",
+            "time": "3:00 PM",
+            "location": "Richmond Green 4",
+            "game_played": true,
+            "final_score": "St. Brother Andre 4, St. Maximilian 7"
+        },
+        {
+            "date": "Monday, May 11, 2026",
             "home_team": "Markham District",
             "away_team": "Stouffville",
             "time": "3:00 PM",
