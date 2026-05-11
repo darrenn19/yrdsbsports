@@ -20,12 +20,39 @@
         },
         {
             "date": "Monday, May 11, 2026",
+            "home_team": "Hodan Nalayeh SS",
+            "away_team": "Westmount",
+            "time": "3:45 PM",
+            "location": "Hodan Nalayeh Secondary School",
+            "game_played": true,
+            "final_score": "Hodan Nalayeh SS 2, Westmount 3"
+        },
+        {
+            "date": "Monday, May 11, 2026",
             "home_team": "King City SS",
             "away_team": "Richmond Green SS",
             "time": "3:45 PM",
             "location": "King City SS",
             "game_played": true,
             "final_score": "King City SS 1, Richmond Green SS 2"
+        },
+        {
+            "date": "Monday, May 11, 2026",
+            "home_team": "Pierre Elliott Trudeau",
+            "away_team": "St. Brother Andre",
+            "time": "3:45 PM",
+            "location": "PE Trudeau HS",
+            "game_played": true,
+            "final_score": "Pierre Elliott Trudeau 4, St. Brother Andre 2"
+        },
+        {
+            "date": "Monday, May 11, 2026",
+            "home_team": "St. Robert",
+            "away_team": "Richmond Hill HS",
+            "time": "3:45 PM",
+            "location": "St Robert CHS",
+            "game_played": true,
+            "final_score": "St. Robert 2, Richmond Hill HS 5"
         },
         {
             "date": "Tuesday, May 12, 2026",

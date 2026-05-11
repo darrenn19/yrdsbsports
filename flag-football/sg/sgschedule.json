@@ -20,6 +20,15 @@
         },
         {
             "date": "Monday, May 11, 2026",
+            "home_team": "Emily Carr",
+            "away_team": "Woodbridge College",
+            "time": "11:30 AM",
+            "location": "Emily Carr SS",
+            "game_played": true,
+            "final_score": "Emily Carr 41, Woodbridge College 0"
+        },
+        {
+            "date": "Monday, May 11, 2026",
             "home_team": "Tommy Douglas SS",
             "away_team": "St. Jean De Brebeuf CHS",
             "time": "12:40 PM",
