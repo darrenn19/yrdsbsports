@@ -19,6 +19,15 @@
             "final_score": "Sacred Heart 1, Huron Heights 16"
         },
         {
+            "date": "Monday, May 11, 2026",
+            "home_team": "Stouffville",
+            "away_team": "St. Brother Andre",
+            "time": "12:00 PM",
+            "location": "Richmond Green 4",
+            "game_played": true,
+            "final_score": "Stouffville 15, St. Brother Andre 7"
+        },
+        {
             "date": "Tuesday, May 12, 2026",
             "home_team": null,
             "away_team": null,

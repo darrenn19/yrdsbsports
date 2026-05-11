@@ -20,6 +20,15 @@
         },
         {
             "date": "Monday, May 11, 2026",
+            "home_team": "St. Jean De Brebeuf CHS",
+            "away_team": "St. Augustine",
+            "time": "12:00 PM",
+            "location": "Hallmark Park 1",
+            "game_played": true,
+            "final_score": "St. Jean De Brebeuf CHS 7, St. Augustine 11"
+        },
+        {
+            "date": "Monday, May 11, 2026",
             "home_team": "Sir William Mulock",
             "away_team": "St. Theresa Of Lisieux",
             "time": "10:30 AM",
