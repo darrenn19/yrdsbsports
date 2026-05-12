@@ -19,6 +19,15 @@
             "final_score": "Father McGivney 1, Bur Oak SS 17"
         },
         {
+            "date": "Tuesday, May 12, 2026",
+            "home_team": "Dr. J.M. Denison",
+            "away_team": "Cardinal Carter",
+            "time": "11:00 AM",
+            "location": "Whipper Watson",
+            "game_played": true,
+            "final_score": "Dr. J.M. Denison 6, Cardinal Carter 2"
+        },
+        {
             "date": "Wednesday, May 13, 2026",
             "home_team": null,
             "away_team": null,
