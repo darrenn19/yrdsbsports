@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Sunday, May 10, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
-        },
-        {
             "date": "Monday, May 11, 2026",
             "home_team": "Cardinal Carter",
             "away_team": "Sacred Heart",
@@ -83,6 +74,15 @@
         },
         {
             "date": "Saturday, May 16, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Sunday, May 17, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
