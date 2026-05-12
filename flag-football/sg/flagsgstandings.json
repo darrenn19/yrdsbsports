@@ -292,13 +292,23 @@
         },
         {
             "Team": "Emily Carr",
-            "GP": "3",
-            "W": "3",
+            "GP": "4",
+            "W": "4",
             "L": "0",
             "T": "0",
-            "PTS": "6",
-            "PF": "53",
+            "PTS": "8",
+            "PF": "94",
             "PA": "21"
+        },
+        {
+            "Team": "St. Jean De Brebeuf CHS",
+            "GP": "5",
+            "W": "3",
+            "L": "2",
+            "T": "0",
+            "PTS": "6",
+            "PF": "88",
+            "PA": "38"
         },
         {
             "Team": "Hodan Nalayeh SS",
@@ -321,16 +331,6 @@
             "PA": "13"
         },
         {
-            "Team": "St. Jean De Brebeuf CHS",
-            "GP": "4",
-            "W": "2",
-            "L": "2",
-            "T": "0",
-            "PTS": "4",
-            "PF": "74",
-            "PA": "32"
-        },
-        {
             "Team": "St. Joan Of Arc",
             "GP": "3",
             "W": "2",
@@ -342,23 +342,23 @@
         },
         {
             "Team": "Tommy Douglas SS",
-            "GP": "3",
-            "W": "1",
-            "L": "2",
+            "GP": "5",
+            "W": "2",
+            "L": "3",
             "T": "0",
-            "PTS": "2",
-            "PF": "32",
-            "PA": "46"
+            "PTS": "4",
+            "PF": "52",
+            "PA": "67"
         },
         {
             "Team": "Woodbridge College",
-            "GP": "4",
+            "GP": "6",
             "W": "0",
-            "L": "4",
+            "L": "6",
             "T": "0",
             "PTS": "0",
-            "PF": "0",
-            "PA": "114"
+            "PF": "7",
+            "PA": "169"
         },
         {
             "Team": "Father Bressani",

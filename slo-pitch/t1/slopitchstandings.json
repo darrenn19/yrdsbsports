@@ -11,13 +11,13 @@
             "DIFF": "DIFF"
         },
         {
-            "Team": "Sir William Mulock",
-            "W": "1",
+            "Team": "St. Augustine",
+            "W": "2",
             "L": "0",
             "T": "0",
-            "PTS": "2",
-            "RF": "10",
-            "RA": "3",
+            "PTS": "4",
+            "RF": "20",
+            "RA": "13",
             "DIFF": "7"
         },
         {
@@ -31,44 +31,44 @@
             "DIFF": "7"
         },
         {
-            "Team": "Holy Cross",
-            "W": "0",
+            "Team": "Sir William Mulock",
+            "W": "1",
             "L": "1",
             "T": "0",
-            "PTS": "0",
-            "RF": "3",
-            "RA": "10",
-            "DIFF": "-7"
+            "PTS": "2",
+            "RF": "16",
+            "RA": "12",
+            "DIFF": "4"
+        },
+        {
+            "Team": "Holy Cross",
+            "W": "1",
+            "L": "1",
+            "T": "0",
+            "PTS": "2",
+            "RF": "13",
+            "RA": "15",
+            "DIFF": "-2"
         },
         {
             "Team": "St. Jean De Brebeuf CHS",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
-            "RF": "0",
-            "RA": "0",
-            "DIFF": "0"
+            "RF": "7",
+            "RA": "11",
+            "DIFF": "-4"
         },
         {
             "Team": "St. Theresa Of Lisieux",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "0",
-            "RF": "3",
-            "RA": "10",
-            "DIFF": "-7"
-        },
-        {
-            "Team": "St. Augustine",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "RF": "0",
-            "RA": "0",
-            "DIFF": "0"
+            "RF": "8",
+            "RA": "20",
+            "DIFF": "-12"
         }
     ]
 }

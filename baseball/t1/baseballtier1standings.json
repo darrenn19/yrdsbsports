@@ -11,47 +11,47 @@
             "DIFF": "DIFF"
         },
         {
-            "Team": "St. Brother Andre",
-            "W": "0",
+            "Team": "St. Maximilian",
+            "W": "1",
             "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "RF": "0",
-            "RA": "0",
-            "DIFF": "0"
+            "T": "1",
+            "PTS": "3",
+            "RF": "13",
+            "RA": "10",
+            "DIFF": "3"
+        },
+        {
+            "Team": "Stouffville",
+            "W": "1",
+            "L": "0",
+            "T": "1",
+            "PTS": "3",
+            "RF": "22",
+            "RA": "14",
+            "DIFF": "8"
         },
         {
             "Team": "Markham District",
             "W": "0",
             "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "RF": "0",
-            "RA": "0",
+            "T": "2",
+            "PTS": "2",
+            "RF": "13",
+            "RA": "13",
             "DIFF": "0"
         },
         {
-            "Team": "St. Maximilian",
+            "Team": "St. Brother Andre",
             "W": "0",
-            "L": "0",
+            "L": "2",
             "T": "0",
             "PTS": "0",
-            "RF": "0",
-            "RA": "0",
-            "DIFF": "0"
+            "RF": "11",
+            "RA": "22",
+            "DIFF": "-11"
         },
         {
             "Team": "Aurora HS",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "RF": "0",
-            "RA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "Stouffville",
             "W": "0",
             "L": "0",
             "T": "0",
@@ -71,14 +71,34 @@
             "DIFF": "DIFF"
         },
         {
-            "Team": "King City SS",
+            "Team": "Newmarket HS",
             "W": "1",
             "L": "0",
             "T": "0",
             "PTS": "2",
-            "RF": "6",
-            "RA": "4",
-            "DIFF": "2"
+            "RF": "10",
+            "RA": "2",
+            "DIFF": "8"
+        },
+        {
+            "Team": "King City SS",
+            "W": "1",
+            "L": "1",
+            "T": "0",
+            "PTS": "2",
+            "RF": "8",
+            "RA": "14",
+            "DIFF": "-6"
+        },
+        {
+            "Team": "Huron Heights",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "2",
+            "RF": "16",
+            "RA": "1",
+            "DIFF": "15"
         },
         {
             "Team": "Sir William Mulock",
@@ -91,34 +111,14 @@
             "DIFF": "0"
         },
         {
-            "Team": "Huron Heights",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "RF": "0",
-            "RA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "Newmarket HS",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "RF": "0",
-            "RA": "0",
-            "DIFF": "0"
-        },
-        {
             "Team": "Sacred Heart",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "0",
-            "RF": "4",
-            "RA": "6",
-            "DIFF": "-2"
+            "RF": "5",
+            "RA": "22",
+            "DIFF": "-17"
         },
         {
             "Team": "West",
@@ -131,47 +131,47 @@
             "DIFF": "DIFF"
         },
         {
-            "Team": "Holy Cross",
-            "W": "0",
+            "Team": "St. Theresa Of Lisieux",
+            "W": "2",
             "L": "0",
             "T": "0",
-            "PTS": "0",
-            "RF": "0",
-            "RA": "0",
-            "DIFF": "0"
+            "PTS": "4",
+            "RF": "10",
+            "RA": "6",
+            "DIFF": "4"
+        },
+        {
+            "Team": "Holy Cross",
+            "W": "1",
+            "L": "1",
+            "T": "0",
+            "PTS": "2",
+            "RF": "7",
+            "RA": "8",
+            "DIFF": "-1"
+        },
+        {
+            "Team": "St. Augustine",
+            "W": "1",
+            "L": "1",
+            "T": "0",
+            "PTS": "2",
+            "RF": "20",
+            "RA": "13",
+            "DIFF": "7"
         },
         {
             "Team": "St. Joan Of Arc",
             "W": "0",
-            "L": "0",
+            "L": "2",
             "T": "0",
             "PTS": "0",
-            "RF": "0",
-            "RA": "0",
-            "DIFF": "0"
+            "RF": "11",
+            "RA": "21",
+            "DIFF": "-10"
         },
         {
             "Team": "Father Bressani",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "RF": "0",
-            "RA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "St. Theresa Of Lisieux",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "RF": "0",
-            "RA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "St. Augustine",
             "W": "0",
             "L": "0",
             "T": "0",

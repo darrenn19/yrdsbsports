@@ -11,6 +11,16 @@
             "PA": "PA"
         },
         {
+            "Team": "Markville",
+            "W": "2",
+            "L": "0",
+            "T": "0",
+            "PTS": "4",
+            "SPTS": "32",
+            "PF": "23",
+            "PA": "8"
+        },
+        {
             "Team": "Milliken Mills",
             "W": "1",
             "L": "0",
@@ -19,16 +29,6 @@
             "SPTS": "15",
             "PF": "7",
             "PA": "5"
-        },
-        {
-            "Team": "Markville",
-            "W": "1",
-            "L": "0",
-            "T": "0",
-            "PTS": "2",
-            "SPTS": "16",
-            "PF": "15",
-            "PA": "1"
         },
         {
             "Team": "Bur Oak SS",
@@ -53,12 +53,12 @@
         {
             "Team": "Bill Hogarth SS",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "0",
-            "SPTS": "15",
-            "PF": "5",
-            "PA": "7"
+            "SPTS": "31",
+            "PF": "12",
+            "PA": "15"
         },
         {
             "Team": "Pierre Elliott Trudeau",
