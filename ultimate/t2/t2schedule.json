@@ -19,6 +19,15 @@
             "final_score": null
         },
         {
+            "date": "Monday, May 11, 2026",
+            "home_team": "Toronto District Christian",
+            "away_team": "St. Jean De Brebeuf CHS",
+            "time": "4:30 PM",
+            "location": "Thornlea SS",
+            "game_played": true,
+            "final_score": "Toronto District Christian 4, St. Jean De Brebeuf CHS 5"
+        },
+        {
             "date": "Tuesday, May 12, 2026",
             "home_team": null,
             "away_team": null,
