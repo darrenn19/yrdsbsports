@@ -118,6 +118,15 @@
             "final_score": "Aurora HS 5, Keswick High School 0"
         },
         {
+            "date": "Tuesday, May 12, 2026",
+            "home_team": "Thornlea SS",
+            "away_team": "Toronto District Christian",
+            "time": "3:45 PM",
+            "location": "Thornhill SS",
+            "game_played": true,
+            "final_score": "Thornlea SS 0, Toronto District Christian 9"
+        },
+        {
             "date": "Wednesday, May 13, 2026",
             "home_team": null,
             "away_team": null,

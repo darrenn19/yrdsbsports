@@ -20,6 +20,15 @@
         },
         {
             "date": "Tuesday, May 12, 2026",
+            "home_team": "St. Katharine Drexel",
+            "away_team": "Bill Hogarth SS",
+            "time": "3:00 PM",
+            "location": "Cornell Community Park",
+            "game_played": true,
+            "final_score": "St. Katharine Drexel 14, Bill Hogarth SS 1"
+        },
+        {
+            "date": "Tuesday, May 12, 2026",
             "home_team": "Dr. J.M. Denison",
             "away_team": "Cardinal Carter",
             "time": "11:00 AM",
