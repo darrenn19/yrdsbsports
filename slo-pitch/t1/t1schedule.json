@@ -46,6 +46,15 @@
             "final_score": "Sir William Mulock 10, St. Theresa Of Lisieux 3"
         },
         {
+            "date": "Monday, May 11, 2026",
+            "home_team": "St. Theresa Of Lisieux",
+            "away_team": "Holy Cross",
+            "time": "12:00 PM",
+            "location": "Hallmark Park 2",
+            "game_played": true,
+            "final_score": "St. Theresa Of Lisieux 5, Holy Cross 10"
+        },
+        {
             "date": "Tuesday, May 12, 2026",
             "home_team": null,
             "away_team": null,
