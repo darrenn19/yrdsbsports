@@ -2,6 +2,15 @@
     "schedule": [
         {
             "date": "Monday, May 11, 2026",
+            "home_team": "Thornlea SS",
+            "away_team": "St. Jean De Brebeuf CHS",
+            "time": "3:30 PM",
+            "location": "Thornlea SS",
+            "game_played": true,
+            "final_score": "Thornlea SS 3, St. Jean De Brebeuf CHS 4"
+        },
+        {
+            "date": "Monday, May 11, 2026",
             "home_team": "Thornlea SS 7 (S )",
             "away_team": "Father Bressani 3 (S )",
             "time": "4:30 PM",

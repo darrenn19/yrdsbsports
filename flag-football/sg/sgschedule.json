@@ -37,13 +37,40 @@
             "final_score": "Tommy Douglas SS 14, Woodbridge College 7"
         },
         {
+            "date": "Monday, May 11, 2026",
+            "home_team": "Emily Carr",
+            "away_team": "St. Jean De Brebeuf CHS",
+            "time": "3:10 PM",
+            "location": "Emily Carr SS",
+            "game_played": true,
+            "final_score": "Emily Carr 26, St. Jean De Brebeuf CHS 0"
+        },
+        {
+            "date": "Monday, May 11, 2026",
+            "home_team": "Tommy Douglas SS",
+            "away_team": "Emily Carr",
+            "time": "9:00 AM",
+            "location": "Emily Carr SS",
+            "game_played": true,
+            "final_score": "Tommy Douglas SS 2, Emily Carr 21"
+        },
+        {
             "date": "Tuesday, May 12, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Dr. J.M. Denison",
+            "away_team": "Huron Heights",
+            "time": "9:00 AM",
+            "location": "Huron Heights SS",
+            "game_played": true,
+            "final_score": "Dr. J.M. Denison 31, Huron Heights 0"
+        },
+        {
+            "date": "Tuesday, May 12, 2026",
+            "home_team": "Thornhill SS",
+            "away_team": "Thornlea SS",
+            "time": "9:00 AM",
+            "location": "Thornlea SS",
+            "game_played": true,
+            "final_score": "Thornhill SS 0, Thornlea SS 14"
         },
         {
             "date": "Wednesday, May 13, 2026",
