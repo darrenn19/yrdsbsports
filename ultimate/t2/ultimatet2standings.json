@@ -121,6 +121,16 @@
             "PA": "8"
         },
         {
+            "Team": "St. Brother Andre",
+            "W": "1",
+            "L": "1",
+            "T": "0",
+            "PTS": "2",
+            "SPTS": "34",
+            "PF": "12",
+            "PA": "12"
+        },
+        {
             "Team": "Markville",
             "W": "1",
             "L": "1",
@@ -129,6 +139,16 @@
             "SPTS": "34",
             "PF": "15",
             "PA": "9"
+        },
+        {
+            "Team": "Milliken Mills",
+            "W": "1",
+            "L": "1",
+            "T": "0",
+            "PTS": "2",
+            "SPTS": "28",
+            "PF": "11",
+            "PA": "10"
         },
         {
             "Team": "Bill Hogarth SS",
@@ -141,24 +161,14 @@
             "PA": "15"
         },
         {
-            "Team": "St. Brother Andre",
-            "W": "1",
-            "L": "1",
-            "T": "0",
-            "PTS": "2",
-            "SPTS": "34",
-            "PF": "12",
-            "PA": "12"
-        },
-        {
             "Team": "Middlefield",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "0",
-            "SPTS": "15",
-            "PF": "2",
-            "PA": "11"
+            "SPTS": "31",
+            "PF": "5",
+            "PA": "21"
         },
         {
             "Team": "Father McGivney",
@@ -169,16 +179,6 @@
             "SPTS": "31",
             "PF": "9",
             "PA": "19"
-        },
-        {
-            "Team": "Milliken Mills",
-            "W": "0",
-            "L": "1",
-            "T": "0",
-            "PTS": "0",
-            "SPTS": "14",
-            "PF": "1",
-            "PA": "7"
         },
         {
             "Team": "North",
@@ -321,14 +321,24 @@
             "PA": "12"
         },
         {
-            "Team": "Thornlea SS",
+            "Team": "St. Jean De Brebeuf CHS",
             "W": "1",
-            "L": "2",
+            "L": "0",
             "T": "0",
             "PTS": "2",
-            "SPTS": "47",
-            "PF": "18",
-            "PA": "17"
+            "SPTS": "16",
+            "PF": "4",
+            "PA": "3"
+        },
+        {
+            "Team": "Thornlea SS",
+            "W": "1",
+            "L": "3",
+            "T": "0",
+            "PTS": "2",
+            "SPTS": "65",
+            "PF": "21",
+            "PA": "21"
         },
         {
             "Team": "St. Joan Of Arc",
@@ -349,16 +359,6 @@
             "SPTS": "54",
             "PF": "11",
             "PA": "17"
-        },
-        {
-            "Team": "St. Jean De Brebeuf CHS",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "SPTS": "0",
-            "PF": "0",
-            "PA": "0"
         },
         {
             "Team": "Westmount",
