@@ -57,11 +57,29 @@
         {
             "date": "Tuesday, May 12, 2026",
             "home_team": "Dr. J.M. Denison",
+            "away_team": "Sacred Heart",
+            "time": "11:30 AM",
+            "location": "Huron Heights SS",
+            "game_played": true,
+            "final_score": "Dr. J.M. Denison 21, Sacred Heart 6"
+        },
+        {
+            "date": "Tuesday, May 12, 2026",
+            "home_team": "Dr. J.M. Denison",
             "away_team": "Huron Heights",
             "time": "9:00 AM",
             "location": "Huron Heights SS",
             "game_played": true,
             "final_score": "Dr. J.M. Denison 31, Huron Heights 0"
+        },
+        {
+            "date": "Tuesday, May 12, 2026",
+            "home_team": "St. Elizabeth",
+            "away_team": "Cardinal Carter",
+            "time": "10:05 AM",
+            "location": "Thornlea SS",
+            "game_played": true,
+            "final_score": "St. Elizabeth 0, Cardinal Carter 6"
         },
         {
             "date": "Tuesday, May 12, 2026",
