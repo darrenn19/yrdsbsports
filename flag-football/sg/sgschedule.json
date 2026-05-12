@@ -66,6 +66,15 @@
         {
             "date": "Tuesday, May 12, 2026",
             "home_team": "Dr. J.M. Denison",
+            "away_team": "Sutton District",
+            "time": "2:00 PM",
+            "location": "Huron Heights SS",
+            "game_played": true,
+            "final_score": "Dr. J.M. Denison 26, Sutton District 0"
+        },
+        {
+            "date": "Tuesday, May 12, 2026",
+            "home_team": "Dr. J.M. Denison",
             "away_team": "Huron Heights",
             "time": "9:00 AM",
             "location": "Huron Heights SS",
