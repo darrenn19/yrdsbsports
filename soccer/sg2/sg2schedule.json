@@ -74,12 +74,12 @@
         },
         {
             "date": "Thursday, May 14, 2026 - PLAYOFFS",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Aurora HS",
+            "away_team": "Thornhill SS",
+            "time": "3:00 PM",
+            "location": "Sheppards Bush",
+            "game_played": true,
+            "final_score": "Aurora HS 5, Thornhill SS 0"
         },
         {
             "date": "Friday, May 15, 2026 - PLAYOFFS",
