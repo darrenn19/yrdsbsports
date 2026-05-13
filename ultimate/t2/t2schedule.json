@@ -2,6 +2,15 @@
     "schedule": [
         {
             "date": "Tuesday, May 12, 2026",
+            "home_team": "Sir William Mulock 8 (S )",
+            "away_team": "Innova Academy 3 (S )",
+            "time": "3:30 PM",
+            "location": "Sir William Mulock",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, May 12, 2026",
             "home_team": "Dr. J.M. Denison 7 (S )",
             "away_team": "Keswick High School 6 (S )",
             "time": "3:30 PM",
@@ -11,9 +20,9 @@
         },
         {
             "date": "Tuesday, May 12, 2026",
-            "home_team": "Sir William Mulock 8 (S )",
+            "home_team": "Dr. J.M. Denison 7 (S )",
             "away_team": "Innova Academy 3 (S )",
-            "time": "3:30 PM",
+            "time": "4:30 PM",
             "location": "Sir William Mulock",
             "game_played": false,
             "final_score": null
@@ -26,15 +35,6 @@
             "location": "Sir William Mulock",
             "game_played": true,
             "final_score": "Sir William Mulock 2, Keswick High School 8"
-        },
-        {
-            "date": "Tuesday, May 12, 2026",
-            "home_team": "Dr. J.M. Denison 7 (S )",
-            "away_team": "Innova Academy 3 (S )",
-            "time": "4:30 PM",
-            "location": "Sir William Mulock",
-            "game_played": false,
-            "final_score": null
         },
         {
             "date": "Wednesday, May 13, 2026",
