@@ -20,6 +20,15 @@
         },
         {
             "date": "Tuesday, May 12, 2026",
+            "home_team": "Huron Heights",
+            "away_team": "Sutton District",
+            "time": "12:40 PM",
+            "location": "Huron Heights SS",
+            "game_played": true,
+            "final_score": "Huron Heights 6, Sutton District 0"
+        },
+        {
+            "date": "Tuesday, May 12, 2026",
             "home_team": "Dr. J.M. Denison",
             "away_team": "Sutton District",
             "time": "2:00 PM",
@@ -110,12 +119,21 @@
         },
         {
             "date": "Wednesday, May 13, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Unionville HS",
+            "away_team": "Milliken Mills",
+            "time": "10:10 AM",
+            "location": "Markham DHS",
+            "game_played": true,
+            "final_score": "Unionville HS 22, Milliken Mills 6"
+        },
+        {
+            "date": "Wednesday, May 13, 2026",
+            "home_team": "Bur Oak SS",
+            "away_team": "Markham District",
+            "time": "9:00 AM",
+            "location": "Markham DHS",
+            "game_played": true,
+            "final_score": "Bur Oak SS 0, Markham District 33"
         },
         {
             "date": "Thursday, May 14, 2026",

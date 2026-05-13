@@ -2,6 +2,33 @@
     "schedule": [
         {
             "date": "Tuesday, May 12, 2026",
+            "home_team": "Bill Crothers SS 5 (S )",
+            "away_team": "Renaissance ESC 3 (S )",
+            "time": "3:45 PM",
+            "location": "Bill Crothers SS",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, May 12, 2026",
+            "home_team": "Hodan Nalayeh SS",
+            "away_team": "Toronto District Christian",
+            "time": "3:45 PM",
+            "location": "Hodan Nalayeh Secondary School",
+            "game_played": true,
+            "final_score": "Hodan Nalayeh SS 7, Toronto District Christian 10"
+        },
+        {
+            "date": "Tuesday, May 12, 2026",
+            "home_team": "Markham District",
+            "away_team": "Milliken Mills",
+            "time": "3:45 PM",
+            "location": "Markham DHS",
+            "game_played": true,
+            "final_score": "Markham District 6, Milliken Mills 12"
+        },
+        {
+            "date": "Tuesday, May 12, 2026",
             "home_team": "Pierre Elliott Trudeau",
             "away_team": "Bur Oak SS",
             "time": "3:45 PM",
