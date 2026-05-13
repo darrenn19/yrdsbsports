@@ -191,14 +191,24 @@
             "PA": "PA"
         },
         {
-            "Team": "Keswick High School",
-            "W": "3",
+            "Team": "Dr. J.M. Denison",
+            "W": "4",
             "L": "0",
             "T": "0",
+            "PTS": "8",
+            "SPTS": "75",
+            "PF": "32",
+            "PA": "15"
+        },
+        {
+            "Team": "Keswick High School",
+            "W": "3",
+            "L": "1",
+            "T": "0",
             "PTS": "6",
-            "SPTS": "46",
-            "PF": "23",
-            "PA": "7"
+            "SPTS": "63",
+            "PF": "29",
+            "PA": "14"
         },
         {
             "Team": "Newmarket HS",
@@ -219,16 +229,6 @@
             "SPTS": "29",
             "PF": "22",
             "PA": "3"
-        },
-        {
-            "Team": "Dr. J.M. Denison",
-            "W": "2",
-            "L": "0",
-            "T": "0",
-            "PTS": "4",
-            "SPTS": "40",
-            "PF": "18",
-            "PA": "6"
         },
         {
             "Team": "Sir William Mulock",
@@ -263,12 +263,12 @@
         {
             "Team": "Innova Academy",
             "W": "0",
-            "L": "3",
+            "L": "4",
             "T": "0",
             "PTS": "0",
-            "SPTS": "47",
-            "PF": "6",
-            "PA": "33"
+            "SPTS": "63",
+            "PF": "9",
+            "PA": "40"
         },
         {
             "Team": "West",
@@ -283,22 +283,22 @@
         {
             "Team": "Toronto District Christian",
             "W": "2",
-            "L": "1",
-            "T": "1",
-            "PTS": "5",
+            "L": "0",
+            "T": "2",
+            "PTS": "6",
             "SPTS": "59",
-            "PF": "26",
+            "PF": "27",
             "PA": "18"
         },
         {
-            "Team": "Maple High School",
+            "Team": "Thornhill SS",
             "W": "2",
             "L": "0",
             "T": "0",
             "PTS": "4",
-            "SPTS": "30",
-            "PF": "10",
-            "PA": "6"
+            "SPTS": "40",
+            "PF": "16",
+            "PA": "12"
         },
         {
             "Team": "Stephen Lewis SS",
@@ -311,24 +311,24 @@
             "PA": "5"
         },
         {
-            "Team": "St. Jean De Brebeuf CHS",
+            "Team": "Maple High School",
             "W": "2",
             "L": "0",
             "T": "0",
             "PTS": "4",
-            "SPTS": "31",
-            "PF": "9",
-            "PA": "7"
+            "SPTS": "30",
+            "PF": "10",
+            "PA": "6"
         },
         {
-            "Team": "Thornhill SS",
-            "W": "2",
+            "Team": "St. Jean De Brebeuf CHS",
+            "W": "1",
             "L": "0",
-            "T": "0",
-            "PTS": "4",
-            "SPTS": "40",
-            "PF": "16",
-            "PA": "12"
+            "T": "1",
+            "PTS": "3",
+            "SPTS": "31",
+            "PF": "9",
+            "PA": "8"
         },
         {
             "Team": "Thornlea SS",

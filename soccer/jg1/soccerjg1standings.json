@@ -11,6 +11,16 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Holy Cross",
+            "W": "2",
+            "L": "0",
+            "T": "1",
+            "PTS": "7",
+            "GF": "8",
+            "GA": "2",
+            "DIFF": "6"
+        },
+        {
             "Team": "Father Bressani",
             "W": "2",
             "L": "0",
@@ -21,16 +31,6 @@
             "DIFF": "10"
         },
         {
-            "Team": "Holy Cross",
-            "W": "1",
-            "L": "0",
-            "T": "1",
-            "PTS": "4",
-            "GF": "3",
-            "GA": "2",
-            "DIFF": "1"
-        },
-        {
             "Team": "St. Theresa Of Lisieux",
             "W": "1",
             "L": "1",
@@ -39,6 +39,16 @@
             "GF": "8",
             "GA": "2",
             "DIFF": "4"
+        },
+        {
+            "Team": "Keswick High School",
+            "W": "1",
+            "L": "2",
+            "T": "0",
+            "PTS": "3",
+            "GF": "5",
+            "GA": "17",
+            "DIFF": "-5"
         },
         {
             "Team": "St. Katharine Drexel",
@@ -53,21 +63,11 @@
         {
             "Team": "Cardinal Carter",
             "W": "0",
-            "L": "0",
+            "L": "2",
             "T": "1",
             "PTS": "1",
             "GF": "1",
-            "GA": "1",
-            "DIFF": "0"
-        },
-        {
-            "Team": "Keswick High School",
-            "W": "0",
-            "L": "2",
-            "T": "0",
-            "PTS": "0",
-            "GF": "0",
-            "GA": "17",
+            "GA": "11",
             "DIFF": "-10"
         }
     ]
