@@ -137,6 +137,15 @@
         },
         {
             "date": "Wednesday, May 13, 2026",
+            "home_team": "Markham District",
+            "away_team": "Milliken Mills",
+            "time": "12:40 PM",
+            "location": "Markham DHS",
+            "game_played": true,
+            "final_score": "Markham District 28, Milliken Mills 0"
+        },
+        {
+            "date": "Wednesday, May 13, 2026",
             "home_team": "Bur Oak SS",
             "away_team": "Markham District",
             "time": "9:00 AM",
