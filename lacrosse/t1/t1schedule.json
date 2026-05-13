@@ -11,12 +11,30 @@
         },
         {
             "date": "Wednesday, May 13, 2026",
+            "home_team": "Aurora HS",
+            "away_team": "Sutton District",
+            "time": "1:30 PM",
+            "location": "Sheppards Bush",
+            "game_played": true,
+            "final_score": "Aurora HS 0, Sutton District 6"
+        },
+        {
+            "date": "Wednesday, May 13, 2026",
             "home_team": "Keswick High School",
             "away_team": "Sir William Mulock",
             "time": "2:45 PM",
             "location": "Sheppards Bush",
             "game_played": true,
             "final_score": "Keswick High School 8, Sir William Mulock 2"
+        },
+        {
+            "date": "Wednesday, May 13, 2026",
+            "home_team": "Aurora HS",
+            "away_team": "Bill Crothers SS",
+            "time": "4:00 PM",
+            "location": "Sheppards Bush",
+            "game_played": true,
+            "final_score": "Aurora HS 8, Bill Crothers SS 3"
         },
         {
             "date": "Thursday, May 14, 2026",
