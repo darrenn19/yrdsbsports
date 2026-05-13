@@ -65,6 +65,15 @@
         },
         {
             "date": "Monday, May 11, 2026",
+            "home_team": "Thornhill SS",
+            "away_team": "Thornlea SS",
+            "time": "3:45 PM",
+            "location": "Thornhill SS",
+            "game_played": true,
+            "final_score": "Thornhill SS 0, Thornlea SS 3"
+        },
+        {
+            "date": "Monday, May 11, 2026",
             "home_team": "Unionville HS",
             "away_team": "Bill Crothers SS",
             "time": "3:45 PM",
@@ -127,6 +136,15 @@
             "final_score": "Thornlea SS 0, Toronto District Christian 9"
         },
         {
+            "date": "Tuesday, May 12, 2026",
+            "home_team": "Woodbridge College",
+            "away_team": "Thornhill SS",
+            "time": "3:45 PM",
+            "location": "Woodbridge College",
+            "game_played": true,
+            "final_score": "Woodbridge College 4, Thornhill SS 0"
+        },
+        {
             "date": "Wednesday, May 13, 2026",
             "home_team": null,
             "away_team": null,
@@ -136,7 +154,7 @@
             "final_score": null
         },
         {
-            "date": "Thursday, May 14, 2026",
+            "date": "Thursday, May 14, 2026 - PLAYOFFS",
             "home_team": null,
             "away_team": null,
             "time": null,
@@ -145,7 +163,7 @@
             "final_score": null
         },
         {
-            "date": "Friday, May 15, 2026",
+            "date": "Friday, May 15, 2026 - PLAYOFFS",
             "home_team": null,
             "away_team": null,
             "time": null,
