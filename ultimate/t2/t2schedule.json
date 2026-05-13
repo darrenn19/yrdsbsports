@@ -1,49 +1,22 @@
 {
     "schedule": [
         {
-            "date": "Monday, May 11, 2026",
-            "home_team": "Toronto District Christian",
-            "away_team": "Father Bressani",
+            "date": "Tuesday, May 12, 2026",
+            "home_team": "Sir William Mulock 8 (S )",
+            "away_team": "Innova Academy 3 (S )",
             "time": "3:30 PM",
-            "location": "Thornlea SS",
-            "game_played": true,
-            "final_score": "Toronto District Christian 5, Father Bressani 5"
-        },
-        {
-            "date": "Monday, May 11, 2026",
-            "home_team": "Thornlea SS",
-            "away_team": "St. Jean De Brebeuf CHS",
-            "time": "3:30 PM",
-            "location": "Thornlea SS",
-            "game_played": true,
-            "final_score": "Thornlea SS 3, St. Jean De Brebeuf CHS 4"
-        },
-        {
-            "date": "Monday, May 11, 2026",
-            "home_team": "Thornlea SS 7 (S )",
-            "away_team": "Father Bressani 3 (S )",
-            "time": "4:30 PM",
-            "location": "Thornlea SS",
+            "location": "Sir William Mulock",
             "game_played": false,
             "final_score": null
-        },
-        {
-            "date": "Monday, May 11, 2026",
-            "home_team": "Toronto District Christian",
-            "away_team": "St. Jean De Brebeuf CHS",
-            "time": "4:30 PM",
-            "location": "Thornlea SS",
-            "game_played": true,
-            "final_score": "Toronto District Christian 4, St. Jean De Brebeuf CHS 5"
         },
         {
             "date": "Tuesday, May 12, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Sir William Mulock",
+            "away_team": "Keswick High School",
+            "time": "4:30 PM",
+            "location": "Sir William Mulock",
+            "game_played": true,
+            "final_score": "Sir William Mulock 2, Keswick High School 8"
         },
         {
             "date": "Wednesday, May 13, 2026",
@@ -83,6 +56,15 @@
         },
         {
             "date": "Sunday, May 17, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, May 18, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

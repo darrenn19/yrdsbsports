@@ -1,60 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, May 11, 2026",
-            "home_team": "St. Jean De Brebeuf CHS",
-            "away_team": "Woodbridge College",
-            "time": "10:10 AM",
-            "location": "Emily Carr SS",
-            "game_played": true,
-            "final_score": "St. Jean De Brebeuf CHS 33, Woodbridge College 0"
-        },
-        {
-            "date": "Monday, May 11, 2026",
-            "home_team": "Emily Carr",
-            "away_team": "Woodbridge College",
-            "time": "11:30 AM",
-            "location": "Emily Carr SS",
-            "game_played": true,
-            "final_score": "Emily Carr 41, Woodbridge College 0"
-        },
-        {
-            "date": "Monday, May 11, 2026",
-            "home_team": "Tommy Douglas SS",
-            "away_team": "St. Jean De Brebeuf CHS",
-            "time": "12:40 PM",
-            "location": "Emily Carr SS",
-            "game_played": true,
-            "final_score": "Tommy Douglas SS 6, St. Jean De Brebeuf CHS 14"
-        },
-        {
-            "date": "Monday, May 11, 2026",
-            "home_team": "Tommy Douglas SS",
-            "away_team": "Woodbridge College",
-            "time": "2:00 PM",
-            "location": "Emily Carr SS",
-            "game_played": true,
-            "final_score": "Tommy Douglas SS 14, Woodbridge College 7"
-        },
-        {
-            "date": "Monday, May 11, 2026",
-            "home_team": "Emily Carr",
-            "away_team": "St. Jean De Brebeuf CHS",
-            "time": "3:10 PM",
-            "location": "Emily Carr SS",
-            "game_played": true,
-            "final_score": "Emily Carr 26, St. Jean De Brebeuf CHS 0"
-        },
-        {
-            "date": "Monday, May 11, 2026",
-            "home_team": "Tommy Douglas SS",
-            "away_team": "Emily Carr",
-            "time": "9:00 AM",
-            "location": "Emily Carr SS",
-            "game_played": true,
-            "final_score": "Tommy Douglas SS 2, Emily Carr 21"
-        },
-        {
             "date": "Tuesday, May 12, 2026",
             "home_team": "Sacred Heart",
             "away_team": "Sutton District",
@@ -110,12 +56,30 @@
         },
         {
             "date": "Tuesday, May 12, 2026",
+            "home_team": "Thornhill SS",
+            "away_team": "Bill Crothers SS",
+            "time": "11:10 AM",
+            "location": "Thornlea SS",
+            "game_played": true,
+            "final_score": "Thornhill SS 0, Bill Crothers SS 20"
+        },
+        {
+            "date": "Tuesday, May 12, 2026",
             "home_team": "Thornlea SS",
             "away_team": "St. Elizabeth",
             "time": "12:15 PM",
             "location": "Thornlea SS",
             "game_played": true,
             "final_score": "Thornlea SS 2, St. Elizabeth 20"
+        },
+        {
+            "date": "Tuesday, May 12, 2026",
+            "home_team": "Cardinal Carter",
+            "away_team": "Bill Crothers SS",
+            "time": "1:10 PM",
+            "location": "Thornlea SS",
+            "game_played": true,
+            "final_score": "Cardinal Carter 0, Bill Crothers SS 7"
         },
         {
             "date": "Tuesday, May 12, 2026",
@@ -182,6 +146,15 @@
         },
         {
             "date": "Sunday, May 17, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, May 18, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

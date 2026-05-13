@@ -1,96 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, May 11, 2026",
-            "home_team": "St. Joan Of Arc",
-            "away_team": "Holy Cross",
-            "time": "12:00 PM",
-            "location": "Concord Regional 1",
-            "game_played": true,
-            "final_score": "St. Joan Of Arc 3, Holy Cross 4"
-        },
-        {
-            "date": "Monday, May 11, 2026",
-            "home_team": "Holy Cross",
-            "away_team": "St. Theresa Of Lisieux",
-            "time": "3:00 PM",
-            "location": "Concord Regional 1",
-            "game_played": true,
-            "final_score": "Holy Cross 3, St. Theresa Of Lisieux 5"
-        },
-        {
-            "date": "Monday, May 11, 2026",
-            "home_team": "St. Theresa Of Lisieux",
-            "away_team": "St. Augustine",
-            "time": "12:00 PM",
-            "location": "Concord Regional 2",
-            "game_played": true,
-            "final_score": "St. Theresa Of Lisieux 5, St. Augustine 3"
-        },
-        {
-            "date": "Monday, May 11, 2026",
-            "home_team": "St. Augustine",
-            "away_team": "St. Joan Of Arc",
-            "time": "3:00 PM",
-            "location": "Concord Regional 2",
-            "game_played": true,
-            "final_score": "St. Augustine 17, St. Joan Of Arc 8"
-        },
-        {
-            "date": "Monday, May 11, 2026",
-            "home_team": "Sacred Heart",
-            "away_team": "Huron Heights",
-            "time": "11:00 AM",
-            "location": "Don McKnight Field",
-            "game_played": true,
-            "final_score": "Sacred Heart 1, Huron Heights 16"
-        },
-        {
-            "date": "Monday, May 11, 2026",
-            "home_team": "Stouffville",
-            "away_team": "St. Brother Andre",
-            "time": "12:00 PM",
-            "location": "Richmond Green 4",
-            "game_played": true,
-            "final_score": "Stouffville 15, St. Brother Andre 7"
-        },
-        {
-            "date": "Monday, May 11, 2026",
-            "home_team": "St. Brother Andre",
-            "away_team": "St. Maximilian",
-            "time": "3:00 PM",
-            "location": "Richmond Green 4",
-            "game_played": true,
-            "final_score": "St. Brother Andre 4, St. Maximilian 7"
-        },
-        {
-            "date": "Monday, May 11, 2026",
-            "home_team": "St. Maximilian",
-            "away_team": "Markham District",
-            "time": "12:00 PM",
-            "location": "Richmond Green 7",
-            "game_played": true,
-            "final_score": "St. Maximilian 6, Markham District 6"
-        },
-        {
-            "date": "Monday, May 11, 2026",
-            "home_team": "Markham District",
-            "away_team": "Stouffville",
-            "time": "3:00 PM",
-            "location": "Richmond Green 7",
-            "game_played": true,
-            "final_score": "Markham District 7, Stouffville 7"
-        },
-        {
-            "date": "Monday, May 11, 2026",
-            "home_team": "King City SS",
-            "away_team": "Newmarket HS",
-            "time": "11:00 AM",
-            "location": "Whipper Watson",
-            "game_played": true,
-            "final_score": "King City SS 2, Newmarket HS 10"
-        },
-        {
             "date": "Tuesday, May 12, 2026",
             "home_team": null,
             "away_team": null,
@@ -137,6 +47,15 @@
         },
         {
             "date": "Sunday, May 17, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, May 18, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

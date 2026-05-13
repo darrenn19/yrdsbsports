@@ -1,24 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, May 11, 2026",
-            "home_team": "Huron Heights 15 (S )",
-            "away_team": "St. Maximilian 7 (S )",
-            "time": "3:45 PM",
-            "location": "Huron Heights SS",
-            "game_played": false,
-            "final_score": null
-        },
-        {
-            "date": "Monday, May 11, 2026",
-            "home_team": "Markville 8 (S )",
-            "away_team": "Bill Hogarth SS 7 (S )",
-            "time": "3:45 PM",
-            "location": "Markville SS",
-            "game_played": false,
-            "final_score": null
-        },
-        {
             "date": "Tuesday, May 12, 2026",
             "home_team": "Pierre Elliott Trudeau",
             "away_team": "Bur Oak SS",
@@ -26,6 +8,15 @@
             "location": "PE Trudeau HS",
             "game_played": true,
             "final_score": "Pierre Elliott Trudeau 8, Bur Oak SS 12"
+        },
+        {
+            "date": "Tuesday, May 12, 2026",
+            "home_team": "Tommy Douglas SS 15 (S )",
+            "away_team": "Holy Cross 0 (S )",
+            "time": "3:45 PM",
+            "location": "Tommy Douglas SS",
+            "game_played": false,
+            "final_score": null
         },
         {
             "date": "Wednesday, May 13, 2026",
@@ -65,6 +56,15 @@
         },
         {
             "date": "Sunday, May 17, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, May 18, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
