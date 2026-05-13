@@ -11,6 +11,16 @@
             "PA": "PA"
         },
         {
+            "Team": "Bur Oak SS",
+            "W": "2",
+            "L": "0",
+            "T": "0",
+            "PTS": "4",
+            "SPTS": "30",
+            "PF": "21",
+            "PA": "12"
+        },
+        {
             "Team": "Markville",
             "W": "2",
             "L": "0",
@@ -29,16 +39,6 @@
             "SPTS": "15",
             "PF": "7",
             "PA": "5"
-        },
-        {
-            "Team": "Bur Oak SS",
-            "W": "1",
-            "L": "0",
-            "T": "0",
-            "PTS": "2",
-            "SPTS": "13",
-            "PF": "9",
-            "PA": "4"
         },
         {
             "Team": "Markham District",
@@ -63,12 +63,12 @@
         {
             "Team": "Pierre Elliott Trudeau",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "0",
-            "SPTS": "18",
-            "PF": "1",
-            "PA": "15"
+            "SPTS": "36",
+            "PF": "9",
+            "PA": "27"
         },
         {
             "Team": "North",
@@ -152,12 +152,12 @@
         },
         {
             "Team": "Tommy Douglas SS",
-            "W": "1",
+            "W": "2",
             "L": "0",
             "T": "0",
-            "PTS": "2",
-            "SPTS": "16",
-            "PF": "10",
+            "PTS": "4",
+            "SPTS": "31",
+            "PF": "25",
             "PA": "9"
         },
         {
@@ -173,12 +173,12 @@
         {
             "Team": "Holy Cross",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
-            "SPTS": "0",
+            "SPTS": "16",
             "PF": "0",
-            "PA": "0"
+            "PA": "15"
         },
         {
             "Team": "Hodan Nalayeh SS",

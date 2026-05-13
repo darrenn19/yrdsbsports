@@ -81,14 +81,34 @@
             "DIFF": "DIFF"
         },
         {
-            "Team": "Bill Hogarth SS",
-            "W": "0",
+            "Team": "St. Katharine Drexel",
+            "W": "1",
             "L": "0",
             "T": "0",
+            "PTS": "2",
+            "RF": "14",
+            "RA": "1",
+            "DIFF": "13"
+        },
+        {
+            "Team": "Bur Oak SS",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "2",
+            "RF": "17",
+            "RA": "1",
+            "DIFF": "16"
+        },
+        {
+            "Team": "Bill Hogarth SS",
+            "W": "0",
+            "L": "1",
+            "T": "0",
             "PTS": "0",
-            "RF": "0",
-            "RA": "0",
-            "DIFF": "0"
+            "RF": "1",
+            "RA": "14",
+            "DIFF": "-13"
         },
         {
             "Team": "Unionville HS",
@@ -103,35 +123,15 @@
         {
             "Team": "Father McGivney",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
-            "RF": "0",
-            "RA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "St. Katharine Drexel",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "RF": "0",
-            "RA": "0",
-            "DIFF": "0"
+            "RF": "1",
+            "RA": "17",
+            "DIFF": "-16"
         },
         {
             "Team": "Markville",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "RF": "0",
-            "RA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "Bur Oak SS",
             "W": "0",
             "L": "0",
             "T": "0",
@@ -149,6 +149,16 @@
             "RF": "RF",
             "RA": "RA",
             "DIFF": "DIFF"
+        },
+        {
+            "Team": "Dr. J.M. Denison",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "2",
+            "RF": "6",
+            "RA": "2",
+            "DIFF": "4"
         },
         {
             "Team": "Dr. G.W. Williams",
@@ -183,22 +193,12 @@
         {
             "Team": "Cardinal Carter",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
-            "RF": "0",
-            "RA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "Dr. J.M. Denison",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "RF": "0",
-            "RA": "0",
-            "DIFF": "0"
+            "RF": "2",
+            "RA": "6",
+            "DIFF": "-4"
         },
         {
             "Team": "West",

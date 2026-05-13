@@ -21,24 +21,24 @@
             "DIFF": "10"
         },
         {
-            "Team": "St. Theresa Of Lisieux",
+            "Team": "Holy Cross",
             "W": "1",
             "L": "0",
             "T": "1",
             "PTS": "4",
-            "GF": "8",
-            "GA": "1",
-            "DIFF": "5"
+            "GF": "3",
+            "GA": "2",
+            "DIFF": "1"
         },
         {
-            "Team": "Holy Cross",
-            "W": "0",
-            "L": "0",
+            "Team": "St. Theresa Of Lisieux",
+            "W": "1",
+            "L": "1",
             "T": "1",
-            "PTS": "1",
-            "GF": "2",
+            "PTS": "4",
+            "GF": "8",
             "GA": "2",
-            "DIFF": "0"
+            "DIFF": "4"
         },
         {
             "Team": "St. Katharine Drexel",

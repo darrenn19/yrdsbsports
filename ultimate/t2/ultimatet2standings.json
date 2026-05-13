@@ -191,24 +191,14 @@
             "PA": "PA"
         },
         {
-            "Team": "Sacred Heart",
-            "W": "2",
-            "L": "0",
-            "T": "0",
-            "PTS": "4",
-            "SPTS": "29",
-            "PF": "22",
-            "PA": "3"
-        },
-        {
             "Team": "Keswick High School",
-            "W": "2",
+            "W": "3",
             "L": "0",
             "T": "0",
-            "PTS": "4",
-            "SPTS": "31",
-            "PF": "15",
-            "PA": "5"
+            "PTS": "6",
+            "SPTS": "46",
+            "PF": "23",
+            "PA": "7"
         },
         {
             "Team": "Newmarket HS",
@@ -221,6 +211,16 @@
             "PA": "5"
         },
         {
+            "Team": "Sacred Heart",
+            "W": "2",
+            "L": "0",
+            "T": "0",
+            "PTS": "4",
+            "SPTS": "29",
+            "PF": "22",
+            "PA": "3"
+        },
+        {
             "Team": "Dr. J.M. Denison",
             "W": "2",
             "L": "0",
@@ -231,6 +231,16 @@
             "PA": "6"
         },
         {
+            "Team": "Sir William Mulock",
+            "W": "1",
+            "L": "3",
+            "T": "0",
+            "PTS": "2",
+            "SPTS": "63",
+            "PF": "15",
+            "PA": "28"
+        },
+        {
             "Team": "Dr. G.W. Williams",
             "W": "0",
             "L": "2",
@@ -239,16 +249,6 @@
             "SPTS": "33",
             "PF": "7",
             "PA": "14"
-        },
-        {
-            "Team": "Sir William Mulock",
-            "W": "0",
-            "L": "2",
-            "T": "0",
-            "PTS": "0",
-            "SPTS": "32",
-            "PF": "5",
-            "PA": "17"
         },
         {
             "Team": "Huron Heights",
@@ -263,12 +263,12 @@
         {
             "Team": "Innova Academy",
             "W": "0",
-            "L": "2",
+            "L": "3",
             "T": "0",
             "PTS": "0",
-            "SPTS": "31",
-            "PF": "3",
-            "PA": "25"
+            "SPTS": "47",
+            "PF": "6",
+            "PA": "33"
         },
         {
             "Team": "West",
@@ -279,6 +279,16 @@
             "SPTS": "SPTS",
             "PF": "PF",
             "PA": "PA"
+        },
+        {
+            "Team": "Toronto District Christian",
+            "W": "2",
+            "L": "1",
+            "T": "1",
+            "PTS": "5",
+            "SPTS": "59",
+            "PF": "26",
+            "PA": "18"
         },
         {
             "Team": "Maple High School",
@@ -301,14 +311,14 @@
             "PA": "5"
         },
         {
-            "Team": "Toronto District Christian",
+            "Team": "St. Jean De Brebeuf CHS",
             "W": "2",
             "L": "0",
             "T": "0",
             "PTS": "4",
-            "SPTS": "27",
-            "PF": "17",
-            "PA": "8"
+            "SPTS": "31",
+            "PF": "9",
+            "PA": "7"
         },
         {
             "Team": "Thornhill SS",
@@ -321,24 +331,24 @@
             "PA": "12"
         },
         {
-            "Team": "St. Jean De Brebeuf CHS",
-            "W": "1",
-            "L": "0",
-            "T": "0",
-            "PTS": "2",
-            "SPTS": "16",
-            "PF": "4",
-            "PA": "3"
-        },
-        {
             "Team": "Thornlea SS",
             "W": "1",
             "L": "3",
             "T": "0",
             "PTS": "2",
-            "SPTS": "65",
+            "SPTS": "70",
             "PF": "21",
             "PA": "21"
+        },
+        {
+            "Team": "Father Bressani",
+            "W": "0",
+            "L": "3",
+            "T": "1",
+            "PTS": "1",
+            "SPTS": "67",
+            "PF": "16",
+            "PA": "22"
         },
         {
             "Team": "St. Joan Of Arc",
@@ -351,22 +361,12 @@
             "PA": "13"
         },
         {
-            "Team": "Father Bressani",
-            "W": "0",
-            "L": "3",
-            "T": "0",
-            "PTS": "0",
-            "SPTS": "54",
-            "PF": "11",
-            "PA": "17"
-        },
-        {
             "Team": "Westmount",
             "W": "0",
             "L": "2",
             "T": "0",
             "PTS": "0",
-            "SPTS": "32",
+            "SPTS": "33",
             "PF": "9",
             "PA": "19"
         }
