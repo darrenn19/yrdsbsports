@@ -10,6 +10,15 @@
             "PA": "PA"
         },
         {
+            "Team": "St. Theresa Of Lisieux",
+            "W": "2",
+            "L": "1",
+            "T": "0",
+            "PTS": "8",
+            "PF": "34",
+            "PA": "36"
+        },
+        {
             "Team": "Bill Crothers SS",
             "W": "2",
             "L": "0",
@@ -19,22 +28,13 @@
             "PA": "12"
         },
         {
-            "Team": "St. Theresa Of Lisieux",
-            "W": "1",
-            "L": "1",
-            "T": "0",
-            "PTS": "4",
-            "PF": "12",
-            "PA": "22"
-        },
-        {
             "Team": "St. Maximilian",
             "W": "1",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "4",
-            "PF": "34",
-            "PA": "58"
+            "PF": "48",
+            "PA": "80"
         },
         {
             "Team": "Huron Heights",

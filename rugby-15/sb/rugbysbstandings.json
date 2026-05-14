@@ -11,39 +11,39 @@
         },
         {
             "Team": "Bill Crothers SS",
-            "W": "2",
+            "W": "3",
             "L": "0",
             "T": "0",
-            "PTS": "8",
-            "PF": "106",
-            "PA": "0"
+            "PTS": "12",
+            "PF": "152",
+            "PA": "10"
         },
         {
             "Team": "St. Theresa Of Lisieux",
-            "W": "2",
+            "W": "3",
             "L": "0",
             "T": "0",
-            "PTS": "8",
-            "PF": "82",
+            "PTS": "12",
+            "PF": "113",
             "PA": "0"
         },
         {
             "Team": "Keswick High School",
             "W": "1",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "4",
             "PF": "35",
-            "PA": "42"
+            "PA": "73"
         },
         {
             "Team": "Stephen Lewis SS",
             "W": "1",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "4",
-            "PF": "24",
-            "PA": "52"
+            "PF": "34",
+            "PA": "98"
         },
         {
             "Team": "Markham District",

@@ -81,6 +81,16 @@
             "PA": "PA"
         },
         {
+            "Team": "Cardinal Carter",
+            "W": "2",
+            "L": "0",
+            "T": "0",
+            "PTS": "4",
+            "SPTS": "22",
+            "PF": "23",
+            "PA": "17"
+        },
+        {
             "Team": "Bill Crothers SS",
             "W": "2",
             "L": "0",
@@ -89,16 +99,6 @@
             "SPTS": "28",
             "PF": "13",
             "PA": "9"
-        },
-        {
-            "Team": "Cardinal Carter",
-            "W": "1",
-            "L": "0",
-            "T": "0",
-            "PTS": "2",
-            "SPTS": "16",
-            "PF": "12",
-            "PA": "10"
         },
         {
             "Team": "Huron Heights",
@@ -123,12 +123,12 @@
         {
             "Team": "Richmond Green SS",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "0",
-            "SPTS": "19",
-            "PF": "6",
-            "PA": "8"
+            "SPTS": "33",
+            "PF": "13",
+            "PA": "19"
         },
         {
             "Team": "Renaissance ESC",
