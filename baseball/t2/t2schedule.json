@@ -1,33 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, May 12, 2026",
-            "home_team": "Father McGivney",
-            "away_team": "Bur Oak SS",
-            "time": "12:00 PM",
-            "location": "Cornell Community Park",
-            "game_played": true,
-            "final_score": "Father McGivney 1, Bur Oak SS 17"
-        },
-        {
-            "date": "Tuesday, May 12, 2026",
-            "home_team": "St. Katharine Drexel",
-            "away_team": "Bill Hogarth SS",
-            "time": "3:00 PM",
-            "location": "Cornell Community Park",
-            "game_played": true,
-            "final_score": "St. Katharine Drexel 14, Bill Hogarth SS 1"
-        },
-        {
-            "date": "Tuesday, May 12, 2026",
-            "home_team": "Dr. J.M. Denison",
-            "away_team": "Cardinal Carter",
-            "time": "11:00 AM",
-            "location": "Whipper Watson",
-            "game_played": true,
-            "final_score": "Dr. J.M. Denison 6, Cardinal Carter 2"
-        },
-        {
             "date": "Wednesday, May 13, 2026",
             "home_team": null,
             "away_team": null,
@@ -74,6 +47,15 @@
         },
         {
             "date": "Monday, May 18, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, May 19, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

@@ -1,123 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, May 12, 2026",
-            "home_team": "Sacred Heart",
-            "away_team": "Sutton District",
-            "time": "10:10 AM",
-            "location": "Huron Heights SS",
-            "game_played": true,
-            "final_score": "Sacred Heart 11, Sutton District 8"
-        },
-        {
-            "date": "Tuesday, May 12, 2026",
-            "home_team": "Dr. J.M. Denison",
-            "away_team": "Sacred Heart",
-            "time": "11:30 AM",
-            "location": "Huron Heights SS",
-            "game_played": true,
-            "final_score": "Dr. J.M. Denison 21, Sacred Heart 6"
-        },
-        {
-            "date": "Tuesday, May 12, 2026",
-            "home_team": "Huron Heights",
-            "away_team": "Sutton District",
-            "time": "12:40 PM",
-            "location": "Huron Heights SS",
-            "game_played": true,
-            "final_score": "Huron Heights 6, Sutton District 0"
-        },
-        {
-            "date": "Tuesday, May 12, 2026",
-            "home_team": "Dr. J.M. Denison",
-            "away_team": "Sutton District",
-            "time": "2:00 PM",
-            "location": "Huron Heights SS",
-            "game_played": true,
-            "final_score": "Dr. J.M. Denison 26, Sutton District 0"
-        },
-        {
-            "date": "Tuesday, May 12, 2026",
-            "home_team": "Huron Heights",
-            "away_team": "Sacred Heart",
-            "time": "3:10 PM",
-            "location": "Huron Heights SS",
-            "game_played": true,
-            "final_score": "Huron Heights 0, Sacred Heart 4"
-        },
-        {
-            "date": "Tuesday, May 12, 2026",
-            "home_team": "Dr. J.M. Denison",
-            "away_team": "Huron Heights",
-            "time": "9:00 AM",
-            "location": "Huron Heights SS",
-            "game_played": true,
-            "final_score": "Dr. J.M. Denison 31, Huron Heights 0"
-        },
-        {
-            "date": "Tuesday, May 12, 2026",
-            "home_team": "St. Elizabeth",
-            "away_team": "Cardinal Carter",
-            "time": "10:05 AM",
-            "location": "Thornlea SS",
-            "game_played": true,
-            "final_score": "St. Elizabeth 0, Cardinal Carter 6"
-        },
-        {
-            "date": "Tuesday, May 12, 2026",
-            "home_team": "Thornhill SS",
-            "away_team": "Bill Crothers SS",
-            "time": "11:10 AM",
-            "location": "Thornlea SS",
-            "game_played": true,
-            "final_score": "Thornhill SS 0, Bill Crothers SS 20"
-        },
-        {
-            "date": "Tuesday, May 12, 2026",
-            "home_team": "Thornlea SS",
-            "away_team": "St. Elizabeth",
-            "time": "12:15 PM",
-            "location": "Thornlea SS",
-            "game_played": true,
-            "final_score": "Thornlea SS 2, St. Elizabeth 20"
-        },
-        {
-            "date": "Tuesday, May 12, 2026",
-            "home_team": "Cardinal Carter",
-            "away_team": "Bill Crothers SS",
-            "time": "1:10 PM",
-            "location": "Thornlea SS",
-            "game_played": true,
-            "final_score": "Cardinal Carter 0, Bill Crothers SS 7"
-        },
-        {
-            "date": "Tuesday, May 12, 2026",
-            "home_team": "Thornhill SS",
-            "away_team": "St. Elizabeth",
-            "time": "2:25 PM",
-            "location": "Thornlea SS",
-            "game_played": true,
-            "final_score": "Thornhill SS 0, St. Elizabeth 21"
-        },
-        {
-            "date": "Tuesday, May 12, 2026",
-            "home_team": "Thornlea SS",
-            "away_team": "Cardinal Carter",
-            "time": "3:30 PM",
-            "location": "Thornlea SS",
-            "game_played": true,
-            "final_score": "Thornlea SS 12, Cardinal Carter 6"
-        },
-        {
-            "date": "Tuesday, May 12, 2026",
-            "home_team": "Thornhill SS",
-            "away_team": "Thornlea SS",
-            "time": "9:00 AM",
-            "location": "Thornlea SS",
-            "game_played": true,
-            "final_score": "Thornhill SS 0, Thornlea SS 14"
-        },
-        {
             "date": "Wednesday, May 13, 2026",
             "home_team": "Unionville HS",
             "away_team": "Milliken Mills",
@@ -209,6 +92,15 @@
         },
         {
             "date": "Monday, May 18, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, May 19, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

@@ -1,33 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, May 12, 2026",
-            "home_team": "Father Bressani",
-            "away_team": "St. Katharine Drexel",
-            "time": "3:15 PM",
-            "location": "Father Bressani CHS",
-            "game_played": true,
-            "final_score": "Father Bressani 5, St. Katharine Drexel 0"
-        },
-        {
-            "date": "Tuesday, May 12, 2026",
-            "home_team": "Keswick High School",
-            "away_team": "Cardinal Carter",
-            "time": "3:15 PM",
-            "location": "Keswick HS",
-            "game_played": true,
-            "final_score": "Keswick High School 5, Cardinal Carter 0"
-        },
-        {
-            "date": "Tuesday, May 12, 2026",
-            "home_team": "St. Theresa Of Lisieux",
-            "away_team": "Holy Cross",
-            "time": "3:15 PM",
-            "location": "St Theresa Of Lisieux CHS",
-            "game_played": true,
-            "final_score": "St. Theresa Of Lisieux 0, Holy Cross 1"
-        },
-        {
             "date": "Wednesday, May 13, 2026",
             "home_team": null,
             "away_team": null,
@@ -74,6 +47,15 @@
         },
         {
             "date": "Monday, May 18, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, May 19, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
