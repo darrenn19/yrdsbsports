@@ -11,6 +11,16 @@
             "PA": "PA"
         },
         {
+            "Team": "St. Robert",
+            "W": "4",
+            "L": "0",
+            "T": "0",
+            "PTS": "8",
+            "SPTS": "69",
+            "PF": "33",
+            "PA": "11"
+        },
+        {
             "Team": "Unionville HS",
             "W": "3",
             "L": "1",
@@ -19,16 +29,6 @@
             "SPTS": "75",
             "PF": "22",
             "PA": "16"
-        },
-        {
-            "Team": "St. Robert",
-            "W": "3",
-            "L": "0",
-            "T": "0",
-            "PTS": "6",
-            "SPTS": "50",
-            "PF": "22",
-            "PA": "7"
         },
         {
             "Team": "Alexander Mackenzie",
@@ -83,12 +83,12 @@
         {
             "Team": "Langstaff SS",
             "W": "0",
-            "L": "2",
+            "L": "3",
             "T": "0",
             "PTS": "0",
-            "SPTS": "38",
-            "PF": "4",
-            "PA": "19"
+            "SPTS": "56",
+            "PF": "8",
+            "PA": "30"
         },
         {
             "Team": "East",
@@ -101,14 +101,34 @@
             "PA": "PA"
         },
         {
-            "Team": "Stouffville",
-            "W": "2",
+            "Team": "Bur Oak SS",
+            "W": "4",
             "L": "0",
             "T": "0",
+            "PTS": "8",
+            "SPTS": "63",
+            "PF": "40",
+            "PA": "13"
+        },
+        {
+            "Team": "Stouffville",
+            "W": "3",
+            "L": "1",
+            "T": "0",
+            "PTS": "6",
+            "SPTS": "60",
+            "PF": "27",
+            "PA": "10"
+        },
+        {
+            "Team": "St. Brother Andre",
+            "W": "2",
+            "L": "2",
+            "T": "0",
             "PTS": "4",
-            "SPTS": "28",
-            "PF": "14",
-            "PA": "5"
+            "SPTS": "63",
+            "PF": "20",
+            "PA": "23"
         },
         {
             "Team": "Markville",
@@ -121,54 +141,34 @@
             "PA": "17"
         },
         {
-            "Team": "St. Brother Andre",
+            "Team": "Bill Hogarth SS",
             "W": "2",
             "L": "1",
             "T": "0",
             "PTS": "4",
             "SPTS": "45",
-            "PF": "17",
-            "PA": "14"
-        },
-        {
-            "Team": "Bur Oak SS",
-            "W": "2",
-            "L": "0",
-            "T": "0",
-            "PTS": "4",
-            "SPTS": "34",
-            "PF": "22",
-            "PA": "8"
+            "PF": "16",
+            "PA": "19"
         },
         {
             "Team": "Milliken Mills",
             "W": "1",
-            "L": "2",
+            "L": "3",
             "T": "0",
             "PTS": "2",
-            "SPTS": "43",
-            "PF": "14",
-            "PA": "14"
-        },
-        {
-            "Team": "Bill Hogarth SS",
-            "W": "1",
-            "L": "1",
-            "T": "0",
-            "PTS": "2",
-            "SPTS": "30",
-            "PF": "11",
-            "PA": "15"
+            "SPTS": "61",
+            "PF": "16",
+            "PA": "23"
         },
         {
             "Team": "Middlefield",
             "W": "0",
-            "L": "2",
+            "L": "3",
             "T": "0",
             "PTS": "0",
-            "SPTS": "31",
+            "SPTS": "50",
             "PF": "5",
-            "PA": "21"
+            "PA": "30"
         },
         {
             "Team": "Father McGivney",
@@ -191,6 +191,16 @@
             "PA": "PA"
         },
         {
+            "Team": "Newmarket HS",
+            "W": "4",
+            "L": "0",
+            "T": "0",
+            "PTS": "8",
+            "SPTS": "53",
+            "PF": "38",
+            "PA": "9"
+        },
+        {
             "Team": "Dr. J.M. Denison",
             "W": "4",
             "L": "0",
@@ -211,24 +221,14 @@
             "PA": "14"
         },
         {
-            "Team": "Newmarket HS",
-            "W": "2",
-            "L": "0",
-            "T": "0",
-            "PTS": "4",
-            "SPTS": "24",
-            "PF": "20",
-            "PA": "5"
-        },
-        {
             "Team": "Sacred Heart",
-            "W": "2",
-            "L": "0",
+            "W": "3",
+            "L": "1",
             "T": "0",
-            "PTS": "4",
-            "SPTS": "29",
-            "PF": "22",
-            "PA": "3"
+            "PTS": "6",
+            "SPTS": "57",
+            "PF": "30",
+            "PA": "16"
         },
         {
             "Team": "Sir William Mulock",
@@ -242,23 +242,23 @@
         },
         {
             "Team": "Dr. G.W. Williams",
-            "W": "0",
-            "L": "2",
+            "W": "1",
+            "L": "3",
             "T": "0",
-            "PTS": "0",
-            "SPTS": "33",
-            "PF": "7",
-            "PA": "14"
+            "PTS": "2",
+            "SPTS": "74",
+            "PF": "12",
+            "PA": "21"
         },
         {
             "Team": "Huron Heights",
             "W": "0",
-            "L": "2",
+            "L": "4",
             "T": "0",
             "PTS": "0",
-            "SPTS": "35",
-            "PF": "4",
-            "PA": "19"
+            "SPTS": "61",
+            "PF": "7",
+            "PA": "29"
         },
         {
             "Team": "Innova Academy",
