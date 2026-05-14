@@ -10,6 +10,15 @@
             "final_score": "St. Theresa Of Lisieux 22, St. Maximilian 14"
         },
         {
+            "date": "Wednesday, May 13, 2026",
+            "home_team": "Huron Heights",
+            "away_team": "Stouffville",
+            "time": "4:15 PM",
+            "location": "Stephen Lewis SS",
+            "game_played": true,
+            "final_score": "Huron Heights 22, Stouffville 19"
+        },
+        {
             "date": "Thursday, May 14, 2026",
             "home_team": null,
             "away_team": null,
