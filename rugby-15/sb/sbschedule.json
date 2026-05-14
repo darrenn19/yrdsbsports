@@ -20,12 +20,12 @@
         },
         {
             "date": "Thursday, May 14, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Sir William Mulock",
+            "away_team": "Markham District",
+            "time": "3:30 PM",
+            "location": "St Maximilian Kolbe CHS",
+            "game_played": true,
+            "final_score": "Sir William Mulock 10, Markham District 32"
         },
         {
             "date": "Friday, May 15, 2026",

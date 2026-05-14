@@ -20,8 +20,8 @@
         },
         {
             "date": "Wednesday, May 13, 2026",
-            "home_team": "Newmarket HS 11 (S )",
-            "away_team": "Sacred Heart 3 (S )",
+            "home_team": "Dr. G.W. Williams 3 (S )",
+            "away_team": "Huron Heights 2 (S )",
             "time": "3:30 PM",
             "location": "Newmarket HS",
             "game_played": false,
@@ -29,8 +29,8 @@
         },
         {
             "date": "Wednesday, May 13, 2026",
-            "home_team": "Dr. G.W. Williams 3 (S )",
-            "away_team": "Huron Heights 2 (S )",
+            "home_team": "Newmarket HS 11 (S )",
+            "away_team": "Sacred Heart 3 (S )",
             "time": "3:30 PM",
             "location": "Newmarket HS",
             "game_played": false,
@@ -119,12 +119,12 @@
         },
         {
             "date": "Thursday, May 14, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Alexander Mackenzie",
+            "away_team": "St. Augustine",
+            "time": "4:30 PM",
+            "location": "Alexander Mackenzie HS",
+            "game_played": true,
+            "final_score": "Alexander Mackenzie 4, St. Augustine 4"
         },
         {
             "date": "Friday, May 15, 2026",

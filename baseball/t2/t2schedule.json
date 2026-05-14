@@ -19,6 +19,15 @@
             "final_score": "Westmount 2, St. Jean De Brebeuf CHS 15"
         },
         {
+            "date": "Thursday, May 14, 2026",
+            "home_team": "St. Elizabeth",
+            "away_team": "Hodan Nalayeh SS",
+            "time": "3:00 PM",
+            "location": "Concord Regional 1",
+            "game_played": true,
+            "final_score": "St. Elizabeth 11, Hodan Nalayeh SS 8"
+        },
+        {
             "date": "Friday, May 15, 2026",
             "home_team": null,
             "away_team": null,
