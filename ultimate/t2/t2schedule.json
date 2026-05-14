@@ -2,12 +2,66 @@
     "schedule": [
         {
             "date": "Wednesday, May 13, 2026",
+            "home_team": "Dr. G.W. Williams 3 (S )",
+            "away_team": "Huron Heights 2 (S )",
+            "time": "3:30 PM",
+            "location": "Newmarket HS",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, May 13, 2026",
+            "home_team": "Newmarket HS 11 (S )",
+            "away_team": "Sacred Heart 3 (S )",
+            "time": "3:30 PM",
+            "location": "Newmarket HS",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, May 13, 2026",
+            "home_team": "Newmarket HS 7 (S )",
+            "away_team": "Huron Heights 1 (S )",
+            "time": "4:30 PM",
+            "location": "Newmarket HS",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, May 13, 2026",
+            "home_team": "Dr. G.W. Williams",
+            "away_team": "Sacred Heart",
+            "time": "4:30 PM",
+            "location": "Newmarket HS",
+            "game_played": true,
+            "final_score": "Dr. G.W. Williams 2, Sacred Heart 5"
+        },
+        {
+            "date": "Wednesday, May 13, 2026",
             "home_team": "Milliken Mills",
             "away_team": "Markville",
             "time": "3:30 PM",
             "location": "St Brother Andre CHS",
             "game_played": true,
             "final_score": "Milliken Mills 3, Markville 4"
+        },
+        {
+            "date": "Wednesday, May 13, 2026",
+            "home_team": "St. Brother Andre",
+            "away_team": "Bur Oak SS",
+            "time": "3:30 PM",
+            "location": "St Brother Andre CHS",
+            "game_played": true,
+            "final_score": "St. Brother Andre 3, Bur Oak SS 9"
+        },
+        {
+            "date": "Wednesday, May 13, 2026",
+            "home_team": "Milliken Mills",
+            "away_team": "Bur Oak SS",
+            "time": "4:30 PM",
+            "location": "St Brother Andre CHS",
+            "game_played": true,
+            "final_score": "Milliken Mills 2, Bur Oak SS 9"
         },
         {
             "date": "Wednesday, May 13, 2026",
