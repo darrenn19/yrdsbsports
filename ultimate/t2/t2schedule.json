@@ -2,10 +2,19 @@
     "schedule": [
         {
             "date": "Wednesday, May 13, 2026",
-            "home_team": "Dr. G.W. Williams 3 (S )",
-            "away_team": "Huron Heights 2 (S )",
+            "home_team": "Middlefield",
+            "away_team": "Stouffville",
             "time": "3:30 PM",
-            "location": "Newmarket HS",
+            "location": "Middlefield CI",
+            "game_played": true,
+            "final_score": "Middlefield 0, Stouffville 9"
+        },
+        {
+            "date": "Wednesday, May 13, 2026",
+            "home_team": "Bill Hogarth SS 5 (S )",
+            "away_team": "Stouffville 4 (S )",
+            "time": "4:30 PM",
+            "location": "Middlefield CI",
             "game_played": false,
             "final_score": null
         },
@@ -13,6 +22,15 @@
             "date": "Wednesday, May 13, 2026",
             "home_team": "Newmarket HS 11 (S )",
             "away_team": "Sacred Heart 3 (S )",
+            "time": "3:30 PM",
+            "location": "Newmarket HS",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, May 13, 2026",
+            "home_team": "Dr. G.W. Williams 3 (S )",
+            "away_team": "Huron Heights 2 (S )",
             "time": "3:30 PM",
             "location": "Newmarket HS",
             "game_played": false,
@@ -80,6 +98,15 @@
             "location": "Unionville HS",
             "game_played": false,
             "final_score": null
+        },
+        {
+            "date": "Wednesday, May 13, 2026",
+            "home_team": "Langstaff SS",
+            "away_team": "St. Robert",
+            "time": "3:30 PM",
+            "location": "Unionville HS",
+            "game_played": true,
+            "final_score": "Langstaff SS 4, St. Robert 11"
         },
         {
             "date": "Wednesday, May 13, 2026",
