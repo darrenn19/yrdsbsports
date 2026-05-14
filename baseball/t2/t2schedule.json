@@ -28,6 +28,24 @@
             "final_score": "St. Elizabeth 11, Hodan Nalayeh SS 8"
         },
         {
+            "date": "Thursday, May 14, 2026",
+            "home_team": "Markville",
+            "away_team": "St. Katharine Drexel",
+            "time": "12:00 PM",
+            "location": "Milliken Mills 3",
+            "game_played": true,
+            "final_score": "Markville 12, St. Katharine Drexel 9"
+        },
+        {
+            "date": "Thursday, May 14, 2026",
+            "home_team": "Unionville HS",
+            "away_team": "Father McGivney",
+            "time": "3:00 PM",
+            "location": "Milliken Mills 3",
+            "game_played": true,
+            "final_score": "Unionville HS 12, Father McGivney 2"
+        },
+        {
             "date": "Friday, May 15, 2026",
             "home_team": null,
             "away_team": null,
