@@ -31,14 +31,24 @@
             "PA": "16"
         },
         {
+            "Team": "St. Augustine",
+            "W": "1",
+            "L": "1",
+            "T": "1",
+            "PTS": "3",
+            "SPTS": "48",
+            "PF": "13",
+            "PA": "13"
+        },
+        {
             "Team": "Alexander Mackenzie",
             "W": "1",
             "L": "1",
-            "T": "0",
-            "PTS": "2",
-            "SPTS": "39",
-            "PF": "16",
-            "PA": "10"
+            "T": "1",
+            "PTS": "3",
+            "SPTS": "55",
+            "PF": "20",
+            "PA": "14"
         },
         {
             "Team": "Richmond Hill HS",
@@ -49,16 +59,6 @@
             "SPTS": "35",
             "PF": "15",
             "PA": "10"
-        },
-        {
-            "Team": "St. Augustine",
-            "W": "1",
-            "L": "1",
-            "T": "0",
-            "PTS": "2",
-            "SPTS": "37",
-            "PF": "9",
-            "PA": "9"
         },
         {
             "Team": "Bayview SS",
@@ -281,6 +281,16 @@
             "PA": "PA"
         },
         {
+            "Team": "Stephen Lewis SS",
+            "W": "4",
+            "L": "0",
+            "T": "0",
+            "PTS": "8",
+            "SPTS": "75",
+            "PF": "26",
+            "PA": "8"
+        },
+        {
             "Team": "Toronto District Christian",
             "W": "2",
             "L": "1",
@@ -301,16 +311,6 @@
             "PA": "6"
         },
         {
-            "Team": "Stephen Lewis SS",
-            "W": "2",
-            "L": "0",
-            "T": "0",
-            "PTS": "4",
-            "SPTS": "42",
-            "PF": "13",
-            "PA": "5"
-        },
-        {
             "Team": "St. Jean De Brebeuf CHS",
             "W": "2",
             "L": "0",
@@ -323,12 +323,12 @@
         {
             "Team": "Thornhill SS",
             "W": "2",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "4",
-            "SPTS": "40",
-            "PF": "16",
-            "PA": "12"
+            "SPTS": "56",
+            "PF": "17",
+            "PA": "17"
         },
         {
             "Team": "Thornlea SS",
@@ -363,12 +363,12 @@
         {
             "Team": "Westmount",
             "W": "0",
-            "L": "2",
+            "L": "3",
             "T": "0",
             "PTS": "0",
-            "SPTS": "33",
-            "PF": "9",
-            "PA": "19"
+            "SPTS": "53",
+            "PF": "11",
+            "PA": "27"
         }
     ]
 }

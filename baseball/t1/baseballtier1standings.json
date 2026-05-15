@@ -71,6 +71,26 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Huron Heights",
+            "W": "2",
+            "L": "0",
+            "T": "0",
+            "PTS": "4",
+            "RF": "26",
+            "RA": "10",
+            "DIFF": "16"
+        },
+        {
+            "Team": "King City SS",
+            "W": "1",
+            "L": "2",
+            "T": "0",
+            "PTS": "2",
+            "RF": "17",
+            "RA": "24",
+            "DIFF": "-7"
+        },
+        {
             "Team": "Newmarket HS",
             "W": "1",
             "L": "0",
@@ -79,26 +99,6 @@
             "RF": "10",
             "RA": "2",
             "DIFF": "8"
-        },
-        {
-            "Team": "King City SS",
-            "W": "1",
-            "L": "1",
-            "T": "0",
-            "PTS": "2",
-            "RF": "8",
-            "RA": "14",
-            "DIFF": "-6"
-        },
-        {
-            "Team": "Huron Heights",
-            "W": "1",
-            "L": "0",
-            "T": "0",
-            "PTS": "2",
-            "RF": "16",
-            "RA": "1",
-            "DIFF": "15"
         },
         {
             "Team": "Sir William Mulock",

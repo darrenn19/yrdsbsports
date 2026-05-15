@@ -11,6 +11,16 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Father Bressani",
+            "W": "2",
+            "L": "0",
+            "T": "1",
+            "PTS": "7",
+            "GF": "15",
+            "GA": "0",
+            "DIFF": "10"
+        },
+        {
             "Team": "Holy Cross",
             "W": "2",
             "L": "0",
@@ -21,21 +31,11 @@
             "DIFF": "6"
         },
         {
-            "Team": "Father Bressani",
-            "W": "2",
-            "L": "0",
-            "T": "0",
-            "PTS": "6",
-            "GF": "15",
-            "GA": "0",
-            "DIFF": "10"
-        },
-        {
             "Team": "St. Theresa Of Lisieux",
             "W": "1",
             "L": "1",
-            "T": "1",
-            "PTS": "4",
+            "T": "2",
+            "PTS": "5",
             "GF": "8",
             "GA": "2",
             "DIFF": "4"
