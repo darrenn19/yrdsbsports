@@ -38,6 +38,33 @@
         },
         {
             "date": "Friday, May 15, 2026 - PLAYOFFS",
+            "home_team": "Alexander Mackenzie",
+            "away_team": "Sir William Mulock",
+            "time": "1:30 PM",
+            "location": "Alexander Mackenzie HS",
+            "game_played": true,
+            "final_score": "Alexander Mackenzie 1, Sir William Mulock 2"
+        },
+        {
+            "date": "Friday, May 15, 2026 - PLAYOFFS",
+            "home_team": "Bill Crothers SS",
+            "away_team": "Stouffville",
+            "time": "1:30 PM",
+            "location": "Bill Crothers SS",
+            "game_played": true,
+            "final_score": "Bill Crothers SS 8, Stouffville 1"
+        },
+        {
+            "date": "Friday, May 15, 2026 - PLAYOFFS",
+            "home_team": "Huron Heights",
+            "away_team": "Bill Hogarth SS",
+            "time": "1:30 PM",
+            "location": "Huron Heights SS",
+            "game_played": true,
+            "final_score": "Huron Heights 2, Bill Hogarth SS 0"
+        },
+        {
+            "date": "Friday, May 15, 2026 - PLAYOFFS",
             "home_team": "Westmount",
             "away_team": "Middlefield",
             "time": "1:30 PM",

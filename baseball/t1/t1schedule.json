@@ -11,6 +11,15 @@
         },
         {
             "date": "Friday, May 15, 2026",
+            "home_team": "Father Bressani",
+            "away_team": "St. Theresa Of Lisieux",
+            "time": "1:00 PM",
+            "location": "Richmond Green 4",
+            "game_played": true,
+            "final_score": "Father Bressani 3, St. Theresa Of Lisieux 7"
+        },
+        {
+            "date": "Friday, May 15, 2026",
             "home_team": "St. Maximilian",
             "away_team": "Aurora HS",
             "time": "10:00 AM",

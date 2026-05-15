@@ -38,21 +38,21 @@
         },
         {
             "date": "Thursday, May 14, 2026",
-            "home_team": "Stephen Lewis SS 8 (S )",
-            "away_team": "Westmount 2 (S )",
-            "time": "4:30 PM",
-            "location": "Father Bressani CHS",
-            "game_played": false,
-            "final_score": null
-        },
-        {
-            "date": "Thursday, May 14, 2026",
             "home_team": "Father Bressani",
             "away_team": "Thornhill SS",
             "time": "4:30 PM",
             "location": "Father Bressani CHS",
             "game_played": true,
             "final_score": "Father Bressani 1, Thornhill SS 8"
+        },
+        {
+            "date": "Thursday, May 14, 2026",
+            "home_team": "Stephen Lewis SS 8 (S )",
+            "away_team": "Westmount 2 (S )",
+            "time": "4:30 PM",
+            "location": "Father Bressani CHS",
+            "game_played": false,
+            "final_score": null
         },
         {
             "date": "Friday, May 15, 2026",
