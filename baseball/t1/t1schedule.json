@@ -29,6 +29,15 @@
         },
         {
             "date": "Friday, May 15, 2026",
+            "home_team": "Aurora HS",
+            "away_team": "Stouffville",
+            "time": "1:00 PM",
+            "location": "Stronach Aurora Recreation Complex",
+            "game_played": true,
+            "final_score": "Aurora HS 5, Stouffville 6"
+        },
+        {
+            "date": "Friday, May 15, 2026",
             "home_team": "Newmarket HS",
             "away_team": "Sir William Mulock",
             "time": "11:00 AM",

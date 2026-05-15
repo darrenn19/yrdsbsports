@@ -20,12 +20,12 @@
         },
         {
             "date": "Friday, May 15, 2026 - PLAYOFFS",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Woodbridge College",
+            "away_team": "Keswick High School",
+            "time": "1:00 PM",
+            "location": "Woodbridge College",
+            "game_played": true,
+            "final_score": "Woodbridge College 1, Keswick High School 2"
         },
         {
             "date": "Saturday, May 16, 2026",
