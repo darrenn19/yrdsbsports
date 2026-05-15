@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, May 13, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
-        },
-        {
             "date": "Thursday, May 14, 2026",
             "home_team": "Dr. G.W. Williams",
             "away_team": "Bill Crothers SS",
@@ -92,6 +83,15 @@
         },
         {
             "date": "Tuesday, May 19, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, May 20, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
