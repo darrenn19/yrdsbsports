@@ -29,6 +29,15 @@
         },
         {
             "date": "Thursday, May 14, 2026",
+            "home_team": "Bur Oak SS",
+            "away_team": "Bill Crothers SS",
+            "time": "2:00 PM",
+            "location": "Stouffville DSS",
+            "game_played": true,
+            "final_score": "Bur Oak SS 6, Bill Crothers SS 32"
+        },
+        {
+            "date": "Thursday, May 14, 2026",
             "home_team": "Stouffville",
             "away_team": "Dr. G.W. Williams",
             "time": "3:10 PM",
