@@ -31,6 +31,36 @@
             "PA": "16"
         },
         {
+            "Team": "Richmond Hill HS",
+            "W": "2",
+            "L": "1",
+            "T": "0",
+            "PTS": "4",
+            "SPTS": "35",
+            "PF": "21",
+            "PA": "14"
+        },
+        {
+            "Team": "Bayview SS",
+            "W": "2",
+            "L": "2",
+            "T": "0",
+            "PTS": "4",
+            "SPTS": "28",
+            "PF": "23",
+            "PA": "14"
+        },
+        {
+            "Team": "Alexander Mackenzie",
+            "W": "1",
+            "L": "2",
+            "T": "1",
+            "PTS": "3",
+            "SPTS": "69",
+            "PF": "23",
+            "PA": "19"
+        },
+        {
             "Team": "St. Augustine",
             "W": "1",
             "L": "1",
@@ -39,36 +69,6 @@
             "SPTS": "48",
             "PF": "13",
             "PA": "13"
-        },
-        {
-            "Team": "Alexander Mackenzie",
-            "W": "1",
-            "L": "1",
-            "T": "1",
-            "PTS": "3",
-            "SPTS": "55",
-            "PF": "20",
-            "PA": "14"
-        },
-        {
-            "Team": "Richmond Hill HS",
-            "W": "1",
-            "L": "1",
-            "T": "0",
-            "PTS": "2",
-            "SPTS": "35",
-            "PF": "15",
-            "PA": "10"
-        },
-        {
-            "Team": "Bayview SS",
-            "W": "1",
-            "L": "1",
-            "T": "0",
-            "PTS": "2",
-            "SPTS": "16",
-            "PF": "14",
-            "PA": "5"
         },
         {
             "Team": "Our Lady Queen Of The World",
@@ -291,6 +291,16 @@
             "PA": "8"
         },
         {
+            "Team": "Thornhill SS",
+            "W": "3",
+            "L": "1",
+            "T": "0",
+            "PTS": "6",
+            "SPTS": "79",
+            "PF": "25",
+            "PA": "18"
+        },
+        {
             "Team": "Toronto District Christian",
             "W": "2",
             "L": "1",
@@ -299,16 +309,6 @@
             "SPTS": "59",
             "PF": "26",
             "PA": "18"
-        },
-        {
-            "Team": "Maple High School",
-            "W": "2",
-            "L": "0",
-            "T": "0",
-            "PTS": "4",
-            "SPTS": "30",
-            "PF": "10",
-            "PA": "6"
         },
         {
             "Team": "St. Jean De Brebeuf CHS",
@@ -321,14 +321,14 @@
             "PA": "7"
         },
         {
-            "Team": "Thornhill SS",
+            "Team": "Maple High School",
             "W": "2",
-            "L": "1",
+            "L": "0",
             "T": "0",
             "PTS": "4",
-            "SPTS": "56",
-            "PF": "17",
-            "PA": "17"
+            "SPTS": "30",
+            "PF": "10",
+            "PA": "6"
         },
         {
             "Team": "Thornlea SS",
@@ -343,12 +343,12 @@
         {
             "Team": "Father Bressani",
             "W": "0",
-            "L": "3",
+            "L": "4",
             "T": "1",
             "PTS": "1",
-            "SPTS": "67",
-            "PF": "16",
-            "PA": "22"
+            "SPTS": "84",
+            "PF": "17",
+            "PA": "30"
         },
         {
             "Team": "St. Joan Of Arc",
