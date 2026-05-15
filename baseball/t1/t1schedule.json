@@ -11,12 +11,30 @@
         },
         {
             "date": "Friday, May 15, 2026",
+            "home_team": "St. Maximilian",
+            "away_team": "Aurora HS",
+            "time": "10:00 AM",
+            "location": "Stronach Aurora Recreation Complex",
+            "game_played": true,
+            "final_score": "St. Maximilian 10, Aurora HS 2"
+        },
+        {
+            "date": "Friday, May 15, 2026",
             "home_team": "Newmarket HS",
             "away_team": "Sir William Mulock",
             "time": "11:00 AM",
             "location": "Whipper Watson",
             "game_played": true,
             "final_score": "Newmarket HS 12, Sir William Mulock 2"
+        },
+        {
+            "date": "Friday, May 15, 2026",
+            "home_team": "King City SS",
+            "away_team": "Sir William Mulock",
+            "time": "9:00 AM",
+            "location": "Whipper Watson",
+            "game_played": true,
+            "final_score": "King City SS 8, Sir William Mulock 6"
         },
         {
             "date": "Saturday, May 16, 2026",

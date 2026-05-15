@@ -38,12 +38,12 @@
         },
         {
             "date": "Friday, May 15, 2026 - PLAYOFFS",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Westmount",
+            "away_team": "Middlefield",
+            "time": "1:30 PM",
+            "location": "Westmount CI",
+            "game_played": true,
+            "final_score": "Westmount 8, Middlefield 0"
         },
         {
             "date": "Saturday, May 16, 2026",

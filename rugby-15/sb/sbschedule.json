@@ -56,12 +56,12 @@
         },
         {
             "date": "Wednesday, May 20, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Keswick High School",
+            "away_team": "Sir William Mulock",
+            "time": "3:00 PM",
+            "location": "Keswick HS",
+            "game_played": true,
+            "final_score": "Keswick High School 20, Sir William Mulock 0"
         }
     ]
 }
