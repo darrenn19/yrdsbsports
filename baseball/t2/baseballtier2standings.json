@@ -11,6 +11,16 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Bayview SS",
+            "W": "1",
+            "L": "0",
+            "T": "0",
+            "PTS": "2",
+            "RF": "11",
+            "RA": "0",
+            "DIFF": "11"
+        },
+        {
             "Team": "Our Lady Queen Of The World",
             "W": "0",
             "L": "0",
@@ -23,25 +33,15 @@
         {
             "Team": "Thornhill SS",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
             "RF": "0",
-            "RA": "0",
-            "DIFF": "0"
+            "RA": "11",
+            "DIFF": "-11"
         },
         {
             "Team": "Thornlea SS",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "RF": "0",
-            "RA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "Bayview SS",
             "W": "0",
             "L": "0",
             "T": "0",
@@ -81,14 +81,14 @@
             "DIFF": "DIFF"
         },
         {
-            "Team": "Markville",
-            "W": "1",
+            "Team": "Bur Oak SS",
+            "W": "2",
             "L": "0",
             "T": "0",
-            "PTS": "2",
-            "RF": "12",
-            "RA": "9",
-            "DIFF": "3"
+            "PTS": "4",
+            "RF": "34",
+            "RA": "2",
+            "DIFF": "32"
         },
         {
             "Team": "St. Katharine Drexel",
@@ -101,14 +101,14 @@
             "DIFF": "10"
         },
         {
-            "Team": "Bur Oak SS",
+            "Team": "Markville",
             "W": "1",
             "L": "0",
             "T": "0",
             "PTS": "2",
-            "RF": "17",
-            "RA": "1",
-            "DIFF": "16"
+            "RF": "12",
+            "RA": "9",
+            "DIFF": "3"
         },
         {
             "Team": "Unionville HS",
@@ -123,12 +123,12 @@
         {
             "Team": "Bill Hogarth SS",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "0",
-            "RF": "1",
-            "RA": "14",
-            "DIFF": "-13"
+            "RF": "2",
+            "RA": "31",
+            "DIFF": "-29"
         },
         {
             "Team": "Father McGivney",

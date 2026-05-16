@@ -121,16 +121,6 @@
             "PA": "10"
         },
         {
-            "Team": "St. Brother Andre",
-            "W": "2",
-            "L": "2",
-            "T": "0",
-            "PTS": "4",
-            "SPTS": "63",
-            "PF": "20",
-            "PA": "23"
-        },
-        {
             "Team": "Markville",
             "W": "2",
             "L": "2",
@@ -141,14 +131,34 @@
             "PA": "17"
         },
         {
-            "Team": "Bill Hogarth SS",
+            "Team": "Father McGivney",
             "W": "2",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "4",
-            "SPTS": "45",
-            "PF": "16",
-            "PA": "19"
+            "SPTS": "61",
+            "PF": "27",
+            "PA": "22"
+        },
+        {
+            "Team": "Bill Hogarth SS",
+            "W": "2",
+            "L": "2",
+            "T": "0",
+            "PTS": "4",
+            "SPTS": "63",
+            "PF": "18",
+            "PA": "29"
+        },
+        {
+            "Team": "St. Brother Andre",
+            "W": "2",
+            "L": "2",
+            "T": "0",
+            "PTS": "4",
+            "SPTS": "63",
+            "PF": "20",
+            "PA": "23"
         },
         {
             "Team": "Milliken Mills",
@@ -163,22 +173,12 @@
         {
             "Team": "Middlefield",
             "W": "0",
-            "L": "3",
+            "L": "4",
             "T": "0",
             "PTS": "0",
-            "SPTS": "50",
-            "PF": "5",
-            "PA": "30"
-        },
-        {
-            "Team": "Father McGivney",
-            "W": "0",
-            "L": "2",
-            "T": "0",
-            "PTS": "0",
-            "SPTS": "31",
-            "PF": "9",
-            "PA": "19"
+            "SPTS": "61",
+            "PF": "6",
+            "PA": "38"
         },
         {
             "Team": "North",
