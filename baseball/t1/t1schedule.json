@@ -1,13 +1,13 @@
 {
     "schedule": [
         {
-            "date": "Thursday, May 14, 2026",
-            "home_team": "Huron Heights",
-            "away_team": "King City SS",
-            "time": "11:00 AM",
-            "location": "Whipper Watson",
+            "date": "Friday, May 15, 2026",
+            "home_team": "Holy Cross",
+            "away_team": "Father Bressani",
+            "time": "10:00 AM",
+            "location": "Richmond Green 4",
             "game_played": true,
-            "final_score": "Huron Heights 10, King City SS 9"
+            "final_score": "Holy Cross 2, Father Bressani 13"
         },
         {
             "date": "Friday, May 15, 2026",
@@ -92,6 +92,15 @@
         },
         {
             "date": "Wednesday, May 20, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, May 21, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

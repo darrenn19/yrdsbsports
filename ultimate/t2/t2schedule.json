@@ -1,60 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, May 14, 2026",
-            "home_team": "Alexander Mackenzie",
-            "away_team": "Bayview SS",
-            "time": "3:30 PM",
-            "location": "Alexander Mackenzie HS",
-            "game_played": true,
-            "final_score": "Alexander Mackenzie 3, Bayview SS 5"
-        },
-        {
-            "date": "Thursday, May 14, 2026",
-            "home_team": "Alexander Mackenzie",
-            "away_team": "St. Augustine",
-            "time": "4:30 PM",
-            "location": "Alexander Mackenzie HS",
-            "game_played": true,
-            "final_score": "Alexander Mackenzie 4, St. Augustine 4"
-        },
-        {
-            "date": "Thursday, May 14, 2026",
-            "home_team": "Richmond Hill HS 6 (S )",
-            "away_team": "Bayview SS 4 (S )",
-            "time": "4:30 PM",
-            "location": "Alexander Mackenzie HS",
-            "game_played": false,
-            "final_score": null
-        },
-        {
-            "date": "Thursday, May 14, 2026",
-            "home_team": "Stephen Lewis SS 5 (S )",
-            "away_team": "Thornhill SS 1 (S )",
-            "time": "3:30 PM",
-            "location": "Father Bressani CHS",
-            "game_played": false,
-            "final_score": null
-        },
-        {
-            "date": "Thursday, May 14, 2026",
-            "home_team": "Stephen Lewis SS 8 (S )",
-            "away_team": "Westmount 2 (S )",
-            "time": "4:30 PM",
-            "location": "Father Bressani CHS",
-            "game_played": false,
-            "final_score": null
-        },
-        {
-            "date": "Thursday, May 14, 2026",
-            "home_team": "Father Bressani",
-            "away_team": "Thornhill SS",
-            "time": "4:30 PM",
-            "location": "Father Bressani CHS",
-            "game_played": true,
-            "final_score": "Father Bressani 1, Thornhill SS 8"
-        },
-        {
             "date": "Friday, May 15, 2026",
             "home_team": null,
             "away_team": null,
@@ -101,6 +47,15 @@
         },
         {
             "date": "Wednesday, May 20, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, May 21, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

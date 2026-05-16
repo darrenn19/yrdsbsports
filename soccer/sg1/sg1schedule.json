@@ -1,42 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, May 14, 2026 - PLAYOFFS",
-            "home_team": "Cardinal Carter",
-            "away_team": "Thornlea SS",
-            "time": "3:15 PM",
-            "location": "Cardinal Carter CHS",
-            "game_played": true,
-            "final_score": "Cardinal Carter 5, Thornlea SS 0"
-        },
-        {
-            "date": "Thursday, May 14, 2026 - PLAYOFFS",
-            "home_team": "Markham District",
-            "away_team": "Hodan Nalayeh SS",
-            "time": "3:15 PM",
-            "location": "Markham DHS",
-            "game_played": true,
-            "final_score": "Markham District 2, Hodan Nalayeh SS 3"
-        },
-        {
-            "date": "Thursday, May 14, 2026 - PLAYOFFS",
-            "home_team": "Our Lady Queen Of The World",
-            "away_team": "Newmarket HS",
-            "time": "3:15 PM",
-            "location": "Our Lady Queen Of The World",
-            "game_played": true,
-            "final_score": "Our Lady Queen Of The World 5, Newmarket HS 0"
-        },
-        {
-            "date": "Thursday, May 14, 2026 - PLAYOFFS",
-            "home_team": "St. Augustine",
-            "away_team": "Richmond Green SS",
-            "time": "3:15 PM",
-            "location": "St Augustine CHS",
-            "game_played": true,
-            "final_score": "St. Augustine 5, Richmond Green SS 0"
-        },
-        {
             "date": "Friday, May 15, 2026 - PLAYOFFS",
             "home_team": "Alexander Mackenzie",
             "away_team": "Sir William Mulock",
@@ -110,6 +74,15 @@
         },
         {
             "date": "Wednesday, May 20, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, May 21, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

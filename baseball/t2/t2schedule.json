@@ -1,42 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, May 14, 2026",
-            "home_team": "Westmount",
-            "away_team": "St. Jean De Brebeuf CHS",
-            "time": "12:00 PM",
-            "location": "Concord Regional 1",
-            "game_played": true,
-            "final_score": "Westmount 2, St. Jean De Brebeuf CHS 15"
-        },
-        {
-            "date": "Thursday, May 14, 2026",
-            "home_team": "St. Elizabeth",
-            "away_team": "Hodan Nalayeh SS",
-            "time": "3:00 PM",
-            "location": "Concord Regional 1",
-            "game_played": true,
-            "final_score": "St. Elizabeth 11, Hodan Nalayeh SS 8"
-        },
-        {
-            "date": "Thursday, May 14, 2026",
-            "home_team": "Markville",
-            "away_team": "St. Katharine Drexel",
-            "time": "12:00 PM",
-            "location": "Milliken Mills 3",
-            "game_played": true,
-            "final_score": "Markville 12, St. Katharine Drexel 9"
-        },
-        {
-            "date": "Thursday, May 14, 2026",
-            "home_team": "Unionville HS",
-            "away_team": "Father McGivney",
-            "time": "3:00 PM",
-            "location": "Milliken Mills 3",
-            "game_played": true,
-            "final_score": "Unionville HS 12, Father McGivney 2"
-        },
-        {
             "date": "Friday, May 15, 2026",
             "home_team": "Bill Hogarth SS",
             "away_team": "Bur Oak SS",
@@ -92,6 +56,15 @@
         },
         {
             "date": "Wednesday, May 20, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, May 21, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
