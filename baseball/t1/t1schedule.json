@@ -1,60 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Friday, May 15, 2026",
-            "home_team": "Holy Cross",
-            "away_team": "Father Bressani",
-            "time": "10:00 AM",
-            "location": "Richmond Green 4",
-            "game_played": true,
-            "final_score": "Holy Cross 2, Father Bressani 13"
-        },
-        {
-            "date": "Friday, May 15, 2026",
-            "home_team": "Father Bressani",
-            "away_team": "St. Theresa Of Lisieux",
-            "time": "1:00 PM",
-            "location": "Richmond Green 4",
-            "game_played": true,
-            "final_score": "Father Bressani 3, St. Theresa Of Lisieux 7"
-        },
-        {
-            "date": "Friday, May 15, 2026",
-            "home_team": "St. Maximilian",
-            "away_team": "Aurora HS",
-            "time": "10:00 AM",
-            "location": "Stronach Aurora Recreation Complex",
-            "game_played": true,
-            "final_score": "St. Maximilian 10, Aurora HS 2"
-        },
-        {
-            "date": "Friday, May 15, 2026",
-            "home_team": "Aurora HS",
-            "away_team": "Stouffville",
-            "time": "1:00 PM",
-            "location": "Stronach Aurora Recreation Complex",
-            "game_played": true,
-            "final_score": "Aurora HS 5, Stouffville 6"
-        },
-        {
-            "date": "Friday, May 15, 2026",
-            "home_team": "Newmarket HS",
-            "away_team": "Sir William Mulock",
-            "time": "11:00 AM",
-            "location": "Whipper Watson",
-            "game_played": true,
-            "final_score": "Newmarket HS 12, Sir William Mulock 2"
-        },
-        {
-            "date": "Friday, May 15, 2026",
-            "home_team": "King City SS",
-            "away_team": "Sir William Mulock",
-            "time": "9:00 AM",
-            "location": "Whipper Watson",
-            "game_played": true,
-            "final_score": "King City SS 8, Sir William Mulock 6"
-        },
-        {
             "date": "Saturday, May 16, 2026",
             "home_team": null,
             "away_team": null,
@@ -101,6 +47,15 @@
         },
         {
             "date": "Thursday, May 21, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Friday, May 22, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

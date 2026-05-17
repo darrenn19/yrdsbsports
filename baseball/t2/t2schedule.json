@@ -1,24 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Friday, May 15, 2026",
-            "home_team": "Bill Hogarth SS",
-            "away_team": "Bur Oak SS",
-            "time": "12:00 PM",
-            "location": "Cornell Community Park",
-            "game_played": true,
-            "final_score": "Bill Hogarth SS 1, Bur Oak SS 17"
-        },
-        {
-            "date": "Friday, May 15, 2026",
-            "home_team": "Thornhill SS",
-            "away_team": "Bayview SS",
-            "time": "2:00 PM",
-            "location": "David Hamilton Park",
-            "game_played": true,
-            "final_score": "Thornhill SS 0, Bayview SS 11"
-        },
-        {
             "date": "Saturday, May 16, 2026",
             "home_team": null,
             "away_team": null,
@@ -65,6 +47,15 @@
         },
         {
             "date": "Thursday, May 21, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Friday, May 22, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
