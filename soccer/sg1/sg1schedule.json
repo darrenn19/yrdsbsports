@@ -29,12 +29,12 @@
         },
         {
             "date": "Tuesday, May 19, 2026 - PLAYOFFS",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Sacred Heart",
+            "away_team": "Westmount",
+            "time": "3:15 PM",
+            "location": "Sacred Heart CHS",
+            "game_played": true,
+            "final_score": "Sacred Heart 5, Westmount 0"
         },
         {
             "date": "Wednesday, May 20, 2026",
