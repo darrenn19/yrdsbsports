@@ -38,6 +38,15 @@
         },
         {
             "date": "Tuesday, May 19, 2026",
+            "home_team": "Aurora HS",
+            "away_team": "St. Maximilian",
+            "time": "3:10 PM",
+            "location": "Aurora HS",
+            "game_played": true,
+            "final_score": "Aurora HS 0, St. Maximilian 20"
+        },
+        {
+            "date": "Tuesday, May 19, 2026",
             "home_team": "Dr. G.W. Williams",
             "away_team": "Aurora HS",
             "time": "9:00 AM",
@@ -83,12 +92,30 @@
         },
         {
             "date": "Tuesday, May 19, 2026",
+            "home_team": "Bayview SS",
+            "away_team": "Richmond Green SS",
+            "time": "3:10 PM",
+            "location": "Bayview SS",
+            "game_played": true,
+            "final_score": "Bayview SS 21, Richmond Green SS 12"
+        },
+        {
+            "date": "Tuesday, May 19, 2026",
             "home_team": "Richmond Hill HS",
             "away_team": "Bayview SS",
             "time": "9:00 AM",
             "location": "Bayview SS",
             "game_played": true,
             "final_score": "Richmond Hill HS 0, Bayview SS 7"
+        },
+        {
+            "date": "Tuesday, May 19, 2026",
+            "home_team": "Bill Crothers SS",
+            "away_team": "Thornhill SS",
+            "time": "3:30 PM",
+            "location": "Bill Crothers SS",
+            "game_played": true,
+            "final_score": "Bill Crothers SS 21, Thornhill SS 0"
         },
         {
             "date": "Wednesday, May 20, 2026",

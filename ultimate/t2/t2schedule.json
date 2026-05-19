@@ -11,12 +11,30 @@
         },
         {
             "date": "Tuesday, May 19, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Huron Heights",
+            "away_team": "Sacred Heart",
+            "time": "3:30 PM",
+            "location": "Huron Heights SS",
+            "game_played": true,
+            "final_score": "Huron Heights 2, Sacred Heart 6"
+        },
+        {
+            "date": "Tuesday, May 19, 2026",
+            "home_team": "Richmond Hill HS",
+            "away_team": "Unionville HS",
+            "time": "3:30 PM",
+            "location": "Richmond Hill HS",
+            "game_played": true,
+            "final_score": "Richmond Hill HS 4, Unionville HS 4"
+        },
+        {
+            "date": "Tuesday, May 19, 2026",
+            "home_team": "Richmond Hill HS",
+            "away_team": "Alexander Mackenzie",
+            "time": "4:30 PM",
+            "location": "Richmond Hill HS",
+            "game_played": true,
+            "final_score": "Richmond Hill HS 4, Alexander Mackenzie 7"
         },
         {
             "date": "Wednesday, May 20, 2026",

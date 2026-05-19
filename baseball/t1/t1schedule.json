@@ -29,6 +29,15 @@
         },
         {
             "date": "Tuesday, May 19, 2026",
+            "home_team": "Markham District",
+            "away_team": "Aurora HS",
+            "time": "3:00 PM",
+            "location": "Milliken Mills Park 3",
+            "game_played": true,
+            "final_score": "Markham District 12, Aurora HS 2"
+        },
+        {
+            "date": "Tuesday, May 19, 2026",
             "home_team": "St. Joan Of Arc",
             "away_team": "St. Theresa Of Lisieux",
             "time": "12:00 PM",

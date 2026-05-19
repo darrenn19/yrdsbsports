@@ -19,6 +19,15 @@
             "final_score": "Bayview SS 10, Maple High School 0"
         },
         {
+            "date": "Tuesday, May 19, 2026",
+            "home_team": "Bur Oak SS",
+            "away_team": "Unionville HS",
+            "time": "3:00 PM",
+            "location": "Cornell Community Park",
+            "game_played": true,
+            "final_score": "Bur Oak SS 17, Unionville HS 0"
+        },
+        {
             "date": "Wednesday, May 20, 2026",
             "home_team": null,
             "away_team": null,
