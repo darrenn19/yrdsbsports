@@ -29,12 +29,48 @@
         },
         {
             "date": "Tuesday, May 19, 2026",
+            "home_team": "Alexander Mackenzie 6 (S )",
+            "away_team": "Langstaff SS 4 (S )",
+            "time": "3:30 PM",
+            "location": "Richmond Hill HS",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, May 19, 2026",
             "home_team": "Richmond Hill HS",
             "away_team": "Alexander Mackenzie",
             "time": "4:30 PM",
             "location": "Richmond Hill HS",
             "game_played": true,
             "final_score": "Richmond Hill HS 4, Alexander Mackenzie 7"
+        },
+        {
+            "date": "Tuesday, May 19, 2026",
+            "home_team": "St. Augustine",
+            "away_team": "Bayview SS",
+            "time": "3:30 PM",
+            "location": "St Augustine CHS",
+            "game_played": true,
+            "final_score": "St. Augustine 5, Bayview SS 5"
+        },
+        {
+            "date": "Tuesday, May 19, 2026",
+            "home_team": "Our Lady Queen Of The World",
+            "away_team": "St. Robert",
+            "time": "3:30 PM",
+            "location": "St Augustine CHS",
+            "game_played": true,
+            "final_score": "Our Lady Queen Of The World 2, St. Robert 7"
+        },
+        {
+            "date": "Tuesday, May 19, 2026",
+            "home_team": "St. Augustine 9 (S )",
+            "away_team": "Our Lady Queen Of The World 2 (S )",
+            "time": "4:30 PM",
+            "location": "St Augustine CHS",
+            "game_played": false,
+            "final_score": null
         },
         {
             "date": "Wednesday, May 20, 2026",

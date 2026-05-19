@@ -28,6 +28,15 @@
             "final_score": "Bur Oak SS 17, Unionville HS 0"
         },
         {
+            "date": "Tuesday, May 19, 2026",
+            "home_team": "Our Lady Queen Of The World",
+            "away_team": "Alexander Mackenzie",
+            "time": "3:00 PM",
+            "location": "Richmond Green 4",
+            "game_played": true,
+            "final_score": "Our Lady Queen Of The World 7, Alexander Mackenzie 0"
+        },
+        {
             "date": "Wednesday, May 20, 2026",
             "home_team": null,
             "away_team": null,

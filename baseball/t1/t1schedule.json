@@ -11,6 +11,24 @@
         },
         {
             "date": "Tuesday, May 19, 2026",
+            "home_team": "St. Augustine",
+            "away_team": "Holy Cross",
+            "time": "12:00 PM",
+            "location": "Concord Regional 2",
+            "game_played": true,
+            "final_score": "St. Augustine 9, Holy Cross 5"
+        },
+        {
+            "date": "Tuesday, May 19, 2026",
+            "home_team": "Father Bressani",
+            "away_team": "St. Augustine",
+            "time": "3:00 PM",
+            "location": "Concord Regional 2",
+            "game_played": true,
+            "final_score": "Father Bressani 5, St. Augustine 4"
+        },
+        {
+            "date": "Tuesday, May 19, 2026",
             "home_team": "Sir William Mulock",
             "away_team": "Sacred Heart",
             "time": "11:00 AM",
