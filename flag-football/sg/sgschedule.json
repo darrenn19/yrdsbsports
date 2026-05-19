@@ -11,12 +11,39 @@
         },
         {
             "date": "Tuesday, May 19, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "St. Maximilian",
+            "away_team": "Sir William Mulock",
+            "time": "10:10 AM",
+            "location": "Aurora HS",
+            "game_played": true,
+            "final_score": "St. Maximilian 14, Sir William Mulock 6"
+        },
+        {
+            "date": "Tuesday, May 19, 2026",
+            "home_team": "Dr. G.W. Williams",
+            "away_team": "St. Maximilian",
+            "time": "11:30 AM",
+            "location": "Aurora HS",
+            "game_played": true,
+            "final_score": "Dr. G.W. Williams 6, St. Maximilian 6"
+        },
+        {
+            "date": "Tuesday, May 19, 2026",
+            "home_team": "Dr. G.W. Williams",
+            "away_team": "Aurora HS",
+            "time": "9:00 AM",
+            "location": "Aurora HS",
+            "game_played": true,
+            "final_score": "Dr. G.W. Williams 14, Aurora HS 0"
+        },
+        {
+            "date": "Tuesday, May 19, 2026",
+            "home_team": "Richmond Hill HS",
+            "away_team": "Bayview SS",
+            "time": "9:00 AM",
+            "location": "Bayview SS",
+            "game_played": true,
+            "final_score": "Richmond Hill HS 0, Bayview SS 7"
         },
         {
             "date": "Wednesday, May 20, 2026",
