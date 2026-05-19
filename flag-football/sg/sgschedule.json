@@ -30,6 +30,15 @@
         {
             "date": "Tuesday, May 19, 2026",
             "home_team": "Dr. G.W. Williams",
+            "away_team": "Sir William Mulock",
+            "time": "2:00 PM",
+            "location": "Aurora HS",
+            "game_played": true,
+            "final_score": "Dr. G.W. Williams 19, Sir William Mulock 13"
+        },
+        {
+            "date": "Tuesday, May 19, 2026",
+            "home_team": "Dr. G.W. Williams",
             "away_team": "Aurora HS",
             "time": "9:00 AM",
             "location": "Aurora HS",
@@ -62,6 +71,15 @@
             "location": "Bayview SS",
             "game_played": true,
             "final_score": "Bayview SS 25, Langstaff SS 0"
+        },
+        {
+            "date": "Tuesday, May 19, 2026",
+            "home_team": "Richmond Hill HS",
+            "away_team": "Langstaff SS",
+            "time": "2:00 PM",
+            "location": "Bayview SS",
+            "game_played": true,
+            "final_score": "Richmond Hill HS 20, Langstaff SS 6"
         },
         {
             "date": "Tuesday, May 19, 2026",

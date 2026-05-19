@@ -56,6 +56,15 @@
         },
         {
             "date": "Tuesday, May 19, 2026 - PLAYOFFS",
+            "home_team": "St. Maximilian",
+            "away_team": "Hodan Nalayeh SS",
+            "time": "2:00 PM",
+            "location": "St Maximilian Kolbe CHS",
+            "game_played": true,
+            "final_score": "St. Maximilian 8, Hodan Nalayeh SS 1"
+        },
+        {
+            "date": "Tuesday, May 19, 2026 - PLAYOFFS",
             "home_team": "Holy Cross",
             "away_team": "Huron Heights",
             "time": "3:45 PM",
