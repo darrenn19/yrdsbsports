@@ -19,6 +19,24 @@
             "final_score": "Bill Crothers SS 3, Sutton District 4"
         },
         {
+            "date": "Wednesday, May 20, 2026 - PLAYOFFS",
+            "home_team": "Keswick High School",
+            "away_team": "Aurora HS",
+            "time": "12:30 PM",
+            "location": "Keswick HS",
+            "game_played": true,
+            "final_score": "Keswick High School 5, Aurora HS 0"
+        },
+        {
+            "date": "Wednesday, May 20, 2026 - PLAYOFFS",
+            "home_team": "Aurora HS",
+            "away_team": "Sir William Mulock",
+            "time": "9:00 AM",
+            "location": "Keswick HS",
+            "game_played": true,
+            "final_score": "Aurora HS 5, Sir William Mulock 3"
+        },
+        {
             "date": "Thursday, May 21, 2026",
             "home_team": null,
             "away_team": null,
@@ -55,7 +73,7 @@
             "final_score": null
         },
         {
-            "date": "Monday, May 25, 2026",
+            "date": "Monday, May 25, 2026 - PLAYOFFS",
             "home_team": null,
             "away_team": null,
             "time": null,

@@ -55,6 +55,15 @@
             "final_score": "Hodan Nalayeh SS 7, Stephen Lewis SS 11"
         },
         {
+            "date": "Wednesday, May 20, 2026",
+            "home_team": "St. Elizabeth",
+            "away_team": "Westmount",
+            "time": "3:00 PM",
+            "location": "Concord Regional 1",
+            "game_played": true,
+            "final_score": "St. Elizabeth 12, Westmount 4"
+        },
+        {
             "date": "Thursday, May 21, 2026",
             "home_team": null,
             "away_team": null,

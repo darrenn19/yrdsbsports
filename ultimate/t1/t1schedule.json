@@ -47,12 +47,12 @@
         },
         {
             "date": "Wednesday, May 20, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "St. Theresa Of Lisieux",
+            "away_team": "Thornlea SS",
+            "time": "3:15 PM",
+            "location": "St Theresa Of Lisieux CHS",
+            "game_played": true,
+            "final_score": "St. Theresa Of Lisieux 7, Thornlea SS 9"
         },
         {
             "date": "Thursday, May 21, 2026",
