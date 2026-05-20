@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, May 18, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
-        },
-        {
             "date": "Tuesday, May 19, 2026",
             "home_team": "St. Augustine",
             "away_team": "Holy Cross",
@@ -119,6 +110,15 @@
         },
         {
             "date": "Sunday, May 24, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, May 25, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

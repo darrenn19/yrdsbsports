@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, May 18, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
-        },
-        {
             "date": "Tuesday, May 19, 2026",
             "home_team": "St. Katharine Drexel",
             "away_team": "Cardinal Carter",
@@ -71,6 +62,15 @@
             "location": null,
             "game_played": false,
             "final_score": null
+        },
+        {
+            "date": "Monday, May 25, 2026",
+            "home_team": "St. Katharine Drexel",
+            "away_team": "Keswick High School",
+            "time": "3:15 PM",
+            "location": "Stouffville Arena",
+            "game_played": true,
+            "final_score": "St. Katharine Drexel 5, Keswick High School 0"
         }
     ]
 }

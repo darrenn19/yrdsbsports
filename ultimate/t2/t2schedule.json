@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, May 18, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
-        },
-        {
             "date": "Tuesday, May 19, 2026",
             "home_team": "Huron Heights",
             "away_team": "Sacred Heart",
@@ -17,6 +8,33 @@
             "location": "Huron Heights SS",
             "game_played": true,
             "final_score": "Huron Heights 2, Sacred Heart 6"
+        },
+        {
+            "date": "Tuesday, May 19, 2026",
+            "home_team": "Keswick High School",
+            "away_team": "Sacred Heart",
+            "time": "4:30 PM",
+            "location": "Huron Heights SS",
+            "game_played": true,
+            "final_score": "Keswick High School 4, Sacred Heart 5"
+        },
+        {
+            "date": "Tuesday, May 19, 2026",
+            "home_team": "St. Brother Andre 10 (S )",
+            "away_team": "Milliken Mills 4 (S )",
+            "time": "3:30 PM",
+            "location": "Middlefield CI",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, May 19, 2026",
+            "home_team": "Middlefield",
+            "away_team": "St. Brother Andre",
+            "time": "4:30 PM",
+            "location": "Middlefield CI",
+            "game_played": true,
+            "final_score": "Middlefield 2, St. Brother Andre 8"
         },
         {
             "date": "Tuesday, May 19, 2026",
@@ -83,6 +101,24 @@
         },
         {
             "date": "Tuesday, May 19, 2026",
+            "home_team": "St. Jean De Brebeuf CHS 6 (S )",
+            "away_team": "Westmount 4 (S )",
+            "time": "3:00 PM",
+            "location": "St Jean De Brebeuf CHS",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, May 19, 2026",
+            "home_team": "St. Jean De Brebeuf CHS",
+            "away_team": "Father Bressani",
+            "time": "4:00 PM",
+            "location": "St Jean De Brebeuf CHS",
+            "game_played": true,
+            "final_score": "St. Jean De Brebeuf CHS 2, Father Bressani 3"
+        },
+        {
+            "date": "Tuesday, May 19, 2026",
             "home_team": "Father McGivney",
             "away_team": "Markville",
             "time": "3:45 PM",
@@ -137,6 +173,15 @@
         },
         {
             "date": "Sunday, May 24, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, May 25, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

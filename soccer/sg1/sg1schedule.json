@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, May 18, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
-        },
-        {
             "date": "Tuesday, May 19, 2026 - PLAYOFFS",
             "home_team": "St. Theresa Of Lisieux",
             "away_team": "Bill Crothers SS",
@@ -51,8 +42,8 @@
             "away_team": "Cardinal Carter",
             "time": "3:15 PM",
             "location": "St Elizabeth CHS",
-            "game_played": false,
-            "final_score": null
+            "game_played": true,
+            "final_score": "St. Elizabeth 8, Cardinal Carter 2"
         },
         {
             "date": "Tuesday, May 19, 2026 - PLAYOFFS",
@@ -119,6 +110,15 @@
         },
         {
             "date": "Sunday, May 24, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, May 25, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
