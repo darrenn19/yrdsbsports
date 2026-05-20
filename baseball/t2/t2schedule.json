@@ -37,6 +37,15 @@
             "final_score": "Our Lady Queen Of The World 7, Alexander Mackenzie 0"
         },
         {
+            "date": "Tuesday, May 19, 2026",
+            "home_team": "Dr. J.M. Denison",
+            "away_team": "Dr. G.W. Williams",
+            "time": "3:00 PM",
+            "location": "Stronach Aurora Recreation Complex",
+            "game_played": true,
+            "final_score": "Dr. J.M. Denison 3, Dr. G.W. Williams 9"
+        },
+        {
             "date": "Wednesday, May 20, 2026",
             "home_team": null,
             "away_team": null,
