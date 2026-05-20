@@ -11,12 +11,21 @@
         },
         {
             "date": "Wednesday, May 20, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Thornlea SS",
+            "away_team": "Woodbridge College",
+            "time": "10:10 AM",
+            "location": "Huron Heights SS",
+            "game_played": true,
+            "final_score": "Thornlea SS 12, Woodbridge College 31"
+        },
+        {
+            "date": "Wednesday, May 20, 2026",
+            "home_team": "Aurora HS",
+            "away_team": "Huron Heights",
+            "time": "9:00 AM",
+            "location": "Huron Heights SS",
+            "game_played": true,
+            "final_score": "Aurora HS 12, Huron Heights 24"
         },
         {
             "date": "Thursday, May 21, 2026",

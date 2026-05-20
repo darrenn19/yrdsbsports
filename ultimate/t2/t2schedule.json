@@ -146,6 +146,15 @@
         },
         {
             "date": "Tuesday, May 19, 2026",
+            "home_team": "Father Bressani 3 (S )",
+            "away_team": "St. Joan Of Arc 2 (S )",
+            "time": "3:00 PM",
+            "location": "St Jean De Brebeuf CHS",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, May 19, 2026",
             "home_team": "St. Jean De Brebeuf CHS",
             "away_team": "Father Bressani",
             "time": "4:00 PM",
