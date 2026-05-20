@@ -2,6 +2,15 @@
     "schedule": [
         {
             "date": "Tuesday, May 19, 2026",
+            "home_team": "St. Robert",
+            "away_team": "St. Jean De Brebeuf CHS",
+            "time": "12:00 PM",
+            "location": "Concord Regional 1",
+            "game_played": true,
+            "final_score": "St. Robert 3, St. Jean De Brebeuf CHS 16"
+        },
+        {
+            "date": "Tuesday, May 19, 2026",
             "home_team": "Bayview SS",
             "away_team": "Maple High School",
             "time": "3:00 PM",
@@ -38,12 +47,12 @@
         },
         {
             "date": "Wednesday, May 20, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Hodan Nalayeh SS",
+            "away_team": "Stephen Lewis SS",
+            "time": "12:00 PM",
+            "location": "Concord Regional 1",
+            "game_played": true,
+            "final_score": "Hodan Nalayeh SS 7, Stephen Lewis SS 11"
         },
         {
             "date": "Thursday, May 21, 2026",

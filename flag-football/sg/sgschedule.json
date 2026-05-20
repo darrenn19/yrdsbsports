@@ -127,6 +127,33 @@
             "final_score": "Father McGivney 0, Markville 28"
         },
         {
+            "date": "Wednesday, May 20, 2026",
+            "home_team": "Bill Hogarth SS",
+            "away_team": "Father McGivney",
+            "time": "11:30 AM",
+            "location": "Stouffville DSS",
+            "game_played": true,
+            "final_score": "Bill Hogarth SS 6, Father McGivney 0"
+        },
+        {
+            "date": "Wednesday, May 20, 2026",
+            "home_team": "Stouffville",
+            "away_team": "Markville",
+            "time": "12:40 PM",
+            "location": "Stouffville DSS",
+            "game_played": true,
+            "final_score": "Stouffville 13, Markville 13"
+        },
+        {
+            "date": "Wednesday, May 20, 2026",
+            "home_team": "Bill Hogarth SS",
+            "away_team": "Stouffville",
+            "time": "9:00 AM",
+            "location": "Stouffville DSS",
+            "game_played": true,
+            "final_score": "Bill Hogarth SS 0, Stouffville 8"
+        },
+        {
             "date": "Thursday, May 21, 2026",
             "home_team": null,
             "away_team": null,
