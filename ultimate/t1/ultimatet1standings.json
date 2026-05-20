@@ -41,6 +41,16 @@
             "PA": "17"
         },
         {
+            "Team": "Bill Hogarth SS",
+            "W": "1",
+            "L": "2",
+            "T": "0",
+            "PTS": "2",
+            "SPTS": "49",
+            "PF": "20",
+            "PA": "18"
+        },
+        {
             "Team": "Markham District",
             "W": "0",
             "L": "2",
@@ -51,24 +61,14 @@
             "PA": "21"
         },
         {
-            "Team": "Bill Hogarth SS",
-            "W": "0",
-            "L": "2",
-            "T": "0",
-            "PTS": "0",
-            "SPTS": "31",
-            "PF": "12",
-            "PA": "15"
-        },
-        {
             "Team": "Pierre Elliott Trudeau",
             "W": "0",
-            "L": "2",
+            "L": "3",
             "T": "0",
             "PTS": "0",
-            "SPTS": "36",
-            "PF": "9",
-            "PA": "27"
+            "SPTS": "52",
+            "PF": "12",
+            "PA": "35"
         },
         {
             "Team": "North",
@@ -82,13 +82,13 @@
         },
         {
             "Team": "Cardinal Carter",
-            "W": "2",
+            "W": "3",
             "L": "0",
             "T": "0",
-            "PTS": "4",
-            "SPTS": "22",
-            "PF": "23",
-            "PA": "17"
+            "PTS": "6",
+            "SPTS": "38",
+            "PF": "33",
+            "PA": "23"
         },
         {
             "Team": "Bill Crothers SS",
@@ -113,12 +113,12 @@
         {
             "Team": "St. Maximilian",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "0",
-            "SPTS": "20",
-            "PF": "7",
-            "PA": "15"
+            "SPTS": "36",
+            "PF": "13",
+            "PA": "25"
         },
         {
             "Team": "Richmond Green SS",
@@ -181,6 +181,16 @@
             "PA": "15"
         },
         {
+            "Team": "Hodan Nalayeh SS",
+            "W": "1",
+            "L": "1",
+            "T": "0",
+            "PTS": "2",
+            "SPTS": "40",
+            "PF": "14",
+            "PA": "16"
+        },
+        {
             "Team": "Holy Cross",
             "W": "0",
             "L": "1",
@@ -191,24 +201,14 @@
             "PA": "15"
         },
         {
-            "Team": "Hodan Nalayeh SS",
-            "W": "0",
-            "L": "1",
-            "T": "0",
-            "PTS": "0",
-            "SPTS": "22",
-            "PF": "7",
-            "PA": "10"
-        },
-        {
             "Team": "St. Theresa Of Lisieux",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "0",
-            "SPTS": "16",
-            "PF": "9",
-            "PA": "10"
+            "SPTS": "34",
+            "PF": "15",
+            "PA": "17"
         }
     ]
 }

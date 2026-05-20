@@ -31,6 +31,16 @@
             "DIFF": "11"
         },
         {
+            "Team": "Father Bressani",
+            "W": "2",
+            "L": "1",
+            "T": "0",
+            "PTS": "4",
+            "RF": "23",
+            "RA": "15",
+            "DIFF": "8"
+        },
+        {
             "Team": "Sir William Mulock",
             "W": "2",
             "L": "2",
@@ -51,24 +61,14 @@
             "DIFF": "-13"
         },
         {
-            "Team": "Father Bressani",
-            "W": "1",
-            "L": "1",
-            "T": "0",
-            "PTS": "2",
-            "RF": "13",
-            "RA": "10",
-            "DIFF": "3"
-        },
-        {
             "Team": "St. Theresa Of Lisieux",
             "W": "0",
-            "L": "2",
+            "L": "3",
             "T": "0",
             "PTS": "0",
-            "RF": "8",
-            "RA": "20",
-            "DIFF": "-12"
+            "RF": "13",
+            "RA": "30",
+            "DIFF": "-17"
         }
     ]
 }
