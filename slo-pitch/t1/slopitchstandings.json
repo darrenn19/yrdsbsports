@@ -21,44 +21,44 @@
             "DIFF": "7"
         },
         {
-            "Team": "Holy Cross",
-            "W": "1",
-            "L": "1",
-            "T": "1",
-            "PTS": "3",
-            "RF": "20",
-            "RA": "22",
-            "DIFF": "-2"
-        },
-        {
             "Team": "St. Jean De Brebeuf CHS",
-            "W": "1",
+            "W": "2",
             "L": "1",
             "T": "0",
-            "PTS": "2",
-            "RF": "12",
-            "RA": "12",
-            "DIFF": "0"
+            "PTS": "4",
+            "RF": "25",
+            "RA": "14",
+            "DIFF": "11"
+        },
+        {
+            "Team": "Sir William Mulock",
+            "W": "2",
+            "L": "2",
+            "T": "0",
+            "PTS": "4",
+            "RF": "24",
+            "RA": "20",
+            "DIFF": "4"
+        },
+        {
+            "Team": "Holy Cross",
+            "W": "1",
+            "L": "2",
+            "T": "1",
+            "PTS": "3",
+            "RF": "22",
+            "RA": "35",
+            "DIFF": "-13"
         },
         {
             "Team": "Father Bressani",
             "W": "1",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "2",
-            "RF": "10",
-            "RA": "3",
-            "DIFF": "7"
-        },
-        {
-            "Team": "Sir William Mulock",
-            "W": "1",
-            "L": "2",
-            "T": "0",
-            "PTS": "2",
-            "RF": "17",
-            "RA": "17",
-            "DIFF": "0"
+            "RF": "13",
+            "RA": "10",
+            "DIFF": "3"
         },
         {
             "Team": "St. Theresa Of Lisieux",

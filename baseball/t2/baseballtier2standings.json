@@ -12,23 +12,33 @@
         },
         {
             "Team": "Bayview SS",
+            "W": "2",
+            "L": "0",
+            "T": "0",
+            "PTS": "4",
+            "RF": "21",
+            "RA": "0",
+            "DIFF": "21"
+        },
+        {
+            "Team": "Thornlea SS",
             "W": "1",
             "L": "0",
             "T": "0",
             "PTS": "2",
-            "RF": "11",
-            "RA": "0",
-            "DIFF": "11"
+            "RF": "9",
+            "RA": "8",
+            "DIFF": "1"
         },
         {
             "Team": "Our Lady Queen Of The World",
-            "W": "0",
-            "L": "0",
+            "W": "1",
+            "L": "1",
             "T": "0",
-            "PTS": "0",
-            "RF": "0",
-            "RA": "0",
-            "DIFF": "0"
+            "PTS": "2",
+            "RF": "15",
+            "RA": "9",
+            "DIFF": "6"
         },
         {
             "Team": "Thornhill SS",
@@ -41,34 +51,24 @@
             "DIFF": "-11"
         },
         {
-            "Team": "Thornlea SS",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "RF": "0",
-            "RA": "0",
-            "DIFF": "0"
-        },
-        {
             "Team": "Maple High School",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
             "RF": "0",
-            "RA": "0",
-            "DIFF": "0"
+            "RA": "10",
+            "DIFF": "-10"
         },
         {
             "Team": "Alexander Mackenzie",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
             "RF": "0",
-            "RA": "0",
-            "DIFF": "0"
+            "RA": "7",
+            "DIFF": "-7"
         },
         {
             "Team": "East",
@@ -82,13 +82,13 @@
         },
         {
             "Team": "Bur Oak SS",
-            "W": "2",
+            "W": "3",
             "L": "0",
             "T": "0",
-            "PTS": "4",
-            "RF": "34",
+            "PTS": "6",
+            "RF": "51",
             "RA": "2",
-            "DIFF": "32"
+            "DIFF": "49"
         },
         {
             "Team": "St. Katharine Drexel",
@@ -113,12 +113,12 @@
         {
             "Team": "Unionville HS",
             "W": "1",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "2",
             "RF": "12",
-            "RA": "2",
-            "DIFF": "10"
+            "RA": "19",
+            "DIFF": "-7"
         },
         {
             "Team": "Bill Hogarth SS",
@@ -151,24 +151,24 @@
             "DIFF": "DIFF"
         },
         {
-            "Team": "Dr. J.M. Denison",
+            "Team": "Dr. G.W. Williams",
             "W": "1",
             "L": "0",
             "T": "0",
             "PTS": "2",
-            "RF": "6",
-            "RA": "2",
-            "DIFF": "4"
+            "RF": "9",
+            "RA": "3",
+            "DIFF": "6"
         },
         {
-            "Team": "Dr. G.W. Williams",
-            "W": "0",
-            "L": "0",
+            "Team": "Dr. J.M. Denison",
+            "W": "1",
+            "L": "1",
             "T": "0",
-            "PTS": "0",
-            "RF": "0",
-            "RA": "0",
-            "DIFF": "0"
+            "PTS": "2",
+            "RF": "9",
+            "RA": "11",
+            "DIFF": "-2"
         },
         {
             "Team": "Our Lady Of The Lake",

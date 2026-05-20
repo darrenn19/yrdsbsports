@@ -11,14 +11,14 @@
             "PA": "PA"
         },
         {
-            "Team": "Milliken Mills",
-            "W": "2",
+            "Team": "Bur Oak SS",
+            "W": "3",
             "L": "0",
             "T": "0",
-            "PTS": "4",
-            "SPTS": "28",
-            "PF": "19",
-            "PA": "11"
+            "PTS": "6",
+            "SPTS": "38",
+            "PF": "27",
+            "PA": "17"
         },
         {
             "Team": "Markville",
@@ -31,14 +31,14 @@
             "PA": "8"
         },
         {
-            "Team": "Bur Oak SS",
+            "Team": "Milliken Mills",
             "W": "2",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "4",
-            "SPTS": "30",
-            "PF": "21",
-            "PA": "12"
+            "SPTS": "39",
+            "PF": "24",
+            "PA": "17"
         },
         {
             "Team": "Markham District",
@@ -153,22 +153,22 @@
         {
             "Team": "Tommy Douglas SS",
             "W": "2",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "4",
-            "SPTS": "31",
-            "PF": "25",
-            "PA": "9"
+            "SPTS": "42",
+            "PF": "29",
+            "PA": "21"
         },
         {
             "Team": "Thornlea SS",
-            "W": "1",
+            "W": "2",
             "L": "0",
             "T": "0",
-            "PTS": "2",
-            "SPTS": "24",
-            "PF": "8",
-            "PA": "7"
+            "PTS": "4",
+            "SPTS": "36",
+            "PF": "20",
+            "PA": "11"
         },
         {
             "Team": "Toronto District Christian",
