@@ -2,6 +2,15 @@
     "schedule": [
         {
             "date": "Tuesday, May 19, 2026",
+            "home_team": "Dr. J.M. Denison 3 (S )",
+            "away_team": "Sir William Mulock 1 (S )",
+            "time": "3:30 PM",
+            "location": "Dr G W Williams SS",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, May 19, 2026",
             "home_team": "Dr. G.W. Williams",
             "away_team": "Newmarket HS",
             "time": "3:30 PM",
@@ -29,21 +38,21 @@
         },
         {
             "date": "Tuesday, May 19, 2026",
-            "home_team": "Keswick High School",
-            "away_team": "Sacred Heart",
-            "time": "4:30 PM",
-            "location": "Huron Heights SS",
-            "game_played": true,
-            "final_score": "Keswick High School 4, Sacred Heart 5"
-        },
-        {
-            "date": "Tuesday, May 19, 2026",
             "home_team": "Huron Heights 2 (S )",
             "away_team": "Innova Academy 1 (S )",
             "time": "4:30 PM",
             "location": "Huron Heights SS",
             "game_played": false,
             "final_score": null
+        },
+        {
+            "date": "Tuesday, May 19, 2026",
+            "home_team": "Keswick High School",
+            "away_team": "Sacred Heart",
+            "time": "4:30 PM",
+            "location": "Huron Heights SS",
+            "game_played": true,
+            "final_score": "Keswick High School 4, Sacred Heart 5"
         },
         {
             "date": "Tuesday, May 19, 2026",
@@ -65,15 +74,6 @@
         },
         {
             "date": "Tuesday, May 19, 2026",
-            "home_team": "Richmond Hill HS",
-            "away_team": "Unionville HS",
-            "time": "3:30 PM",
-            "location": "Richmond Hill HS",
-            "game_played": true,
-            "final_score": "Richmond Hill HS 4, Unionville HS 4"
-        },
-        {
-            "date": "Tuesday, May 19, 2026",
             "home_team": "Alexander Mackenzie 6 (S )",
             "away_team": "Langstaff SS 4 (S )",
             "time": "3:30 PM",
@@ -83,12 +83,12 @@
         },
         {
             "date": "Tuesday, May 19, 2026",
-            "home_team": "Unionville HS 10 (S )",
-            "away_team": "Langstaff SS 1 (S )",
-            "time": "4:30 PM",
+            "home_team": "Richmond Hill HS",
+            "away_team": "Unionville HS",
+            "time": "3:30 PM",
             "location": "Richmond Hill HS",
-            "game_played": false,
-            "final_score": null
+            "game_played": true,
+            "final_score": "Richmond Hill HS 4, Unionville HS 4"
         },
         {
             "date": "Tuesday, May 19, 2026",
@@ -98,6 +98,15 @@
             "location": "Richmond Hill HS",
             "game_played": true,
             "final_score": "Richmond Hill HS 4, Alexander Mackenzie 7"
+        },
+        {
+            "date": "Tuesday, May 19, 2026",
+            "home_team": "Unionville HS 10 (S )",
+            "away_team": "Langstaff SS 1 (S )",
+            "time": "4:30 PM",
+            "location": "Richmond Hill HS",
+            "game_played": false,
+            "final_score": null
         },
         {
             "date": "Tuesday, May 19, 2026",
@@ -137,8 +146,8 @@
         },
         {
             "date": "Tuesday, May 19, 2026",
-            "home_team": "Father Bressani 3 (S )",
-            "away_team": "St. Joan Of Arc 2 (S )",
+            "home_team": "St. Jean De Brebeuf CHS 6 (S )",
+            "away_team": "Westmount 4 (S )",
             "time": "3:00 PM",
             "location": "St Jean De Brebeuf CHS",
             "game_played": false,
@@ -146,8 +155,8 @@
         },
         {
             "date": "Tuesday, May 19, 2026",
-            "home_team": "St. Jean De Brebeuf CHS 6 (S )",
-            "away_team": "Westmount 4 (S )",
+            "home_team": "Father Bressani 3 (S )",
+            "away_team": "St. Joan Of Arc 2 (S )",
             "time": "3:00 PM",
             "location": "St Jean De Brebeuf CHS",
             "game_played": false,
@@ -182,8 +191,8 @@
         },
         {
             "date": "Tuesday, May 19, 2026",
-            "home_team": "Bur Oak SS 6 (S )",
-            "away_team": "Markville 4 (S )",
+            "home_team": "Stouffville 5 (S )",
+            "away_team": "Father McGivney 4 (S )",
             "time": "4:45 PM",
             "location": "Stouffville DSS",
             "game_played": false,
@@ -191,8 +200,8 @@
         },
         {
             "date": "Tuesday, May 19, 2026",
-            "home_team": "Stouffville 5 (S )",
-            "away_team": "Father McGivney 4 (S )",
+            "home_team": "Bur Oak SS 6 (S )",
+            "away_team": "Markville 4 (S )",
             "time": "4:45 PM",
             "location": "Stouffville DSS",
             "game_played": false,

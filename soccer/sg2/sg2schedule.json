@@ -11,12 +11,12 @@
         },
         {
             "date": "Wednesday, May 20, 2026 - PLAYOFFS",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Aurora HS",
+            "away_team": "King City SS",
+            "time": "3:00 PM",
+            "location": "Sheppards Bush",
+            "game_played": true,
+            "final_score": "Aurora HS 2, King City SS 0"
         },
         {
             "date": "Thursday, May 21, 2026",

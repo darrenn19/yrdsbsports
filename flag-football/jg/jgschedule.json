@@ -39,6 +39,15 @@
         {
             "date": "Wednesday, May 20, 2026",
             "home_team": "Aurora HS",
+            "away_team": "Woodbridge College",
+            "time": "2:00 PM",
+            "location": "Huron Heights SS",
+            "game_played": true,
+            "final_score": "Aurora HS 0, Woodbridge College 20"
+        },
+        {
+            "date": "Wednesday, May 20, 2026",
+            "home_team": "Aurora HS",
             "away_team": "Huron Heights",
             "time": "9:00 AM",
             "location": "Huron Heights SS",
