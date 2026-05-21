@@ -56,12 +56,21 @@
         },
         {
             "date": "Thursday, May 21, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "St. Joan Of Arc",
+            "away_team": "Hodan Nalayeh SS",
+            "time": "11:30 AM",
+            "location": "Stephen Lewis SS",
+            "game_played": true,
+            "final_score": "St. Joan Of Arc 8, Hodan Nalayeh SS 31"
+        },
+        {
+            "date": "Thursday, May 21, 2026",
+            "home_team": "Hodan Nalayeh SS",
+            "away_team": "Stephen Lewis SS",
+            "time": "9:00 AM",
+            "location": "Stephen Lewis SS",
+            "game_played": true,
+            "final_score": "Hodan Nalayeh SS 6, Stephen Lewis SS 21"
         },
         {
             "date": "Friday, May 22, 2026",

@@ -2,12 +2,12 @@
     "schedule": [
         {
             "date": "Wednesday, May 20, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Huron Heights",
+            "away_team": "Bill Crothers SS",
+            "time": "3:00 PM",
+            "location": "Markham DHS",
+            "game_played": true,
+            "final_score": "Huron Heights 5, Bill Crothers SS 43"
         },
         {
             "date": "Thursday, May 21, 2026",
