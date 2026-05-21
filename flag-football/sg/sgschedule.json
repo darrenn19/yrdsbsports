@@ -1,123 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, May 19, 2026",
-            "home_team": "St. Maximilian",
-            "away_team": "Sir William Mulock",
-            "time": "10:10 AM",
-            "location": "Aurora HS",
-            "game_played": true,
-            "final_score": "St. Maximilian 14, Sir William Mulock 6"
-        },
-        {
-            "date": "Tuesday, May 19, 2026",
-            "home_team": "Dr. G.W. Williams",
-            "away_team": "St. Maximilian",
-            "time": "11:30 AM",
-            "location": "Aurora HS",
-            "game_played": true,
-            "final_score": "Dr. G.W. Williams 6, St. Maximilian 6"
-        },
-        {
-            "date": "Tuesday, May 19, 2026",
-            "home_team": "Aurora HS",
-            "away_team": "Sir William Mulock",
-            "time": "12:40 PM",
-            "location": "Aurora HS",
-            "game_played": true,
-            "final_score": "Aurora HS 6, Sir William Mulock 19"
-        },
-        {
-            "date": "Tuesday, May 19, 2026",
-            "home_team": "Dr. G.W. Williams",
-            "away_team": "Sir William Mulock",
-            "time": "2:00 PM",
-            "location": "Aurora HS",
-            "game_played": true,
-            "final_score": "Dr. G.W. Williams 19, Sir William Mulock 13"
-        },
-        {
-            "date": "Tuesday, May 19, 2026",
-            "home_team": "Aurora HS",
-            "away_team": "St. Maximilian",
-            "time": "3:10 PM",
-            "location": "Aurora HS",
-            "game_played": true,
-            "final_score": "Aurora HS 0, St. Maximilian 20"
-        },
-        {
-            "date": "Tuesday, May 19, 2026",
-            "home_team": "Dr. G.W. Williams",
-            "away_team": "Aurora HS",
-            "time": "9:00 AM",
-            "location": "Aurora HS",
-            "game_played": true,
-            "final_score": "Dr. G.W. Williams 14, Aurora HS 0"
-        },
-        {
-            "date": "Tuesday, May 19, 2026",
-            "home_team": "Richmond Green SS",
-            "away_team": "Langstaff SS",
-            "time": "10:10 AM",
-            "location": "Bayview SS",
-            "game_played": true,
-            "final_score": "Richmond Green SS 24, Langstaff SS 6"
-        },
-        {
-            "date": "Tuesday, May 19, 2026",
-            "home_team": "Richmond Hill HS",
-            "away_team": "Richmond Green SS",
-            "time": "11:30 AM",
-            "location": "Bayview SS",
-            "game_played": true,
-            "final_score": "Richmond Hill HS 13, Richmond Green SS 0"
-        },
-        {
-            "date": "Tuesday, May 19, 2026",
-            "home_team": "Bayview SS",
-            "away_team": "Langstaff SS",
-            "time": "12:40 PM",
-            "location": "Bayview SS",
-            "game_played": true,
-            "final_score": "Bayview SS 25, Langstaff SS 0"
-        },
-        {
-            "date": "Tuesday, May 19, 2026",
-            "home_team": "Richmond Hill HS",
-            "away_team": "Langstaff SS",
-            "time": "2:00 PM",
-            "location": "Bayview SS",
-            "game_played": true,
-            "final_score": "Richmond Hill HS 20, Langstaff SS 6"
-        },
-        {
-            "date": "Tuesday, May 19, 2026",
-            "home_team": "Bayview SS",
-            "away_team": "Richmond Green SS",
-            "time": "3:10 PM",
-            "location": "Bayview SS",
-            "game_played": true,
-            "final_score": "Bayview SS 21, Richmond Green SS 12"
-        },
-        {
-            "date": "Tuesday, May 19, 2026",
-            "home_team": "Richmond Hill HS",
-            "away_team": "Bayview SS",
-            "time": "9:00 AM",
-            "location": "Bayview SS",
-            "game_played": true,
-            "final_score": "Richmond Hill HS 0, Bayview SS 7"
-        },
-        {
-            "date": "Tuesday, May 19, 2026",
-            "home_team": "Bill Crothers SS",
-            "away_team": "Thornhill SS",
-            "time": "3:30 PM",
-            "location": "Bill Crothers SS",
-            "game_played": true,
-            "final_score": "Bill Crothers SS 21, Thornhill SS 0"
-        },
-        {
             "date": "Wednesday, May 20, 2026",
             "home_team": "Father McGivney",
             "away_team": "Markville",
@@ -209,6 +92,15 @@
         },
         {
             "date": "Monday, May 25, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, May 26, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

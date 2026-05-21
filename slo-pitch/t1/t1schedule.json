@@ -1,51 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, May 19, 2026",
-            "home_team": "Sir William Mulock",
-            "away_team": "St. Jean De Brebeuf CHS",
-            "time": "10:30 AM",
-            "location": "Milliken Mills Park 4",
-            "game_played": true,
-            "final_score": "Sir William Mulock 1, St. Jean De Brebeuf CHS 5"
-        },
-        {
-            "date": "Tuesday, May 19, 2026",
-            "home_team": "Father Bressani",
-            "away_team": "St. Theresa Of Lisieux",
-            "time": "12:00 PM",
-            "location": "Milliken Mills Park 4",
-            "game_played": true,
-            "final_score": "Father Bressani 10, St. Theresa Of Lisieux 5"
-        },
-        {
-            "date": "Tuesday, May 19, 2026",
-            "home_team": "Sir William Mulock",
-            "away_team": "Father Bressani",
-            "time": "1:30 PM",
-            "location": "Milliken Mills Park 4",
-            "game_played": true,
-            "final_score": "Sir William Mulock 7, Father Bressani 3"
-        },
-        {
-            "date": "Tuesday, May 19, 2026",
-            "home_team": "Holy Cross",
-            "away_team": "St. Augustine",
-            "time": "10:30 AM",
-            "location": "Milliken Mills Park 5",
-            "game_played": true,
-            "final_score": "Holy Cross 7, St. Augustine 7"
-        },
-        {
-            "date": "Tuesday, May 19, 2026",
-            "home_team": "St. Jean De Brebeuf CHS",
-            "away_team": "Holy Cross",
-            "time": "12:00 PM",
-            "location": "Milliken Mills Park 5",
-            "game_played": true,
-            "final_score": "St. Jean De Brebeuf CHS 13, Holy Cross 2"
-        },
-        {
             "date": "Wednesday, May 20, 2026",
             "home_team": null,
             "away_team": null,
@@ -92,6 +47,15 @@
         },
         {
             "date": "Monday, May 25, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, May 26, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

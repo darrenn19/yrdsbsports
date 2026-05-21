@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, May 19, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
-        },
-        {
             "date": "Wednesday, May 20, 2026 - PLAYOFFS",
             "home_team": "Bill Crothers SS",
             "away_team": "Sutton District",
@@ -74,6 +65,15 @@
         },
         {
             "date": "Monday, May 25, 2026 - PLAYOFFS",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, May 26, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

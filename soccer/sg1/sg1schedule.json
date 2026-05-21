@@ -1,78 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, May 19, 2026 - PLAYOFFS",
-            "home_team": "St. Theresa Of Lisieux",
-            "away_team": "Bill Crothers SS",
-            "time": "1:00 PM",
-            "location": "Crosby Park",
-            "game_played": true,
-            "final_score": "St. Theresa Of Lisieux 7, Bill Crothers SS 0"
-        },
-        {
-            "date": "Tuesday, May 19, 2026 - PLAYOFFS",
-            "home_team": "Father Bressani",
-            "away_team": "Sir William Mulock",
-            "time": "3:15 PM",
-            "location": "Father Bressani CHS",
-            "game_played": true,
-            "final_score": "Father Bressani 5, Sir William Mulock 0"
-        },
-        {
-            "date": "Tuesday, May 19, 2026 - PLAYOFFS",
-            "home_team": "Sacred Heart",
-            "away_team": "Westmount",
-            "time": "3:15 PM",
-            "location": "Sacred Heart CHS",
-            "game_played": true,
-            "final_score": "Sacred Heart 5, Westmount 0"
-        },
-        {
-            "date": "Tuesday, May 19, 2026 - PLAYOFFS",
-            "home_team": "St. Brother Andre",
-            "away_team": "Our Lady Queen Of The World",
-            "time": "3:15 PM",
-            "location": "St Brother Andre CHS",
-            "game_played": true,
-            "final_score": "St. Brother Andre 0, Our Lady Queen Of The World 4"
-        },
-        {
-            "date": "Tuesday, May 19, 2026 - PLAYOFFS",
-            "home_team": "St. Elizabeth",
-            "away_team": "Cardinal Carter",
-            "time": "3:15 PM",
-            "location": "St Elizabeth CHS",
-            "game_played": true,
-            "final_score": "St. Elizabeth 8, Cardinal Carter 2"
-        },
-        {
-            "date": "Tuesday, May 19, 2026 - PLAYOFFS",
-            "home_team": "St. Jean De Brebeuf CHS",
-            "away_team": "St. Augustine",
-            "time": "1:30 PM",
-            "location": "St Jean De Brebeuf CHS",
-            "game_played": true,
-            "final_score": "St. Jean De Brebeuf CHS 8, St. Augustine 2"
-        },
-        {
-            "date": "Tuesday, May 19, 2026 - PLAYOFFS",
-            "home_team": "St. Maximilian",
-            "away_team": "Hodan Nalayeh SS",
-            "time": "2:00 PM",
-            "location": "St Maximilian Kolbe CHS",
-            "game_played": true,
-            "final_score": "St. Maximilian 8, Hodan Nalayeh SS 1"
-        },
-        {
-            "date": "Tuesday, May 19, 2026 - PLAYOFFS",
-            "home_team": "Holy Cross",
-            "away_team": "Huron Heights",
-            "time": "3:45 PM",
-            "location": "Vaughan Grove 1",
-            "game_played": true,
-            "final_score": "Holy Cross 5, Huron Heights 0"
-        },
-        {
             "date": "Wednesday, May 20, 2026",
             "home_team": null,
             "away_team": null,
@@ -119,6 +47,15 @@
         },
         {
             "date": "Monday, May 25, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, May 26, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

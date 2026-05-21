@@ -1,24 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, May 19, 2026",
-            "home_team": "St. Katharine Drexel",
-            "away_team": "Cardinal Carter",
-            "time": "3:15 PM",
-            "location": "Stouffville Arena",
-            "game_played": true,
-            "final_score": "St. Katharine Drexel 5, Cardinal Carter 0"
-        },
-        {
-            "date": "Tuesday, May 19, 2026",
-            "home_team": "Holy Cross",
-            "away_team": "Father Bressani",
-            "time": "2:30 PM",
-            "location": "Vaughan Grove 1",
-            "game_played": true,
-            "final_score": "Holy Cross 5, Father Bressani 1"
-        },
-        {
             "date": "Wednesday, May 20, 2026",
             "home_team": null,
             "away_team": null,
@@ -71,6 +53,15 @@
             "location": "Stouffville Arena",
             "game_played": true,
             "final_score": "St. Katharine Drexel 5, Keswick High School 0"
+        },
+        {
+            "date": "Tuesday, May 26, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
         }
     ]
 }

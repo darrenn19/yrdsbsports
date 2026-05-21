@@ -1,51 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, May 19, 2026",
-            "home_team": "St. Robert",
-            "away_team": "St. Jean De Brebeuf CHS",
-            "time": "12:00 PM",
-            "location": "Concord Regional 1",
-            "game_played": true,
-            "final_score": "St. Robert 3, St. Jean De Brebeuf CHS 16"
-        },
-        {
-            "date": "Tuesday, May 19, 2026",
-            "home_team": "Bayview SS",
-            "away_team": "Maple High School",
-            "time": "3:00 PM",
-            "location": "Concord Regional 1",
-            "game_played": true,
-            "final_score": "Bayview SS 10, Maple High School 0"
-        },
-        {
-            "date": "Tuesday, May 19, 2026",
-            "home_team": "Bur Oak SS",
-            "away_team": "Unionville HS",
-            "time": "3:00 PM",
-            "location": "Cornell Community Park",
-            "game_played": true,
-            "final_score": "Bur Oak SS 17, Unionville HS 0"
-        },
-        {
-            "date": "Tuesday, May 19, 2026",
-            "home_team": "Our Lady Queen Of The World",
-            "away_team": "Alexander Mackenzie",
-            "time": "3:00 PM",
-            "location": "Richmond Green 4",
-            "game_played": true,
-            "final_score": "Our Lady Queen Of The World 7, Alexander Mackenzie 0"
-        },
-        {
-            "date": "Tuesday, May 19, 2026",
-            "home_team": "Dr. J.M. Denison",
-            "away_team": "Dr. G.W. Williams",
-            "time": "3:00 PM",
-            "location": "Stronach Aurora Recreation Complex",
-            "game_played": true,
-            "final_score": "Dr. J.M. Denison 3, Dr. G.W. Williams 9"
-        },
-        {
             "date": "Wednesday, May 20, 2026",
             "home_team": "Hodan Nalayeh SS",
             "away_team": "Stephen Lewis SS",
@@ -110,6 +65,15 @@
         },
         {
             "date": "Monday, May 25, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, May 26, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
