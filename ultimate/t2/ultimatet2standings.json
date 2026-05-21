@@ -212,13 +212,13 @@
         },
         {
             "Team": "Dr. J.M. Denison",
-            "W": "4",
+            "W": "5",
             "L": "0",
             "T": "0",
-            "PTS": "8",
-            "SPTS": "75",
-            "PF": "32",
-            "PA": "15"
+            "PTS": "10",
+            "SPTS": "95",
+            "PF": "35",
+            "PA": "16"
         },
         {
             "Team": "Keswick High School",
@@ -253,12 +253,12 @@
         {
             "Team": "Sir William Mulock",
             "W": "1",
-            "L": "4",
+            "L": "5",
             "T": "0",
             "PTS": "2",
-            "SPTS": "77",
-            "PF": "17",
-            "PA": "35"
+            "SPTS": "97",
+            "PF": "18",
+            "PA": "38"
         },
         {
             "Team": "Innova Academy",

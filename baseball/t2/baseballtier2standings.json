@@ -31,6 +31,16 @@
             "DIFF": "1"
         },
         {
+            "Team": "Thornhill SS",
+            "W": "1",
+            "L": "1",
+            "T": "0",
+            "PTS": "2",
+            "RF": "12",
+            "RA": "17",
+            "DIFF": "-5"
+        },
+        {
             "Team": "Our Lady Queen Of The World",
             "W": "1",
             "L": "1",
@@ -41,24 +51,14 @@
             "DIFF": "6"
         },
         {
-            "Team": "Thornhill SS",
-            "W": "0",
-            "L": "1",
-            "T": "0",
-            "PTS": "0",
-            "RF": "0",
-            "RA": "11",
-            "DIFF": "-11"
-        },
-        {
             "Team": "Maple High School",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "0",
-            "RF": "0",
-            "RA": "10",
-            "DIFF": "-10"
+            "RF": "6",
+            "RA": "22",
+            "DIFF": "-16"
         },
         {
             "Team": "Alexander Mackenzie",
@@ -211,6 +211,16 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "St. Elizabeth",
+            "W": "2",
+            "L": "0",
+            "T": "0",
+            "PTS": "4",
+            "RF": "23",
+            "RA": "12",
+            "DIFF": "11"
+        },
+        {
             "Team": "St. Jean De Brebeuf CHS",
             "W": "2",
             "L": "0",
@@ -221,24 +231,24 @@
             "DIFF": "26"
         },
         {
-            "Team": "St. Elizabeth",
-            "W": "1",
+            "Team": "Stephen Lewis SS",
+            "W": "2",
             "L": "0",
             "T": "0",
-            "PTS": "2",
-            "RF": "11",
-            "RA": "8",
-            "DIFF": "3"
+            "PTS": "4",
+            "RF": "18",
+            "RA": "7",
+            "DIFF": "11"
         },
         {
             "Team": "Hodan Nalayeh SS",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "0",
-            "RF": "8",
-            "RA": "11",
-            "DIFF": "-3"
+            "RF": "15",
+            "RA": "22",
+            "DIFF": "-7"
         },
         {
             "Team": "Tommy Douglas SS",
@@ -261,24 +271,14 @@
             "DIFF": "-13"
         },
         {
-            "Team": "Stephen Lewis SS",
-            "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "RF": "0",
-            "RA": "0",
-            "DIFF": "0"
-        },
-        {
             "Team": "Westmount",
             "W": "0",
-            "L": "1",
+            "L": "3",
             "T": "0",
             "PTS": "0",
-            "RF": "2",
-            "RA": "15",
-            "DIFF": "-13"
+            "RF": "6",
+            "RA": "34",
+            "DIFF": "-28"
         }
     ]
 }

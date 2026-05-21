@@ -151,6 +151,16 @@
             "PA": "PA"
         },
         {
+            "Team": "Thornlea SS",
+            "W": "3",
+            "L": "0",
+            "T": "0",
+            "PTS": "6",
+            "SPTS": "54",
+            "PF": "29",
+            "PA": "18"
+        },
+        {
             "Team": "Tommy Douglas SS",
             "W": "2",
             "L": "1",
@@ -159,16 +169,6 @@
             "SPTS": "42",
             "PF": "29",
             "PA": "21"
-        },
-        {
-            "Team": "Thornlea SS",
-            "W": "2",
-            "L": "0",
-            "T": "0",
-            "PTS": "4",
-            "SPTS": "36",
-            "PF": "20",
-            "PA": "11"
         },
         {
             "Team": "Toronto District Christian",
@@ -203,12 +203,12 @@
         {
             "Team": "St. Theresa Of Lisieux",
             "W": "0",
-            "L": "2",
+            "L": "3",
             "T": "0",
             "PTS": "0",
-            "SPTS": "34",
-            "PF": "15",
-            "PA": "17"
+            "SPTS": "53",
+            "PF": "22",
+            "PA": "26"
         }
     ]
 }

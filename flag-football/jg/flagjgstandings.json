@@ -11,6 +11,16 @@
             "PA": "PA"
         },
         {
+            "Team": "Woodbridge College",
+            "GP": "6",
+            "W": "5",
+            "L": "1",
+            "T": "0",
+            "PTS": "10",
+            "PF": "102",
+            "PA": "31"
+        },
+        {
             "Team": "Stouffville",
             "GP": "6",
             "W": "5",
@@ -19,16 +29,6 @@
             "PTS": "10",
             "PF": "94",
             "PA": "32"
-        },
-        {
-            "Team": "Bill Crothers SS",
-            "GP": "6",
-            "W": "4",
-            "L": "2",
-            "T": "0",
-            "PTS": "8",
-            "PF": "144",
-            "PA": "70"
         },
         {
             "Team": "Dr. G.W. Williams",
@@ -41,14 +41,24 @@
             "PA": "59"
         },
         {
-            "Team": "Woodbridge College",
-            "GP": "4",
+            "Team": "Bill Crothers SS",
+            "GP": "6",
+            "W": "4",
+            "L": "2",
+            "T": "0",
+            "PTS": "8",
+            "PF": "144",
+            "PA": "70"
+        },
+        {
+            "Team": "Aurora HS",
+            "GP": "6",
             "W": "3",
-            "L": "1",
+            "L": "3",
             "T": "0",
             "PTS": "6",
-            "PF": "69",
-            "PA": "25"
+            "PF": "74",
+            "PA": "83"
         },
         {
             "Team": "Markham District",
@@ -61,6 +71,16 @@
             "PA": "32"
         },
         {
+            "Team": "Huron Heights",
+            "GP": "6",
+            "W": "3",
+            "L": "3",
+            "T": "0",
+            "PTS": "6",
+            "PF": "128",
+            "PA": "99"
+        },
+        {
             "Team": "Stephen Lewis SS",
             "GP": "3",
             "W": "2",
@@ -69,26 +89,6 @@
             "PTS": "4",
             "PF": "33",
             "PA": "38"
-        },
-        {
-            "Team": "Aurora HS",
-            "GP": "4",
-            "W": "2",
-            "L": "2",
-            "T": "0",
-            "PTS": "4",
-            "PF": "52",
-            "PA": "56"
-        },
-        {
-            "Team": "Huron Heights",
-            "GP": "4",
-            "W": "2",
-            "L": "2",
-            "T": "0",
-            "PTS": "4",
-            "PF": "74",
-            "PA": "80"
         },
         {
             "Team": "Bur Oak SS",
@@ -112,13 +112,13 @@
         },
         {
             "Team": "Thornlea SS",
-            "GP": "4",
+            "GP": "6",
             "W": "0",
-            "L": "4",
+            "L": "6",
             "T": "0",
             "PTS": "0",
-            "PF": "49",
-            "PA": "151"
+            "PF": "62",
+            "PA": "221"
         },
         {
             "Team": "Markville",
