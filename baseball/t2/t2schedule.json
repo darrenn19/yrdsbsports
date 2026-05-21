@@ -20,6 +20,15 @@
         },
         {
             "date": "Wednesday, May 20, 2026",
+            "home_team": "Alexander Mackenzie",
+            "away_team": "Thornlea SS",
+            "time": "12:00 PM",
+            "location": "Richmond Green 4",
+            "game_played": true,
+            "final_score": "Alexander Mackenzie 1, Thornlea SS 17"
+        },
+        {
+            "date": "Wednesday, May 20, 2026",
             "home_team": "Maple High School",
             "away_team": "Thornhill SS",
             "time": "3:00 PM",
