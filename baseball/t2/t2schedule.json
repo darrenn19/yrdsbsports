@@ -47,6 +47,15 @@
         },
         {
             "date": "Thursday, May 21, 2026",
+            "home_team": "St. Katharine Drexel",
+            "away_team": "Unionville HS",
+            "time": "12:00 PM",
+            "location": "Cornell Community Park",
+            "game_played": true,
+            "final_score": "St. Katharine Drexel 17, Unionville HS 6"
+        },
+        {
+            "date": "Thursday, May 21, 2026",
             "home_team": "Our Lady Queen Of The World",
             "away_team": "Bayview SS",
             "time": "12:00 PM",
