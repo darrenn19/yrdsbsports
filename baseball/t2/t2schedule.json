@@ -38,6 +38,15 @@
         },
         {
             "date": "Thursday, May 21, 2026",
+            "home_team": "St. Robert",
+            "away_team": "Hodan Nalayeh SS",
+            "time": "12:00 PM",
+            "location": "Concord Regional 1",
+            "game_played": true,
+            "final_score": "St. Robert 1, Hodan Nalayeh SS 12"
+        },
+        {
+            "date": "Thursday, May 21, 2026",
             "home_team": "St. Jean De Brebeuf CHS",
             "away_team": "St. Elizabeth",
             "time": "12:00 PM",
@@ -62,6 +71,15 @@
             "location": "David Hamilton Park",
             "game_played": true,
             "final_score": "Our Lady Queen Of The World 14, Bayview SS 4"
+        },
+        {
+            "date": "Thursday, May 21, 2026",
+            "home_team": "Alexander Mackenzie",
+            "away_team": "Thornhill SS",
+            "time": "3:00 PM",
+            "location": "David Hamilton Park",
+            "game_played": true,
+            "final_score": "Alexander Mackenzie 12, Thornhill SS 8"
         },
         {
             "date": "Friday, May 22, 2026",
