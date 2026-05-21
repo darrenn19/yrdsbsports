@@ -65,6 +65,24 @@
         },
         {
             "date": "Thursday, May 21, 2026",
+            "home_team": "Stephen Lewis SS",
+            "away_team": "Father Bressani",
+            "time": "12:40 PM",
+            "location": "Stephen Lewis SS",
+            "game_played": true,
+            "final_score": "Stephen Lewis SS 19, Father Bressani 6"
+        },
+        {
+            "date": "Thursday, May 21, 2026",
+            "home_team": "Father Bressani",
+            "away_team": "Hodan Nalayeh SS",
+            "time": "2:00 PM",
+            "location": "Stephen Lewis SS",
+            "game_played": true,
+            "final_score": "Father Bressani 7, Hodan Nalayeh SS 20"
+        },
+        {
+            "date": "Thursday, May 21, 2026",
             "home_team": "Hodan Nalayeh SS",
             "away_team": "Stephen Lewis SS",
             "time": "9:00 AM",

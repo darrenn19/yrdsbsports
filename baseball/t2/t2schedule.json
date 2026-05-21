@@ -38,12 +38,21 @@
         },
         {
             "date": "Thursday, May 21, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "St. Jean De Brebeuf CHS",
+            "away_team": "St. Elizabeth",
+            "time": "12:00 PM",
+            "location": "Concord Regional 2",
+            "game_played": true,
+            "final_score": "St. Jean De Brebeuf CHS 10, St. Elizabeth 5"
+        },
+        {
+            "date": "Thursday, May 21, 2026",
+            "home_team": "Our Lady Queen Of The World",
+            "away_team": "Bayview SS",
+            "time": "12:00 PM",
+            "location": "David Hamilton Park",
+            "game_played": true,
+            "final_score": "Our Lady Queen Of The World 14, Bayview SS 4"
         },
         {
             "date": "Friday, May 22, 2026",

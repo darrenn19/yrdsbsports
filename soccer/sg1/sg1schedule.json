@@ -11,12 +11,12 @@
         },
         {
             "date": "Thursday, May 21, 2026 - PLAYOFFS",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "St. Theresa Of Lisieux",
+            "away_team": "St. Elizabeth",
+            "time": "1:00 PM",
+            "location": "Crosby Park",
+            "game_played": true,
+            "final_score": "St. Theresa Of Lisieux 7, St. Elizabeth 1"
         },
         {
             "date": "Friday, May 22, 2026",
