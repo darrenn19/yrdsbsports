@@ -301,6 +301,26 @@
             "PA": "23"
         },
         {
+            "Team": "Hodan Nalayeh SS",
+            "GP": "5",
+            "W": "3",
+            "L": "1",
+            "T": "1",
+            "PTS": "7",
+            "PF": "99",
+            "PA": "49"
+        },
+        {
+            "Team": "Stephen Lewis SS",
+            "GP": "4",
+            "W": "3",
+            "L": "0",
+            "T": "1",
+            "PTS": "7",
+            "PF": "64",
+            "PA": "19"
+        },
+        {
             "Team": "St. Jean De Brebeuf CHS",
             "GP": "6",
             "W": "3",
@@ -311,34 +331,14 @@
             "PA": "64"
         },
         {
-            "Team": "Hodan Nalayeh SS",
-            "GP": "3",
-            "W": "2",
-            "L": "0",
-            "T": "1",
-            "PTS": "5",
-            "PF": "62",
-            "PA": "20"
-        },
-        {
-            "Team": "Stephen Lewis SS",
-            "GP": "3",
-            "W": "2",
-            "L": "0",
-            "T": "1",
-            "PTS": "5",
-            "PF": "43",
-            "PA": "13"
-        },
-        {
             "Team": "St. Joan Of Arc",
-            "GP": "3",
+            "GP": "4",
             "W": "2",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "4",
-            "PF": "39",
-            "PA": "33"
+            "PF": "47",
+            "PA": "64"
         },
         {
             "Team": "Tommy Douglas SS",

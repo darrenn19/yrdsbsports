@@ -191,14 +191,24 @@
             "PA": "PA"
         },
         {
-            "Team": "Newmarket HS",
-            "W": "5",
+            "Team": "Dr. J.M. Denison",
+            "W": "6",
             "L": "0",
             "T": "0",
+            "PTS": "12",
+            "SPTS": "108",
+            "PF": "42",
+            "PA": "21"
+        },
+        {
+            "Team": "Newmarket HS",
+            "W": "5",
+            "L": "1",
+            "T": "0",
             "PTS": "10",
-            "SPTS": "67",
-            "PF": "44",
-            "PA": "10"
+            "SPTS": "80",
+            "PF": "49",
+            "PA": "17"
         },
         {
             "Team": "Sacred Heart",
@@ -209,16 +219,6 @@
             "SPTS": "88",
             "PF": "41",
             "PA": "22"
-        },
-        {
-            "Team": "Dr. J.M. Denison",
-            "W": "5",
-            "L": "0",
-            "T": "0",
-            "PTS": "10",
-            "SPTS": "95",
-            "PF": "35",
-            "PA": "16"
         },
         {
             "Team": "Keswick High School",

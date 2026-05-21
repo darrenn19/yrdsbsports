@@ -22,13 +22,13 @@
         },
         {
             "Team": "Thornlea SS",
-            "W": "1",
+            "W": "2",
             "L": "0",
             "T": "0",
-            "PTS": "2",
-            "RF": "9",
-            "RA": "8",
-            "DIFF": "1"
+            "PTS": "4",
+            "RF": "26",
+            "RA": "9",
+            "DIFF": "17"
         },
         {
             "Team": "Thornhill SS",
@@ -63,12 +63,12 @@
         {
             "Team": "Alexander Mackenzie",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "0",
-            "RF": "0",
-            "RA": "7",
-            "DIFF": "-7"
+            "RF": "1",
+            "RA": "24",
+            "DIFF": "-23"
         },
         {
             "Team": "East",
