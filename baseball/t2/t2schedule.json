@@ -64,6 +64,15 @@
             "final_score": "St. Elizabeth 12, Westmount 4"
         },
         {
+            "date": "Wednesday, May 20, 2026",
+            "home_team": "Maple High School",
+            "away_team": "Thornhill SS",
+            "time": "3:00 PM",
+            "location": "Richmond Green 4",
+            "game_played": true,
+            "final_score": "Maple High School 6, Thornhill SS 12"
+        },
+        {
             "date": "Thursday, May 21, 2026",
             "home_team": null,
             "away_team": null,
@@ -74,12 +83,12 @@
         },
         {
             "date": "Friday, May 22, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Stephen Lewis SS",
+            "away_team": "Westmount",
+            "time": "3:00 PM",
+            "location": "Concord Regional 2",
+            "game_played": true,
+            "final_score": "Stephen Lewis SS 7, Westmount 0"
         },
         {
             "date": "Saturday, May 23, 2026",
