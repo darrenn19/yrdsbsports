@@ -91,6 +91,15 @@
             "final_score": "Cardinal Carter 18, Our Lady Of The Lake 1"
         },
         {
+            "date": "Friday, May 22, 2026",
+            "home_team": "Keswick High School",
+            "away_team": "Dr. J.M. Denison",
+            "time": "3:00 PM",
+            "location": "Stronach Aurora Recreation Complex",
+            "game_played": true,
+            "final_score": "Keswick High School 3, Dr. J.M. Denison 5"
+        },
+        {
             "date": "Saturday, May 23, 2026",
             "home_team": null,
             "away_team": null,
