@@ -92,23 +92,23 @@
         },
         {
             "Team": "Bill Crothers SS",
-            "W": "2",
+            "W": "3",
             "L": "0",
             "T": "0",
-            "PTS": "4",
-            "SPTS": "28",
-            "PF": "13",
+            "PTS": "6",
+            "SPTS": "46",
+            "PF": "15",
             "PA": "9"
         },
         {
             "Team": "Huron Heights",
             "W": "1",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "2",
-            "SPTS": "36",
+            "SPTS": "54",
             "PF": "25",
-            "PA": "19"
+            "PA": "21"
         },
         {
             "Team": "Renaissance ESC",
