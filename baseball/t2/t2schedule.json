@@ -64,6 +64,15 @@
             "final_score": "Stephen Lewis SS 7, Westmount 0"
         },
         {
+            "date": "Friday, May 22, 2026",
+            "home_team": "Bur Oak SS",
+            "away_team": "Markville",
+            "time": "12:00 PM",
+            "location": "Cornell Community Park",
+            "game_played": true,
+            "final_score": "Bur Oak SS 9, Markville 8"
+        },
+        {
             "date": "Saturday, May 23, 2026",
             "home_team": null,
             "away_team": null,
