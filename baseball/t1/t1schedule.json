@@ -11,12 +11,21 @@
         },
         {
             "date": "Friday, May 22, 2026 - PLAYOFFS",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Father Bressani",
+            "away_team": "Huron Heights",
+            "time": "10:00 AM",
+            "location": "Concord Regional 2",
+            "game_played": true,
+            "final_score": "Father Bressani 3, Huron Heights 8"
+        },
+        {
+            "date": "Friday, May 22, 2026 - PLAYOFFS",
+            "home_team": "Newmarket HS",
+            "away_team": "Markham District",
+            "time": "10:00 AM",
+            "location": "Milliken Mills Park 1",
+            "game_played": true,
+            "final_score": "Newmarket HS 6, Markham District 12"
         },
         {
             "date": "Saturday, May 23, 2026",
