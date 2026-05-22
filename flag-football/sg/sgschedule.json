@@ -3,6 +3,15 @@
         {
             "date": "Thursday, May 21, 2026",
             "home_team": "St. Joan Of Arc",
+            "away_team": "Father Bressani",
+            "time": "10:10 AM",
+            "location": "Stephen Lewis SS",
+            "game_played": true,
+            "final_score": "St. Joan Of Arc 8, Father Bressani 6"
+        },
+        {
+            "date": "Thursday, May 21, 2026",
+            "home_team": "St. Joan Of Arc",
             "away_team": "Hodan Nalayeh SS",
             "time": "11:30 AM",
             "location": "Stephen Lewis SS",

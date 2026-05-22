@@ -11,6 +11,15 @@
         },
         {
             "date": "Thursday, May 21, 2026 - PLAYOFFS",
+            "home_team": "Father Bressani",
+            "away_team": "Our Lady Queen Of The World",
+            "time": "2:00 PM",
+            "location": "Father Bressani CHS",
+            "game_played": true,
+            "final_score": "Father Bressani 1, Our Lady Queen Of The World 0"
+        },
+        {
+            "date": "Thursday, May 21, 2026 - PLAYOFFS",
             "home_team": "Holy Cross",
             "away_team": "Sacred Heart",
             "time": "3:15 PM",
@@ -55,7 +64,7 @@
             "final_score": null
         },
         {
-            "date": "Monday, May 25, 2026",
+            "date": "Monday, May 25, 2026 - PLAYOFFS",
             "home_team": null,
             "away_team": null,
             "time": null,
