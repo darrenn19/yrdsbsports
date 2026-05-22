@@ -13,12 +13,12 @@
         {
             "Team": "Bayview SS",
             "W": "2",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "4",
-            "RF": "21",
-            "RA": "0",
-            "DIFF": "21"
+            "RF": "25",
+            "RA": "14",
+            "DIFF": "11"
         },
         {
             "Team": "Thornlea SS",
@@ -31,24 +31,34 @@
             "DIFF": "17"
         },
         {
-            "Team": "Thornhill SS",
-            "W": "1",
+            "Team": "Our Lady Queen Of The World",
+            "W": "2",
             "L": "1",
             "T": "0",
-            "PTS": "2",
-            "RF": "12",
-            "RA": "17",
-            "DIFF": "-5"
+            "PTS": "4",
+            "RF": "29",
+            "RA": "13",
+            "DIFF": "16"
         },
         {
-            "Team": "Our Lady Queen Of The World",
+            "Team": "Thornhill SS",
             "W": "1",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "2",
-            "RF": "15",
-            "RA": "9",
-            "DIFF": "6"
+            "RF": "20",
+            "RA": "29",
+            "DIFF": "-9"
+        },
+        {
+            "Team": "Alexander Mackenzie",
+            "W": "1",
+            "L": "2",
+            "T": "0",
+            "PTS": "2",
+            "RF": "13",
+            "RA": "32",
+            "DIFF": "-19"
         },
         {
             "Team": "Maple High School",
@@ -59,16 +69,6 @@
             "RF": "6",
             "RA": "22",
             "DIFF": "-16"
-        },
-        {
-            "Team": "Alexander Mackenzie",
-            "W": "0",
-            "L": "2",
-            "T": "0",
-            "PTS": "0",
-            "RF": "1",
-            "RA": "24",
-            "DIFF": "-23"
         },
         {
             "Team": "East",
@@ -92,43 +92,43 @@
         },
         {
             "Team": "St. Katharine Drexel",
-            "W": "1",
+            "W": "2",
             "L": "1",
             "T": "0",
-            "PTS": "2",
-            "RF": "23",
-            "RA": "13",
-            "DIFF": "10"
+            "PTS": "4",
+            "RF": "40",
+            "RA": "19",
+            "DIFF": "21"
         },
         {
             "Team": "Markville",
-            "W": "1",
+            "W": "2",
             "L": "0",
             "T": "0",
-            "PTS": "2",
-            "RF": "12",
-            "RA": "9",
-            "DIFF": "3"
+            "PTS": "4",
+            "RF": "23",
+            "RA": "11",
+            "DIFF": "12"
         },
         {
             "Team": "Unionville HS",
             "W": "1",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "2",
-            "RF": "12",
-            "RA": "19",
-            "DIFF": "-7"
+            "RF": "18",
+            "RA": "36",
+            "DIFF": "-18"
         },
         {
             "Team": "Bill Hogarth SS",
             "W": "0",
-            "L": "2",
+            "L": "3",
             "T": "0",
             "PTS": "0",
-            "RF": "2",
-            "RA": "31",
-            "DIFF": "-29"
+            "RF": "4",
+            "RA": "42",
+            "DIFF": "-38"
         },
         {
             "Team": "Father McGivney",
@@ -211,24 +211,14 @@
             "DIFF": "DIFF"
         },
         {
-            "Team": "St. Elizabeth",
-            "W": "2",
-            "L": "0",
-            "T": "0",
-            "PTS": "4",
-            "RF": "23",
-            "RA": "12",
-            "DIFF": "11"
-        },
-        {
             "Team": "St. Jean De Brebeuf CHS",
-            "W": "2",
+            "W": "3",
             "L": "0",
             "T": "0",
-            "PTS": "4",
-            "RF": "31",
-            "RA": "5",
-            "DIFF": "26"
+            "PTS": "6",
+            "RF": "41",
+            "RA": "10",
+            "DIFF": "31"
         },
         {
             "Team": "Stephen Lewis SS",
@@ -241,14 +231,24 @@
             "DIFF": "11"
         },
         {
+            "Team": "St. Elizabeth",
+            "W": "2",
+            "L": "1",
+            "T": "0",
+            "PTS": "4",
+            "RF": "28",
+            "RA": "22",
+            "DIFF": "6"
+        },
+        {
             "Team": "Hodan Nalayeh SS",
-            "W": "0",
+            "W": "1",
             "L": "2",
             "T": "0",
-            "PTS": "0",
-            "RF": "15",
-            "RA": "22",
-            "DIFF": "-7"
+            "PTS": "2",
+            "RF": "27",
+            "RA": "23",
+            "DIFF": "4"
         },
         {
             "Team": "Tommy Douglas SS",
@@ -263,12 +263,12 @@
         {
             "Team": "St. Robert",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "0",
-            "RF": "3",
-            "RA": "16",
-            "DIFF": "-13"
+            "RF": "4",
+            "RA": "28",
+            "DIFF": "-24"
         },
         {
             "Team": "Westmount",

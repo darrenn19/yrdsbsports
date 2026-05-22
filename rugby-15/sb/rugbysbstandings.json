@@ -10,6 +10,15 @@
             "PA": "PA"
         },
         {
+            "Team": "St. Theresa Of Lisieux",
+            "W": "4",
+            "L": "0",
+            "T": "0",
+            "PTS": "16",
+            "PF": "133",
+            "PA": "0"
+        },
+        {
             "Team": "Bill Crothers SS",
             "W": "3",
             "L": "0",
@@ -17,15 +26,6 @@
             "PTS": "12",
             "PF": "152",
             "PA": "10"
-        },
-        {
-            "Team": "St. Theresa Of Lisieux",
-            "W": "3",
-            "L": "0",
-            "T": "0",
-            "PTS": "12",
-            "PF": "113",
-            "PA": "0"
         },
         {
             "Team": "Keswick High School",
@@ -48,11 +48,11 @@
         {
             "Team": "Stephen Lewis SS",
             "W": "1",
-            "L": "2",
+            "L": "3",
             "T": "0",
             "PTS": "4",
             "PF": "34",
-            "PA": "98"
+            "PA": "118"
         },
         {
             "Team": "Sir William Mulock",

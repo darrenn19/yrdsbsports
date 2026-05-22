@@ -42,23 +42,23 @@
         },
         {
             "Team": "Bill Hogarth SS",
-            "W": "1",
+            "W": "2",
             "L": "2",
             "T": "0",
-            "PTS": "2",
-            "SPTS": "49",
-            "PF": "20",
-            "PA": "18"
+            "PTS": "4",
+            "SPTS": "57",
+            "PF": "31",
+            "PA": "24"
         },
         {
             "Team": "Markham District",
             "W": "0",
-            "L": "3",
+            "L": "4",
             "T": "0",
             "PTS": "0",
-            "SPTS": "46",
-            "PF": "14",
-            "PA": "36"
+            "SPTS": "60",
+            "PF": "20",
+            "PA": "47"
         },
         {
             "Team": "Pierre Elliott Trudeau",
