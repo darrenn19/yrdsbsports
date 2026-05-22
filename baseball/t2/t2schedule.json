@@ -1,42 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, May 20, 2026",
-            "home_team": "Hodan Nalayeh SS",
-            "away_team": "Stephen Lewis SS",
-            "time": "12:00 PM",
-            "location": "Concord Regional 1",
-            "game_played": true,
-            "final_score": "Hodan Nalayeh SS 7, Stephen Lewis SS 11"
-        },
-        {
-            "date": "Wednesday, May 20, 2026",
-            "home_team": "St. Elizabeth",
-            "away_team": "Westmount",
-            "time": "3:00 PM",
-            "location": "Concord Regional 1",
-            "game_played": true,
-            "final_score": "St. Elizabeth 12, Westmount 4"
-        },
-        {
-            "date": "Wednesday, May 20, 2026",
-            "home_team": "Alexander Mackenzie",
-            "away_team": "Thornlea SS",
-            "time": "12:00 PM",
-            "location": "Richmond Green 4",
-            "game_played": true,
-            "final_score": "Alexander Mackenzie 1, Thornlea SS 17"
-        },
-        {
-            "date": "Wednesday, May 20, 2026",
-            "home_team": "Maple High School",
-            "away_team": "Thornhill SS",
-            "time": "3:00 PM",
-            "location": "Richmond Green 4",
-            "game_played": true,
-            "final_score": "Maple High School 6, Thornhill SS 12"
-        },
-        {
             "date": "Thursday, May 21, 2026",
             "home_team": "St. Robert",
             "away_team": "Hodan Nalayeh SS",
@@ -62,6 +26,15 @@
             "location": "Cornell Community Park",
             "game_played": true,
             "final_score": "St. Katharine Drexel 17, Unionville HS 6"
+        },
+        {
+            "date": "Thursday, May 21, 2026",
+            "home_team": "Bill Hogarth SS",
+            "away_team": "Markville",
+            "time": "3:00 PM",
+            "location": "Cornell Community Park",
+            "game_played": true,
+            "final_score": "Bill Hogarth SS 2, Markville 11"
         },
         {
             "date": "Thursday, May 21, 2026",
@@ -119,6 +92,15 @@
         },
         {
             "date": "Tuesday, May 26, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, May 27, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

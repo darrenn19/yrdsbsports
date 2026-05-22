@@ -1,24 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, May 20, 2026 - PLAYOFFS",
-            "home_team": "Aurora HS",
-            "away_team": "King City SS",
-            "time": "3:00 PM",
-            "location": "Sheppards Bush",
-            "game_played": true,
-            "final_score": "Aurora HS 2, King City SS 0"
-        },
-        {
-            "date": "Wednesday, May 20, 2026 - PLAYOFFS",
-            "home_team": "Toronto District Christian",
-            "away_team": "Keswick High School",
-            "time": "3:00 PM",
-            "location": "Toronto District Christian HS",
-            "game_played": true,
-            "final_score": "Toronto District Christian 9, Keswick High School 0"
-        },
-        {
             "date": "Thursday, May 21, 2026",
             "home_team": null,
             "away_team": null,
@@ -65,6 +47,15 @@
         },
         {
             "date": "Tuesday, May 26, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, May 27, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

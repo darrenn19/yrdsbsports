@@ -1,42 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, May 20, 2026",
-            "home_team": "Father Bressani",
-            "away_team": "St. Joan Of Arc",
-            "time": "12:00 PM",
-            "location": "Concord Regional 2",
-            "game_played": true,
-            "final_score": "Father Bressani 2, St. Joan Of Arc 3"
-        },
-        {
-            "date": "Wednesday, May 20, 2026",
-            "home_team": "Newmarket HS",
-            "away_team": "Sacred Heart",
-            "time": "11:00 AM",
-            "location": "Don McKnight Field",
-            "game_played": true,
-            "final_score": "Newmarket HS 4, Sacred Heart 1"
-        },
-        {
-            "date": "Wednesday, May 20, 2026",
-            "home_team": "Aurora HS",
-            "away_team": "St. Brother Andre",
-            "time": "12:00 PM",
-            "location": "Stronach Aurora Recreation Complex",
-            "game_played": true,
-            "final_score": "Aurora HS 13, St. Brother Andre 0"
-        },
-        {
-            "date": "Wednesday, May 20, 2026",
-            "home_team": "Sir William Mulock",
-            "away_team": "Huron Heights",
-            "time": "11:00 AM",
-            "location": "Whipper Watson",
-            "game_played": true,
-            "final_score": "Sir William Mulock 5, Huron Heights 1"
-        },
-        {
             "date": "Thursday, May 21, 2026",
             "home_team": null,
             "away_team": null,
@@ -83,6 +47,15 @@
         },
         {
             "date": "Tuesday, May 26, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, May 27, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

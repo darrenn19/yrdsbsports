@@ -1,60 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, May 20, 2026",
-            "home_team": "Thornlea SS",
-            "away_team": "Woodbridge College",
-            "time": "10:10 AM",
-            "location": "Huron Heights SS",
-            "game_played": true,
-            "final_score": "Thornlea SS 12, Woodbridge College 31"
-        },
-        {
-            "date": "Wednesday, May 20, 2026",
-            "home_team": "Aurora HS",
-            "away_team": "Thornlea SS",
-            "time": "11:30 AM",
-            "location": "Huron Heights SS",
-            "game_played": true,
-            "final_score": "Aurora HS 22, Thornlea SS 7"
-        },
-        {
-            "date": "Wednesday, May 20, 2026",
-            "home_team": "Huron Heights",
-            "away_team": "Woodbridge College",
-            "time": "12:40 PM",
-            "location": "Huron Heights SS",
-            "game_played": true,
-            "final_score": "Huron Heights 6, Woodbridge College 13"
-        },
-        {
-            "date": "Wednesday, May 20, 2026",
-            "home_team": "Aurora HS",
-            "away_team": "Woodbridge College",
-            "time": "2:00 PM",
-            "location": "Huron Heights SS",
-            "game_played": true,
-            "final_score": "Aurora HS 0, Woodbridge College 20"
-        },
-        {
-            "date": "Wednesday, May 20, 2026",
-            "home_team": "Huron Heights",
-            "away_team": "Thornlea SS",
-            "time": "3:10 PM",
-            "location": "Huron Heights SS",
-            "game_played": true,
-            "final_score": "Huron Heights 48, Thornlea SS 6"
-        },
-        {
-            "date": "Wednesday, May 20, 2026",
-            "home_team": "Aurora HS",
-            "away_team": "Huron Heights",
-            "time": "9:00 AM",
-            "location": "Huron Heights SS",
-            "game_played": true,
-            "final_score": "Aurora HS 12, Huron Heights 24"
-        },
-        {
             "date": "Thursday, May 21, 2026",
             "home_team": null,
             "away_team": null,
@@ -101,6 +47,15 @@
         },
         {
             "date": "Tuesday, May 26, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, May 27, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
