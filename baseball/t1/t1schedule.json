@@ -20,6 +20,15 @@
         },
         {
             "date": "Friday, May 22, 2026 - PLAYOFFS",
+            "home_team": "Huron Heights",
+            "away_team": "St. Augustine",
+            "time": "1:00 PM",
+            "location": "Concord Regional 2",
+            "game_played": true,
+            "final_score": "Huron Heights 1, St. Augustine 6"
+        },
+        {
+            "date": "Friday, May 22, 2026 - PLAYOFFS",
             "home_team": "Newmarket HS",
             "away_team": "Markham District",
             "time": "10:00 AM",
@@ -35,6 +44,15 @@
             "location": "Milliken Mills Park 3",
             "game_played": true,
             "final_score": "St. Theresa Of Lisieux 8, Stouffville 4"
+        },
+        {
+            "date": "Friday, May 22, 2026 - PLAYOFFS",
+            "home_team": "St. Theresa Of Lisieux",
+            "away_team": "Markham District",
+            "time": "1:00 PM",
+            "location": "Milliken Mills Park 3",
+            "game_played": true,
+            "final_score": "St. Theresa Of Lisieux 10, Markham District 6"
         },
         {
             "date": "Saturday, May 23, 2026",
