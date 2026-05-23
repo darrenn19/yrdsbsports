@@ -82,33 +82,33 @@
         },
         {
             "Team": "Bur Oak SS",
-            "W": "3",
+            "W": "4",
             "L": "0",
             "T": "0",
-            "PTS": "6",
-            "RF": "51",
-            "RA": "2",
-            "DIFF": "49"
+            "PTS": "8",
+            "RF": "60",
+            "RA": "10",
+            "DIFF": "50"
         },
         {
             "Team": "St. Katharine Drexel",
-            "W": "2",
+            "W": "3",
             "L": "1",
             "T": "0",
-            "PTS": "4",
-            "RF": "40",
-            "RA": "19",
-            "DIFF": "21"
+            "PTS": "6",
+            "RF": "60",
+            "RA": "20",
+            "DIFF": "40"
         },
         {
             "Team": "Markville",
             "W": "2",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "4",
-            "RF": "23",
-            "RA": "11",
-            "DIFF": "12"
+            "RF": "31",
+            "RA": "20",
+            "DIFF": "11"
         },
         {
             "Team": "Unionville HS",
@@ -133,12 +133,12 @@
         {
             "Team": "Father McGivney",
             "W": "0",
-            "L": "2",
+            "L": "3",
             "T": "0",
             "PTS": "0",
-            "RF": "3",
-            "RA": "29",
-            "DIFF": "-26"
+            "RF": "4",
+            "RA": "49",
+            "DIFF": "-45"
         },
         {
             "Team": "North",
@@ -151,6 +151,16 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Dr. J.M. Denison",
+            "W": "2",
+            "L": "1",
+            "T": "0",
+            "PTS": "4",
+            "RF": "14",
+            "RA": "14",
+            "DIFF": "0"
+        },
+        {
             "Team": "Dr. G.W. Williams",
             "W": "1",
             "L": "0",
@@ -161,44 +171,34 @@
             "DIFF": "6"
         },
         {
-            "Team": "Dr. J.M. Denison",
+            "Team": "Cardinal Carter",
             "W": "1",
             "L": "1",
             "T": "0",
             "PTS": "2",
-            "RF": "9",
-            "RA": "11",
-            "DIFF": "-2"
+            "RF": "20",
+            "RA": "7",
+            "DIFF": "13"
         },
         {
             "Team": "Our Lady Of The Lake",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
-            "RF": "0",
-            "RA": "0",
-            "DIFF": "0"
+            "RF": "1",
+            "RA": "18",
+            "DIFF": "-17"
         },
         {
             "Team": "Keswick High School",
             "W": "0",
-            "L": "0",
-            "T": "0",
-            "PTS": "0",
-            "RF": "0",
-            "RA": "0",
-            "DIFF": "0"
-        },
-        {
-            "Team": "Cardinal Carter",
-            "W": "0",
             "L": "1",
             "T": "0",
             "PTS": "0",
-            "RF": "2",
-            "RA": "6",
-            "DIFF": "-4"
+            "RF": "3",
+            "RA": "5",
+            "DIFF": "-2"
         },
         {
             "Team": "West",
@@ -221,6 +221,16 @@
             "DIFF": "31"
         },
         {
+            "Team": "St. Elizabeth",
+            "W": "3",
+            "L": "1",
+            "T": "0",
+            "PTS": "6",
+            "RF": "42",
+            "RA": "26",
+            "DIFF": "16"
+        },
+        {
             "Team": "Stephen Lewis SS",
             "W": "2",
             "L": "0",
@@ -229,16 +239,6 @@
             "RF": "18",
             "RA": "7",
             "DIFF": "11"
-        },
-        {
-            "Team": "St. Elizabeth",
-            "W": "2",
-            "L": "1",
-            "T": "0",
-            "PTS": "4",
-            "RF": "28",
-            "RA": "22",
-            "DIFF": "6"
         },
         {
             "Team": "Hodan Nalayeh SS",
@@ -253,12 +253,12 @@
         {
             "Team": "Tommy Douglas SS",
             "W": "0",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "0",
-            "RF": "0",
-            "RA": "0",
-            "DIFF": "0"
+            "RF": "4",
+            "RA": "14",
+            "DIFF": "-10"
         },
         {
             "Team": "St. Robert",
