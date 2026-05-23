@@ -83,6 +83,15 @@
         },
         {
             "date": "Friday, May 22, 2026",
+            "home_team": "Father McGivney",
+            "away_team": "St. Katharine Drexel",
+            "time": "3:00 PM",
+            "location": "Cornell Community Park",
+            "game_played": true,
+            "final_score": "Father McGivney 1, St. Katharine Drexel 20"
+        },
+        {
+            "date": "Friday, May 22, 2026",
             "home_team": "Cardinal Carter",
             "away_team": "Our Lady Of The Lake",
             "time": "12:00 PM",
