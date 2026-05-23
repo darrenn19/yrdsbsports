@@ -1,42 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, May 21, 2026 - PLAYOFFS",
-            "home_team": "St. Theresa Of Lisieux",
-            "away_team": "St. Elizabeth",
-            "time": "1:00 PM",
-            "location": "Crosby Park",
-            "game_played": true,
-            "final_score": "St. Theresa Of Lisieux 7, St. Elizabeth 1"
-        },
-        {
-            "date": "Thursday, May 21, 2026 - PLAYOFFS",
-            "home_team": "Father Bressani",
-            "away_team": "Our Lady Queen Of The World",
-            "time": "2:00 PM",
-            "location": "Father Bressani CHS",
-            "game_played": true,
-            "final_score": "Father Bressani 1, Our Lady Queen Of The World 0"
-        },
-        {
-            "date": "Thursday, May 21, 2026 - PLAYOFFS",
-            "home_team": "Holy Cross",
-            "away_team": "Sacred Heart",
-            "time": "3:15 PM",
-            "location": "Holy Cross CA",
-            "game_played": true,
-            "final_score": "Holy Cross 1, Sacred Heart 3"
-        },
-        {
-            "date": "Thursday, May 21, 2026 - PLAYOFFS",
-            "home_team": "St. Maximilian",
-            "away_team": "St. Jean De Brebeuf CHS",
-            "time": "1:30 PM",
-            "location": "St Maximilian Kolbe CHS",
-            "game_played": true,
-            "final_score": "St. Maximilian 3, St. Jean De Brebeuf CHS 0"
-        },
-        {
             "date": "Friday, May 22, 2026",
             "home_team": null,
             "away_team": null,
@@ -83,6 +47,15 @@
         },
         {
             "date": "Wednesday, May 27, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, May 28, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

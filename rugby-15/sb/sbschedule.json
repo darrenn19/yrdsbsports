@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, May 21, 2026",
-            "home_team": "St. Theresa Of Lisieux",
-            "away_team": "Stephen Lewis SS",
-            "time": "4:00 PM",
-            "location": "St Theresa Of Lisieux CHS",
-            "game_played": true,
-            "final_score": "St. Theresa Of Lisieux 84, Stephen Lewis SS 0"
-        },
-        {
             "date": "Friday, May 22, 2026",
             "home_team": null,
             "away_team": null,
@@ -56,6 +47,15 @@
         },
         {
             "date": "Wednesday, May 27, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, May 28, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

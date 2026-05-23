@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, May 21, 2026",
-            "home_team": "Bill Hogarth SS 11 (S )",
-            "away_team": "Markham District 6 (S )",
-            "time": "3:45 PM",
-            "location": "Bill Hogarth SS",
-            "game_played": false,
-            "final_score": null
-        },
-        {
             "date": "Friday, May 22, 2026",
             "home_team": null,
             "away_team": null,
@@ -56,6 +47,15 @@
         },
         {
             "date": "Wednesday, May 27, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, May 28, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
