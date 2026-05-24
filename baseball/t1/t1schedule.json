@@ -1,60 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Friday, May 22, 2026 - PLAYOFFS",
-            "home_team": "St. Maximilian",
-            "away_team": "St. Augustine",
-            "time": "10:00 AM",
-            "location": "Concord Regional 1",
-            "game_played": true,
-            "final_score": "St. Maximilian 2, St. Augustine 3"
-        },
-        {
-            "date": "Friday, May 22, 2026 - PLAYOFFS",
-            "home_team": "Father Bressani",
-            "away_team": "Huron Heights",
-            "time": "10:00 AM",
-            "location": "Concord Regional 2",
-            "game_played": true,
-            "final_score": "Father Bressani 3, Huron Heights 8"
-        },
-        {
-            "date": "Friday, May 22, 2026 - PLAYOFFS",
-            "home_team": "Huron Heights",
-            "away_team": "St. Augustine",
-            "time": "1:00 PM",
-            "location": "Concord Regional 2",
-            "game_played": true,
-            "final_score": "Huron Heights 1, St. Augustine 6"
-        },
-        {
-            "date": "Friday, May 22, 2026 - PLAYOFFS",
-            "home_team": "Newmarket HS",
-            "away_team": "Markham District",
-            "time": "10:00 AM",
-            "location": "Milliken Mills Park 1",
-            "game_played": true,
-            "final_score": "Newmarket HS 6, Markham District 12"
-        },
-        {
-            "date": "Friday, May 22, 2026 - PLAYOFFS",
-            "home_team": "St. Theresa Of Lisieux",
-            "away_team": "Stouffville",
-            "time": "10:00 AM",
-            "location": "Milliken Mills Park 3",
-            "game_played": true,
-            "final_score": "St. Theresa Of Lisieux 8, Stouffville 4"
-        },
-        {
-            "date": "Friday, May 22, 2026 - PLAYOFFS",
-            "home_team": "St. Theresa Of Lisieux",
-            "away_team": "Markham District",
-            "time": "1:00 PM",
-            "location": "Milliken Mills Park 3",
-            "game_played": true,
-            "final_score": "St. Theresa Of Lisieux 10, Markham District 6"
-        },
-        {
             "date": "Saturday, May 23, 2026",
             "home_team": null,
             "away_team": null,
@@ -101,6 +47,15 @@
         },
         {
             "date": "Thursday, May 28, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Friday, May 29, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
