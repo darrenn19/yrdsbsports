@@ -19,6 +19,15 @@
             "final_score": "St. Theresa Of Lisieux 6, St. Jean De Brebeuf CHS 13"
         },
         {
+            "date": "Monday, May 25, 2026",
+            "home_team": "Holy Cross",
+            "away_team": "Sir William Mulock",
+            "time": "12:00 PM",
+            "location": "Tudor Park 1",
+            "game_played": true,
+            "final_score": "Holy Cross 1, Sir William Mulock 2"
+        },
+        {
             "date": "Tuesday, May 26, 2026",
             "home_team": null,
             "away_team": null,
