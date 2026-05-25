@@ -19,6 +19,15 @@
             "final_score": "Bayview SS 6, St. Maximilian 7"
         },
         {
+            "date": "Monday, May 25, 2026 - PLAYOFFS",
+            "home_team": "Stouffville",
+            "away_team": "Stephen Lewis SS",
+            "time": "9:30 AM",
+            "location": "Stouffville DSS",
+            "game_played": true,
+            "final_score": "Stouffville 22, Stephen Lewis SS 12"
+        },
+        {
             "date": "Tuesday, May 26, 2026 - PLAYOFFS",
             "home_team": null,
             "away_team": null,
