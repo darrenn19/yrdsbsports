@@ -11,6 +11,16 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "St. Jean De Brebeuf CHS",
+            "W": "3",
+            "L": "1",
+            "T": "0",
+            "PTS": "6",
+            "RF": "38",
+            "RA": "20",
+            "DIFF": "18"
+        },
+        {
             "Team": "St. Augustine",
             "W": "2",
             "L": "0",
@@ -19,16 +29,6 @@
             "RF": "27",
             "RA": "20",
             "DIFF": "7"
-        },
-        {
-            "Team": "St. Jean De Brebeuf CHS",
-            "W": "2",
-            "L": "1",
-            "T": "0",
-            "PTS": "4",
-            "RF": "25",
-            "RA": "14",
-            "DIFF": "11"
         },
         {
             "Team": "Father Bressani",
@@ -63,12 +63,12 @@
         {
             "Team": "St. Theresa Of Lisieux",
             "W": "0",
-            "L": "3",
+            "L": "4",
             "T": "0",
             "PTS": "0",
-            "RF": "13",
-            "RA": "30",
-            "DIFF": "-17"
+            "RF": "19",
+            "RA": "43",
+            "DIFF": "-24"
         }
     ]
 }
