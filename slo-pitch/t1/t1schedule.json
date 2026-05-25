@@ -11,12 +11,12 @@
         },
         {
             "date": "Monday, May 25, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "St. Theresa Of Lisieux",
+            "away_team": "St. Jean De Brebeuf CHS",
+            "time": "10:30 AM",
+            "location": "Tudor Park 1",
+            "game_played": true,
+            "final_score": "St. Theresa Of Lisieux 6, St. Jean De Brebeuf CHS 13"
         },
         {
             "date": "Tuesday, May 26, 2026",
