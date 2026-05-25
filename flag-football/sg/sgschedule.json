@@ -11,6 +11,15 @@
         },
         {
             "date": "Monday, May 25, 2026 - PLAYOFFS",
+            "home_team": "Cardinal Carter",
+            "away_team": "Sacred Heart",
+            "time": "10:45 AM",
+            "location": "Markville SS",
+            "game_played": true,
+            "final_score": "Cardinal Carter 6, Sacred Heart 9"
+        },
+        {
+            "date": "Monday, May 25, 2026 - PLAYOFFS",
             "home_team": "Bayview SS",
             "away_team": "St. Maximilian",
             "time": "10:45 AM",
