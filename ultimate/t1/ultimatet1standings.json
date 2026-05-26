@@ -171,6 +171,16 @@
             "PA": "21"
         },
         {
+            "Team": "Hodan Nalayeh SS",
+            "W": "2",
+            "L": "1",
+            "T": "0",
+            "PTS": "4",
+            "SPTS": "62",
+            "PF": "29",
+            "PA": "17"
+        },
+        {
             "Team": "Toronto District Christian",
             "W": "1",
             "L": "1",
@@ -181,24 +191,14 @@
             "PA": "15"
         },
         {
-            "Team": "Hodan Nalayeh SS",
-            "W": "1",
-            "L": "1",
-            "T": "0",
-            "PTS": "2",
-            "SPTS": "40",
-            "PF": "14",
-            "PA": "16"
-        },
-        {
             "Team": "Holy Cross",
             "W": "0",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "0",
-            "SPTS": "16",
-            "PF": "0",
-            "PA": "15"
+            "SPTS": "35",
+            "PF": "1",
+            "PA": "30"
         },
         {
             "Team": "St. Theresa Of Lisieux",

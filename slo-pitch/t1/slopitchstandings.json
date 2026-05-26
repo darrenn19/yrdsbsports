@@ -11,64 +11,64 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "St. Augustine",
+            "W": "4",
+            "L": "0",
+            "T": "1",
+            "PTS": "9",
+            "RF": "42",
+            "RA": "25",
+            "DIFF": "17"
+        },
+        {
             "Team": "St. Jean De Brebeuf CHS",
             "W": "3",
             "L": "1",
-            "T": "0",
-            "PTS": "6",
-            "RF": "38",
-            "RA": "20",
-            "DIFF": "18"
+            "T": "1",
+            "PTS": "7",
+            "RF": "43",
+            "RA": "28",
+            "DIFF": "15"
         },
         {
-            "Team": "St. Augustine",
-            "W": "2",
-            "L": "0",
-            "T": "1",
-            "PTS": "5",
-            "RF": "27",
-            "RA": "20",
-            "DIFF": "7"
+            "Team": "Sir William Mulock",
+            "W": "3",
+            "L": "2",
+            "T": "0",
+            "PTS": "6",
+            "RF": "26",
+            "RA": "21",
+            "DIFF": "5"
         },
         {
             "Team": "Father Bressani",
             "W": "2",
-            "L": "1",
-            "T": "0",
-            "PTS": "4",
-            "RF": "23",
-            "RA": "15",
-            "DIFF": "8"
-        },
-        {
-            "Team": "Sir William Mulock",
-            "W": "2",
             "L": "2",
-            "T": "0",
-            "PTS": "4",
-            "RF": "24",
-            "RA": "20",
+            "T": "1",
+            "PTS": "5",
+            "RF": "35",
+            "RA": "31",
             "DIFF": "4"
         },
         {
             "Team": "Holy Cross",
             "W": "1",
-            "L": "2",
+            "L": "3",
             "T": "1",
             "PTS": "3",
-            "RF": "22",
-            "RA": "35",
-            "DIFF": "-13"
+            "RF": "23",
+            "RA": "37",
+            "DIFF": "-14"
         },
         {
             "Team": "St. Theresa Of Lisieux",
             "W": "0",
-            "L": "4",
+            "L": "5",
             "T": "0",
             "PTS": "0",
-            "RF": "19",
-            "RA": "43",
-            "DIFF": "-24"
+            "RF": "20",
+            "RA": "47",
+            "DIFF": "-27"
         }
     ]
 }

@@ -281,6 +281,16 @@
             "PA": "PA"
         },
         {
+            "Team": "Thornhill SS",
+            "W": "4",
+            "L": "2",
+            "T": "0",
+            "PTS": "8",
+            "SPTS": "112",
+            "PF": "31",
+            "PA": "24"
+        },
+        {
             "Team": "Stephen Lewis SS",
             "W": "4",
             "L": "0",
@@ -289,6 +299,16 @@
             "SPTS": "75",
             "PF": "26",
             "PA": "8"
+        },
+        {
+            "Team": "Maple High School",
+            "W": "3",
+            "L": "1",
+            "T": "0",
+            "PTS": "6",
+            "SPTS": "67",
+            "PF": "17",
+            "PA": "16"
         },
         {
             "Team": "St. Jean De Brebeuf CHS",
@@ -301,14 +321,14 @@
             "PA": "14"
         },
         {
-            "Team": "Thornhill SS",
+            "Team": "Thornlea SS",
             "W": "3",
-            "L": "1",
+            "L": "3",
             "T": "0",
             "PTS": "6",
-            "SPTS": "79",
-            "PF": "25",
-            "PA": "18"
+            "SPTS": "100",
+            "PF": "37",
+            "PA": "27"
         },
         {
             "Team": "Toronto District Christian",
@@ -331,34 +351,14 @@
             "PA": "34"
         },
         {
-            "Team": "Maple High School",
-            "W": "2",
-            "L": "0",
-            "T": "0",
-            "PTS": "4",
-            "SPTS": "30",
-            "PF": "10",
-            "PA": "6"
-        },
-        {
-            "Team": "Thornlea SS",
-            "W": "1",
-            "L": "3",
-            "T": "0",
-            "PTS": "2",
-            "SPTS": "70",
-            "PF": "21",
-            "PA": "21"
-        },
-        {
             "Team": "St. Joan Of Arc",
             "W": "0",
-            "L": "3",
+            "L": "5",
             "T": "0",
             "PTS": "0",
-            "SPTS": "49",
-            "PF": "5",
-            "PA": "16"
+            "SPTS": "80",
+            "PF": "10",
+            "PA": "28"
         },
         {
             "Team": "Westmount",
