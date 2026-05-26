@@ -2,12 +2,12 @@
     "schedule": [
         {
             "date": "Monday, May 25, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "St. Maximilian",
+            "away_team": "Huron Heights",
+            "time": "3:00 PM",
+            "location": "St Maximilian Kolbe CHS",
+            "game_played": true,
+            "final_score": "St. Maximilian 12, Huron Heights 15"
         },
         {
             "date": "Tuesday, May 26, 2026",

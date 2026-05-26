@@ -11,6 +11,24 @@
         },
         {
             "date": "Monday, May 25, 2026 - PLAYOFFS",
+            "home_team": "Markville",
+            "away_team": "Sacred Heart",
+            "time": "1:30 PM",
+            "location": "Markville SS",
+            "game_played": true,
+            "final_score": "Markville 19, Sacred Heart 21"
+        },
+        {
+            "date": "Monday, May 25, 2026 - PLAYOFFS",
+            "home_team": "Markville",
+            "away_team": "St. Jean De Brebeuf CHS",
+            "time": "9:30 AM",
+            "location": "Markville SS",
+            "game_played": true,
+            "final_score": "Markville 27, St. Jean De Brebeuf CHS 0"
+        },
+        {
+            "date": "Monday, May 25, 2026 - PLAYOFFS",
             "home_team": "Bayview SS",
             "away_team": "St. Maximilian",
             "time": "10:45 AM",
