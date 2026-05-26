@@ -46,6 +46,15 @@
             "final_score": "Maple High School 7, Alexander Mackenzie 11"
         },
         {
+            "date": "Tuesday, May 26, 2026",
+            "home_team": "Thornhill SS",
+            "away_team": "Our Lady Queen Of The World",
+            "time": "12:00 PM",
+            "location": "Richmond Green 7",
+            "game_played": true,
+            "final_score": "Thornhill SS 1, Our Lady Queen Of The World 15"
+        },
+        {
             "date": "Wednesday, May 27, 2026",
             "home_team": null,
             "away_team": null,
