@@ -1,22 +1,13 @@
 {
     "schedule": [
         {
-            "date": "Sunday, May 24, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
-        },
-        {
             "date": "Monday, May 25, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Markville",
+            "away_team": "Father McGivney",
+            "time": "12:00 PM",
+            "location": "Milliken Mills Park 3",
+            "game_played": true,
+            "final_score": "Markville 10, Father McGivney 0"
         },
         {
             "date": "Tuesday, May 26, 2026",
@@ -56,6 +47,15 @@
         },
         {
             "date": "Saturday, May 30, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Sunday, May 31, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
