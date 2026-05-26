@@ -29,12 +29,21 @@
         },
         {
             "date": "Tuesday, May 26, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Hodan Nalayeh SS",
+            "away_team": "Tommy Douglas SS",
+            "time": "12:00 PM",
+            "location": "Concord Regional 1",
+            "game_played": true,
+            "final_score": "Hodan Nalayeh SS 3, Tommy Douglas SS 2"
+        },
+        {
+            "date": "Tuesday, May 26, 2026",
+            "home_team": "Maple High School",
+            "away_team": "Alexander Mackenzie",
+            "time": "12:00 PM",
+            "location": "Concord Regional 2",
+            "game_played": true,
+            "final_score": "Maple High School 7, Alexander Mackenzie 11"
         },
         {
             "date": "Wednesday, May 27, 2026",
