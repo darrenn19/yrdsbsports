@@ -20,6 +20,24 @@
         },
         {
             "date": "Monday, May 25, 2026",
+            "home_team": "Thornhill SS",
+            "away_team": "Maple High School",
+            "time": "3:30 PM",
+            "location": "Thornhill SS",
+            "game_played": true,
+            "final_score": "Thornhill SS 3, Maple High School 4"
+        },
+        {
+            "date": "Monday, May 25, 2026",
+            "home_team": "Thornhill SS 3 (S )",
+            "away_team": "St. Joan Of Arc 2 (S )",
+            "time": "4:30 PM",
+            "location": "Thornhill SS",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, May 25, 2026",
             "home_team": "Thornlea SS 7 (S )",
             "away_team": "Maple High School 3 (S )",
             "time": "4:30 PM",
