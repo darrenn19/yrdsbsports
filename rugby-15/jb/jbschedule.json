@@ -10,6 +10,15 @@
             "final_score": "St. Maximilian 12, Huron Heights 15"
         },
         {
+            "date": "Monday, May 25, 2026",
+            "home_team": "Bill Crothers SS",
+            "away_team": "Stouffville",
+            "time": "4:30 PM",
+            "location": "Thornlea SS",
+            "game_played": true,
+            "final_score": "Bill Crothers SS 41, Stouffville 0"
+        },
+        {
             "date": "Tuesday, May 26, 2026",
             "home_team": null,
             "away_team": null,
