@@ -2,12 +2,12 @@
     "schedule": [
         {
             "date": "Tuesday, May 26, 2026 - PLAYOFFS",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Father Bressani",
+            "away_team": "Sacred Heart",
+            "time": "12:00 PM",
+            "location": "North Maple Regional Park",
+            "game_played": true,
+            "final_score": "Father Bressani 1, Sacred Heart 2"
         },
         {
             "date": "Wednesday, May 27, 2026",
