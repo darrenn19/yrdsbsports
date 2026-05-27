@@ -57,6 +57,15 @@
         {
             "date": "Tuesday, May 26, 2026 - PLAYOFFS",
             "home_team": "Dr. J.M. Denison",
+            "away_team": "Markham District",
+            "time": "1:30 PM",
+            "location": "Dr J M Denison SS",
+            "game_played": true,
+            "final_score": "Dr. J.M. Denison 19, Markham District 0"
+        },
+        {
+            "date": "Tuesday, May 26, 2026 - PLAYOFFS",
+            "home_team": "Dr. J.M. Denison",
             "away_team": "Bill Crothers SS",
             "time": "9:30 AM",
             "location": "Dr J M Denison SS",
