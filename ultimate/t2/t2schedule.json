@@ -1,42 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, May 25, 2026",
-            "home_team": "Thornlea SS 9 (S )",
-            "away_team": "St. Joan Of Arc 3 (S )",
-            "time": "3:30 PM",
-            "location": "Thornhill SS",
-            "game_played": false,
-            "final_score": null
-        },
-        {
-            "date": "Monday, May 25, 2026",
-            "home_team": "Thornhill SS",
-            "away_team": "Maple High School",
-            "time": "3:30 PM",
-            "location": "Thornhill SS",
-            "game_played": true,
-            "final_score": "Thornhill SS 3, Maple High School 4"
-        },
-        {
-            "date": "Monday, May 25, 2026",
-            "home_team": "Thornhill SS 3 (S )",
-            "away_team": "St. Joan Of Arc 2 (S )",
-            "time": "4:30 PM",
-            "location": "Thornhill SS",
-            "game_played": false,
-            "final_score": null
-        },
-        {
-            "date": "Monday, May 25, 2026",
-            "home_team": "Thornlea SS 7 (S )",
-            "away_team": "Maple High School 3 (S )",
-            "time": "4:30 PM",
-            "location": "Thornhill SS",
-            "game_played": false,
-            "final_score": null
-        },
-        {
             "date": "Tuesday, May 26, 2026",
             "home_team": "Bill Hogarth SS",
             "away_team": "Markville",
@@ -53,6 +17,33 @@
             "location": "Bur Oak SS",
             "game_played": false,
             "final_score": null
+        },
+        {
+            "date": "Tuesday, May 26, 2026",
+            "home_team": "Sacred Heart 10 (S )",
+            "away_team": "Huron Heights 5 (S )",
+            "time": "3:30 PM",
+            "location": "Sacred Heart CHS",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, May 26, 2026",
+            "home_team": "Sacred Heart",
+            "away_team": "Dr. J.M. Denison",
+            "time": "4:30 PM",
+            "location": "Sacred Heart CHS",
+            "game_played": true,
+            "final_score": "Sacred Heart 5, Dr. J.M. Denison 5"
+        },
+        {
+            "date": "Tuesday, May 26, 2026",
+            "home_team": "Sir William Mulock",
+            "away_team": "Huron Heights",
+            "time": "4:30 PM",
+            "location": "Sacred Heart CHS",
+            "game_played": true,
+            "final_score": "Sir William Mulock 3, Huron Heights 9"
         },
         {
             "date": "Tuesday, May 26, 2026",
@@ -137,6 +128,15 @@
         },
         {
             "date": "Sunday, May 31, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, June 1, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

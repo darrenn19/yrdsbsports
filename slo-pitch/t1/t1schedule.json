@@ -1,51 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, May 25, 2026",
-            "home_team": "St. Theresa Of Lisieux",
-            "away_team": "St. Jean De Brebeuf CHS",
-            "time": "10:30 AM",
-            "location": "Tudor Park 1",
-            "game_played": true,
-            "final_score": "St. Theresa Of Lisieux 6, St. Jean De Brebeuf CHS 13"
-        },
-        {
-            "date": "Monday, May 25, 2026",
-            "home_team": "Holy Cross",
-            "away_team": "Sir William Mulock",
-            "time": "12:00 PM",
-            "location": "Tudor Park 1",
-            "game_played": true,
-            "final_score": "Holy Cross 1, Sir William Mulock 2"
-        },
-        {
-            "date": "Monday, May 25, 2026",
-            "home_team": "Father Bressani",
-            "away_team": "St. Jean De Brebeuf CHS",
-            "time": "1:30 PM",
-            "location": "Tudor Park 1",
-            "game_played": true,
-            "final_score": "Father Bressani 8, St. Jean De Brebeuf CHS 8"
-        },
-        {
-            "date": "Monday, May 25, 2026",
-            "home_team": "St. Augustine",
-            "away_team": "Father Bressani",
-            "time": "10:30 AM",
-            "location": "Tudor Park 2",
-            "game_played": true,
-            "final_score": "St. Augustine 8, Father Bressani 4"
-        },
-        {
-            "date": "Monday, May 25, 2026",
-            "home_team": "St. Augustine",
-            "away_team": "St. Theresa Of Lisieux",
-            "time": "12:00 PM",
-            "location": "Tudor Park 2",
-            "game_played": true,
-            "final_score": "St. Augustine 7, St. Theresa Of Lisieux 1"
-        },
-        {
             "date": "Tuesday, May 26, 2026",
             "home_team": null,
             "away_team": null,
@@ -92,6 +47,15 @@
         },
         {
             "date": "Sunday, May 31, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, June 1, 2026 - PLAYOFFS",
             "home_team": null,
             "away_team": null,
             "time": null,

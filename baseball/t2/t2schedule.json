@@ -1,33 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, May 25, 2026",
-            "home_team": "Markville",
-            "away_team": "Father McGivney",
-            "time": "12:00 PM",
-            "location": "Milliken Mills Park 3",
-            "game_played": true,
-            "final_score": "Markville 10, Father McGivney 0"
-        },
-        {
-            "date": "Monday, May 25, 2026",
-            "home_team": "Unionville HS",
-            "away_team": "Bill Hogarth SS",
-            "time": "3:00 PM",
-            "location": "Milliken Mills Park 3",
-            "game_played": true,
-            "final_score": "Unionville HS 5, Bill Hogarth SS 8"
-        },
-        {
-            "date": "Monday, May 25, 2026",
-            "home_team": "Dr. G.W. Williams",
-            "away_team": "Cardinal Carter",
-            "time": "3:00 PM",
-            "location": "Stronach Aurora Recreation Complex",
-            "game_played": true,
-            "final_score": "Dr. G.W. Williams 4, Cardinal Carter 1"
-        },
-        {
             "date": "Tuesday, May 26, 2026",
             "home_team": "Hodan Nalayeh SS",
             "away_team": "Tommy Douglas SS",
@@ -110,6 +83,15 @@
         },
         {
             "date": "Sunday, May 31, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, June 1, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

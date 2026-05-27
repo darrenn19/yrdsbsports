@@ -1,24 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, May 25, 2026 - PLAYOFFS",
-            "home_team": "St. Theresa Of Lisieux",
-            "away_team": "Sacred Heart",
-            "time": "3:00 PM",
-            "location": "Crosby Park",
-            "game_played": true,
-            "final_score": "St. Theresa Of Lisieux 1, Sacred Heart 3"
-        },
-        {
-            "date": "Monday, May 25, 2026 - PLAYOFFS",
-            "home_team": "Father Bressani",
-            "away_team": "St. Maximilian",
-            "time": "3:15 PM",
-            "location": "Father Bressani CHS",
-            "game_played": true,
-            "final_score": "Father Bressani 4, St. Maximilian 2"
-        },
-        {
             "date": "Tuesday, May 26, 2026 - PLAYOFFS",
             "home_team": null,
             "away_team": null,
@@ -65,6 +47,15 @@
         },
         {
             "date": "Sunday, May 31, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, June 1, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
