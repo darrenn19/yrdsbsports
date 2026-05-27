@@ -20,21 +20,57 @@
         },
         {
             "date": "Tuesday, May 26, 2026",
-            "home_team": "Sacred Heart 10 (S )",
-            "away_team": "Huron Heights 5 (S )",
+            "home_team": "Dr. G.W. Williams 5 (S )",
+            "away_team": "Innova Academy 1 (S )",
             "time": "3:30 PM",
-            "location": "Sacred Heart CHS",
+            "location": "Keswick HS",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, May 26, 2026",
+            "home_team": "Dr. G.W. Williams",
+            "away_team": "Newmarket HS",
+            "time": "4:30 PM",
+            "location": "Keswick HS",
+            "game_played": true,
+            "final_score": "Dr. G.W. Williams 5, Newmarket HS 5"
+        },
+        {
+            "date": "Tuesday, May 26, 2026",
+            "home_team": "Stouffville 6 (S )",
+            "away_team": "Father McGivney 1 (S )",
+            "time": "3:30 PM",
+            "location": "Milliken Mills HS",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, May 26, 2026",
+            "home_team": "Stouffville 8 (S )",
+            "away_team": "St. Brother Andre 5 (S )",
+            "time": "4:30 PM",
+            "location": "Milliken Mills HS",
             "game_played": false,
             "final_score": null
         },
         {
             "date": "Tuesday, May 26, 2026",
             "home_team": "Sir William Mulock",
-            "away_team": "Huron Heights",
-            "time": "4:30 PM",
+            "away_team": "Dr. J.M. Denison",
+            "time": "3:30 PM",
             "location": "Sacred Heart CHS",
             "game_played": true,
-            "final_score": "Sir William Mulock 3, Huron Heights 9"
+            "final_score": "Sir William Mulock 0, Dr. J.M. Denison 9"
+        },
+        {
+            "date": "Tuesday, May 26, 2026",
+            "home_team": "Sacred Heart 10 (S )",
+            "away_team": "Huron Heights 5 (S )",
+            "time": "3:30 PM",
+            "location": "Sacred Heart CHS",
+            "game_played": false,
+            "final_score": null
         },
         {
             "date": "Tuesday, May 26, 2026",
@@ -47,9 +83,27 @@
         },
         {
             "date": "Tuesday, May 26, 2026",
+            "home_team": "Sir William Mulock",
+            "away_team": "Huron Heights",
+            "time": "4:30 PM",
+            "location": "Sacred Heart CHS",
+            "game_played": true,
+            "final_score": "Sir William Mulock 3, Huron Heights 9"
+        },
+        {
+            "date": "Tuesday, May 26, 2026",
             "home_team": "St. Robert 8 (S )",
             "away_team": "Alexander Mackenzie 1 (S )",
             "time": "3:30 PM",
+            "location": "St Robert CHS",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, May 26, 2026",
+            "home_team": "St. Robert 7 (S )",
+            "away_team": "Our Lady Queen Of The World 3 (S )",
+            "time": "4:30 PM",
             "location": "St Robert CHS",
             "game_played": false,
             "final_score": null
@@ -65,10 +119,10 @@
         },
         {
             "date": "Tuesday, May 26, 2026",
-            "home_team": "St. Robert 7 (S )",
-            "away_team": "Our Lady Queen Of The World 3 (S )",
-            "time": "4:30 PM",
-            "location": "St Robert CHS",
+            "home_team": "Bayview SS 7 (S )",
+            "away_team": "Langstaff SS 1 (S )",
+            "time": "3:30 PM",
+            "location": "Unionville HS",
             "game_played": false,
             "final_score": null
         },
@@ -85,6 +139,15 @@
             "date": "Tuesday, May 26, 2026",
             "home_team": "Unionville HS 5 (S )",
             "away_team": "Langstaff SS 0 (S )",
+            "time": "4:30 PM",
+            "location": "Unionville HS",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, May 26, 2026",
+            "home_team": "Bayview SS 4 (S )",
+            "away_team": "St. Augustine 3 (S )",
             "time": "4:30 PM",
             "location": "Unionville HS",
             "game_played": false,
@@ -137,10 +200,10 @@
         },
         {
             "date": "Monday, June 1, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
+            "home_team": "Bayview SS 7 (S )",
+            "away_team": "Our Lady Queen Of The World 1 (S )",
+            "time": "3:30 PM",
+            "location": "Bayview SS",
             "game_played": false,
             "final_score": null
         }
