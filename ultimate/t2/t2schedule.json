@@ -38,6 +38,51 @@
         },
         {
             "date": "Tuesday, May 26, 2026",
+            "home_team": "Bill Hogarth SS",
+            "away_team": "Markville",
+            "time": "3:30 PM",
+            "location": "Bur Oak SS",
+            "game_played": true,
+            "final_score": "Bill Hogarth SS 6, Markville 6"
+        },
+        {
+            "date": "Tuesday, May 26, 2026",
+            "home_team": "Bur Oak SS 7 (S )",
+            "away_team": "Markville 1 (S )",
+            "time": "4:30 PM",
+            "location": "Bur Oak SS",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, May 26, 2026",
+            "home_team": "St. Robert 8 (S )",
+            "away_team": "Alexander Mackenzie 1 (S )",
+            "time": "3:30 PM",
+            "location": "St Robert CHS",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, May 26, 2026",
+            "home_team": "St. Robert 7 (S )",
+            "away_team": "Our Lady Queen Of The World 3 (S )",
+            "time": "4:30 PM",
+            "location": "St Robert CHS",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, May 26, 2026",
+            "home_team": "Alexander Mackenzie",
+            "away_team": "Richmond Hill HS",
+            "time": "4:30 PM",
+            "location": "St Robert CHS",
+            "game_played": true,
+            "final_score": "Alexander Mackenzie 6, Richmond Hill HS 7"
+        },
+        {
+            "date": "Tuesday, May 26, 2026",
             "home_team": "Unionville HS",
             "away_team": "St. Augustine",
             "time": "3:30 PM",
