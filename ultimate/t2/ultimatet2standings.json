@@ -21,6 +21,16 @@
             "PA": "20"
         },
         {
+            "Team": "Bayview SS",
+            "W": "5",
+            "L": "3",
+            "T": "1",
+            "PTS": "11",
+            "SPTS": "85",
+            "PF": "49",
+            "PA": "28"
+        },
+        {
             "Team": "Unionville HS",
             "W": "5",
             "L": "2",
@@ -43,12 +53,12 @@
         {
             "Team": "St. Augustine",
             "W": "3",
-            "L": "2",
+            "L": "3",
             "T": "2",
             "PTS": "8",
-            "SPTS": "121",
-            "PF": "37",
-            "PA": "33"
+            "SPTS": "136",
+            "PF": "40",
+            "PA": "37"
         },
         {
             "Team": "Alexander Mackenzie",
@@ -61,34 +71,24 @@
             "PA": "42"
         },
         {
-            "Team": "Bayview SS",
-            "W": "2",
-            "L": "3",
-            "T": "1",
-            "PTS": "5",
-            "SPTS": "41",
-            "PF": "31",
-            "PA": "23"
-        },
-        {
             "Team": "Our Lady Queen Of The World",
             "W": "1",
-            "L": "6",
+            "L": "7",
             "T": "0",
             "PTS": "2",
-            "SPTS": "48",
-            "PF": "17",
-            "PA": "58"
+            "SPTS": "63",
+            "PF": "18",
+            "PA": "65"
         },
         {
             "Team": "Langstaff SS",
             "W": "0",
-            "L": "7",
+            "L": "8",
             "T": "0",
             "PTS": "0",
-            "SPTS": "109",
-            "PF": "18",
-            "PA": "57"
+            "SPTS": "124",
+            "PF": "19",
+            "PA": "64"
         },
         {
             "Team": "East",
@@ -101,6 +101,16 @@
             "PA": "PA"
         },
         {
+            "Team": "Stouffville",
+            "W": "6",
+            "L": "1",
+            "T": "1",
+            "PTS": "13",
+            "SPTS": "116",
+            "PF": "51",
+            "PA": "25"
+        },
+        {
             "Team": "Bur Oak SS",
             "W": "6",
             "L": "0",
@@ -111,24 +121,14 @@
             "PA": "23"
         },
         {
-            "Team": "Stouffville",
-            "W": "4",
-            "L": "1",
-            "T": "1",
-            "PTS": "9",
-            "SPTS": "91",
-            "PF": "37",
-            "PA": "19"
-        },
-        {
             "Team": "St. Brother Andre",
             "W": "4",
-            "L": "2",
+            "L": "3",
             "T": "0",
             "PTS": "8",
-            "SPTS": "93",
-            "PF": "38",
-            "PA": "29"
+            "SPTS": "109",
+            "PF": "43",
+            "PA": "37"
         },
         {
             "Team": "Bill Hogarth SS",
@@ -153,12 +153,12 @@
         {
             "Team": "Father McGivney",
             "W": "2",
-            "L": "3",
+            "L": "4",
             "T": "1",
             "PTS": "5",
-            "SPTS": "87",
-            "PF": "36",
-            "PA": "32"
+            "SPTS": "99",
+            "PF": "37",
+            "PA": "38"
         },
         {
             "Team": "Milliken Mills",
@@ -191,6 +191,26 @@
             "PA": "PA"
         },
         {
+            "Team": "Dr. J.M. Denison",
+            "W": "7",
+            "L": "0",
+            "T": "1",
+            "PTS": "15",
+            "SPTS": "147",
+            "PF": "56",
+            "PA": "26"
+        },
+        {
+            "Team": "Newmarket HS",
+            "W": "6",
+            "L": "1",
+            "T": "1",
+            "PTS": "13",
+            "SPTS": "111",
+            "PF": "63",
+            "PA": "24"
+        },
+        {
             "Team": "Sacred Heart",
             "W": "6",
             "L": "1",
@@ -201,34 +221,24 @@
             "PA": "32"
         },
         {
-            "Team": "Dr. J.M. Denison",
-            "W": "6",
-            "L": "0",
-            "T": "1",
-            "PTS": "13",
-            "SPTS": "124",
-            "PF": "47",
-            "PA": "26"
-        },
-        {
-            "Team": "Newmarket HS",
+            "Team": "Keswick High School",
             "W": "5",
-            "L": "1",
+            "L": "3",
             "T": "0",
             "PTS": "10",
-            "SPTS": "80",
-            "PF": "49",
-            "PA": "17"
+            "SPTS": "124",
+            "PF": "46",
+            "PA": "32"
         },
         {
-            "Team": "Keswick High School",
-            "W": "4",
-            "L": "2",
-            "T": "0",
-            "PTS": "8",
-            "SPTS": "93",
-            "PF": "37",
-            "PA": "21"
+            "Team": "Dr. G.W. Williams",
+            "W": "3",
+            "L": "4",
+            "T": "1",
+            "PTS": "7",
+            "SPTS": "142",
+            "PF": "30",
+            "PA": "35"
         },
         {
             "Team": "Huron Heights",
@@ -241,34 +251,24 @@
             "PA": "49"
         },
         {
-            "Team": "Dr. G.W. Williams",
-            "W": "2",
-            "L": "4",
-            "T": "0",
-            "PTS": "4",
-            "SPTS": "107",
-            "PF": "20",
-            "PA": "29"
-        },
-        {
             "Team": "Sir William Mulock",
             "W": "1",
-            "L": "6",
+            "L": "7",
             "T": "0",
             "PTS": "2",
-            "SPTS": "116",
+            "SPTS": "139",
             "PF": "21",
-            "PA": "47"
+            "PA": "56"
         },
         {
             "Team": "Innova Academy",
             "W": "0",
-            "L": "6",
+            "L": "8",
             "T": "0",
             "PTS": "0",
-            "SPTS": "93",
-            "PF": "12",
-            "PA": "46"
+            "SPTS": "125",
+            "PF": "15",
+            "PA": "58"
         },
         {
             "Team": "West",

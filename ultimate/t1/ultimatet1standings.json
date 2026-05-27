@@ -191,24 +191,24 @@
             "PA": "15"
         },
         {
-            "Team": "Holy Cross",
-            "W": "0",
-            "L": "2",
+            "Team": "St. Theresa Of Lisieux",
+            "W": "1",
+            "L": "3",
             "T": "0",
-            "PTS": "0",
-            "SPTS": "35",
-            "PF": "1",
-            "PA": "30"
+            "PTS": "2",
+            "SPTS": "71",
+            "PF": "35",
+            "PA": "34"
         },
         {
-            "Team": "St. Theresa Of Lisieux",
+            "Team": "Holy Cross",
             "W": "0",
             "L": "3",
             "T": "0",
             "PTS": "0",
             "SPTS": "53",
-            "PF": "22",
-            "PA": "26"
+            "PF": "9",
+            "PA": "43"
         }
     ]
 }
