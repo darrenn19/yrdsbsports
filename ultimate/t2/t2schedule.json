@@ -29,21 +29,21 @@
         },
         {
             "date": "Tuesday, May 26, 2026",
-            "home_team": "Sacred Heart",
-            "away_team": "Dr. J.M. Denison",
-            "time": "4:30 PM",
-            "location": "Sacred Heart CHS",
-            "game_played": true,
-            "final_score": "Sacred Heart 5, Dr. J.M. Denison 5"
-        },
-        {
-            "date": "Tuesday, May 26, 2026",
             "home_team": "Sir William Mulock",
             "away_team": "Huron Heights",
             "time": "4:30 PM",
             "location": "Sacred Heart CHS",
             "game_played": true,
             "final_score": "Sir William Mulock 3, Huron Heights 9"
+        },
+        {
+            "date": "Tuesday, May 26, 2026",
+            "home_team": "Sacred Heart",
+            "away_team": "Dr. J.M. Denison",
+            "time": "4:30 PM",
+            "location": "Sacred Heart CHS",
+            "game_played": true,
+            "final_score": "Sacred Heart 5, Dr. J.M. Denison 5"
         },
         {
             "date": "Tuesday, May 26, 2026",
@@ -56,21 +56,21 @@
         },
         {
             "date": "Tuesday, May 26, 2026",
-            "home_team": "St. Robert 7 (S )",
-            "away_team": "Our Lady Queen Of The World 3 (S )",
-            "time": "4:30 PM",
-            "location": "St Robert CHS",
-            "game_played": false,
-            "final_score": null
-        },
-        {
-            "date": "Tuesday, May 26, 2026",
             "home_team": "Alexander Mackenzie",
             "away_team": "Richmond Hill HS",
             "time": "4:30 PM",
             "location": "St Robert CHS",
             "game_played": true,
             "final_score": "Alexander Mackenzie 6, Richmond Hill HS 7"
+        },
+        {
+            "date": "Tuesday, May 26, 2026",
+            "home_team": "St. Robert 7 (S )",
+            "away_team": "Our Lady Queen Of The World 3 (S )",
+            "time": "4:30 PM",
+            "location": "St Robert CHS",
+            "game_played": false,
+            "final_score": null
         },
         {
             "date": "Tuesday, May 26, 2026",
