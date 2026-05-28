@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, May 26, 2026",
-            "home_team": "Holy Cross",
-            "away_team": "St. Theresa Of Lisieux",
-            "time": "3:15 PM",
-            "location": "Holy Cross CA",
-            "game_played": true,
-            "final_score": "Holy Cross 8, St. Theresa Of Lisieux 13"
-        },
-        {
             "date": "Wednesday, May 27, 2026",
             "home_team": null,
             "away_team": null,
@@ -56,6 +47,15 @@
         },
         {
             "date": "Monday, June 1, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, June 2, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

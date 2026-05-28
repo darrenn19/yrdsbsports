@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, May 26, 2026",
-            "home_team": "Sir William Mulock",
-            "away_team": "Stephen Lewis SS",
-            "time": "3:15 PM",
-            "location": "Sir William Mulock",
-            "game_played": true,
-            "final_score": "Sir William Mulock 7, Stephen Lewis SS 27"
-        },
-        {
             "date": "Wednesday, May 27, 2026",
             "home_team": null,
             "away_team": null,
@@ -56,6 +47,15 @@
         },
         {
             "date": "Monday, June 1, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, June 2, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

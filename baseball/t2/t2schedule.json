@@ -1,51 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, May 26, 2026",
-            "home_team": "Hodan Nalayeh SS",
-            "away_team": "Tommy Douglas SS",
-            "time": "12:00 PM",
-            "location": "Concord Regional 1",
-            "game_played": true,
-            "final_score": "Hodan Nalayeh SS 3, Tommy Douglas SS 2"
-        },
-        {
-            "date": "Tuesday, May 26, 2026",
-            "home_team": "Westmount",
-            "away_team": "St. Robert",
-            "time": "3:00 PM",
-            "location": "Concord Regional 1",
-            "game_played": true,
-            "final_score": "Westmount 0, St. Robert 7"
-        },
-        {
-            "date": "Tuesday, May 26, 2026",
-            "home_team": "Maple High School",
-            "away_team": "Alexander Mackenzie",
-            "time": "12:00 PM",
-            "location": "Concord Regional 2",
-            "game_played": true,
-            "final_score": "Maple High School 7, Alexander Mackenzie 11"
-        },
-        {
-            "date": "Tuesday, May 26, 2026",
-            "home_team": "Thornhill SS",
-            "away_team": "Our Lady Queen Of The World",
-            "time": "12:00 PM",
-            "location": "Richmond Green 7",
-            "game_played": true,
-            "final_score": "Thornhill SS 1, Our Lady Queen Of The World 15"
-        },
-        {
-            "date": "Tuesday, May 26, 2026",
-            "home_team": "Bayview SS",
-            "away_team": "Thornlea SS",
-            "time": "3:00 PM",
-            "location": "Richmond Green 7",
-            "game_played": true,
-            "final_score": "Bayview SS 4, Thornlea SS 1"
-        },
-        {
             "date": "Wednesday, May 27, 2026",
             "home_team": null,
             "away_team": null,
@@ -92,6 +47,15 @@
         },
         {
             "date": "Monday, June 1, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, June 2, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

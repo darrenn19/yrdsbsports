@@ -1,78 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, May 26, 2026 - PLAYOFFS",
-            "home_team": "Hodan Nalayeh SS",
-            "away_team": "Unionville HS",
-            "time": "10:45 AM",
-            "location": "Dr G W Williams SS",
-            "game_played": true,
-            "final_score": "Hodan Nalayeh SS 42, Unionville HS 0"
-        },
-        {
-            "date": "Tuesday, May 26, 2026 - PLAYOFFS",
-            "home_team": "Unionville HS",
-            "away_team": "St. Elizabeth",
-            "time": "12:15 PM",
-            "location": "Dr G W Williams SS",
-            "game_played": true,
-            "final_score": "Unionville HS 20, St. Elizabeth 20"
-        },
-        {
-            "date": "Tuesday, May 26, 2026 - PLAYOFFS",
-            "home_team": "Dr. G.W. Williams",
-            "away_team": "Hodan Nalayeh SS",
-            "time": "1:30 PM",
-            "location": "Dr G W Williams SS",
-            "game_played": true,
-            "final_score": "Dr. G.W. Williams 12, Hodan Nalayeh SS 6"
-        },
-        {
-            "date": "Tuesday, May 26, 2026 - PLAYOFFS",
-            "home_team": "Dr. G.W. Williams",
-            "away_team": "St. Elizabeth",
-            "time": "9:30 AM",
-            "location": "Dr G W Williams SS",
-            "game_played": true,
-            "final_score": "Dr. G.W. Williams 27, St. Elizabeth 0"
-        },
-        {
-            "date": "Tuesday, May 26, 2026 - PLAYOFFS",
-            "home_team": "Emily Carr",
-            "away_team": "Markham District",
-            "time": "10:45 AM",
-            "location": "Dr J M Denison SS",
-            "game_played": true,
-            "final_score": "Emily Carr 6, Markham District 7"
-        },
-        {
-            "date": "Tuesday, May 26, 2026 - PLAYOFFS",
-            "home_team": "Emily Carr",
-            "away_team": "Bill Crothers SS",
-            "time": "12:15 PM",
-            "location": "Dr J M Denison SS",
-            "game_played": true,
-            "final_score": "Emily Carr 3, Bill Crothers SS 13"
-        },
-        {
-            "date": "Tuesday, May 26, 2026 - PLAYOFFS",
-            "home_team": "Dr. J.M. Denison",
-            "away_team": "Markham District",
-            "time": "1:30 PM",
-            "location": "Dr J M Denison SS",
-            "game_played": true,
-            "final_score": "Dr. J.M. Denison 19, Markham District 0"
-        },
-        {
-            "date": "Tuesday, May 26, 2026 - PLAYOFFS",
-            "home_team": "Dr. J.M. Denison",
-            "away_team": "Bill Crothers SS",
-            "time": "9:30 AM",
-            "location": "Dr J M Denison SS",
-            "game_played": true,
-            "final_score": "Dr. J.M. Denison 18, Bill Crothers SS 0"
-        },
-        {
             "date": "Wednesday, May 27, 2026",
             "home_team": null,
             "away_team": null,
@@ -119,6 +47,15 @@
         },
         {
             "date": "Monday, June 1, 2026 - PLAYOFFS",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, June 2, 2026 - PLAYOFFS",
             "home_team": null,
             "away_team": null,
             "time": null,
