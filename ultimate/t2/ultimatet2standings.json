@@ -21,16 +21,6 @@
             "PA": "20"
         },
         {
-            "Team": "Bayview SS",
-            "W": "5",
-            "L": "3",
-            "T": "1",
-            "PTS": "11",
-            "SPTS": "85",
-            "PF": "49",
-            "PA": "28"
-        },
-        {
             "Team": "Unionville HS",
             "W": "5",
             "L": "2",
@@ -49,6 +39,16 @@
             "SPTS": "88",
             "PF": "46",
             "PA": "36"
+        },
+        {
+            "Team": "Bayview SS",
+            "W": "4",
+            "L": "3",
+            "T": "1",
+            "PTS": "9",
+            "SPTS": "70",
+            "PF": "42",
+            "PA": "27"
         },
         {
             "Team": "St. Augustine",
@@ -73,12 +73,12 @@
         {
             "Team": "Our Lady Queen Of The World",
             "W": "1",
-            "L": "7",
+            "L": "6",
             "T": "0",
             "PTS": "2",
-            "SPTS": "63",
-            "PF": "18",
-            "PA": "65"
+            "SPTS": "48",
+            "PF": "17",
+            "PA": "58"
         },
         {
             "Team": "Langstaff SS",
@@ -122,13 +122,13 @@
         },
         {
             "Team": "St. Brother Andre",
-            "W": "4",
+            "W": "5",
             "L": "3",
             "T": "0",
-            "PTS": "8",
-            "SPTS": "109",
-            "PF": "43",
-            "PA": "37"
+            "PTS": "10",
+            "SPTS": "124",
+            "PF": "48",
+            "PA": "41"
         },
         {
             "Team": "Bill Hogarth SS",
@@ -163,12 +163,12 @@
         {
             "Team": "Milliken Mills",
             "W": "2",
-            "L": "4",
+            "L": "5",
             "T": "0",
             "PTS": "4",
-            "SPTS": "87",
-            "PF": "26",
-            "PA": "37"
+            "SPTS": "101",
+            "PF": "30",
+            "PA": "42"
         },
         {
             "Team": "Middlefield",
