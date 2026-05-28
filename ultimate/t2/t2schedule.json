@@ -20,21 +20,21 @@
         },
         {
             "date": "Tuesday, May 26, 2026",
-            "home_team": "Keswick High School",
-            "away_team": "Newmarket HS",
-            "time": "3:30 PM",
-            "location": "Keswick HS",
-            "game_played": true,
-            "final_score": "Keswick High School 2, Newmarket HS 9"
-        },
-        {
-            "date": "Tuesday, May 26, 2026",
             "home_team": "Dr. G.W. Williams 5 (S )",
             "away_team": "Innova Academy 1 (S )",
             "time": "3:30 PM",
             "location": "Keswick HS",
             "game_played": false,
             "final_score": null
+        },
+        {
+            "date": "Tuesday, May 26, 2026",
+            "home_team": "Keswick High School",
+            "away_team": "Newmarket HS",
+            "time": "3:30 PM",
+            "location": "Keswick HS",
+            "game_played": true,
+            "final_score": "Keswick High School 2, Newmarket HS 9"
         },
         {
             "date": "Tuesday, May 26, 2026",
@@ -92,15 +92,6 @@
         },
         {
             "date": "Tuesday, May 26, 2026",
-            "home_team": "Sir William Mulock",
-            "away_team": "Huron Heights",
-            "time": "4:30 PM",
-            "location": "Sacred Heart CHS",
-            "game_played": true,
-            "final_score": "Sir William Mulock 3, Huron Heights 9"
-        },
-        {
-            "date": "Tuesday, May 26, 2026",
             "home_team": "Sacred Heart",
             "away_team": "Dr. J.M. Denison",
             "time": "4:30 PM",
@@ -110,9 +101,27 @@
         },
         {
             "date": "Tuesday, May 26, 2026",
+            "home_team": "Sir William Mulock",
+            "away_team": "Huron Heights",
+            "time": "4:30 PM",
+            "location": "Sacred Heart CHS",
+            "game_played": true,
+            "final_score": "Sir William Mulock 3, Huron Heights 9"
+        },
+        {
+            "date": "Tuesday, May 26, 2026",
             "home_team": "St. Robert 8 (S )",
             "away_team": "Alexander Mackenzie 1 (S )",
             "time": "3:30 PM",
+            "location": "St Robert CHS",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, May 26, 2026",
+            "home_team": "St. Robert 7 (S )",
+            "away_team": "Our Lady Queen Of The World 3 (S )",
+            "time": "4:30 PM",
             "location": "St Robert CHS",
             "game_played": false,
             "final_score": null
@@ -128,10 +137,10 @@
         },
         {
             "date": "Tuesday, May 26, 2026",
-            "home_team": "St. Robert 7 (S )",
-            "away_team": "Our Lady Queen Of The World 3 (S )",
-            "time": "4:30 PM",
-            "location": "St Robert CHS",
+            "home_team": "Bayview SS 7 (S )",
+            "away_team": "Langstaff SS 1 (S )",
+            "time": "3:30 PM",
+            "location": "Unionville HS",
             "game_played": false,
             "final_score": null
         },
@@ -146,9 +155,9 @@
         },
         {
             "date": "Tuesday, May 26, 2026",
-            "home_team": "Bayview SS 7 (S )",
-            "away_team": "Langstaff SS 1 (S )",
-            "time": "3:30 PM",
+            "home_team": "Unionville HS 5 (S )",
+            "away_team": "Langstaff SS 0 (S )",
+            "time": "4:30 PM",
             "location": "Unionville HS",
             "game_played": false,
             "final_score": null
@@ -157,15 +166,6 @@
             "date": "Tuesday, May 26, 2026",
             "home_team": "Bayview SS 4 (S )",
             "away_team": "St. Augustine 3 (S )",
-            "time": "4:30 PM",
-            "location": "Unionville HS",
-            "game_played": false,
-            "final_score": null
-        },
-        {
-            "date": "Tuesday, May 26, 2026",
-            "home_team": "Unionville HS 5 (S )",
-            "away_team": "Langstaff SS 0 (S )",
             "time": "4:30 PM",
             "location": "Unionville HS",
             "game_played": false,
