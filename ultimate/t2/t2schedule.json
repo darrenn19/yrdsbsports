@@ -11,12 +11,21 @@
         },
         {
             "date": "Thursday, May 28, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
+            "home_team": "Toronto District Christian 7 (S )",
+            "away_team": "Maple High School 2 (S )",
+            "time": "3:30 PM",
+            "location": "Vaughan Grove 1",
             "game_played": false,
             "final_score": null
+        },
+        {
+            "date": "Thursday, May 28, 2026",
+            "home_team": "Toronto District Christian",
+            "away_team": "Stephen Lewis SS",
+            "time": "4:30 PM",
+            "location": "Vaughan Grove 1",
+            "game_played": true,
+            "final_score": "Toronto District Christian 2, Stephen Lewis SS 5"
         },
         {
             "date": "Friday, May 29, 2026",
