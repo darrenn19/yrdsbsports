@@ -47,8 +47,8 @@
         },
         {
             "date": "Monday, June 1, 2026",
-            "home_team": "Bayview SS 7 (S )",
-            "away_team": "Our Lady Queen Of The World 1 (S )",
+            "home_team": "Bayview SS",
+            "away_team": "Our Lady Queen Of The World",
             "time": "3:30 PM",
             "location": "Bayview SS",
             "game_played": false,
