@@ -20,6 +20,15 @@
         },
         {
             "date": "Thursday, May 28, 2026",
+            "home_team": "St. Jean De Brebeuf CHS 7 (S )",
+            "away_team": "Stephen Lewis SS 3 (S )",
+            "time": "3:30 PM",
+            "location": "Vaughan Grove 1",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, May 28, 2026",
             "home_team": "Toronto District Christian",
             "away_team": "Stephen Lewis SS",
             "time": "4:30 PM",
