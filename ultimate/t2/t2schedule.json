@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, May 27, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
-        },
-        {
             "date": "Thursday, May 28, 2026",
             "home_team": "Toronto District Christian 7 (S )",
             "away_team": "Maple High School 2 (S )",
@@ -83,6 +74,15 @@
         },
         {
             "date": "Tuesday, June 2, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, June 3, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
