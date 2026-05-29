@@ -30,6 +30,24 @@
         {
             "date": "Friday, May 29, 2026",
             "home_team": "Markville",
+            "away_team": "Stephen Lewis SS",
+            "time": "2:00 PM",
+            "location": "Markham DHS",
+            "game_played": true,
+            "final_score": "Markville 0, Stephen Lewis SS 19"
+        },
+        {
+            "date": "Friday, May 29, 2026",
+            "home_team": "Markham District",
+            "away_team": "ESC De L Ascension",
+            "time": "3:10 PM",
+            "location": "Markham DHS",
+            "game_played": true,
+            "final_score": "Markham District 26, ESC De L Ascension 6"
+        },
+        {
+            "date": "Friday, May 29, 2026",
+            "home_team": "Markville",
             "away_team": "Markham District",
             "time": "9:00 AM",
             "location": "Markham DHS",
