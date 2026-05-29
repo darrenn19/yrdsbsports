@@ -20,6 +20,15 @@
         },
         {
             "date": "Friday, May 29, 2026",
+            "home_team": "Stephen Lewis SS",
+            "away_team": "Markham District",
+            "time": "12:40 PM",
+            "location": "Markham DHS",
+            "game_played": true,
+            "final_score": "Stephen Lewis SS 31, Markham District 26"
+        },
+        {
+            "date": "Friday, May 29, 2026",
             "home_team": "Markville",
             "away_team": "Markham District",
             "time": "9:00 AM",
