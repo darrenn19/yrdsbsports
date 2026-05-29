@@ -222,13 +222,13 @@
         },
         {
             "Team": "Stephen Lewis SS",
-            "W": "3",
+            "W": "4",
             "L": "0",
             "T": "0",
-            "PTS": "6",
-            "RF": "25",
+            "PTS": "8",
+            "RF": "32",
             "RA": "7",
-            "DIFF": "18"
+            "DIFF": "25"
         },
         {
             "Team": "St. Elizabeth",
@@ -253,12 +253,12 @@
         {
             "Team": "St. Robert",
             "W": "1",
-            "L": "2",
+            "L": "3",
             "T": "0",
             "PTS": "2",
             "RF": "11",
-            "RA": "28",
-            "DIFF": "-17"
+            "RA": "35",
+            "DIFF": "-24"
         },
         {
             "Team": "Tommy Douglas SS",
