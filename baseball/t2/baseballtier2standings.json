@@ -171,14 +171,24 @@
             "DIFF": "0"
         },
         {
-            "Team": "Cardinal Carter",
+            "Team": "Keswick High School",
             "W": "1",
-            "L": "2",
+            "L": "1",
             "T": "0",
             "PTS": "2",
-            "RF": "21",
-            "RA": "11",
-            "DIFF": "10"
+            "RF": "17",
+            "RA": "15",
+            "DIFF": "2"
+        },
+        {
+            "Team": "Cardinal Carter",
+            "W": "1",
+            "L": "3",
+            "T": "0",
+            "PTS": "2",
+            "RF": "31",
+            "RA": "25",
+            "DIFF": "6"
         },
         {
             "Team": "Our Lady Of The Lake",
@@ -189,16 +199,6 @@
             "RF": "1",
             "RA": "25",
             "DIFF": "-24"
-        },
-        {
-            "Team": "Keswick High School",
-            "W": "0",
-            "L": "1",
-            "T": "0",
-            "PTS": "0",
-            "RF": "3",
-            "RA": "5",
-            "DIFF": "-2"
         },
         {
             "Team": "West",
@@ -212,13 +212,23 @@
         },
         {
             "Team": "St. Jean De Brebeuf CHS",
+            "W": "4",
+            "L": "0",
+            "T": "0",
+            "PTS": "8",
+            "RF": "52",
+            "RA": "11",
+            "DIFF": "41"
+        },
+        {
+            "Team": "Stephen Lewis SS",
             "W": "3",
             "L": "0",
             "T": "0",
             "PTS": "6",
-            "RF": "41",
-            "RA": "10",
-            "DIFF": "31"
+            "RF": "25",
+            "RA": "7",
+            "DIFF": "18"
         },
         {
             "Team": "St. Elizabeth",
@@ -241,16 +251,6 @@
             "DIFF": "5"
         },
         {
-            "Team": "Stephen Lewis SS",
-            "W": "2",
-            "L": "0",
-            "T": "0",
-            "PTS": "4",
-            "RF": "18",
-            "RA": "7",
-            "DIFF": "11"
-        },
-        {
             "Team": "St. Robert",
             "W": "1",
             "L": "2",
@@ -263,12 +263,12 @@
         {
             "Team": "Tommy Douglas SS",
             "W": "0",
-            "L": "2",
+            "L": "4",
             "T": "0",
             "PTS": "0",
-            "RF": "6",
-            "RA": "17",
-            "DIFF": "-11"
+            "RF": "7",
+            "RA": "35",
+            "DIFF": "-28"
         },
         {
             "Team": "Westmount",
