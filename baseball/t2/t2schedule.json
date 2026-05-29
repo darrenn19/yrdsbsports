@@ -20,6 +20,15 @@
         },
         {
             "date": "Friday, May 29, 2026",
+            "home_team": "Stephen Lewis SS",
+            "away_team": "St. Robert",
+            "time": "12:00 PM",
+            "location": "Concord Regional 2",
+            "game_played": true,
+            "final_score": "Stephen Lewis SS 7, St. Robert 0"
+        },
+        {
+            "date": "Friday, May 29, 2026",
             "home_team": "Tommy Douglas SS",
             "away_team": "Stephen Lewis SS",
             "time": "3:00 PM",
