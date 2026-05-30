@@ -1,24 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Thursday, May 28, 2026",
-            "home_team": "St. Jean De Brebeuf CHS",
-            "away_team": "Tommy Douglas SS",
-            "time": "12:00 PM",
-            "location": "Concord Regional 1",
-            "game_played": true,
-            "final_score": "St. Jean De Brebeuf CHS 11, Tommy Douglas SS 1"
-        },
-        {
-            "date": "Thursday, May 28, 2026",
-            "home_team": "Cardinal Carter",
-            "away_team": "Keswick High School",
-            "time": "12:00 PM",
-            "location": "Stronach Aurora Recreation Complex",
-            "game_played": true,
-            "final_score": "Cardinal Carter 10, Keswick High School 14"
-        },
-        {
             "date": "Friday, May 29, 2026",
             "home_team": "Stephen Lewis SS",
             "away_team": "St. Robert",
@@ -83,6 +65,15 @@
         },
         {
             "date": "Wednesday, June 3, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Thursday, June 4, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
