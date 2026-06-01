@@ -131,6 +131,16 @@
             "PA": "41"
         },
         {
+            "Team": "Father McGivney",
+            "W": "3",
+            "L": "4",
+            "T": "1",
+            "PTS": "7",
+            "SPTS": "108",
+            "PF": "44",
+            "PA": "44"
+        },
+        {
             "Team": "Bill Hogarth SS",
             "W": "3",
             "L": "3",
@@ -151,24 +161,14 @@
             "PA": "41"
         },
         {
-            "Team": "Father McGivney",
-            "W": "2",
-            "L": "4",
-            "T": "1",
-            "PTS": "5",
-            "SPTS": "99",
-            "PF": "37",
-            "PA": "38"
-        },
-        {
             "Team": "Milliken Mills",
             "W": "2",
-            "L": "5",
+            "L": "6",
             "T": "0",
             "PTS": "4",
-            "SPTS": "101",
-            "PF": "30",
-            "PA": "42"
+            "SPTS": "117",
+            "PF": "36",
+            "PA": "49"
         },
         {
             "Team": "Middlefield",
