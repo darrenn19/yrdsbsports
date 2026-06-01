@@ -19,6 +19,60 @@
             "final_score": null
         },
         {
+            "date": "Monday, June 1, 2026",
+            "home_team": "Dr. J.M. Denison 7 (S )",
+            "away_team": "Dr. G.W. Williams 3 (S )",
+            "time": "3:30 PM",
+            "location": "Dr J M Denison SS",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, June 1, 2026",
+            "home_team": "Dr. J.M. Denison 9 (S )",
+            "away_team": "Huron Heights 3 (S )",
+            "time": "4:30 PM",
+            "location": "Dr J M Denison SS",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, June 1, 2026",
+            "home_team": "Markville",
+            "away_team": "Stouffville",
+            "time": "3:30 PM",
+            "location": "Markville SS",
+            "game_played": true,
+            "final_score": "Markville 6, Stouffville 10"
+        },
+        {
+            "date": "Monday, June 1, 2026",
+            "home_team": "Milliken Mills",
+            "away_team": "Stouffville",
+            "time": "4:30 PM",
+            "location": "Markville SS",
+            "game_played": true,
+            "final_score": "Milliken Mills 1, Stouffville 5"
+        },
+        {
+            "date": "Monday, June 1, 2026",
+            "home_team": "Richmond Hill HS 8 (S )",
+            "away_team": "St. Robert 3 (S )",
+            "time": "3:30 PM",
+            "location": "St Augustine CHS",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, June 1, 2026",
+            "home_team": "Richmond Hill HS 11 (S )",
+            "away_team": "Langstaff SS 4 (S )",
+            "time": "4:30 PM",
+            "location": "St Augustine CHS",
+            "game_played": false,
+            "final_score": null
+        },
+        {
             "date": "Tuesday, June 2, 2026",
             "home_team": null,
             "away_team": null,

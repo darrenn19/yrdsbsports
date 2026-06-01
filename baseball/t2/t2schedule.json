@@ -11,12 +11,12 @@
         },
         {
             "date": "Monday, June 1, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Keswick High School",
+            "away_team": "Dr. G.W. Williams",
+            "time": "2:00 PM",
+            "location": "Richmond Green 7",
+            "game_played": true,
+            "final_score": "Keswick High School 9, Dr. G.W. Williams 2"
         },
         {
             "date": "Tuesday, June 2, 2026",
