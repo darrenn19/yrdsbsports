@@ -56,6 +56,15 @@
         },
         {
             "date": "Monday, June 1, 2026",
+            "home_team": "Markville 8 (S )",
+            "away_team": "Middlefield 7 (S )",
+            "time": "4:30 PM",
+            "location": "Markville SS",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, June 1, 2026",
             "home_team": "Richmond Hill HS 8 (S )",
             "away_team": "St. Robert 3 (S )",
             "time": "3:30 PM",
@@ -71,6 +80,51 @@
             "location": "St Augustine CHS",
             "game_played": false,
             "final_score": null
+        },
+        {
+            "date": "Monday, June 1, 2026",
+            "home_team": "St. Jean De Brebeuf CHS",
+            "away_team": "Thornhill SS",
+            "time": "3:30 PM",
+            "location": "St Joan Of Arc CHS",
+            "game_played": true,
+            "final_score": "St. Jean De Brebeuf CHS 2, Thornhill SS 5"
+        },
+        {
+            "date": "Monday, June 1, 2026",
+            "home_team": "Toronto District Christian",
+            "away_team": "Thornhill SS",
+            "time": "4:30 PM",
+            "location": "St Joan Of Arc CHS",
+            "game_played": true,
+            "final_score": "Toronto District Christian 4, Thornhill SS 4"
+        },
+        {
+            "date": "Monday, June 1, 2026",
+            "home_team": "Stephen Lewis SS",
+            "away_team": "Maple High School",
+            "time": "3:30 PM",
+            "location": "Stephen Lewis SS",
+            "game_played": true,
+            "final_score": "Stephen Lewis SS 1, Maple High School 19"
+        },
+        {
+            "date": "Monday, June 1, 2026",
+            "home_team": "Thornlea SS 7 (S )",
+            "away_team": "Westmount 4 (S )",
+            "time": "3:30 PM",
+            "location": "Stephen Lewis SS",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, June 1, 2026",
+            "home_team": "Stephen Lewis SS",
+            "away_team": "Thornlea SS",
+            "time": "4:30 PM",
+            "location": "Stephen Lewis SS",
+            "game_played": true,
+            "final_score": "Stephen Lewis SS 1, Thornlea SS 5"
         },
         {
             "date": "Tuesday, June 2, 2026",

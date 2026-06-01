@@ -11,6 +11,15 @@
         },
         {
             "date": "Monday, June 1, 2026 - PLAYOFFS",
+            "home_team": "Dr. G.W. Williams",
+            "away_team": "Sacred Heart",
+            "time": "1:30 PM",
+            "location": "Dr G W Williams SS",
+            "game_played": true,
+            "final_score": "Dr. G.W. Williams 12, Sacred Heart 7"
+        },
+        {
+            "date": "Monday, June 1, 2026 - PLAYOFFS",
             "home_team": "Dr. J.M. Denison",
             "away_team": "Stouffville",
             "time": "1:30 PM",
