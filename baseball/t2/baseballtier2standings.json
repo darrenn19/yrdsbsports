@@ -153,12 +153,22 @@
         {
             "Team": "Dr. G.W. Williams",
             "W": "3",
-            "L": "0",
+            "L": "1",
             "T": "0",
             "PTS": "6",
-            "RF": "20",
-            "RA": "4",
-            "DIFF": "16"
+            "RF": "22",
+            "RA": "13",
+            "DIFF": "9"
+        },
+        {
+            "Team": "Keswick High School",
+            "W": "2",
+            "L": "1",
+            "T": "0",
+            "PTS": "4",
+            "RF": "26",
+            "RA": "17",
+            "DIFF": "9"
         },
         {
             "Team": "Dr. J.M. Denison",
@@ -169,16 +179,6 @@
             "RF": "14",
             "RA": "14",
             "DIFF": "0"
-        },
-        {
-            "Team": "Keswick High School",
-            "W": "1",
-            "L": "1",
-            "T": "0",
-            "PTS": "2",
-            "RF": "17",
-            "RA": "15",
-            "DIFF": "2"
         },
         {
             "Team": "Cardinal Carter",

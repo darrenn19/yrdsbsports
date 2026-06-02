@@ -11,34 +11,24 @@
             "PA": "PA"
         },
         {
+            "Team": "Markville",
+            "W": "4",
+            "L": "0",
+            "T": "0",
+            "PTS": "8",
+            "SPTS": "66",
+            "PF": "48",
+            "PA": "19"
+        },
+        {
             "Team": "Bur Oak SS",
             "W": "3",
-            "L": "0",
-            "T": "0",
-            "PTS": "6",
-            "SPTS": "38",
-            "PF": "27",
-            "PA": "17"
-        },
-        {
-            "Team": "Markville",
-            "W": "3",
-            "L": "0",
-            "T": "0",
-            "PTS": "6",
-            "SPTS": "52",
-            "PF": "38",
-            "PA": "12"
-        },
-        {
-            "Team": "Milliken Mills",
-            "W": "2",
             "L": "1",
             "T": "0",
-            "PTS": "4",
-            "SPTS": "39",
-            "PF": "24",
-            "PA": "17"
+            "PTS": "6",
+            "SPTS": "50",
+            "PF": "34",
+            "PA": "27"
         },
         {
             "Team": "Bill Hogarth SS",
@@ -51,6 +41,26 @@
             "PA": "24"
         },
         {
+            "Team": "Milliken Mills",
+            "W": "2",
+            "L": "2",
+            "T": "0",
+            "PTS": "4",
+            "SPTS": "56",
+            "PF": "29",
+            "PA": "27"
+        },
+        {
+            "Team": "Pierre Elliott Trudeau",
+            "W": "1",
+            "L": "3",
+            "T": "0",
+            "PTS": "2",
+            "SPTS": "64",
+            "PF": "22",
+            "PA": "40"
+        },
+        {
             "Team": "Markham District",
             "W": "0",
             "L": "4",
@@ -59,16 +69,6 @@
             "SPTS": "60",
             "PF": "20",
             "PA": "47"
-        },
-        {
-            "Team": "Pierre Elliott Trudeau",
-            "W": "0",
-            "L": "3",
-            "T": "0",
-            "PTS": "0",
-            "SPTS": "52",
-            "PF": "12",
-            "PA": "35"
         },
         {
             "Team": "North",
@@ -101,34 +101,34 @@
             "PA": "9"
         },
         {
-            "Team": "Huron Heights",
-            "W": "1",
-            "L": "2",
-            "T": "0",
-            "PTS": "2",
-            "SPTS": "54",
-            "PF": "25",
-            "PA": "21"
-        },
-        {
             "Team": "Renaissance ESC",
-            "W": "1",
+            "W": "3",
             "L": "1",
             "T": "0",
+            "PTS": "6",
+            "SPTS": "51",
+            "PF": "35",
+            "PA": "25"
+        },
+        {
+            "Team": "Huron Heights",
+            "W": "1",
+            "L": "3",
+            "T": "0",
             "PTS": "2",
-            "SPTS": "21",
-            "PF": "12",
-            "PA": "13"
+            "SPTS": "70",
+            "PF": "32",
+            "PA": "36"
         },
         {
             "Team": "St. Maximilian",
             "W": "0",
-            "L": "2",
+            "L": "3",
             "T": "0",
             "PTS": "0",
-            "SPTS": "36",
-            "PF": "13",
-            "PA": "25"
+            "SPTS": "53",
+            "PF": "18",
+            "PA": "33"
         },
         {
             "Team": "Richmond Green SS",
@@ -152,13 +152,13 @@
         },
         {
             "Team": "Thornlea SS",
-            "W": "3",
+            "W": "4",
             "L": "0",
             "T": "0",
-            "PTS": "6",
-            "SPTS": "54",
-            "PF": "29",
-            "PA": "18"
+            "PTS": "8",
+            "SPTS": "72",
+            "PF": "44",
+            "PA": "22"
         },
         {
             "Team": "Tommy Douglas SS",
@@ -173,12 +173,12 @@
         {
             "Team": "Hodan Nalayeh SS",
             "W": "2",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "4",
-            "SPTS": "62",
-            "PF": "29",
-            "PA": "17"
+            "SPTS": "84",
+            "PF": "33",
+            "PA": "32"
         },
         {
             "Team": "Toronto District Christian",
