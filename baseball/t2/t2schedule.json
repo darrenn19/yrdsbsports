@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Sunday, May 31, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
-        },
-        {
             "date": "Monday, June 1, 2026",
             "home_team": "Keswick High School",
             "away_team": "Dr. G.W. Williams",
@@ -56,6 +47,15 @@
         },
         {
             "date": "Saturday, June 6, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Sunday, June 7, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

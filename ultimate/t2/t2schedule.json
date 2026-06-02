@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Sunday, May 31, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
-        },
-        {
             "date": "Monday, June 1, 2026",
             "home_team": "Alexander Mackenzie",
             "away_team": "Unionville HS",
@@ -83,21 +74,21 @@
         },
         {
             "date": "Monday, June 1, 2026",
-            "home_team": "Markville 8 (S )",
-            "away_team": "Middlefield 7 (S )",
-            "time": "4:30 PM",
-            "location": "Markville SS",
-            "game_played": false,
-            "final_score": null
-        },
-        {
-            "date": "Monday, June 1, 2026",
             "home_team": "Milliken Mills",
             "away_team": "Stouffville",
             "time": "4:30 PM",
             "location": "Markville SS",
             "game_played": true,
             "final_score": "Milliken Mills 1, Stouffville 5"
+        },
+        {
+            "date": "Monday, June 1, 2026",
+            "home_team": "Markville 8 (S )",
+            "away_team": "Middlefield 7 (S )",
+            "time": "4:30 PM",
+            "location": "Markville SS",
+            "game_played": false,
+            "final_score": null
         },
         {
             "date": "Monday, June 1, 2026",
@@ -119,8 +110,8 @@
         },
         {
             "date": "Monday, June 1, 2026",
-            "home_team": "Sacred Heart 9 (S )",
-            "away_team": "Sir William Mulock 3 (S )",
+            "home_team": "Newmarket HS 9 (S )",
+            "away_team": "Innova Academy 4 (S )",
             "time": "4:30 PM",
             "location": "Newmarket HS",
             "game_played": false,
@@ -128,8 +119,8 @@
         },
         {
             "date": "Monday, June 1, 2026",
-            "home_team": "Newmarket HS 9 (S )",
-            "away_team": "Innova Academy 4 (S )",
+            "home_team": "Sacred Heart 9 (S )",
+            "away_team": "Sir William Mulock 3 (S )",
             "time": "4:30 PM",
             "location": "Newmarket HS",
             "game_played": false,
@@ -263,6 +254,15 @@
         },
         {
             "date": "Saturday, June 6, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Sunday, June 7, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

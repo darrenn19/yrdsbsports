@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Sunday, May 31, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
-        },
-        {
             "date": "Monday, June 1, 2026",
             "home_team": "Bur Oak SS",
             "away_team": "Markville",
@@ -17,6 +8,15 @@
             "location": "Bur Oak SS",
             "game_played": true,
             "final_score": "Bur Oak SS 7, Markville 10"
+        },
+        {
+            "date": "Monday, June 1, 2026",
+            "home_team": "Pierre Elliott Trudeau 10 (S )",
+            "away_team": "Milliken Mills 5 (S )",
+            "time": "3:45 PM",
+            "location": "PE Trudeau HS",
+            "game_played": false,
+            "final_score": null
         },
         {
             "date": "Monday, June 1, 2026",
@@ -74,6 +74,15 @@
         },
         {
             "date": "Saturday, June 6, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Sunday, June 7, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
