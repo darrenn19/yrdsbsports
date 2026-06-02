@@ -11,10 +11,46 @@
         },
         {
             "date": "Monday, June 1, 2026",
+            "home_team": "Alexander Mackenzie",
+            "away_team": "Unionville HS",
+            "time": "3:30 PM",
+            "location": "Bayview SS",
+            "game_played": true,
+            "final_score": "Alexander Mackenzie 2, Unionville HS 7"
+        },
+        {
+            "date": "Monday, June 1, 2026",
             "home_team": "Bayview SS",
             "away_team": "Our Lady Queen Of The World",
             "time": "3:30 PM",
             "location": "Bayview SS",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, June 1, 2026",
+            "home_team": "Bayview SS",
+            "away_team": "Unionville HS",
+            "time": "4:30 PM",
+            "location": "Bayview SS",
+            "game_played": true,
+            "final_score": "Bayview SS 4, Unionville HS 5"
+        },
+        {
+            "date": "Monday, June 1, 2026",
+            "home_team": "Bur Oak SS 11 (S )",
+            "away_team": "Father McGivney 5 (S )",
+            "time": "3:30 PM",
+            "location": "Bill Hogarth SS",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, June 1, 2026",
+            "home_team": "St. Brother Andre 6 (S )",
+            "away_team": "Father McGivney 5 (S )",
+            "time": "4:30 PM",
+            "location": "Bill Hogarth SS",
             "game_played": false,
             "final_score": null
         },
@@ -47,6 +83,15 @@
         },
         {
             "date": "Monday, June 1, 2026",
+            "home_team": "Markville 8 (S )",
+            "away_team": "Middlefield 7 (S )",
+            "time": "4:30 PM",
+            "location": "Markville SS",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, June 1, 2026",
             "home_team": "Milliken Mills",
             "away_team": "Stouffville",
             "time": "4:30 PM",
@@ -56,10 +101,37 @@
         },
         {
             "date": "Monday, June 1, 2026",
-            "home_team": "Markville 8 (S )",
-            "away_team": "Middlefield 7 (S )",
+            "home_team": "Newmarket HS 10 (S )",
+            "away_team": "Sir William Mulock 3 (S )",
+            "time": "3:30 PM",
+            "location": "Newmarket HS",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, June 1, 2026",
+            "home_team": "Innova Academy",
+            "away_team": "Sacred Heart",
+            "time": "3:30 PM",
+            "location": "Newmarket HS",
+            "game_played": true,
+            "final_score": "Innova Academy 6, Sacred Heart 12"
+        },
+        {
+            "date": "Monday, June 1, 2026",
+            "home_team": "Sacred Heart 9 (S )",
+            "away_team": "Sir William Mulock 3 (S )",
             "time": "4:30 PM",
-            "location": "Markville SS",
+            "location": "Newmarket HS",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, June 1, 2026",
+            "home_team": "Newmarket HS 9 (S )",
+            "away_team": "Innova Academy 4 (S )",
+            "time": "4:30 PM",
+            "location": "Newmarket HS",
             "game_played": false,
             "final_score": null
         },
@@ -83,12 +155,30 @@
         },
         {
             "date": "Monday, June 1, 2026",
+            "home_team": "St. Augustine",
+            "away_team": "St. Robert",
+            "time": "4:30 PM",
+            "location": "St Augustine CHS",
+            "game_played": true,
+            "final_score": "St. Augustine 3, St. Robert 7"
+        },
+        {
+            "date": "Monday, June 1, 2026",
             "home_team": "St. Jean De Brebeuf CHS",
             "away_team": "Thornhill SS",
             "time": "3:30 PM",
             "location": "St Joan Of Arc CHS",
             "game_played": true,
             "final_score": "St. Jean De Brebeuf CHS 2, Thornhill SS 5"
+        },
+        {
+            "date": "Monday, June 1, 2026",
+            "home_team": "St. Joan Of Arc",
+            "away_team": "St. Jean De Brebeuf CHS",
+            "time": "4:30 PM",
+            "location": "St Joan Of Arc CHS",
+            "game_played": true,
+            "final_score": "St. Joan Of Arc 3, St. Jean De Brebeuf CHS 5"
         },
         {
             "date": "Monday, June 1, 2026",
@@ -113,6 +203,15 @@
             "home_team": "Thornlea SS 7 (S )",
             "away_team": "Westmount 4 (S )",
             "time": "3:30 PM",
+            "location": "Stephen Lewis SS",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, June 1, 2026",
+            "home_team": "Maple High School 4 (S )",
+            "away_team": "Westmount 3 (S )",
+            "time": "4:30 PM",
             "location": "Stephen Lewis SS",
             "game_played": false,
             "final_score": null
