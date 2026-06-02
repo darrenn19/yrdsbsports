@@ -11,8 +11,8 @@
         },
         {
             "date": "Monday, June 1, 2026",
-            "home_team": "Bayview SS",
-            "away_team": "Our Lady Queen Of The World",
+            "home_team": "Bayview SS 9 (S )",
+            "away_team": "Our Lady Queen Of The World 2 (S )",
             "time": "3:30 PM",
             "location": "Bayview SS",
             "game_played": false,
@@ -38,8 +38,8 @@
         },
         {
             "date": "Monday, June 1, 2026",
-            "home_team": "Bill Hogarth SS 5 (S )",
-            "away_team": "St. Brother Andre 4 (S )",
+            "home_team": "Bur Oak SS 11 (S )",
+            "away_team": "Father McGivney 5 (S )",
             "time": "3:30 PM",
             "location": "Bill Hogarth SS",
             "game_played": false,
@@ -47,8 +47,8 @@
         },
         {
             "date": "Monday, June 1, 2026",
-            "home_team": "Bur Oak SS 11 (S )",
-            "away_team": "Father McGivney 5 (S )",
+            "home_team": "Bill Hogarth SS 5 (S )",
+            "away_team": "St. Brother Andre 4 (S )",
             "time": "3:30 PM",
             "location": "Bill Hogarth SS",
             "game_played": false,
@@ -71,6 +71,15 @@
             "location": "Bill Hogarth SS",
             "game_played": true,
             "final_score": "Bill Hogarth SS 3, Bur Oak SS 11"
+        },
+        {
+            "date": "Monday, June 1, 2026",
+            "home_team": "Huron Heights",
+            "away_team": "Keswick High School",
+            "time": "3:30 PM",
+            "location": "Dr J M Denison SS",
+            "game_played": true,
+            "final_score": "Huron Heights 5, Keswick High School 6"
         },
         {
             "date": "Monday, June 1, 2026",
@@ -101,15 +110,6 @@
         },
         {
             "date": "Monday, June 1, 2026",
-            "home_team": "Milliken Mills",
-            "away_team": "Middlefield",
-            "time": "3:30 PM",
-            "location": "Markville SS",
-            "game_played": true,
-            "final_score": "Milliken Mills 4, Middlefield 4"
-        },
-        {
-            "date": "Monday, June 1, 2026",
             "home_team": "Markville",
             "away_team": "Stouffville",
             "time": "3:30 PM",
@@ -119,12 +119,12 @@
         },
         {
             "date": "Monday, June 1, 2026",
-            "home_team": "Markville 8 (S )",
-            "away_team": "Middlefield 7 (S )",
-            "time": "4:30 PM",
+            "home_team": "Milliken Mills",
+            "away_team": "Middlefield",
+            "time": "3:30 PM",
             "location": "Markville SS",
-            "game_played": false,
-            "final_score": null
+            "game_played": true,
+            "final_score": "Milliken Mills 4, Middlefield 4"
         },
         {
             "date": "Monday, June 1, 2026",
@@ -134,6 +134,15 @@
             "location": "Markville SS",
             "game_played": true,
             "final_score": "Milliken Mills 1, Stouffville 5"
+        },
+        {
+            "date": "Monday, June 1, 2026",
+            "home_team": "Markville 8 (S )",
+            "away_team": "Middlefield 7 (S )",
+            "time": "4:30 PM",
+            "location": "Markville SS",
+            "game_played": false,
+            "final_score": null
         },
         {
             "date": "Monday, June 1, 2026",
@@ -155,15 +164,6 @@
         },
         {
             "date": "Monday, June 1, 2026",
-            "home_team": "Sacred Heart 9 (S )",
-            "away_team": "Sir William Mulock 3 (S )",
-            "time": "4:30 PM",
-            "location": "Newmarket HS",
-            "game_played": false,
-            "final_score": null
-        },
-        {
-            "date": "Monday, June 1, 2026",
             "home_team": "Newmarket HS 9 (S )",
             "away_team": "Innova Academy 4 (S )",
             "time": "4:30 PM",
@@ -173,8 +173,26 @@
         },
         {
             "date": "Monday, June 1, 2026",
+            "home_team": "Sacred Heart 9 (S )",
+            "away_team": "Sir William Mulock 3 (S )",
+            "time": "4:30 PM",
+            "location": "Newmarket HS",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, June 1, 2026",
             "home_team": "Richmond Hill HS 8 (S )",
             "away_team": "St. Robert 3 (S )",
+            "time": "3:30 PM",
+            "location": "St Augustine CHS",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, June 1, 2026",
+            "home_team": "St. Augustine 9 (S )",
+            "away_team": "Langstaff SS 1 (S )",
             "time": "3:30 PM",
             "location": "St Augustine CHS",
             "game_played": false,
