@@ -151,6 +151,16 @@
             "DIFF": "DIFF"
         },
         {
+            "Team": "Dr. J.M. Denison",
+            "W": "3",
+            "L": "1",
+            "T": "0",
+            "PTS": "6",
+            "RF": "34",
+            "RA": "17",
+            "DIFF": "17"
+        },
+        {
             "Team": "Dr. G.W. Williams",
             "W": "3",
             "L": "1",
@@ -171,16 +181,6 @@
             "DIFF": "9"
         },
         {
-            "Team": "Dr. J.M. Denison",
-            "W": "2",
-            "L": "1",
-            "T": "0",
-            "PTS": "4",
-            "RF": "14",
-            "RA": "14",
-            "DIFF": "0"
-        },
-        {
             "Team": "Cardinal Carter",
             "W": "1",
             "L": "3",
@@ -193,12 +193,12 @@
         {
             "Team": "Our Lady Of The Lake",
             "W": "0",
-            "L": "2",
+            "L": "3",
             "T": "0",
             "PTS": "0",
-            "RF": "1",
-            "RA": "25",
-            "DIFF": "-24"
+            "RF": "4",
+            "RA": "45",
+            "DIFF": "-41"
         },
         {
             "Team": "West",

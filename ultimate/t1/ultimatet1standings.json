@@ -121,24 +121,24 @@
             "PA": "36"
         },
         {
-            "Team": "St. Maximilian",
-            "W": "0",
+            "Team": "Richmond Green SS",
+            "W": "1",
             "L": "3",
             "T": "0",
-            "PTS": "0",
-            "SPTS": "53",
-            "PF": "18",
-            "PA": "33"
+            "PTS": "2",
+            "SPTS": "70",
+            "PF": "31",
+            "PA": "37"
         },
         {
-            "Team": "Richmond Green SS",
+            "Team": "St. Maximilian",
             "W": "0",
-            "L": "3",
+            "L": "4",
             "T": "0",
             "PTS": "0",
-            "SPTS": "50",
-            "PF": "21",
-            "PA": "28"
+            "SPTS": "71",
+            "PF": "27",
+            "PA": "43"
         },
         {
             "Team": "West",
