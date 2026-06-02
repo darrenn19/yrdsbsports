@@ -56,6 +56,15 @@
         },
         {
             "date": "Monday, June 1, 2026",
+            "home_team": "Dr. G.W. Williams 7 (S )",
+            "away_team": "Keswick High School 5 (S )",
+            "time": "4:30 PM",
+            "location": "Dr J M Denison SS",
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, June 1, 2026",
             "home_team": "Dr. J.M. Denison 9 (S )",
             "away_team": "Huron Heights 3 (S )",
             "time": "4:30 PM",
