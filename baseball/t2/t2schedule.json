@@ -2,6 +2,15 @@
     "schedule": [
         {
             "date": "Monday, June 1, 2026",
+            "home_team": "Our Lady Of The Lake",
+            "away_team": "Dr. J.M. Denison",
+            "time": "11:00 AM",
+            "location": "Richmond Green 7",
+            "game_played": true,
+            "final_score": "Our Lady Of The Lake 3, Dr. J.M. Denison 20"
+        },
+        {
+            "date": "Monday, June 1, 2026",
             "home_team": "Keswick High School",
             "away_team": "Dr. G.W. Williams",
             "time": "2:00 PM",
