@@ -11,12 +11,12 @@
         },
         {
             "date": "Wednesday, June 3, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Holy Cross",
+            "away_team": "Thornlea SS",
+            "time": "3:15 PM",
+            "location": "Holy Cross CA",
+            "game_played": true,
+            "final_score": "Holy Cross 1, Thornlea SS 15"
         },
         {
             "date": "Thursday, June 4, 2026",
