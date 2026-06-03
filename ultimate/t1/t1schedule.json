@@ -56,12 +56,12 @@
         },
         {
             "date": "Tuesday, June 2, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "Holy Cross",
+            "away_team": "Toronto District Christian",
+            "time": "3:00 PM",
+            "location": "Toronto District Christian HS",
+            "game_played": true,
+            "final_score": "Holy Cross 2, Toronto District Christian 13"
         },
         {
             "date": "Wednesday, June 3, 2026",

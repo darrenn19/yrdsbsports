@@ -200,21 +200,21 @@
         },
         {
             "date": "Monday, June 1, 2026",
-            "home_team": "Richmond Hill HS 11 (S )",
-            "away_team": "Langstaff SS 4 (S )",
-            "time": "4:30 PM",
-            "location": "St Augustine CHS",
-            "game_played": false,
-            "final_score": null
-        },
-        {
-            "date": "Monday, June 1, 2026",
             "home_team": "St. Augustine",
             "away_team": "St. Robert",
             "time": "4:30 PM",
             "location": "St Augustine CHS",
             "game_played": true,
             "final_score": "St. Augustine 3, St. Robert 7"
+        },
+        {
+            "date": "Monday, June 1, 2026",
+            "home_team": "Richmond Hill HS 11 (S )",
+            "away_team": "Langstaff SS 4 (S )",
+            "time": "4:30 PM",
+            "location": "St Augustine CHS",
+            "game_played": false,
+            "final_score": null
         },
         {
             "date": "Monday, June 1, 2026",
