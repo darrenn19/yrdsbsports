@@ -37,6 +37,15 @@
             "final_score": "Markham District 5, Pierre Elliott Trudeau 13"
         },
         {
+            "date": "Wednesday, June 3, 2026",
+            "home_team": "Toronto District Christian 8 (S )",
+            "away_team": "St. Theresa Of Lisieux 3 (S )",
+            "time": "3:15 PM",
+            "location": "Toronto District Christian HS",
+            "game_played": false,
+            "final_score": null
+        },
+        {
             "date": "Thursday, June 4, 2026",
             "home_team": null,
             "away_team": null,
