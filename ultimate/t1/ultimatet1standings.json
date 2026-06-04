@@ -31,16 +31,6 @@
             "PA": "27"
         },
         {
-            "Team": "Bill Hogarth SS",
-            "W": "2",
-            "L": "2",
-            "T": "0",
-            "PTS": "4",
-            "SPTS": "57",
-            "PF": "31",
-            "PA": "24"
-        },
-        {
             "Team": "Milliken Mills",
             "W": "2",
             "L": "2",
@@ -51,24 +41,34 @@
             "PA": "27"
         },
         {
+            "Team": "Bill Hogarth SS",
+            "W": "2",
+            "L": "2",
+            "T": "0",
+            "PTS": "4",
+            "SPTS": "57",
+            "PF": "31",
+            "PA": "24"
+        },
+        {
             "Team": "Pierre Elliott Trudeau",
-            "W": "1",
+            "W": "2",
             "L": "3",
             "T": "0",
-            "PTS": "2",
-            "SPTS": "64",
-            "PF": "22",
-            "PA": "40"
+            "PTS": "4",
+            "SPTS": "76",
+            "PF": "35",
+            "PA": "45"
         },
         {
             "Team": "Markham District",
             "W": "0",
-            "L": "4",
+            "L": "5",
             "T": "0",
             "PTS": "0",
-            "SPTS": "60",
-            "PF": "20",
-            "PA": "47"
+            "SPTS": "78",
+            "PF": "25",
+            "PA": "60"
         },
         {
             "Team": "North",
@@ -82,13 +82,13 @@
         },
         {
             "Team": "Cardinal Carter",
-            "W": "3",
+            "W": "4",
             "L": "0",
             "T": "1",
-            "PTS": "7",
-            "SPTS": "54",
-            "PF": "45",
-            "PA": "35"
+            "PTS": "9",
+            "SPTS": "66",
+            "PF": "54",
+            "PA": "41"
         },
         {
             "Team": "Bill Crothers SS",
@@ -103,12 +103,12 @@
         {
             "Team": "Renaissance ESC",
             "W": "3",
-            "L": "1",
+            "L": "2",
             "T": "0",
             "PTS": "6",
-            "SPTS": "51",
-            "PF": "35",
-            "PA": "25"
+            "SPTS": "69",
+            "PF": "41",
+            "PA": "34"
         },
         {
             "Team": "Huron Heights",
@@ -152,13 +152,23 @@
         },
         {
             "Team": "Thornlea SS",
-            "W": "4",
+            "W": "5",
             "L": "0",
             "T": "0",
-            "PTS": "8",
-            "SPTS": "72",
-            "PF": "44",
-            "PA": "22"
+            "PTS": "10",
+            "SPTS": "90",
+            "PF": "59",
+            "PA": "23"
+        },
+        {
+            "Team": "Hodan Nalayeh SS",
+            "W": "3",
+            "L": "2",
+            "T": "0",
+            "PTS": "6",
+            "SPTS": "100",
+            "PF": "48",
+            "PA": "39"
         },
         {
             "Team": "Toronto District Christian",
@@ -173,22 +183,12 @@
         {
             "Team": "Tommy Douglas SS",
             "W": "2",
-            "L": "2",
+            "L": "3",
             "T": "0",
             "PTS": "4",
-            "SPTS": "63",
-            "PF": "39",
-            "PA": "35"
-        },
-        {
-            "Team": "Hodan Nalayeh SS",
-            "W": "2",
-            "L": "2",
-            "T": "0",
-            "PTS": "4",
-            "SPTS": "84",
-            "PF": "33",
-            "PA": "32"
+            "SPTS": "85",
+            "PF": "46",
+            "PA": "50"
         },
         {
             "Team": "St. Theresa Of Lisieux",
@@ -203,12 +203,12 @@
         {
             "Team": "Holy Cross",
             "W": "0",
-            "L": "4",
+            "L": "5",
             "T": "0",
             "PTS": "0",
-            "SPTS": "73",
-            "PF": "11",
-            "PA": "56"
+            "SPTS": "91",
+            "PF": "12",
+            "PA": "71"
         }
     ]
 }
