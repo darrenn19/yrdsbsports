@@ -47,10 +47,10 @@
         },
         {
             "date": "Thursday, June 4, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
+            "home_team": "Bur Oak SS 11 (S )",
+            "away_team": "Bill Hogarth SS 5 (S )",
+            "time": "3:45 PM",
+            "location": "Bur Oak SS",
             "game_played": false,
             "final_score": null
         },
