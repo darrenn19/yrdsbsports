@@ -20,6 +20,15 @@
         },
         {
             "date": "Thursday, June 4, 2026 - PLAYOFFS",
+            "home_team": "Dr. G.W. Williams",
+            "away_team": "St. Jean De Brebeuf CHS",
+            "time": "12:30 PM",
+            "location": "Richmond Green 4",
+            "game_played": true,
+            "final_score": "Dr. G.W. Williams 2, St. Jean De Brebeuf CHS 12"
+        },
+        {
+            "date": "Thursday, June 4, 2026 - PLAYOFFS",
             "home_team": "Bur Oak SS",
             "away_team": "Our Lady Queen Of The World",
             "time": "10:00 AM",
@@ -37,7 +46,7 @@
             "final_score": "Thornlea SS 1, St. Katharine Drexel 8"
         },
         {
-            "date": "Friday, June 5, 2026",
+            "date": "Friday, June 5, 2026 - PLAYOFFS",
             "home_team": null,
             "away_team": null,
             "time": null,
