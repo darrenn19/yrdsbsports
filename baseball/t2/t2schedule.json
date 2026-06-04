@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Tuesday, June 2, 2026",
-            "home_team": "Our Lady Of The Lake",
-            "away_team": "Keswick High School",
-            "time": "3:00 PM",
-            "location": "Georgina Recreation Outdoor Campus",
-            "game_played": true,
-            "final_score": "Our Lady Of The Lake 1, Keswick High School 24"
-        },
-        {
             "date": "Wednesday, June 3, 2026",
             "home_team": null,
             "away_team": null,
@@ -56,6 +47,15 @@
         },
         {
             "date": "Monday, June 8, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Tuesday, June 9, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
