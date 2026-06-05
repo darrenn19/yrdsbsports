@@ -1,51 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, June 3, 2026",
-            "home_team": "Cardinal Carter 9 (S )",
-            "away_team": "Renaissance ESC 6 (S )",
-            "time": "3:15 PM",
-            "location": "Cardinal Carter CHS",
-            "game_played": false,
-            "final_score": null
-        },
-        {
-            "date": "Wednesday, June 3, 2026",
-            "home_team": "Hodan Nalayeh SS 15 (S )",
-            "away_team": "Tommy Douglas SS 7 (S )",
-            "time": "3:45 PM",
-            "location": "Hodan Nalayeh Secondary School",
-            "game_played": false,
-            "final_score": null
-        },
-        {
-            "date": "Wednesday, June 3, 2026",
-            "home_team": "Holy Cross",
-            "away_team": "Thornlea SS",
-            "time": "3:15 PM",
-            "location": "Holy Cross CA",
-            "game_played": true,
-            "final_score": "Holy Cross 1, Thornlea SS 15"
-        },
-        {
-            "date": "Wednesday, June 3, 2026",
-            "home_team": "Markham District",
-            "away_team": "Pierre Elliott Trudeau",
-            "time": "3:45 PM",
-            "location": "Markham DHS",
-            "game_played": true,
-            "final_score": "Markham District 5, Pierre Elliott Trudeau 13"
-        },
-        {
-            "date": "Wednesday, June 3, 2026",
-            "home_team": "Toronto District Christian 8 (S )",
-            "away_team": "St. Theresa Of Lisieux 3 (S )",
-            "time": "3:15 PM",
-            "location": "Toronto District Christian HS",
-            "game_played": false,
-            "final_score": null
-        },
-        {
             "date": "Thursday, June 4, 2026",
             "home_team": "Bur Oak SS 11 (S )",
             "away_team": "Bill Hogarth SS 5 (S )",
@@ -92,6 +47,15 @@
         },
         {
             "date": "Tuesday, June 9, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, June 10, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

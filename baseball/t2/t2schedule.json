@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, June 3, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
-        },
-        {
             "date": "Thursday, June 4, 2026 - PLAYOFFS",
             "home_team": "Stephen Lewis SS",
             "away_team": "Dr. J.M. Denison",
@@ -83,6 +74,15 @@
         },
         {
             "date": "Tuesday, June 9, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, June 10, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,

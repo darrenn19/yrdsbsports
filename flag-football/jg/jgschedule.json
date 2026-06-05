@@ -1,60 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Wednesday, June 3, 2026 - PLAYOFFS",
-            "home_team": "Stouffville",
-            "away_team": "Dr. G.W. Williams",
-            "time": "10:15 AM",
-            "location": "Markham DHS",
-            "game_played": true,
-            "final_score": "Stouffville 15, Dr. G.W. Williams 7"
-        },
-        {
-            "date": "Wednesday, June 3, 2026 - PLAYOFFS",
-            "home_team": "Markham District",
-            "away_team": "Bill Crothers SS",
-            "time": "11:30 AM",
-            "location": "Markham DHS",
-            "game_played": true,
-            "final_score": "Markham District 14, Bill Crothers SS 12"
-        },
-        {
-            "date": "Wednesday, June 3, 2026 - PLAYOFFS",
-            "home_team": "Woodbridge College",
-            "away_team": "Stouffville",
-            "time": "12:45 PM",
-            "location": "Markham DHS",
-            "game_played": true,
-            "final_score": "Woodbridge College 12, Stouffville 22"
-        },
-        {
-            "date": "Wednesday, June 3, 2026 - PLAYOFFS",
-            "home_team": "Woodbridge College",
-            "away_team": "Bill Crothers SS",
-            "time": "2:00 PM",
-            "location": "Markham DHS",
-            "game_played": true,
-            "final_score": "Woodbridge College 0, Bill Crothers SS 20"
-        },
-        {
-            "date": "Wednesday, June 3, 2026 - PLAYOFFS",
-            "home_team": "Markham District",
-            "away_team": "Stouffville",
-            "time": "3:15 PM",
-            "location": "Markham DHS",
-            "game_played": true,
-            "final_score": "Markham District 12, Stouffville 7"
-        },
-        {
-            "date": "Wednesday, June 3, 2026 - PLAYOFFS",
-            "home_team": "Stephen Lewis SS",
-            "away_team": "Bill Crothers SS",
-            "time": "9:00 AM",
-            "location": "Markham DHS",
-            "game_played": true,
-            "final_score": "Stephen Lewis SS 7, Bill Crothers SS 26"
-        },
-        {
             "date": "Thursday, June 4, 2026",
             "home_team": null,
             "away_team": null,
@@ -101,6 +47,15 @@
         },
         {
             "date": "Tuesday, June 9, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Wednesday, June 10, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
