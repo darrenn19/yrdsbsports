@@ -11,6 +11,16 @@
             "PA": "PA"
         },
         {
+            "Team": "Bur Oak SS",
+            "W": "4",
+            "L": "1",
+            "T": "0",
+            "PTS": "8",
+            "SPTS": "62",
+            "PF": "45",
+            "PA": "32"
+        },
+        {
             "Team": "Markville",
             "W": "4",
             "L": "0",
@@ -19,16 +29,6 @@
             "SPTS": "66",
             "PF": "48",
             "PA": "19"
-        },
-        {
-            "Team": "Bur Oak SS",
-            "W": "3",
-            "L": "1",
-            "T": "0",
-            "PTS": "6",
-            "SPTS": "50",
-            "PF": "34",
-            "PA": "27"
         },
         {
             "Team": "Milliken Mills",
@@ -43,12 +43,12 @@
         {
             "Team": "Bill Hogarth SS",
             "W": "2",
-            "L": "2",
+            "L": "3",
             "T": "0",
             "PTS": "4",
-            "SPTS": "57",
-            "PF": "31",
-            "PA": "24"
+            "SPTS": "69",
+            "PF": "36",
+            "PA": "35"
         },
         {
             "Team": "Pierre Elliott Trudeau",
@@ -161,6 +161,16 @@
             "PA": "23"
         },
         {
+            "Team": "Toronto District Christian",
+            "W": "4",
+            "L": "1",
+            "T": "0",
+            "PTS": "8",
+            "SPTS": "90",
+            "PF": "52",
+            "PA": "30"
+        },
+        {
             "Team": "Hodan Nalayeh SS",
             "W": "3",
             "L": "2",
@@ -169,16 +179,6 @@
             "SPTS": "100",
             "PF": "48",
             "PA": "39"
-        },
-        {
-            "Team": "Toronto District Christian",
-            "W": "3",
-            "L": "1",
-            "T": "0",
-            "PTS": "6",
-            "SPTS": "72",
-            "PF": "44",
-            "PA": "27"
         },
         {
             "Team": "Tommy Douglas SS",
@@ -193,12 +193,12 @@
         {
             "Team": "St. Theresa Of Lisieux",
             "W": "1",
-            "L": "3",
+            "L": "4",
             "T": "0",
             "PTS": "2",
-            "SPTS": "71",
-            "PF": "35",
-            "PA": "34"
+            "SPTS": "89",
+            "PF": "38",
+            "PA": "42"
         },
         {
             "Team": "Holy Cross",
