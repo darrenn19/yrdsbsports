@@ -38,12 +38,21 @@
         },
         {
             "date": "Friday, June 5, 2026 - PLAYOFFS",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "St. Jean De Brebeuf CHS",
+            "away_team": "St. Katharine Drexel",
+            "time": "11:00 AM",
+            "location": "Richmond Green 4",
+            "game_played": true,
+            "final_score": "St. Jean De Brebeuf CHS 4, St. Katharine Drexel 2"
+        },
+        {
+            "date": "Friday, June 5, 2026 - PLAYOFFS",
+            "home_team": "Stephen Lewis SS",
+            "away_team": "Our Lady Queen Of The World",
+            "time": "11:00 AM",
+            "location": "Richmond Green 7",
+            "game_played": true,
+            "final_score": "Stephen Lewis SS 5, Our Lady Queen Of The World 6"
         },
         {
             "date": "Saturday, June 6, 2026",
