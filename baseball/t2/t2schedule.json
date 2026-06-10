@@ -1,22 +1,13 @@
 {
     "schedule": [
         {
-            "date": "Monday, June 8, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
-        },
-        {
             "date": "Tuesday, June 9, 2026 - PLAYOFFS",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
+            "home_team": "St. Jean De Brebeuf CHS",
+            "away_team": "Our Lady Queen Of The World",
+            "time": "12:00 PM",
+            "location": "Concord Regional 2",
+            "game_played": true,
+            "final_score": "St. Jean De Brebeuf CHS 6, Our Lady Queen Of The World 1"
         },
         {
             "date": "Wednesday, June 10, 2026",
@@ -56,6 +47,15 @@
         },
         {
             "date": "Sunday, June 14, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, June 15, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
