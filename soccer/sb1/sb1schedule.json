@@ -1,15 +1,6 @@
 {
     "schedule": [
         {
-            "date": "Monday, August 3, 2026",
-            "home_team": null,
-            "away_team": null,
-            "time": null,
-            "location": null,
-            "game_played": false,
-            "final_score": null
-        },
-        {
             "date": "Tuesday, August 4, 2026",
             "home_team": null,
             "away_team": null,
@@ -56,6 +47,15 @@
         },
         {
             "date": "Sunday, August 9, 2026",
+            "home_team": null,
+            "away_team": null,
+            "time": null,
+            "location": null,
+            "game_played": false,
+            "final_score": null
+        },
+        {
+            "date": "Monday, August 10, 2026",
             "home_team": null,
             "away_team": null,
             "time": null,
